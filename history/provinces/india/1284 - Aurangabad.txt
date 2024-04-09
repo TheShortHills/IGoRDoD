@@ -1,0 +1,6 @@
+owner = VIJ
+controller = VIJ
+add_core = VIJ
+trade_goods = cotton
+life_rating = 32
+

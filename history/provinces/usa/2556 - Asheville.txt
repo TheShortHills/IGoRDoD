@@ -1,0 +1,16 @@
+owner = PLA
+controller = PLA 
+add_core = PLA 
+trade_goods = tobacco
+life_rating = 35
+1861.1.1 = {
+	controller = CSA
+	owner = CSA
+	add_core = CSA
+	#state_building = {
+	#	level = 1
+	#	building = regular_clothes_factory
+	#	upgrade = yes
+	#}
+}
+

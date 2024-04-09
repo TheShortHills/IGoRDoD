@@ -1,0 +1,245 @@
+#Eritrea Region (180000)
+#under the rule of Egypt in 1836
+#Massawa (28000/7000 POPS)
+1849 = {
+    aristocrats = {
+        culture = afro_asiatic
+        religion = sunni
+        size = 57
+    }
+
+    clergymen = {
+        culture = afro_asiatic
+        religion = sunni
+        size = 86
+    }
+
+    artisans = {
+        culture = afro_asiatic
+        religion = sunni
+        size = 172
+    }
+
+    soldiers = {
+        culture = afro_asiatic
+        religion = sunni
+        size = 28
+    }
+
+    farmers = {
+        culture = afro_asiatic
+        religion = sunni
+        size = 3105
+    }
+
+    bureaucrats = {
+        culture = misri
+        religion = sunni
+        size = 5
+    }
+
+    soldiers = {
+        culture = misri
+        religion = sunni
+        size = 23
+    }
+
+    aristocrats = {
+        culture = bedouin
+        religion = sunni
+        size = 86
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = sunni
+        size = 86
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = sunni
+        size = 230
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = sunni
+        size = 28
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = sunni
+        size = 4140
+    }
+}
+#Assab (44000/11000 POPS)
+1851 = {
+    aristocrats = {
+        culture = afro_asiatic
+        religion = sunni
+        size = 143
+    }
+
+    clergymen = {
+        culture = afro_asiatic
+        religion = sunni
+        size = 86
+    }
+
+    artisans = {
+        culture = afro_asiatic
+        religion = sunni
+        size = 402
+    }
+
+    soldiers = {
+        culture = afro_asiatic
+        religion = sunni
+        size = 86
+    }
+
+    farmers = {
+        culture = afro_asiatic
+        religion = sunni
+        size = 7331
+    }
+
+    aristocrats = {
+        culture = afro_asiatic
+        religion = sunni
+        size = 86
+    }
+
+    clergymen = {
+        culture = afro_asiatic
+        religion = sunni
+        size = 86
+    }
+
+    artisans = {
+        culture = afro_asiatic
+        religion = sunni
+        size = 230
+    }
+
+    soldiers = {
+        culture = afro_asiatic
+        religion = sunni
+        size = 57
+    }
+
+    farmers = {
+        culture = afro_asiatic
+        religion = sunni
+        size = 4140
+    }
+}
+#under the rule of Ethiopia in 1836
+#Asmara (80000/20000 POPS)
+1848 = {
+    aristocrats = {
+        culture = afro_asiatic
+        religion = coptic
+        size = 258
+    }
+
+    bureaucrats = {
+        culture = afro_asiatic
+        religion = coptic
+        size = 17
+    }
+
+    officers = {
+        culture = afro_asiatic
+        religion = coptic
+        size = 28
+    }
+
+    clergymen = {
+        culture = afro_asiatic
+        religion = coptic
+        size = 143
+    }
+
+    artisans = {
+        culture = afro_asiatic
+        religion = coptic
+        size = 690
+    }
+
+    soldiers = {
+        culture = afro_asiatic
+        religion = coptic
+        size = 143
+    }
+
+    farmers = {
+        culture = afro_asiatic
+        religion = coptic
+        size = 12448
+    }
+
+    aristocrats = {
+        culture = afro_asiatic
+        religion = sunni
+        size = 172
+    }
+
+    clergymen = {
+        culture = afro_asiatic
+        religion = sunni
+        size = 86
+    }
+
+    artisans = {
+        culture = afro_asiatic
+        religion = sunni
+        size = 460
+    }
+
+    soldiers = {
+        culture = afro_asiatic
+        religion = sunni
+        size = 86
+    }
+
+    farmers = {
+        culture = afro_asiatic
+        religion = sunni
+        size = 8395
+    }
+}
+#Akordat (28000/7000 POPS)
+1850 = {
+    aristocrats = {
+        culture = afro_asiatic
+        religion = coptic
+        size = 143
+    }
+
+    clergymen = {
+        culture = afro_asiatic
+        religion = coptic
+        size = 86
+    }
+
+    artisans = {
+        culture = afro_asiatic
+        religion = coptic
+        size = 402
+    }
+
+    soldiers = {
+        culture = afro_asiatic
+        religion = coptic
+        size = 86
+    }
+
+    farmers = {
+        culture = afro_asiatic
+        religion = coptic
+        size = 7331
+    }
+}

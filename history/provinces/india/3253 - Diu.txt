@@ -1,0 +1,9 @@
+owner = SCA
+controller = SCA
+#add_core = BER
+add_core = BER
+naval_base = 1
+trade_goods = cattle
+life_rating = 35
+colonial = 2
+

@@ -1,0 +1,21 @@
+political_decisions = {	
+	LITERACY_1836_SETUP = {
+        potential = {
+            tag = LCT
+            NOT = {has_country_flag = lit_setup}
+        }
+        allow = {
+            year = 1835
+        }
+        effect = {
+			set_country_flag = lit_setup
+            any_country = {
+                country_event = {
+                    id = 10000001
+                    days = 0
+                }
+            }
+			ai_will_do = {factor = 1}
+        }
+    }
+}

@@ -1,0 +1,7 @@
+owner = MDR
+controller = MDR
+add_core = MDR
+trade_goods = tea
+life_rating = 32
+
+

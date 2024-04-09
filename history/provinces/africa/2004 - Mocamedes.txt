@@ -1,0 +1,6 @@
+owner = SCA
+controller = SCA
+naval_base = 1
+trade_goods = fish
+life_rating = 35
+colonial = 2

@@ -1,0 +1,6 @@
+owner = CHG
+controller = CHG
+add_core = CHG
+trade_goods = silk
+life_rating = 35
+

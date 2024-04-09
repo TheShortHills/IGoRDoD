@@ -1,0 +1,11 @@
+owner = SWI
+controller = SWI
+add_core = SWI
+trade_goods = grain
+life_rating = 38
+
+#state_building = {
+#	level = 1
+#	building = world_bank_factory
+#	upgrade = yes
+#}

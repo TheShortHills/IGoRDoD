@@ -1,0 +1,9 @@
+owner = SER
+controller = SER
+add_core = SER
+
+trade_goods = iron
+life_rating = 36
+
+
+

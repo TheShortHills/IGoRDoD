@@ -1,0 +1,7 @@
+owner = BER
+controller = BER
+add_core = BER
+trade_goods = tobacco
+life_rating = 32
+
+

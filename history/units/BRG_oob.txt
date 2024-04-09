@@ -1,0 +1,192 @@
+army = {
+	name = "1e Divisie"
+	location = 375 
+	regiment = {
+		name= "1e Cavalerie Brigade"
+		type = hussar
+		home = 385
+	}
+
+	regiment = {
+		name= "2e Cavalerie Brigade"
+		type = infantry
+		home = 383
+	}
+
+	regiment = {
+		name= "3e Cavalerie Brigade"
+		type = infantry
+		home = 380
+	}
+
+	regiment = {
+		name = "1e Infanterie Brigade"
+		type = infantry
+		home = 376
+	}
+
+	regiment = {
+		name = "4e Infanterie Brigade"
+		type = infantry
+		home = 378
+	}
+
+	regiment = {
+		name = "5e Infanterie Brigade"
+		type = artillery
+		home = 379
+	}
+
+	regiment = {
+		name = "6e Infanterie Brigade"
+		type = artillery
+		home = 386
+	}
+	
+	regiment = {
+		name = "7e Infanterie Brigade"
+		type = artillery
+		home = 382
+	}
+	
+	regiment = {
+		name = "8e Infanterie Brigade"
+		type = artillery
+		home = 383
+	}
+	
+	regiment = {
+		name = "8e Infanterie Brigade"
+		type = artillery
+		home = 377
+	}
+
+}
+army = {
+	name = "1e Divisie"
+	location = 400
+	regiment = {
+		name= "1e Cavalerie Brigade"
+		type = hussar
+		home = 400
+	}
+
+	regiment = {
+		name= "2e Cavalerie Brigade"
+		type = infantry
+		home = 401
+	}
+
+	regiment = {
+		name= "3e Cavalerie Brigade"
+		type = infantry
+		home = 399
+	}
+
+	regiment = {
+		name = "1e Infanterie Brigade"
+		type = infantry
+		home = 404
+	}
+
+	regiment = {
+		name = "4e Infanterie Brigade"
+		type = infantry
+		home = 393
+	}
+
+	regiment = {
+		name = "5e Infanterie Brigade"
+		type = artillery
+		home = 394
+	}
+
+	regiment = {
+		name = "6e Infanterie Brigade"
+		type = artillery
+		home = 392
+	}
+	
+	regiment = {
+		name = "7e Infanterie Brigade"
+		type = artillery
+		home = 392
+	}
+	
+	regiment = {
+		name = "8e Infanterie Brigade"
+		type = artillery
+		home = 392
+	}
+	
+	regiment = {
+		name = "8e Infanterie Brigade"
+		type = artillery
+		home = 398
+	}
+
+}
+army = {
+	name = "1e Divisie"
+	location = 428
+	regiment = {
+		name= "1e Cavalerie Brigade"
+		type = hussar
+		home = 431
+	}
+
+	regiment = {
+		name= "2e Cavalerie Brigade"
+		type = infantry
+		home = 428
+	}
+
+	regiment = {
+		name= "3e Cavalerie Brigade"
+		type = infantry
+		home = 429
+	}
+
+	regiment = {
+		name = "1e Infanterie Brigade"
+		type = infantry
+		home = 430
+	}
+
+	regiment = {
+		name = "4e Infanterie Brigade"
+		type = infantry
+		home = 432
+	}
+
+	regiment = {
+		name = "5e Infanterie Brigade"
+		type = artillery
+		home = 432
+	}
+
+	regiment = {
+		name = "6e Infanterie Brigade"
+		type = artillery
+		home = 432
+	}
+	
+	regiment = {
+		name = "7e Infanterie Brigade"
+		type = artillery
+		home = 407
+	}
+	
+	regiment = {
+		name = "8e Infanterie Brigade"
+		type = artillery
+		home = 411
+	}
+	
+	regiment = {
+		name = "8e Infanterie Brigade"
+		type = artillery
+		home = 414
+	}
+
+}

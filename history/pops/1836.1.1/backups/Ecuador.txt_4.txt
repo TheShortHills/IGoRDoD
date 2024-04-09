@@ -1,0 +1,440 @@
+#Quito Region (512000)
+#Ruled by Ecuador 1836
+#Quito (304000/76000 POPS)
+2279 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 6112
+    }
+
+    bureaucrats = {
+        culture = granadan
+        religion = catholic
+        size = 788
+    }
+
+    officers = {
+        culture = granadan
+        religion = catholic
+        size = 588
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 2364
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 23268
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 4336
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 85188
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 688
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 16168
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 4336
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 156672
+    }
+}
+#Zamora (176000/44000 POPS)
+2283 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 3548
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 1080
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 1772
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 392
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 28688
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 688
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 6900
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 4336
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 125316
+    }
+}
+#Tena (32000/8000 POPS)
+2284 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 392
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 292
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 588
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 196
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 10348
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 96
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 392
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 96
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 7296
+    }
+
+    aristocrats = {
+        culture = granadan
+        religion = animist
+        size = 196
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = animist
+        size = 292
+    }
+
+    artisans = {
+        culture = granadan
+        religion = animist
+        size = 588
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = animist
+        size = 96
+    }
+
+    farmers = {
+        culture = granadan
+        religion = animist
+        size = 10648
+    }
+}
+#Guayaquil Region (328000)
+#Ruled by Ecuador 1836
+#Guayaquil (80000/20000 POPS)
+2280 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 1772
+    }
+
+    bureaucrats = {
+        culture = granadan
+        religion = catholic
+        size = 392
+    }
+
+    officers = {
+        culture = granadan
+        religion = catholic
+        size = 392
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 688
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 3352
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 688
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 59748
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 196
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 588
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 196
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 7096
+    }
+
+    slaves = {
+        culture = granadan
+        religion = catholic
+        size = 4336
+    }
+}
+#Esmereldas (88000/22000 POPS)
+2281 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 1772
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 688
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 1380
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 292
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 26816
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 292
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 2956
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 588
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 23760
+    }
+
+    slaves = {
+        culture = granadan
+        religion = catholic
+        size = 31552
+    }
+}
+#Loja (160000/40000 POPS)
+2282 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 3252
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 1080
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 2956
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 588
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 51272
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 392
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 4928
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 984
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 92288
+    }
+}
+#Galapagos Region (300)
+#Ruled by Ecuador 1836
+#Galapagos (300/75 POPS)
+2285 = {
+    bureaucrats = {
+        culture = granadan
+        religion = catholic
+        size = 0
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 0
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 24
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 44
+    }
+}

@@ -1,0 +1,13 @@
+owner = NAG
+controller = NAG
+add_core = NAG
+trade_goods = iron
+life_rating = 32
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
+	colonial = 1
+}
+
+
+

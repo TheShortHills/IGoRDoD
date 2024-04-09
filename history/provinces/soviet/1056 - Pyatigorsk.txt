@@ -1,0 +1,10 @@
+owner = ASK
+controller = ASK
+add_core = ASK
+add_core = CRI
+trade_goods = sulphur
+life_rating = 35
+1861.1.1 = { 
+	add_core = RUS
+}
+

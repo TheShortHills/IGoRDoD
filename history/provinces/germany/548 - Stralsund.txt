@@ -1,0 +1,11 @@
+owner = SCA
+controller = SCA
+add_core = SCA
+add_core = POM
+#add_core = GER
+trade_goods = fish
+life_rating = 43
+1861.1.1 = {
+	fort = 1
+}
+

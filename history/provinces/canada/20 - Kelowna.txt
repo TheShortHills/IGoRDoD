@@ -1,0 +1,14 @@
+owner = DNG
+controller = DNG
+add_core = DNG
+
+
+trade_goods = fruit
+life_rating = 35
+1836.1.2 = {
+	remove_core = COM
+	owner = CAN
+	controller = CAN
+	add_core = CAN
+}
+

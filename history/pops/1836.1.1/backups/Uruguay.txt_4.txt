@@ -1,0 +1,220 @@
+#Uruguay Region (200000)
+#Under rule of Uruguay 1836
+#Montevideo (112000/28000 POPS)
+2344 = {
+    aristocrats = {
+        culture = lotharian
+        religion = catholic
+        size = 1221
+    }
+
+    bureaucrats = {
+        culture = lotharian
+        religion = catholic
+        size = 106
+    }
+
+    officers = {
+        culture = lotharian
+        religion = catholic
+        size = 106
+    }
+
+    clergymen = {
+        culture = lotharian
+        religion = catholic
+        size = 531
+    }
+
+    artisans = {
+        culture = lotharian
+        religion = catholic
+        size = 2082
+    }
+
+    soldiers = {
+        culture = lotharian
+        religion = catholic
+        size = 1870
+    }
+
+    farmers = {
+        culture = lotharian
+        religion = catholic
+        size = 42701
+    }
+
+    clergymen = {
+        culture = lotharian
+        religion = catholic
+        size = 61
+    }
+
+    artisans = {
+        culture = lotharian
+        religion = catholic
+        size = 307
+    }
+
+    soldiers = {
+        culture = lotharian
+        religion = catholic
+        size = 49
+    }
+
+    farmers = {
+        culture = lotharian
+        religion = catholic
+        size = 3881
+    }
+
+    slaves = {
+        culture = lotharian
+        religion = catholic
+        size = 1848
+    }
+}
+#Paysandu (36000/9000 POPS)
+2345 = {
+    aristocrats = {
+        culture = lotharian
+        religion = catholic
+        size = 425
+    }
+
+    clergymen = {
+        culture = lotharian
+        religion = catholic
+        size = 158
+    }
+
+    artisans = {
+        culture = lotharian
+        religion = catholic
+        size = 956
+    }
+
+    soldiers = {
+        culture = lotharian
+        religion = catholic
+        size = 1870
+    }
+
+    farmers = {
+        culture = lotharian
+        religion = catholic
+        size = 15458
+    }
+}
+#Tacumba (12000/3000 POPS)
+2346 = {
+    aristocrats = {
+        culture = lotharian
+        religion = catholic
+        size = 52
+    }
+
+    clergymen = {
+        culture = lotharian
+        religion = catholic
+        size = 106
+    }
+
+    artisans = {
+        culture = lotharian
+        religion = catholic
+        size = 212
+    }
+
+    soldiers = {
+        culture = lotharian
+        religion = catholic
+        size = 42
+    }
+
+    farmers = {
+        culture = lotharian
+        religion = catholic
+        size = 3825
+    }
+
+    clergymen = {
+        culture = lotharian
+        religion = catholic
+        size = 17
+    }
+
+    artisans = {
+        culture = lotharian
+        religion = catholic
+        size = 61
+    }
+
+    soldiers = {
+        culture = lotharian
+        religion = catholic
+        size = 9
+    }
+
+    farmers = {
+        culture = lotharian
+        religion = catholic
+        size = 1138
+    }
+}
+#Melo (40000/10000 POPS)
+2347 = {
+    aristocrats = {
+        culture = lotharian
+        religion = catholic
+        size = 318
+    }
+
+    clergymen = {
+        culture = lotharian
+        religion = catholic
+        size = 106
+    }
+
+    artisans = {
+        culture = lotharian
+        religion = catholic
+        size = 743
+    }
+
+    soldiers = {
+        culture = lotharian
+        religion = catholic
+        size = 1870
+    }
+
+    farmers = {
+        culture = lotharian
+        religion = catholic
+        size = 11581
+    }
+
+    clergymen = {
+        culture = lotharian
+        religion = catholic
+        size = 61
+    }
+
+    artisans = {
+        culture = lotharian
+        religion = catholic
+        size = 183
+    }
+
+    soldiers = {
+        culture = lotharian
+        religion = catholic
+        size = 24
+    }
+
+    farmers = {
+        culture = lotharian
+        religion = catholic
+        size = 3418
+    }
+}

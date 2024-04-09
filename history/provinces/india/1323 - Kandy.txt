@@ -1,0 +1,7 @@
+owner = DUA
+controller = DUA
+add_core = SRI
+trade_goods = tea
+life_rating = 32
+colonial = 2
+

@@ -1,0 +1,8 @@
+owner = ASK
+controller = ASK
+add_core = ASK
+add_core = CRI
+#add_core = UKR
+trade_goods = coal
+life_rating = 35
+

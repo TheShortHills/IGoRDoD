@@ -1,0 +1,61 @@
+political_decisions = {	
+	claim_greece = {
+		potential = {
+			tag = TUR
+			NOT = {has_country_flag = claim_greece}
+		}
+		allow = {
+			idealism = 1
+			MAC = {all_core = {owned_by =THIS}}
+		}
+		effect = {
+			set_country_flag = claim_greece
+			GRE = {all_core = {add_core = THIS}}
+		}
+	}
+	accept_greek = {
+		potential = {
+			tag = TUR
+			NOT = {has_country_flag = accept_greek}
+		}
+		allow = {
+			state_n_government = 1
+			MAC = {all_core = {owned_by =THIS}}
+			GRE = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			set_country_flag = accept_greek
+			add_accepted_culture = greek
+		}
+	}
+	accept_albanian = {
+		potential = {
+			tag = TUR
+			NOT = {has_country_flag = accept_albanian}
+		}
+		allow = {
+			state_n_government = 1
+			ALB = {all_core = {owned_by =THIS}}
+		}
+		effect = {
+			set_country_flag = accept_albanian
+			add_accepted_culture = albanian
+		}
+	}
+	accept_south_slavs_tur = {
+		potential = {
+			tag = TUR
+			NOT = {has_country_flag = accept_south_slavs}
+		}
+		allow = {
+			state_n_government = 1
+			SER = {all_core = {owned_by =THIS}}
+			CRO = {all_core = {owned_by =THIS}}
+		}
+		effect = {
+			set_country_flag = accept_south_slavs
+			add_accepted_culture = serb
+			add_accepted_culture = croat
+		}
+	}
+}

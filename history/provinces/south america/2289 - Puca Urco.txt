@@ -1,0 +1,10 @@
+owner = CLM
+controller = CLM
+add_core = CLM
+add_core = GRA
+add_core = INC
+#add_core = PEU
+#add_core = GCO
+trade_goods = timber
+life_rating = 35
+

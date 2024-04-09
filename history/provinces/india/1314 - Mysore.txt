@@ -1,0 +1,6 @@
+owner = TRA
+controller = TRA
+add_core = TRA
+trade_goods = silk
+life_rating = 32
+

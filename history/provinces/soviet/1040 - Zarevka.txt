@@ -1,0 +1,7 @@
+owner = ASK
+controller = ASK
+add_core = ASK
+add_core = CRI
+trade_goods = wool
+life_rating = 35
+

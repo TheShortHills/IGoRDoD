@@ -1,0 +1,7 @@
+owner = CHG
+controller = CHG
+add_core = CHG
+add_core = CHI
+trade_goods = wool
+life_rating = 32
+

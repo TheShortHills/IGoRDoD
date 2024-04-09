@@ -1,0 +1,7 @@
+owner = BER
+controller = BER
+add_core = BER
+trade_goods = grain
+life_rating = 32
+
+
