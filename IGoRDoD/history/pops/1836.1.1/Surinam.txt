@@ -23,7 +23,7 @@
     soldiers = {
         culture = dutch
         religion = protestant
-        size = 75
+        size = 93
     }
 
     clergymen = {
@@ -47,7 +47,7 @@
     soldiers = {
         culture = granadan
         religion = protestant
-        size = 58
+        size = 72
     }
 
     slaves = {
@@ -79,7 +79,7 @@
     soldiers = {
         culture = granadan
         religion = animist
-        size = 58
+        size = 72
     }
 
     farmers = {

@@ -1,6 +1,6 @@
-owner = DUA
-controller = DUA
-add_core = DUA
+owner = SCA
+controller = SCA
+add_core = SCA
 #add_core = NEW
 trade_goods = fish
 life_rating = 35

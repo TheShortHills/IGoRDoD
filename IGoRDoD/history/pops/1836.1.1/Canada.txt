@@ -3417,25 +3417,25 @@
 #Saint Pierre (2000/500 POPS)
 77 = {
     bureaucrats = {
-        culture = french
+        culture = scandinavian 
         religion = catholic
         size = 5
     }
 
     clergymen = {
-        culture = french
+        culture = scandinavian
         religion = catholic
         size = 4
     }
 
     artisans = {
-        culture = french
+        culture = scandinavian
         religion = catholic
         size = 45
     }
 
     labourers = {
-        culture = french
+        culture = scandinavian
         religion = catholic
         size = 450
     }

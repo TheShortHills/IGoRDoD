@@ -867,7 +867,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 14
+        size = 17
     }
 
     farmers = {
@@ -897,7 +897,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 25
+        size = 31
     }
 
     farmers = {
@@ -909,7 +909,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 9
+        size = 11
     }
 }
 #Idaho Region (24000)
@@ -1231,7 +1231,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 25
+        size = 31
     }
 
     farmers = {
@@ -1263,7 +1263,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 25
+        size = 31
     }
 
     farmers = {
@@ -1293,7 +1293,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 15
+        size = 18
     }
 
     farmers = {
@@ -1326,7 +1326,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 25
+        size = 31
     }
 
     farmers = {
@@ -1362,7 +1362,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 4
+        size = 5
     }
 
     farmers = {
@@ -1530,7 +1530,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 25
+        size = 31
     }
 
     farmers = {
@@ -1560,7 +1560,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 24
+        size = 30
     }
 
     farmers = {
@@ -1584,7 +1584,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 18
+        size = 22
     }
 }
 #Las Cruces (4000/1000 POPS)
@@ -1610,7 +1610,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 15
+        size = 18
     }
 
     farmers = {
@@ -2774,7 +2774,7 @@
     soldiers = {
         culture = mexican
         religion = protestant
-        size = 1100
+        size = 1375
     }
 
     farmers = {
@@ -2810,7 +2810,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 5
+        size = 6
     }
 
     farmers = {
@@ -2854,7 +2854,7 @@
     soldiers = {
         culture = mexican
         religion = protestant
-        size = 1100
+        size = 1375
     }
 
     farmers = {
@@ -2890,7 +2890,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 5
+        size = 6
     }
 
     farmers = {
@@ -2920,7 +2920,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 7
+        size = 8
     }
 
     farmers = {
@@ -2952,7 +2952,7 @@
     soldiers = {
         culture = mexican
         religion = protestant
-        size = 1100
+        size = 1375
     }
 
     farmers = {
@@ -2988,7 +2988,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 5
+        size = 6
     }
 
     farmers = {
@@ -3018,7 +3018,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 7
+        size = 8
     }
 
     farmers = {
@@ -3050,7 +3050,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 15
+        size = 18
     }
 
     farmers = {
@@ -3080,7 +3080,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 10
+        size = 12
     }
 
     farmers = {
@@ -3092,7 +3092,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 4
+        size = 5
     }
 }
 #"ruled" by Texas/de facto under Native Control
@@ -3113,7 +3113,7 @@
     soldiers = {
         culture = mexican
         religion = protestant
-        size = 5
+        size = 6
     }
 
     farmers = {
@@ -3149,7 +3149,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 15
+        size = 18
     }
 
     farmers = {
@@ -3181,7 +3181,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 25
+        size = 31
     }
 
     farmers = {
@@ -3213,7 +3213,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 25
+        size = 31
     }
 
     farmers = {
@@ -3243,7 +3243,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 4
+        size = 5
     }
 
     farmers = {

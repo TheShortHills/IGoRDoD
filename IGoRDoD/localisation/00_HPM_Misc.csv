@@ -244,7 +244,7 @@ ENDGAME_DESC;One hundred momentous years have passed and we have entered the mod
 DIPLOMACY_FILTER_NORTH_AMERICA;North America;;;;;;;;;;x;;;;
 DIPLOMACY_FILTER_OCEANIA;Near East;;;;;;;;;;x;;;;
 DIPLOMACY_FILTER_OCEANIA_TOOLTIP;List §YNear Eastern§W countries;;;;;;;;;;;;;;;;x;;;;
-north_america;North America;;;;;;;;;;;;;;;;;;;;;;;x
+north_america;Arcadia;;;;;;;;;;;;;;;;;;;;;;;x
 oceania;Near East;;;;;;;;;;;;;;;;;;;;;;;x
 siberian;Siberian Minor;;;;;;;;;;;;;;;;;;;;;;;x
 tanzimat_reforms_enacted;Tanzimat Reforms Enacted;;;;;;;;;;;;;;;;;;;;;;;;x;

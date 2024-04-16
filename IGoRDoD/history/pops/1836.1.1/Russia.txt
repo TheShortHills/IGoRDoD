@@ -4569,7 +4569,7 @@
     farmers = {
         culture = north_caucasian
         religion = sunni
-        size = 12825
+        size = 112825
     }
 }
 #Stavropol (188000/47000 POPS)
@@ -4727,7 +4727,7 @@
     }
 
     farmers = {
-        culture = tatar
+        culture = north_caucasian
         religion = orthodox
         size = 106525
     }

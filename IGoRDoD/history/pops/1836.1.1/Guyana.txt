@@ -27,9 +27,9 @@
     }
 
     soldiers = {
-        culture = british
+        culture = granadan
         religion = protestant
-        size = 25
+        size = 31
     }
 
     farmers = {
@@ -53,7 +53,7 @@
     soldiers = {
         culture = granadan
         religion = protestant
-        size = 363
+        size = 453
     }
 
     farmers = {
@@ -85,7 +85,7 @@
     soldiers = {
         culture = granadan
         religion = animist
-        size = 33
+        size = 41
     }
 
     farmers = {
@@ -115,9 +115,9 @@
     }
 
     soldiers = {
-        culture = british
+        culture = granadan
         religion = protestant
-        size = 25
+        size = 31
     }
 
     farmers = {
@@ -141,7 +141,7 @@
     soldiers = {
         culture = granadan
         religion = protestant
-        size = 181
+        size = 226
     }
 
     farmers = {
@@ -173,7 +173,7 @@
     soldiers = {
         culture = granadan
         religion = animist
-        size = 33
+        size = 41
     }
 
     farmers = {

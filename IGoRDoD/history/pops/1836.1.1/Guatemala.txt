@@ -35,7 +35,7 @@
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 2337
+        size = 2921
     }
 
     farmers = {
@@ -59,7 +59,7 @@
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 531
+        size = 663
     }
 
     farmers = {
@@ -91,7 +91,7 @@
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 2337
+        size = 2921
     }
 
     farmers = {
@@ -115,7 +115,7 @@
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 281
+        size = 351
     }
 
     farmers = {
@@ -147,7 +147,7 @@
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 158
+        size = 197
     }
 
     farmers = {
@@ -171,7 +171,7 @@
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 156
+        size = 195
     }
 
     farmers = {
@@ -203,7 +203,7 @@
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 21
+        size = 26
     }
 
     farmers = {
@@ -227,7 +227,7 @@
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 31
+        size = 38
     }
 
     farmers = {

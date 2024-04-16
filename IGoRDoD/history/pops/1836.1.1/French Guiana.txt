@@ -27,9 +27,9 @@
     }
 
     soldiers = {
-        culture = french
+        culture = granadan
         religion = catholic
-        size = 50
+        size = 62
     }
 
     farmers = {
@@ -53,7 +53,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 120
+        size = 150
     }
 
     farmers = {
@@ -89,7 +89,7 @@
     soldiers = {
         culture = granadan
         religion = animist
-        size = 10
+        size = 12
     }
 
     farmers = {
@@ -121,7 +121,7 @@
     soldiers = {
         culture = granadan
         religion = animist
-        size = 22
+        size = 27
     }
 
     farmers = {

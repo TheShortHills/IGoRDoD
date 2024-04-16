@@ -94,4 +94,4 @@ govt_flag = {
 
 schools = culture_tech_school
 
-oob = "FRA_oob.txt"
+oob = "PLA_oob.txt"

@@ -40,7 +40,6 @@ political_decisions = {
 			FRA = { 
 				all_core = {
 					add_core = THIS 
-					life_rating = 4 
 				}
 			}
 		}

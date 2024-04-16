@@ -14,7 +14,8 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = mashriqi 
-			add_accepted_culutre = punjabi
+			add_accepted_culture = punjabi	
+			add_accepted_culture = azerbaijani
 			PER = {all_core = {add_core = ARY}}
 			AFG = {all_core = {add_core = ARY remove_core = AFG}}
 			AFS = {all_core = {add_core = ARY remove_core = AFS}}

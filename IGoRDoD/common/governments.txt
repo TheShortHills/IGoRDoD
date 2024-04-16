@@ -101,3 +101,23 @@ democracy = {
 }
  
 
+theocracy = {
+	#which ideology of parties.
+	reactionary = yes
+	conservative = yes
+	
+	election = no
+	appoint_ruling_party = yes
+}
+ 
+merchant_republic = {
+	liberal = yes
+	socialist = yes
+	conservative = yes
+	reactionary = yes
+
+	election = yes
+	duration = 48
+	appoint_ruling_party = yes
+	flagType = republic
+}

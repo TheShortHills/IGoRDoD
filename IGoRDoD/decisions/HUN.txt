@@ -25,7 +25,7 @@ political_decisions = {
 		}
 		effect = {
 			set_country_flag = accept_croats
-			add_accepted_culture = croats
+			add_accepted_culture = croat
 		}
 	}
 	accept_romanians = {

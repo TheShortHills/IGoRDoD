@@ -1,0 +1,54 @@
+army = {
+	name = "First Plantagenian Army"
+	location = 205
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 205
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 205
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 210
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = infantry
+		home = 208
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 204
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 195
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 195
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 196
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = artillery
+		home = 195
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = hussar
+		home = 195
+	}
+}

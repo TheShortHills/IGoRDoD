@@ -1,0 +1,54 @@
+army = {
+	name = "First Lotharian Army"
+	location = 2344
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 2344
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 2345
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 2347
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = infantry
+		home = 2339
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 2339
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 2339
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 2339
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 2339
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = artillery
+		home = 2339
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = hussar
+		home = 2339
+	}
+}

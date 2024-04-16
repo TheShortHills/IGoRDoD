@@ -1,0 +1,54 @@
+army = {
+	name = "First Vinlander Army"
+	location = 65
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 65
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 58
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 46
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = infantry
+		home = 178
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 163
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 181
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 183
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 248
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = artillery
+		home = 179
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = hussar
+		home = 249
+	}
+}

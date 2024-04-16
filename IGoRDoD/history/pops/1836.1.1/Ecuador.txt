@@ -35,7 +35,7 @@
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 2601
+        size = 3251
     }
 
     farmers = {
@@ -59,7 +59,7 @@
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 2601
+        size = 3251
     }
 
     farmers = {
@@ -91,7 +91,7 @@
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 235
+        size = 293
     }
 
     farmers = {
@@ -115,7 +115,7 @@
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 2601
+        size = 3251
     }
 
     farmers = {
@@ -147,7 +147,7 @@
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 117
+        size = 146
     }
 
     farmers = {
@@ -171,7 +171,7 @@
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 57
+        size = 71
     }
 
     farmers = {
@@ -201,7 +201,7 @@
     soldiers = {
         culture = quechua
         religion = animist
-        size = 57
+        size = 71
     }
 
     farmers = {
@@ -247,7 +247,7 @@
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 412
+        size = 515
     }
 
     farmers = {
@@ -271,7 +271,7 @@
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 117
+        size = 146
     }
 
     farmers = {
@@ -309,7 +309,7 @@
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 175
+        size = 218
     }
 
     farmers = {
@@ -333,7 +333,7 @@
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 352
+        size = 440
     }
 
     farmers = {
@@ -371,7 +371,7 @@
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 352
+        size = 440
     }
 
     farmers = {
@@ -395,7 +395,7 @@
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 590
+        size = 737
     }
 
     farmers = {
@@ -429,7 +429,7 @@
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 24
+        size = 30
     }
 
     farmers = {

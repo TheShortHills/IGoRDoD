@@ -1,6 +1,6 @@
 capital = 1600
 primary_culture = turkic
-culture = beifaren
+culture = mongol
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

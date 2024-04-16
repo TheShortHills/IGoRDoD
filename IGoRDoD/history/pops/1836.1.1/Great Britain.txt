@@ -50,7 +50,11 @@
         religion = protestant
         size = 315
     }
-
+    craftsmen = {
+        culture = scottish    
+        religion = protestant
+        size = 5000
+    }
     soldiers = {
         culture = scottish    
         religion = protestant

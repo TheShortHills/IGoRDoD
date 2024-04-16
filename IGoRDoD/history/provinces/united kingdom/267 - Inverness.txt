@@ -4,6 +4,11 @@ add_core = SCA
 add_core = SCO
 trade_goods = sulphur
 life_rating = 35
-naval_base = 1
+naval_base = 2
+state_building = {
+	level = 1
+	building = fertilizer_factory
+	upgrade = yes
+}
 1861.1.1 = { railroad = 1 }
 

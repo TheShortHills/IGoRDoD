@@ -76,4 +76,4 @@ basic_chemistry = 1
 consciousness = 3
 nonstate_consciousness = 1
 
-oob = "BRZ_oob.txt"
+oob = "LOT_oob.txt"

@@ -99,11 +99,13 @@ political_decisions = {
 			state_n_government = 1
 			FRA_428 = {owned_by = THIS}
 			FRA_399 = {owned_by = THIS}
+			FRA_411 = {owned_by = THIS}
 		}
 		effect = {
 			set_country_flag = reclaim_french_states
 			FRA_428 = {add_core = THIS}
 			FRA_399 = {add_core = THIS}
+			FRA_411 = {add_core = THIS}
 		}
 	}
 }

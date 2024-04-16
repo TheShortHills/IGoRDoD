@@ -74,19 +74,210 @@ army = {
 	regiment = {
 		name= "3. Artillery"
 		type = artillery
-		home = 2247
+		home = 2254
 	}
 	
 	regiment = {
 		name= "4. Artillery"
 		type = artillery
-		home = 2247
+		home = 2255
 	}
 	
 	regiment = {
 		name= "5. Artillery"
 		type = artillery
 		home = 2252
+	}
+}
+army = {
+	name = "2. Army"
+	location = 2172
+	regiment = {
+		name= "1. División de Infanteru"
+		type = infantry
+		home = 133
+	}
+
+	regiment = {
+		name= "2. División de Infanteru"
+		type = infantry
+		home = 2174
+	}
+
+	regiment = {
+		name= "3. División de Infanteru"
+		type = infantry
+		home = 2174
+	}
+
+	regiment = {
+		name= "4. División de Infanteru"
+		type = infantry
+		home = 2176
+	}
+	
+	regiment = {
+		name= "1. Hussar"
+		type = hussar
+		home = 2176
+	}
+	
+	regiment = {
+		name= "1. Artillery"
+		type = artillery
+		home = 2176
+	}
+	
+	regiment = {
+		name= "2. Artillery"
+		type = artillery
+		home = 2177
+	}
+	
+	regiment = {
+		name= "3. Artillery"
+		type = artillery
+		home = 2177
+	}
+	
+	regiment = {
+		name= "4. Artillery"
+		type = artillery
+		home = 2177
+	}
+	
+	regiment = {
+		name= "5. Artillery"
+		type = artillery
+		home = 2187
+	}
+
+}
+army = {
+	name = "3. Army"
+	location = 2295
+	regiment = {
+		name= "1. División de Infanteru"
+		type = infantry
+		home = 2295
+	}
+
+	regiment = {
+		name= "2. División de Infanteru"
+		type = infantry
+		home = 2295
+	}
+
+	regiment = {
+		name= "3. División de Infanteru"
+		type = infantry
+		home = 2295
+	}
+
+	regiment = {
+		name= "4. División de Infanteru"
+		type = infantry
+		home = 2295
+	}
+	
+	regiment = {
+		name= "1. Hussar"
+		type = hussar
+		home = 2295
+	}
+	
+	regiment = {
+		name= "1. Artillery"
+		type = artillery
+		home = 2295
+	}
+	
+	regiment = {
+		name= "2. Artillery"
+		type = artillery
+		home = 2295
+	}
+	
+	regiment = {
+		name= "3. Artillery"
+		type = artillery
+		home = 2295
+	}
+	
+	regiment = {
+		name= "4. Artillery"
+		type = artillery
+		home = 2295
+	}
+	
+	regiment = {
+		name= "5. Artillery"
+		type = artillery
+		home = 2295
+	}
+
+}
+army = {
+	name = "4. Army"
+	location = 137
+	regiment = {
+		name= "1. División de Infanteru"
+		type = infantry
+		home = 2271
+	}
+
+	regiment = {
+		name= "2. División de Infanteru"
+		type = infantry
+		home = 2271
+	}
+
+	regiment = {
+		name= "3. División de Infanteru"
+		type = infantry
+		home = 2268
+	}
+
+	regiment = {
+		name= "4. División de Infanteru"
+		type = infantry
+		home = 2268
+	}
+	
+	regiment = {
+		name= "1. Hussar"
+		type = hussar
+		home = 2264
+	}
+	
+	regiment = {
+		name= "1. Artillery"
+		type = artillery
+		home = 2264
+	}
+	
+	regiment = {
+		name= "2. Artillery"
+		type = artillery
+		home = 137
+	}
+	
+	regiment = {
+		name= "3. Artillery"
+		type = artillery
+		home = 2267
+	}
+	
+	regiment = {
+		name= "4. Artillery"
+		type = artillery
+		home = 2267
+	}
+	
+	regiment = {
+		name= "5. Artillery"
+		type = artillery
+		home = 2269
 	}
 
 }

@@ -1,0 +1,440 @@
+#Quito Region (512000)
+#Ruled by Ecuador 1836
+#Quito (304000/76000 POPS)
+2279 = {
+    aristocrats = {
+        culture = quechua
+        religion = catholic
+        size = 3667
+    }
+
+    bureaucrats = {
+        culture = quechua
+        religion = catholic
+        size = 472
+    }
+
+    officers = {
+        culture = quechua
+        religion = catholic
+        size = 352
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 1418
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 13960
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 2601
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 51112
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 412
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 9700
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 2601
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 94003
+    }
+}
+#Zamora (176000/44000 POPS)
+2283 = {
+    aristocrats = {
+        culture = quechua
+        religion = catholic
+        size = 2128
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 648
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 1063
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 235
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 17212
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 412
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 4140
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 2601
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 75189
+    }
+}
+#Tena (32000/8000 POPS)
+2284 = {
+    aristocrats = {
+        culture = quechua
+        religion = catholic
+        size = 235
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 175
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 352
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 117
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 6208
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 57
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 235
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 57
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 4377
+    }
+
+    aristocrats = {
+        culture = quechua
+        religion = animist
+        size = 117
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = animist
+        size = 175
+    }
+
+    artisans = {
+        culture = quechua
+        religion = animist
+        size = 352
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = animist
+        size = 57
+    }
+
+    farmers = {
+        culture = quechua
+        religion = animist
+        size = 6388
+    }
+}
+#Guayaquil Region (328000)
+#Ruled by Ecuador 1836
+#Guayaquil (80000/20000 POPS)
+2280 = {
+    aristocrats = {
+        culture = quechua
+        religion = catholic
+        size = 1063
+    }
+
+    bureaucrats = {
+        culture = quechua
+        religion = catholic
+        size = 235
+    }
+
+    officers = {
+        culture = quechua
+        religion = catholic
+        size = 235
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 412
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 2011
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 412
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 35848
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 117
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 352
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 117
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 4257
+    }
+
+    slaves = {
+        culture = quechua
+        religion = catholic
+        size = 2601
+    }
+}
+#Esmereldas (88000/22000 POPS)
+2281 = {
+    aristocrats = {
+        culture = quechua
+        religion = catholic
+        size = 1063
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 412
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 828
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 175
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 16089
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 175
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 1773
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 352
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 14256
+    }
+
+    slaves = {
+        culture = quechua
+        religion = catholic
+        size = 18931
+    }
+}
+#Loja (160000/40000 POPS)
+2282 = {
+    aristocrats = {
+        culture = quechua
+        religion = catholic
+        size = 1951
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 648
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 1773
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 352
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 30763
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 235
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 2956
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 590
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 55372
+    }
+}
+#Galapagos Region (300)
+#Ruled by Ecuador 1836
+#Galapagos (300/75 POPS)
+2285 = {
+    bureaucrats = {
+        culture = quechua
+        religion = catholic
+        size = 0
+    }
+
+    clergymen = {
+        culture = quechua
+        religion = catholic
+        size = 0
+    }
+
+    artisans = {
+        culture = quechua
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = quechua
+        religion = catholic
+        size = 24
+    }
+
+    farmers = {
+        culture = quechua
+        religion = catholic
+        size = 44
+    }
+}

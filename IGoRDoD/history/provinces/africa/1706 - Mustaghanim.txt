@@ -1,6 +1,6 @@
 owner = ARN
 controller = ARN
-add_core = ALD
+add_core = MOR
 trade_goods = fruit
 life_rating = 35
 colonial = 2

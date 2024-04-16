@@ -525,7 +525,11 @@
         religion = catholic
         size = 1600
     }
-
+    craftsmen = {
+        culture = venetian
+        religion = catholic
+        size = 10045
+    }
     officers = {
         culture = venetian
         religion = catholic
