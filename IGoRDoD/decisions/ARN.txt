@@ -1,0 +1,201 @@
+political_decisions = {	
+	form_ara_italy = {
+		potential = {
+			tag = ARN
+		}
+		allow = {
+					state_n_government = 1
+					OR = {
+					 AND = {
+							SIC = {
+								all_core = {
+									OR = {
+										owned_by = THIS
+										owner = {
+										  OR = {
+											in_sphere = THIS
+											vassal_of = THIS
+											}
+										}
+									}
+								} 
+							}
+							SAR = {
+								all_core = {
+									OR = {
+										owned_by = THIS
+										owner = {
+										  OR = {
+											in_sphere = THIS
+											vassal_of = THIS
+											}
+										}
+									}
+								} 
+							}
+							PAP = {
+								all_core = {
+									OR = {
+										owned_by = THIS
+										owner = {
+										  OR = {
+											in_sphere = THIS
+											vassal_of = THIS
+											}
+										}
+									}
+								} 
+							}
+							TUS = {
+								all_core = {
+									OR = {
+										owned_by = THIS
+										owner = {
+										  OR = {
+											in_sphere = THIS
+											vassal_of = THIS
+											}
+										}
+									}
+								} 
+							}
+							FRR = {
+								all_core = {
+									OR = {
+										owned_by = THIS
+										owner = {
+										  OR = {
+											in_sphere = THIS
+											vassal_of = THIS
+											}
+										}
+									}
+								} 
+							}
+							MOD = {
+								all_core = {
+									OR = {
+										owned_by = THIS
+										owner = {
+										  OR = {
+											in_sphere = THIS
+											vassal_of = THIS
+											}
+										}
+									}
+								} 
+							}
+							PAR = {
+								all_core = {
+									OR = {
+										owned_by = THIS
+										owner = {
+										  OR = {
+											in_sphere = THIS
+											vassal_of = THIS
+											}
+										}
+									}
+								} 
+							}
+							LOM = {
+								all_core = {
+									OR = {
+										owned_by = THIS
+										owner = {
+										  OR = {
+											in_sphere = THIS
+											vassal_of = THIS
+											}
+										}
+									}
+								} 
+							}
+						}
+						ITA = {
+								all_core = {
+									OR = {
+										owned_by = THIS
+										owner = {
+										  OR = {
+											in_sphere = THIS
+											vassal_of = THIS
+											}
+										}
+									}
+								} 
+							}
+					}
+		}
+		effect = {
+			add_accepted_culture = north_italian
+			any_country = {
+				limit = {
+					primary_culture = north_italian
+					 OR = {
+					   in_sphere = THIS
+					   vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			ARN = {all_core = {add_core = ARI remove_core = ARN}}
+			SIC = {all_core = {add_core = ARI}}
+			SAR = {all_core = {add_core = ARI}}
+			LOM = {all_core = {add_core = ARI}}
+			PAR = {all_core = {add_core = ARI}}
+			MOD = {all_core = {add_core = ARI}}
+			FRR = {all_core = {add_core = ARI}}
+			TUS = {all_core = {add_core = ARI}}
+			PAP = {all_core = {add_core = ARI}}
+			ITA = {all_core = {add_core = ARI}}
+			change_tag = ARI
+		}
+	}
+	integrate_venice = {
+		potential = {
+			tag = ARI
+			NOT = {has_country_flag = integrate_venice}
+		}
+		allow = {
+			empiricism = 1
+			owns = 729
+		}
+		effect = {
+			add_accepted_culture = venetian
+			set_country_flag = integrate_venice
+		}
+	}
+	son_of_rome = {
+		potential = {
+			tag = ARI 
+			NOT = {has_country_flag = son_of_rome}
+		}
+		allow = {
+			ARI = {all_core = {owned_by = THIS}}
+			nationalism_n_imperalism = 1
+			PRV = {
+				all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+							  OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+								}
+							}
+						}
+					} 
+				}
+		}
+		effect = {
+			set_country_flag = son_of_rome
+			badboy = 15
+			PRV = {all_core = {add_core = THIS}}
+			OCC = {all_core = {add_core = THIS}}
+		}
+	}
+}

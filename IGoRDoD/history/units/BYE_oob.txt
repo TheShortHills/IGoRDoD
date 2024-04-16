@@ -1,0 +1,35 @@
+army = {
+	name = "First Army of Belarus"
+	location = 718
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 718
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 946
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 948
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = infantry
+		home =945
+	}
+
+	regiment = {
+		name= "5.1st Division"
+		type = infantry
+		home =944
+	}
+	regiment = {
+		name= "6.1st Division"
+		type = infantry
+		home =949
+	}
+}

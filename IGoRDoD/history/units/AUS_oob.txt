@@ -1,0 +1,26 @@
+
+
+army = {
+	name = "First Army of Austria"
+	location = 625
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 622
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 617
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 620
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = infantry
+		home = 619
+	}
+}

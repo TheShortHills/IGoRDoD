@@ -1,0 +1,24 @@
+army = {
+	name = "Macedonian Resistance"
+	location = 805
+	regiment = {
+		name= "1. Infantry"
+		type = infantry
+		home = 806
+	}
+    	regiment = {
+		name= "2. Infantry"
+		type = infantry
+		home = 806
+	}
+	regiment = {
+		name= "3. Infantry"
+		type = infantry
+		home = 807
+	}
+    	regiment = {
+		name= "4. Infantry"
+		type = infantry
+		home = 807
+	}
+}

@@ -1,0 +1,48 @@
+political_decisions = {	
+	incan_dominance = {	
+		potential = {
+			tag = INC
+			NOT = {has_country_flag = incan_dominance}
+		}
+		allow = {
+			state_n_governemnt = 1
+			INC = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			GRA = {all_core = {add_core = INC}}
+			set_country_flag = incan_dominance
+		}
+	}
+	southern_rivals = {
+		potential = {
+			tag = INC 
+			NOT = {has_country_flag = southern_rivals}
+		}
+		allow = {
+			nationalism_n_imperalism = 1
+			NAN = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			set_country_flag = southern_rivals
+			NAN = {all_core = {add_core = THIS}}
+		}
+	}
+	push_out_colonizers = {
+		potential = {
+			tag = INC
+			NOT = {has_country_flag = push_out_colonizers}
+		}
+		allow = {
+			nationalism_n_imperalism = 1
+			year = 1870
+			INC = {all_core = {owned_by = THIS}}
+			GRA = {all_core = {owned_by = THIS}}
+			NAN = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			set_country_flag = push_out_colonizers
+			LOT = {all_core = {add_core = INC}}
+			AMA = {all_core = {add_core = INC}}
+		}
+	}
+}

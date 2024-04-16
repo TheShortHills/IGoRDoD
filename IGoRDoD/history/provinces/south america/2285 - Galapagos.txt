@@ -1,0 +1,8 @@
+owner = CLM
+controller = CLM
+add_core = CLM
+add_core = INC
+#add_core = GCO
+trade_goods = fish
+life_rating = 35
+

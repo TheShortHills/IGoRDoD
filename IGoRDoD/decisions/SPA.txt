@@ -1,0 +1,42 @@
+political_decisions = {	
+	form_iberia = {
+		potential = {
+			tag = SPA
+		}
+		allow = {
+			state_n_government = 1
+			SPA = {all_core = {owned_by = THIS}}
+			POR = {all_core = {owned_by = THIS}}
+			SPA_498 = {owned_by = THIS}
+			SPA_492 = {owned_by = THIS}
+		}
+		effect = {
+			add_accepted_culture = catalan 
+			SPA = {all_core = {add_core = IBE remove_core = SPA }}
+			SPA_498 = {add_core = IBE}
+			SPA_492 = {add_core = IBE}
+			change_tag = IBE
+		}
+	}
+	invest_in_portugal_catalan= {
+		potential = {
+			tag = IBE
+			NOT = {has_country_flag = invest_in_portugal_catalan}
+		}
+		allow = {
+			POR = {all_core = {owned_by = THIS}}
+			SPA_498 = {owned_by = THIS}
+			SPA_492 = {owned_by = THIS}
+			cheap_iron = 1
+			early_railroad = 1
+			business_regulations = 1
+		}
+		effect = {
+			set_country_flag = invest_in_portugal_catalan
+			POR = {all_core = {life_rating = 3}}
+			SPA_498 = {life_rating = 3}
+			SPA_492 = {life_rating = 3}
+		}
+	}
+	
+}

@@ -1,0 +1,238 @@
+#Guatemala Region (476000)
+#Ruled by Central America 1836
+#Guatemala City (276000/69000 POPS)
+2186 = {
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 1275
+    }
+
+    bureaucrats = {
+        culture = central_american
+        religion = catholic
+        size = 371
+    }
+
+    officers = {
+        culture = central_american
+        religion = catholic
+        size = 318
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 583
+    }
+
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 2868
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 2337
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 49618
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 281
+    }
+
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 2625
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 531
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 49062
+    }
+}
+#Quetzaltenango (112000/28000 POPS)
+2187 = {
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 371
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 158
+    }
+
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 743
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 2337
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 81475
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 125
+    }
+
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 1312
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 281
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 24531
+    }
+}
+#Puerto Barrios (72000/18000 POPS)
+2188 = {
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 318
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 106
+    }
+
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 637
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 158
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 11527
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 62
+    }
+
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 750
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 156
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 14031
+    }
+}
+#Sayaxche (16000/4000 POPS)
+2189 = {
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 31
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 52
+    }
+
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 106
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 21
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 1912
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 31
+    }
+
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 187
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 31
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 3500
+    }
+}

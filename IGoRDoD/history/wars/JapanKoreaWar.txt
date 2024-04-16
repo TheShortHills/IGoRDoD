@@ -1,0 +1,23 @@
+name = "Japanese Restoration of Korea"
+
+1835.10.2 = {
+	add_attacker = JAP
+	add_defender = KOR
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = conquest
+		actor = JAP
+		receiver = KOR
+	}
+
+}
+
+1836.6.6 = {
+	rem_attacker = JAP
+	rem_defender = KOR
+}

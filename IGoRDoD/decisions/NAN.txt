@@ -1,0 +1,70 @@
+political_decisions = {	
+	coming_home = {
+		potential = {
+			tag = NAN
+			NOT = {has_country_flag = coming_home}
+		}
+		allow = {
+			OR = {
+				ENG_280 = {owned_by = THIS}
+				ENG_284 = {owned_by = THIS}
+				ENG_296  = {owned_by = THIS}
+				ENG_277 = {owned_by = THIS}
+				ENG_273 = {owned_by = THIS}
+				ENG_291 = {owned_by = THIS}
+				ENG_300  = {owned_by = THIS}
+			}
+		}
+		effect = {
+			set_country_flag = coming_home
+			change_tag = ENG
+			NAN = {all_core = {add_core = ENG}}
+			primary_culture = english 
+			add_accepted_culture = beornian
+			add_accepted_culture = anglois
+			add_accepted_culture = welsh
+		}
+	}
+	restablish_capital = {
+		potential = {
+			tag = ENG
+			NOT = {has_country_flag = restablish_capital}
+		}
+		allow = {
+			ENG_300  = {owned_by = THIS}
+		}
+		effect = {
+			set_country_flag = restablish_capital
+			capital = 300
+		}
+	}
+	infrastructure_improvements = {
+		potential = {
+			tag = ENG
+			NOT = {has_country_flag = infrastructure_improvements}
+		}
+		allow = {
+				has_country_flag = restablish_capital
+				cheap_iron = 1
+				early_railroad = 1
+				ENG_280 = {owned_by = THIS}
+				ENG_284 = {owned_by = THIS}
+				ENG_296  = {owned_by = THIS}
+				ENG_277 = {owned_by = THIS}
+				ENG_273 = {owned_by = THIS}
+				ENG_291 = {owned_by = THIS}
+				ENG_300  = {owned_by = THIS}
+		}
+		effect = {
+			set_country_flag = infrastructure_improvements
+			ENG_280 = {life_rating = 5}
+			ENG_284 = {life_rating = 5}
+			ENG_296  = {life_rating = 5}
+			ENG_277 = {life_rating = 5}
+			ENG_273 = {life_rating = 5}
+			ENG_291 = {life_rating = 5}
+			ENG_300  = {life_rating = 5}
+		}
+	}
+	
+}

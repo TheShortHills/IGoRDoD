@@ -1,0 +1,75 @@
+political_decisions = {	
+	tanzimat_reforms_balkans = {
+		potential = {
+			tag = TUR 
+			NOT = {has_country_flag = tanzimat_reforms_balkans}
+		}
+		allow = {
+			state_n_government = 1
+			BUL = {all_core = {owned_by = THIS}}
+			SER = {all_core = {owned_by = THIS}}
+			GRE = {all_core = {owned_by = THIS}}
+			MAC = {all_core = {owned_by = THIS}}
+			ALB = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			set_country_flag = tanzimat_reforms_balkans
+			BUL = {all_core = {add_core = THIS}}
+			SER = {all_core = {add_core = THIS}}
+			GRE = {all_core = {add_core = THIS}}
+			MAC = {all_core = {add_core = THIS}}
+			ALB = {all_core = {add_core = THIS}}
+			add_accepted_culture = bulgarian
+			add_accepted_culture = serb
+			add_accepted_culture = albanian
+			add_accepted_culture = greek
+		}
+	}
+	tanzimat_reforms_mashriqi = {
+		potential = {
+			tag = TUR 
+			NOT = {has_country_flag = tanzimat_reforms_mashriqi}
+		}
+		allow = {
+			state_n_government = 1
+			SYR = {all_core = {owned_by = THIS}}
+			IRQ = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			set_country_flag = tanzimat_reforms_mashriqi
+			IRQ = {all_core = {add_core = THIS}}
+			add_accepted_culture = mashriqi
+		}
+	}
+	tanzimat_reforms_misri = {
+		potential = {
+			tag = TUR 
+			NOT = {has_country_flag = tanzimat_reforms_misri}
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			EGY = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			set_country_flag = tanzimat_reforms_misri
+			EGY = {all_core = {add_core = THIS}}
+			add_accepted_culture = misri
+		}
+	}
+	tanzimat_reforms_bedouin = {
+		potential = {
+			tag = TUR 
+			NOT = {has_country_flag = tanzimat_reforms_bedouin}
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			NEJ = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			set_country_flag = tanzimat_reforms_bedouin
+			NEJ = {all_core = {add_core = THIS}}
+			add_accepted_culture = bedouin
+		}
+	
+	}
+}

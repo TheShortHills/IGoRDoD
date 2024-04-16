@@ -1,0 +1,37 @@
+political_decisions = {	
+	integrate_afro_amerigan_arcadian = {
+		potential = {
+			tag = CLM
+			NOT = {has_country_flag = integrate_afro_amerigan_arcadian}
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			slavery = no_slavery
+			NOT = { war = yes }
+		}
+		effect = {
+			set_country_flag = integrate_afro_amerigan_arcadian
+			add_accepted_culture = afro_american
+			add_accepted_culture = afro_brazilian
+		}
+	}
+	integrate_caribbeans = {
+		potential = {
+			tag = CLM 
+			NOT = {has_country_flag = integrate_caribbeans}
+		}
+		allow = {
+			state_n_government = 1
+			OR = {
+				CUB = {all_core = {owned_by = THIS}}
+				HAI = {all_core = {owned_by = THIS}}
+			}
+		}
+		effect = {
+			set_country_flag = integrate_caribbeans
+			add_accepted_culture = afro_caribeno
+			add_accepted_culture = caribeno
+			add_accepted_culture = afro_caribbean
+		}
+	}
+}

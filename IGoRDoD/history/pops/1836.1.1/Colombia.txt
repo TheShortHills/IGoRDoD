@@ -1,0 +1,1170 @@
+#Cundinamarca Region (584000)
+#Ruled by Colombia 1836
+#Bogota (240000/60000 POPS)
+2247 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 1741
+    }
+
+    bureaucrats = {
+        culture = granadan
+        religion = catholic
+        size = 312
+    }
+
+    officers = {
+        culture = granadan
+        religion = catholic
+        size = 238
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 727
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 3626
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 18125
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 72422
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 66
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 276
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 31
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 3452
+    }
+
+    slaves = {
+        culture = granadan
+        religion = catholic
+        size = 1741
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 66
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 276
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 66
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 5160
+    }
+}
+#Ibaque (88000/22000 POPS)
+2248 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 625
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 276
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 1321
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 276
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 24012
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 10
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 66
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 10
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 946
+    }
+
+    slaves = {
+        culture = granadan
+        religion = catholic
+        size = 345
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 31
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 135
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 31
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 2578
+    }
+}
+#Tunja (56000/14000 POPS)
+2249 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 415
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 135
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 625
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 135
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 11235
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 66
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 345
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 66
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 6557
+    }
+}
+#Manizales (116000/29000 POPS)
+2250 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 868
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 378
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 2020
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 1532
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 87206
+    }
+}
+#Cucuta (84000/21000 POPS)
+2251 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 487
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 206
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 1113
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 238
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 20276
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 66
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 345
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 66
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 6487
+    }
+}
+#Antioquia Region (452000)
+#Ruled by Colombia 1836
+#Medellin (128000/32000 POPS)
+2252 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 902
+    }
+
+    bureaucrats = {
+        culture = granadan
+        religion = catholic
+        size = 206
+    }
+
+    officers = {
+        culture = granadan
+        religion = catholic
+        size = 168
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 276
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 1532
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 1532
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 83557
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 66
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 556
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 101
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 7640
+    }
+
+    slaves = {
+        culture = granadan
+        religion = catholic
+        size = 4183
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 31
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 206
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 31
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 3906
+    }
+}
+#Quibdo (48000/12000 POPS)
+2253 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 345
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 66
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 345
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 66
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 6141
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 101
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 487
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 101
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 2090
+    }
+
+    slaves = {
+        culture = granadan
+        religion = catholic
+        size = 6977
+    }
+}
+#Cartagena de Indias (144000/36000 POPS)
+2254 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 976
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 168
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 902
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 1532
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 14760
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 101
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 1463
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 276
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 21878
+    }
+
+    slaves = {
+        culture = granadan
+        religion = catholic
+        size = 5581
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 31
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 135
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 31
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 2578
+    }
+}
+#Barranquilla (132000/33000 POPS)
+2255 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 902
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 168
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 902
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 1532
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 14760
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 135
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 1252
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 276
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 20658
+    }
+
+    slaves = {
+        culture = granadan
+        religion = catholic
+        size = 4183
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 10
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 66
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 10
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 1293
+    }
+}
+#Cauca Region (300000)
+#Ruled by Colombia 1836
+#Cali (92000/23000 POPS)
+2256 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 658
+    }
+
+    bureaucrats = {
+        culture = granadan
+        religion = catholic
+        size = 135
+    }
+
+    officers = {
+        culture = granadan
+        religion = catholic
+        size = 135
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 238
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 1183
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 1532
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 19962
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 66
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 206
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 66
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 2788
+    }
+
+    slaves = {
+        culture = granadan
+        religion = catholic
+        size = 1043
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = animist
+        size = 66
+    }
+
+    artisans = {
+        culture = granadan
+        religion = animist
+        size = 206
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = animist
+        size = 31
+    }
+
+    farmers = {
+        culture = granadan
+        religion = animist
+        size = 3870
+    }
+}
+#Popayan (68000/17000 POPS)
+2257 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 487
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 135
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 765
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 168
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 13782
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 101
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 415
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 101
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 7745
+    }
+}
+#Buenaventura (60000/15000 POPS)
+2258 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 101
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 625
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 66
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 4325
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 31
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 135
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 101
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 2508
+    }
+
+    slaves = {
+        culture = granadan
+        religion = catholic
+        size = 6977
+    }
+}
+#Pasto (80000/20000 POPS)
+2259 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 588
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 135
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 625
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 135
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 11058
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 66
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 765
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 168
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 14340
+    }
+}
+#Rio Negro Region (128000) #see Brazil.txt for balance of region
+#Ruled by Colombia 1836
+#San Jose del Guaviare (36000/9000 POPS)
+2260 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 101
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 101
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 206
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 31
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 3731
+    }
+
+    aristocrats = {
+        culture = granadan
+        religion = animist
+        size = 237
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = animist
+        size = 118
+    }
+
+    artisans = {
+        culture = granadan
+        religion = animist
+        size = 718
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = animist
+        size = 176
+    }
+
+    farmers = {
+        culture = granadan
+        religion = animist
+        size = 13176
+    }
+}
+#Obando (20000/5000 POPS)
+2261 = {
+    aristocrats = {
+        culture = granadan
+        religion = animist
+        size = 176
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = animist
+        size = 118
+    }
+
+    artisans = {
+        culture = granadan
+        religion = animist
+        size = 597
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = animist
+        size = 118
+    }
+
+    farmers = {
+        culture = granadan
+        religion = animist
+        size = 11008
+    }
+}
+#Casanare (60000/15000 POPS)
+2262 = {
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 168
+    }
+
+    bureaucrats = {
+        culture = granadan
+        religion = catholic
+        size = 31
+    }
+
+    officers = {
+        culture = granadan
+        religion = catholic
+        size = 31
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 101
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 276
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 66
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 4883
+    }
+
+    aristocrats = {
+        culture = granadan
+        religion = animist
+        size = 296
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = animist
+        size = 176
+    }
+
+    artisans = {
+        culture = granadan
+        religion = animist
+        size = 960
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = animist
+        size = 176
+    }
+
+    farmers = {
+        culture = granadan
+        religion = animist
+        size = 17628
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 31
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 206
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 31
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 2160
+    }
+
+    slaves = {
+        culture = granadan
+        religion = catholic
+        size = 1741
+    }
+}
+#El Encanto (12000/3000 POPS)
+2263 = {
+    aristocrats = {
+        culture = granadan
+        religion = animist
+        size = 118
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = animist
+        size = 176
+    }
+
+    artisans = {
+        culture = granadan
+        religion = animist
+        size = 356
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = animist
+        size = 57
+    }
+
+    farmers = {
+        culture = granadan
+        religion = animist
+        size = 6496
+    }
+}
