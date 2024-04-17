@@ -7875,25 +7875,25 @@
 #Trankebar (14000/4000 POPS)
 3251 = {
     bureaucrats = {
-        culture = danish
+        culture = anglois
         religion = protestant
         size = 50
     }
 
     clergymen = {
-        culture = danish
+        culture = anglois
         religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = danish
+        culture = anglois
         religion = protestant
         size = 75
     }
 
     soldiers = {
-        culture = danish
+        culture = anglois
         religion = protestant
         size = 50
     }

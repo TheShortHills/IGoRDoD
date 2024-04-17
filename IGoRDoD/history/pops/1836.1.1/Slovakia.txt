@@ -279,7 +279,7 @@
     soldiers = {
         culture = slovak
         religion = catholic
-        size = 650
+        size = 6650
     }
 
     farmers = {

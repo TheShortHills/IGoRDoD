@@ -97,7 +97,7 @@
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 375
+        size = 4375
     }
 
     farmers = {
@@ -127,7 +127,7 @@
     soldiers = {
         culture = hungarian
         religion = catholic
-        size = 125
+        size = 4125
     }
 
     farmers = {

@@ -2,6 +2,7 @@ owner = DUA
 controller = DUA
 add_core = DUA
 add_core = BRT
+add_core = FRA
 trade_goods = grain
 life_rating = 35
 1861.1.1 = { railroad = 3 }

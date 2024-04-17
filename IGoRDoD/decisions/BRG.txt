@@ -13,20 +13,6 @@ political_decisions = {
 			add_accepted_culture = rheinish
 		}
 	}
-	integrate_bretons ={
-		potential = {
-				tag = BRG
-				NOT = { has_country_flag = integrate_bretons}
-			}
-		allow = {
-			state_n_government = 1
-			BRT = {all_core = {owned_by = THIS}}
-		}
-		effect = {
-			set_country_flag = integrate_bretons
-			add_accepted_culture = breton
-		}
-	}
 	dominate_france = {
 		potential = {
 			tag = BRG 

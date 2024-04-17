@@ -301,7 +301,7 @@
     soldiers = {
         culture = hungarian
         religion = orthodox
-        size = 900
+        size = 9900
     }
 
     farmers = {

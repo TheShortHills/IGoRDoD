@@ -213,7 +213,7 @@
     soldiers = {
         culture = serb
         religion = orthodox
-        size = 300
+        size = 5300
     }
 
     farmers = {
