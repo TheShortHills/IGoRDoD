@@ -172,3 +172,267 @@ army = {
 	}
 
 }
+navy = {
+	name = "Scandinavian Navy"
+	location = 372
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+}

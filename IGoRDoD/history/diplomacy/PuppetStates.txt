@@ -99,12 +99,6 @@ vassal = {
 }
 
 # Dai Nam-Cambodia
-vassal = {
-	first = DAI
-	second = CAM
-	start_date = 1807.1.1
-	end_date = 1861.1.1
-}
 
 
 #########1861

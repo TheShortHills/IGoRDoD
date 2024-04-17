@@ -267,7 +267,7 @@
     craftsmen = {
         culture = french
         religion = catholic
-        size = 9000
+        size = 4518
     }
 
     soldiers = {
@@ -482,7 +482,7 @@
     craftsmen = {
         culture = french
         religion = catholic
-        size = 5800
+        size = 2911
     }
 
     soldiers = {
@@ -1237,7 +1237,7 @@
     craftsmen = {
         culture = french
         religion = catholic
-        size = 80000
+        size = 40185
     }
 }
 #Brittany Region (2616000)
@@ -1282,7 +1282,7 @@
     craftsmen = {
         culture = breton
         religion = catholic
-        size = 13000
+        size = 6528
     }
 
     soldiers = {
@@ -1326,7 +1326,7 @@
     craftsmen = {
         culture = breton
         religion = catholic
-        size = 6000
+        size = 3012
     }
 
     soldiers = {
@@ -1370,7 +1370,7 @@
     craftsmen = {
         culture = breton
         religion = catholic
-        size = 3000
+        size = 1505
     }
 
     soldiers = {
@@ -1420,7 +1420,7 @@
     craftsmen = {
         culture = breton
         religion = catholic
-        size = 8000
+        size = 4018
     }
 
     soldiers = {
@@ -1464,7 +1464,7 @@
     craftsmen = {
         culture = breton
         religion = catholic
-        size = 3000
+        size = 1505
     }
 
     soldiers = {
@@ -1521,7 +1521,7 @@
     craftsmen = {
         culture = anglois
         religion = catholic
-        size = 25900
+        size = 13007
     }
 
     artisans = {
@@ -1683,7 +1683,7 @@
     craftsmen = {
         culture = anglois
         religion = jewish
-        size = 2500
+        size = 1252
     }
 
     artisans = {
@@ -2175,7 +2175,7 @@
     craftsmen = {
         culture = french
         religion = catholic
-        size = 6000
+        size = 3012
     }
 
     soldiers = {
@@ -2219,7 +2219,7 @@
     craftsmen = {
         culture = french
         religion = catholic
-        size = 2975
+        size = 1489
     }
 
     soldiers = {
@@ -2263,7 +2263,7 @@
     craftsmen = {
         culture = french
         religion = catholic
-        size = 2975
+        size = 1489
     }
 
     soldiers = {
@@ -2307,7 +2307,7 @@
     craftsmen = {
         culture = french
         religion = catholic
-        size = 5000
+        size = 2509
     }
 
     soldiers = {
@@ -2685,7 +2685,7 @@
     craftsmen = {
         culture = provencal
         religion = catholic
-        size = 11500
+        size = 5773
     }
 
     clergymen = {
@@ -2757,7 +2757,7 @@
     craftsmen = {
         culture = provencal
         religion = jewish
-        size = 250
+        size = 122
     }
 
     artisans = {
@@ -2795,7 +2795,7 @@
     craftsmen = {
         culture = provencal
         religion = catholic
-        size = 14000
+        size = 7030
     }
 
     soldiers = {
@@ -2839,7 +2839,7 @@
     craftsmen = {
         culture = provencal
         religion = catholic
-        size = 2000
+        size = 1002
     }
 
     soldiers = {

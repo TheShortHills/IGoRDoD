@@ -1,0 +1,126 @@
+army = {
+	name = "First Army of Xifang"
+	location = 2468
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 2468
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 2468
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 2468
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = infantry
+		home = 2469
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 658
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 658
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home =658
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 2511
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = artillery
+		home = 2482
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = hussar
+		home = 2512
+	}
+}
+navy = {
+	name = "Xifang Navy"
+	location = 2468
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+}

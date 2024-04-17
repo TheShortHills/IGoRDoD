@@ -1,33 +1,124 @@
 political_decisions = {	
-	tanzimat_reforms_balkans = {
+	move_capital_to_ankara = {
+		potential = {
+			tag = TUR
+			NOT = {has_country_flag = ankara_capital}
+			NOT = {has_country_flag = istanbul_capital}
+			owns = 876
+		}
+		allow = {
+			year = 1840
+			NOT = {war = YES}
+		}
+		effect = {
+			set_country_flag = ankara_capital
+			capital = 876
+		}
+	}
+	keep_instanbul_capital {
+		potential = {
+			tag = TUR
+			NOT = {has_country_flag = ankara_capital}
+			NOT = {has_country_flag = istanbul_capital}
+		}
+		allow = {
+			year = 1840
+			NOT = {war = YES}
+		}
+		effect = {
+			set_country_flag = istanbul_capital
+			prestige = 5
+		}
+	}
+	tanzimat_reforms_bulgaria = {
 		potential = {
 			tag = TUR 
-			NOT = {has_country_flag = tanzimat_reforms_balkans}
+			has_country_flag = istanbul_capital
+			NOT = {has_country_flag = tanzimat_reforms_bulgaria}
 		}
 		allow = {
 			state_n_government = 1
 			BUL = {all_core = {owned_by = THIS}}
-			SER = {all_core = {owned_by = THIS}}
-			GRE = {all_core = {owned_by = THIS}}
-			MAC = {all_core = {owned_by = THIS}}
-			ALB = {all_core = {owned_by = THIS}}
 		}
 		effect = {
-			set_country_flag = tanzimat_reforms_balkans
+			set_country_flag = tanzimat_reforms_bulgaria
 			BUL = {all_core = {add_core = THIS}}
-			SER = {all_core = {add_core = THIS}}
+			add_accepted_culture = bulgarian
+		}
+	}
+	tanzimat_reforms_greek = {
+		potential = {
+			tag = TUR 
+			has_country_flag = istanbul_capital
+			NOT = {has_country_flag = tanzimat_reforms_greek}
+		}
+		allow = {
+			state_n_government = 1
+			GRE = {all_core = {owned_by = THIS}}
+			MAC = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			set_country_flag = tanzimat_reforms_greek
 			GRE = {all_core = {add_core = THIS}}
 			MAC = {all_core = {add_core = THIS}}
-			ALB = {all_core = {add_core = THIS}}
-			add_accepted_culture = bulgarian
-			add_accepted_culture = serb
-			add_accepted_culture = albanian
 			add_accepted_culture = greek
+		}
+	}	
+	tanzimat_reforms_albanian = {
+		potential = {
+			tag = TUR
+			has_country_flag = istanbul_capital
+			NOT = {has_country_flag = tanzimat_reforms_albanian}
+		}
+		allow = {
+			state_n_government = 1
+			SER = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			set_country_flag = tanzimat_reforms_albanian
+			ALB = {all_core = {add_core = THIS}}
+			add_accepted_culture = albanian
+		}	
+	}
+	tanzimat_reforms_serb = {
+		potential = {
+			tag = TUR
+			has_country_flag = istanbul_capital
+			NOT = {has_country_flag = tanzimat_reforms_serb}
+		}
+		allow = {
+			state_n_government = 1
+			SER = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			set_country_flag = tanzimat_reforms_serb
+			SER = {all_core = {add_core = THIS}}
+			add_accepted_culture = serb
+		}
+	}
+	tanzimat_reforms_croat = {
+		potential = {
+			tag = TUR
+			has_country_flag = istanbul_capital
+			NOT = {has_country_flag = tanzimat_reforms_croat}
+		}
+		allow = {
+			state_n_government = 1
+			CRO = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			set_country_flag = tanzimat_reforms_croat
+			CRO = {all_core = {add_core = THIS}}
+			add_accepted_culture = croat
 		}
 	}
 	tanzimat_reforms_mashriqi = {
 		potential = {
 			tag = TUR 
+			OR = {
+				has_country_flag = ankara_capital
+				has_country_flag = istanbul_capital
+			}
 			NOT = {has_country_flag = tanzimat_reforms_mashriqi}
 		}
 		allow = {
@@ -44,6 +135,7 @@ political_decisions = {
 	tanzimat_reforms_misri = {
 		potential = {
 			tag = TUR 
+			has_country_flag = ankara_capital
 			NOT = {has_country_flag = tanzimat_reforms_misri}
 		}
 		allow = {
@@ -59,6 +151,7 @@ political_decisions = {
 	tanzimat_reforms_bedouin = {
 		potential = {
 			tag = TUR 
+			has_country_flag = ankara_capital
 			NOT = {has_country_flag = tanzimat_reforms_bedouin}
 		}
 		allow = {
