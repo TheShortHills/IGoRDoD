@@ -200,7 +200,7 @@
     farmers = {
         culture = micronesian
         religion = animist
-        size = 7
+        size = 9
     }
 }
 #Wake (60/15 POPS)

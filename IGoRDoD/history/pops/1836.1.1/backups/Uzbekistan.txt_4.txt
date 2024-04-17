@@ -127,7 +127,7 @@
     slaves = {
         culture = tatar
         religion = orthodox
-        size = 825
+        size = 1100
     }
 
     aristocrats = {
@@ -158,12 +158,6 @@
         culture = turkic
         religion = sunni
         size = 3650
-    }
-
-    slaves = {
-        culture = russian
-        religion = orthodox
-        size = 275
     }
 }
 #Mawarannahr Region (524000) #see turkichstan.txt, turkicistan.txt, Kirghizstan.txt for balance of region

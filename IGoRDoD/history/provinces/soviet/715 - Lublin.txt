@@ -5,6 +5,6 @@ add_core = PLC
 #add_core = PLC
 #add_core = CPL
 ##add_core = RUT
-trade_goods = grain
+trade_goods = sulphur
 life_rating = 39
 

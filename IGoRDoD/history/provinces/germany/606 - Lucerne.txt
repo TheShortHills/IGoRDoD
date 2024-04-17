@@ -2,6 +2,6 @@ owner = SWI
 controller = SWI
 add_core = SWI
 trade_goods = timber
-life_rating = 38
+life_rating = 39
 1861.1.1 = { railroad = 1 }
 
