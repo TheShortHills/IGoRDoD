@@ -1,4 +1,46 @@
-political_decisions = {	
+political_decisions = {
+	dominate_arc_vin = {
+		potential = {
+			tag = VIN
+			NOT = {has_country_flag = dominate_arc_vin}
+		}
+		allow = {
+			VIN = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			NBG = {all_core = {add_core = VIN}}
+			PLA = {all_core = {add_core = VIN}}
+			set_country_flag = dominate_arc_vin
+		}
+	}
+	dominate_arc_pla = {
+		potential = {
+			tag = PLA
+			NOT = {has_country_flag = dominate_arc_pla}
+		}
+		allow = {
+			PLA = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			NBG = {all_core = {add_core = PLA}}
+			VIN = {all_core = {add_core = PLA}}
+			set_country_flag = dominate_arc_pla
+		}
+	}
+	dominate_arc_nbg = {
+		potential = {
+			tag = NBG
+			NOT = {has_country_flag = dominate_arc_nbg}
+		}
+		allow = {
+			NBG = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			PLA = {all_core = {add_core = NBG}}
+			VIN = {all_core = {add_core = NBG}}
+			set_country_flag = dominate_arc_nbg
+		}
+	}
 	form_arcadia = {
 		potential = {
 			OR = {
@@ -139,10 +181,8 @@ political_decisions = {
 			ENG_30  = {add_core = ARC}
 			USA_111 = {add_core = ARC}
 			USA_106 = {add_core = ARC}
-			USA_91 = {add_core = ARC}
 			MEX_85 = {add_core = ARC}
 			USA_81 = {add_core = ARC}
-			USA_78 = {add_core = ARC}
 			ENG_22 = {add_core = ARC}
 			ENG_13 = {add_core = ARC}
 			USA_1 = {add_core = ARC}

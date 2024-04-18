@@ -1,6 +1,7 @@
 owner = NBG
 controller = NBG
 add_core = NBG
+add_core = VIN
 #add_core = MAN
 trade_goods = grain
 life_rating = 50railroad = 1fort = 1party_loyalty = {	ideology = liberal	loyalty_value = 25}

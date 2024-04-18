@@ -34,4 +34,21 @@ political_decisions = {
 			add_accepted_culture = afro_caribbean
 		}
 	}
+	shining_liberty_clm = {
+		potential = {	
+			tag = CLM
+			NOT = {has_country_flag = shining_liberty_clm}
+		}
+		allow = {
+			state_n_government = 1
+			functionalism = 1
+		}
+		effect = {
+			set_country_flag = shining_liberty_clm
+			add_country_modifier = {
+				name = the_homestead_act 
+				duration = -1
+			}
+		}
+	}
 }

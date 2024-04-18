@@ -6,11 +6,6 @@ trade_goods = wool
 life_rating = 39
 state_building = {
 	level = 1
-	building = fabric_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
 	building = canned_food_factory
 	upgrade = yes
 }

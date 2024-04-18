@@ -51,6 +51,7 @@ malthusian_thought = 1
 introspectionism = 1
 water_wheel_power = 1
 basic_chemistry = 1
+enlightenment_thought = 1
 
 ruling_party = PLC_conservative
 upper_house = {

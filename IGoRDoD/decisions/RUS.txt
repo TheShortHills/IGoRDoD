@@ -87,15 +87,16 @@ political_decisions = {
 			add_accepted_culture = ukrainian
 		}
 	}
-	eastern_colonies = {
+	reclaim_eastern_colonies = {
 		potential = {
 			tag = RUS
 			NOT = {has_country_flag = eastern_colonies}
 		}
 		allow = {
-			year = 1850
+			
 		}
 		effect = {
+			badboy = 7.5
 			CRI = {all_core = {add_core = THIS}}
 			ASK = {all_core = {add_core = THIS}}
 			NOG = {all_core = {add_core = THIS}}

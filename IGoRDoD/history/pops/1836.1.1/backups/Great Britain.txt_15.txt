@@ -404,7 +404,7 @@
     craftsmen = {
         culture = welsh
         religion = protestant
-        size = 2686
+        size = 2559
     }
 
     artisans = {
@@ -518,7 +518,7 @@
     craftsmen = {
         culture = welsh
         religion = protestant
-        size = 2158
+        size = 2056
     }
 
     artisans = {
@@ -575,7 +575,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 15821
+        size = 15068
     }
 
     artisans = {
@@ -617,7 +617,7 @@
     craftsmen = {
         culture = english
         religion = catholic
-        size = 578
+        size = 551
     }
 
     artisans = {
@@ -641,7 +641,7 @@
     craftsmen = {
         culture = english
         religion = catholic
-        size = 1183
+        size = 1127
     }
 
     artisans = {
@@ -685,7 +685,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 12919
+        size = 12304
     }
 
     artisans = {
@@ -727,7 +727,7 @@
     craftsmen = {
         culture = english
         religion = catholic
-        size = 260
+        size = 248
     }
 
     labourers = {
@@ -739,7 +739,7 @@
     craftsmen = {
         culture = english
         religion = catholic
-        size = 523
+        size = 499
     }
 
     artisans = {
@@ -828,7 +828,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 5800
+        size = 5524
     }
 
     artisans = {
@@ -858,7 +858,7 @@
     craftsmen = {
         culture = english
         religion = catholic
-        size = 102
+        size = 98
     }
 
     labourers = {
@@ -896,7 +896,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 2001
+        size = 1906
     }
 
     soldiers = {
@@ -914,7 +914,7 @@
     craftsmen = {
         culture = english
         religion = catholic
-        size = 102
+        size = 98
     }
 
     labourers = {
@@ -946,7 +946,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 4532
+        size = 4317
     }
 
     artisans = {
@@ -976,7 +976,7 @@
     craftsmen = {
         culture = english
         religion = catholic
-        size = 50
+        size = 48
     }
 
     farmers = {
@@ -1026,7 +1026,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 7645
+        size = 7281
     }
 
     artisans = {
@@ -1056,7 +1056,7 @@
     craftsmen = {
         culture = english
         religion = catholic
-        size = 102
+        size = 98
     }
 
     farmers = {
@@ -1107,7 +1107,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 8963
+        size = 8537
     }
 
     artisans = {
@@ -1131,7 +1131,7 @@
     craftsmen = {
         culture = english
         religion = catholic
-        size = 102
+        size = 98
     }
 
     farmers = {
@@ -1143,7 +1143,7 @@
     craftsmen = {
         culture = english
         religion = catholic
-        size = 1052
+        size = 1002
     }
 
     farmers = {
@@ -1213,7 +1213,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 1183
+        size = 1127
     }
 
     artisans = {
@@ -1257,7 +1257,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 4480
+        size = 4267
     }
 
     artisans = {
@@ -1320,7 +1320,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 3689
+        size = 3514
     }
 
     artisans = {
@@ -1344,7 +1344,7 @@
     craftsmen = {
         culture = english
         religion = catholic
-        size = 260
+        size = 248
     }
 
     farmers = {
@@ -1376,7 +1376,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 1302
+        size = 1240
     }
 
     artisans = {
@@ -1414,7 +1414,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 788
+        size = 751
     }
 
     artisans = {
@@ -1471,7 +1471,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 1580
+        size = 1505
     }
 
     artisans = {
@@ -1515,7 +1515,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 3162
+        size = 3012
     }
 
     artisans = {
@@ -1559,7 +1559,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 523
+        size = 499
     }
 
     artisans = {
@@ -1622,7 +1622,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 260
+        size = 248
     }
 
     soldiers = {
@@ -1660,7 +1660,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 260
+        size = 248
     }
 
     soldiers = {
@@ -1717,7 +1717,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 7908
+        size = 7532
     }
 
     artisans = {
@@ -1767,7 +1767,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 2108
+        size = 2008
     }
 
     artisans = {
@@ -1805,7 +1805,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 2634
+        size = 2509
     }
 
     artisans = {
@@ -1855,7 +1855,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 5800
+        size = 5524
     }
 
     artisans = {
@@ -1879,7 +1879,7 @@
     craftsmen = {
         culture = english
         religion = catholic
-        size = 50
+        size = 48
     }
 
     farmers = {
@@ -1891,7 +1891,7 @@
     craftsmen = {
         culture = english
         religion = catholic
-        size = 313
+        size = 299
     }
 
     farmers = {
@@ -1942,7 +1942,7 @@
     craftsmen = {
         culture = anglois
         religion = protestant
-        size = 83596
+        size = 79616
     }
 
     artisans = {
@@ -2056,7 +2056,7 @@
     craftsmen = {
         culture = anglois
         religion = catholic
-        size = 1052
+        size = 1002
     }
 
     artisans = {
@@ -2080,7 +2080,7 @@
     craftsmen = {
         culture = anglois
         religion = jewish
-        size = 893
+        size = 851
     }
 
     artisans = {
@@ -2098,7 +2098,7 @@
     craftsmen = {
         culture = anglois
         religion = catholic
-        size = 3320
+        size = 3162
     }
 
     artisans = {
@@ -2137,7 +2137,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 2158
+        size = 2056
     }
 
     artisans = {
@@ -2161,7 +2161,7 @@
     craftsmen = {
         culture = english
         religion = catholic
-        size = 50
+        size = 48
     }
 
     artisans = {
@@ -2193,7 +2193,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 3583
+        size = 3413
     }
 
     artisans = {
@@ -2243,7 +2243,7 @@
     craftsmen = {
         culture = english
         religion = protestant
-        size = 788
+        size = 751
     }
 
     soldiers = {

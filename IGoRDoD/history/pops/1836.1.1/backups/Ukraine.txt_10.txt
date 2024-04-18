@@ -2503,7 +2503,7 @@
     craftsmen = {
         culture = tatar
         religion = orthodox
-        size = 0
+        size = 3000
     }
 
     soldiers = {
@@ -2575,7 +2575,7 @@
     craftsmen = {
         culture = ashkenazi
         religion = jewish
-        size = 0
+        size = 500
     }
 
     soldiers = {
@@ -2677,7 +2677,7 @@
     craftsmen = {
         culture = ukrainian
         religion = catholic
-        size = 0
+        size = 500
     }
 
     soldiers = {
@@ -3593,7 +3593,7 @@
     craftsmen = {
         culture = tatar
         religion = orthodox
-        size = 0
+        size = 3800
     }
 
     soldiers = {
@@ -3629,7 +3629,7 @@
     craftsmen = {
         culture = ashkenazi
         religion = jewish
-        size = 0
+        size = 100
     }
 
     aristocrats = {

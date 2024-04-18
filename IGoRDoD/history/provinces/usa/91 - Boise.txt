@@ -3,7 +3,6 @@ life_rating = 35
 owner = DNG
 controller = DNG
 add_core = DNG
-colonial = 2
 1861.1.1 = {
 	add_core = USA
 }

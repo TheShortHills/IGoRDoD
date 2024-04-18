@@ -1,0 +1,19 @@
+political_decisions = {	
+	shining_liberty_dng = {
+		potential = {	
+			tag = DNG
+			NOT = {has_country_flag = shining_liberty_dng}
+		}
+		allow = {
+			state_n_government = 1
+			functionalism = 1
+		}
+		effect = {
+			set_country_flag = shining_liberty_dng
+			add_country_modifier = {
+				name = the_homestead_act 
+				duration = -1
+			}
+		}
+	}
+}

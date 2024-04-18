@@ -35,6 +35,7 @@ country_event = {
                     has_pop_culture = burgundian
                     has_pop_culture = dutch
 					has_pop_culture = vinlander
+					has_pop_culture = finnish
                 }
             }
             literacy = 0.59
@@ -52,7 +53,6 @@ country_event = {
         any_pop = {
             limit = {
                 OR = {
-                    has_pop_culture = finnish
                     has_pop_culture = latvian
                     has_pop_culture = estonian
 					has_pop_culture = lusitanian
@@ -137,11 +137,9 @@ country_event = {
 		any_pop = {
             limit = {
                 OR = {
-                    has_pop_culture = serb
 					has_pop_culture = bulgarian 
 					has_pop_culture = albanian
 					has_pop_culture = qingqiuan
-					has_pop_culture = armenian
 					has_pop_culture = quechua
                 }
             }
@@ -166,6 +164,8 @@ country_event = {
 					has_pop_culture = korean
 					has_pop_culture = aryan
 					has_pop_culture = russian
+					has_pop_culture = croat
+					has_pop_culture = serb
                 }
             }
             literacy = 0.17
@@ -173,7 +173,7 @@ country_event = {
 		any_pop = {
             limit = {
                 OR = {
-					has_pop_culture = nepali
+					has_pop_culture = armenian
                 }
             }
             literacy = 0.14
@@ -184,7 +184,6 @@ country_event = {
 					has_pop_culture = central_american
 					has_pop_culture = misri
 					has_pop_culture = mexican
-					has_pop_culture = mashriqi
 					has_pop_culture = maghrebi
 					has_pop_culture = granadan
 					has_pop_culture = turkish
@@ -217,6 +216,8 @@ country_event = {
 					has_pop_culture = dravidian
 					has_pop_culture = punjabi
 					has_pop_culture = afro_asiatic 
+					has_pop_culture = nepali
+					has_pop_culture = mashriqi
                 }
             }
             literacy = 0.04
@@ -270,6 +271,7 @@ country_event = {
                     has_pop_culture = burgundian
                     has_pop_culture = dutch
 					has_pop_culture = vinlander
+					has_pop_culture = finnish
                 }
             }
             literacy = 0.59
@@ -287,7 +289,6 @@ country_event = {
         any_pop = {
             limit = {
                 OR = {
-                    has_pop_culture = finnish
                     has_pop_culture = latvian
                     has_pop_culture = estonian
 					has_pop_culture = lusitanian
@@ -318,7 +319,6 @@ country_event = {
         any_pop = {
             limit = {
                 OR = {
-
 					has_pop_culture = venetian
                 }
             }
@@ -350,6 +350,7 @@ country_event = {
                 OR = {
 					has_pop_culture = provencal
 					has_pop_culture = hungarian
+					has_pop_culture = spanish
 					has_pop_culture = breton
 					has_pop_culture = irish
 					has_pop_culture = french
@@ -369,15 +370,12 @@ country_event = {
             }
             literacy = 0.24
         }
-		
 		any_pop = {
             limit = {
                 OR = {
-                    has_pop_culture = serb
 					has_pop_culture = bulgarian 
 					has_pop_culture = albanian
 					has_pop_culture = qingqiuan
-					has_pop_culture = armenian
 					has_pop_culture = quechua
                 }
             }
@@ -391,7 +389,6 @@ country_event = {
 					has_pop_culture = ukrainian
 					has_pop_culture = north_caucasian
 					has_pop_culture = bedouin
-					has_pop_culture = spanish
 					has_pop_culture = japanese
                 }
             }
@@ -401,9 +398,10 @@ country_event = {
             limit = {
                 OR = {
 					has_pop_culture = korean
-					has_pop_culture = caribeno
-					has_pop_culture = afro_caribeno
+					has_pop_culture = aryan
 					has_pop_culture = russian
+					has_pop_culture = croat
+					has_pop_culture = serb
                 }
             }
             literacy = 0.17
@@ -411,7 +409,7 @@ country_event = {
 		any_pop = {
             limit = {
                 OR = {
-					has_pop_culture = nepali
+					has_pop_culture = armenian
                 }
             }
             literacy = 0.14
@@ -422,7 +420,6 @@ country_event = {
 					has_pop_culture = central_american
 					has_pop_culture = misri
 					has_pop_culture = mexican
-					has_pop_culture = mashriqi
 					has_pop_culture = maghrebi
 					has_pop_culture = granadan
 					has_pop_culture = turkish
@@ -440,7 +437,7 @@ country_event = {
 					has_pop_culture = mongol
 					has_pop_culture = tibetan
 					has_pop_culture = burmese
-                }
+				}
             }
             literacy = 0.09
         }
@@ -455,6 +452,8 @@ country_event = {
 					has_pop_culture = dravidian
 					has_pop_culture = punjabi
 					has_pop_culture = afro_asiatic 
+					has_pop_culture = nepali
+					has_pop_culture = mashriqi
                 }
             }
             literacy = 0.04
