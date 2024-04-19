@@ -40,8 +40,8 @@ political_decisions = {
 			NOT = {has_country_flag = shining_liberty_clm}
 		}
 		allow = {
-			state_n_government = 1
-			functionalism = 1
+			nationalism_n_imperialism = 1
+			biologism = 1
 		}
 		effect = {
 			set_country_flag = shining_liberty_clm
@@ -49,6 +49,45 @@ political_decisions = {
 				name = the_homestead_act 
 				duration = -1
 			}
+		}
+	}
+	Congress_CLM = { 
+		potential = { 
+			tag = CLM
+	        war= no
+			NOT = { has_country_flag = fired_congress }
+		}
+		
+		allow = { 
+           ideological_thought = 1
+		}
+		
+		effect = { 
+			set_country_flag = fired_congress
+			any_pop = {
+			limit = {
+				OR = { 
+					NOT = { culture = mexican }
+					NOT = { culture = lusitanian }
+					NOT = { culture = central_american }
+					}
+			}
+			militancy = 2
+      		consciousness = 4
+		}
+		government = democracy
+		political_reform = state_equal_weight
+		political_reform = universal_weighted_voting
+		political_reform = yes_meeting
+		political_reform = free_press
+		political_reform = non_socialist
+		political_reform = first_past_the_post
+		political_reform = non_secret_ballots
+		prestige = 25
+		}
+		
+		ai_will_do =  {
+		factor = 1
 		}
 	}
 }

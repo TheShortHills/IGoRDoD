@@ -108,4 +108,21 @@ political_decisions = {
 			FRA_411 = {add_core = THIS}
 		}
 	}
+	core_provence = {
+		potential = {
+			tag = DUA
+			OR = {
+				has_country_flag = french_path
+				has_country_flag = dual_path
+			}
+			NOT = {has_country_flag = core_provence}
+		}
+		allow = {
+			PRV = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			set_country_flag = core_provence
+			PRV = {all_core ={add_core =THIS}}
+		}
+	}
 }

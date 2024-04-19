@@ -1229,7 +1229,7 @@
     craftsmen = {
         culture = north_german
         religion = protestant
-        size = 7535
+        size = 7987
     }
 
     artisans = {
@@ -1289,7 +1289,7 @@
     craftsmen = {
         culture = north_german
         religion = catholic
-        size = 173
+        size = 183
     }
 
     artisans = {
@@ -1325,7 +1325,7 @@
     craftsmen = {
         culture = north_german
         religion = jewish
-        size = 577
+        size = 611
     }
 
     artisans = {
@@ -1343,7 +1343,7 @@
     craftsmen = {
         culture = czech
         religion = catholic
-        size = 173
+        size = 183
     }
 
     artisans = {
@@ -1930,7 +1930,7 @@
     craftsmen = {
         culture = north_german
         religion = protestant
-        size = 1760
+        size = 1865
     }
 
     artisans = {
@@ -1966,7 +1966,7 @@
     craftsmen = {
         culture = north_german
         religion = catholic
-        size = 201
+        size = 213
     }
 
     artisans = {
@@ -2002,7 +2002,7 @@
     craftsmen = {
         culture = north_german
         religion = jewish
-        size = 173
+        size = 183
     }
 
     artisans = {
@@ -2034,7 +2034,7 @@
     craftsmen = {
         culture = north_german
         religion = protestant
-        size = 1241
+        size = 1315
     }
 
     artisans = {
@@ -2070,7 +2070,7 @@
     craftsmen = {
         culture = north_german
         religion = jewish
-        size = 86
+        size = 91
     }
 
     artisans = {

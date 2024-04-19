@@ -41,7 +41,7 @@
     craftsmen = {
         culture = pomeranian
         religion = protestant
-        size = 5400
+        size = 5724
     }
 
     soldiers = {
@@ -359,7 +359,7 @@
     craftsmen = {
         culture = czech
         religion = protestant
-        size = 19635
+        size = 20813
     }
 
     artisans = {
@@ -425,7 +425,7 @@
     craftsmen = {
         culture = czech
         religion = jewish
-        size = 173
+        size = 183
     }
 
     artisans = {
@@ -461,7 +461,7 @@
     craftsmen = {
         culture = czech
         religion = catholic
-        size = 1155
+        size = 1224
     }
 
     soldiers = {
@@ -523,7 +523,7 @@
     craftsmen = {
         culture = czech
         religion = protestant
-        size = 6237
+        size = 6611
     }
 
     soldiers = {
@@ -681,7 +681,7 @@
     craftsmen = {
         culture = czech
         religion = catholic
-        size = 1155
+        size = 1224
     }
 
     soldiers = {
@@ -735,7 +735,7 @@
     craftsmen = {
         culture = czech
         religion = catholic
-        size = 3465
+        size = 3672
     }
 
     soldiers = {
@@ -875,7 +875,7 @@
     craftsmen = {
         culture = czech
         religion = catholic
-        size = 1155
+        size = 1224
     }
 
     soldiers = {
@@ -905,7 +905,7 @@
     craftsmen = {
         culture = czech
         religion = catholic
-        size = 231
+        size = 244
     }
 
     soldiers = {

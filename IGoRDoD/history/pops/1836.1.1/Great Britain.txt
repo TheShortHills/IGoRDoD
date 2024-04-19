@@ -54,7 +54,7 @@
     craftsmen = {
         culture = scottish
         religion = protestant
-        size = 5000
+        size = 5300
     }
 
     soldiers = {
@@ -149,7 +149,7 @@
     craftsmen = {
         culture = scottish
         religion = protestant
-        size = 5060
+        size = 5363
     }
 
     artisans = {
@@ -185,7 +185,7 @@
     craftsmen = {
         culture = scottish
         religion = catholic
-        size = 1897
+        size = 2010
     }
 
     artisans = {
@@ -203,7 +203,7 @@
     craftsmen = {
         culture = scandinavian
         religion = catholic
-        size = 100
+        size = 106
     }
 
     artisans = {
@@ -273,7 +273,7 @@
     craftsmen = {
         culture = scottish
         religion = protestant
-        size = 17077
+        size = 18101
     }
 
     artisans = {
@@ -315,7 +315,7 @@
     craftsmen = {
         culture = scandinavian
         religion = catholic
-        size = 10000
+        size = 10600
     }
 
     artisans = {

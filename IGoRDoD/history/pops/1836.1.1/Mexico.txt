@@ -35,7 +35,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 153
+        size = 127
     }
 
     farmers = {
@@ -65,7 +65,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 61
+        size = 47
     }
 
     farmers = {
@@ -77,6 +77,24 @@
     soldiers = {
         culture = mexican
         religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
         size = 2
     }
 
@@ -89,25 +107,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 123
+        size = 100
     }
 
     soldiers = {
@@ -125,7 +125,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 2
+        size = 0
     }
 
     soldiers = {
@@ -137,7 +137,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 60
+        size = 47
     }
 }
 #Nogales (12000/3000 POPS)
@@ -163,7 +163,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 12
+        size = 6
     }
 
     farmers = {
@@ -193,7 +193,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 20
+        size = 14
     }
 
     farmers = {
@@ -211,25 +211,25 @@
     soldiers = {
         culture = mexican
         religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = animist
         size = 10
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 15
     }
 }
 #Guaymas (52000/13000 POPS)
@@ -255,7 +255,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 123
+        size = 100
     }
 
     farmers = {
@@ -285,7 +285,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 20
+        size = 14
     }
 
     farmers = {
@@ -297,31 +297,31 @@
     soldiers = {
         culture = mexican
         religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
         size = 2
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 113
+        size = 92
     }
 
     soldiers = {
@@ -339,13 +339,13 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = animist
-        size = 22
+        size = 15
     }
 }
 #Baja California Region (20000)
@@ -373,7 +373,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 12
+        size = 6
     }
 
     farmers = {
@@ -385,7 +385,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 10
+        size = 4
     }
 }
 #Rosarito (16000/4000 POPS)
@@ -423,7 +423,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 30
+        size = 23
     }
 
     farmers = {
@@ -453,7 +453,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 20
+        size = 14
     }
 
     farmers = {
@@ -477,13 +477,13 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 21
+        size = 14
     }
 
     soldiers = {
@@ -501,7 +501,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 15
+        size = 10
     }
 }
 #Chihuahua Region (136000)
@@ -541,7 +541,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 278
+        size = 233
     }
 
     farmers = {
@@ -571,7 +571,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 20
+        size = 14
     }
 
     farmers = {
@@ -583,61 +583,61 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 0
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 13
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 250
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
         size = 1
     }
 
     soldiers = {
         culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 7
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 209
+    }
+
+    soldiers = {
+        culture = mexican
         religion = animist
-        size = 22
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = animist
+        size = 15
     }
 }
 #Paso del Norte (12000/3000 POPS)
@@ -663,7 +663,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 30
+        size = 23
     }
 
     farmers = {
@@ -687,13 +687,13 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 33
+        size = 24
     }
 }
 #Delicias (8000/2000 POPS)
@@ -719,7 +719,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 30
+        size = 23
     }
 
     farmers = {
@@ -743,13 +743,13 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 21
+        size = 14
     }
 }
 #Parral (16000/4000 POPS)
@@ -775,7 +775,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 12
+        size = 6
     }
 
     farmers = {
@@ -805,7 +805,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 20
+        size = 14
     }
 
     farmers = {
@@ -817,7 +817,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 10
+        size = 4
     }
 
     soldiers = {
@@ -835,13 +835,13 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = animist
-        size = 22
+        size = 15
     }
 }
 #Coahuila Region (160000)
@@ -869,7 +869,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 30
+        size = 23
     }
 
     farmers = {
@@ -893,13 +893,13 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 33
+        size = 24
     }
 }
 #Saltillo (44000/11000 POPS)
@@ -937,7 +937,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 92
+        size = 74
     }
 
     farmers = {
@@ -961,7 +961,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 20
+        size = 14
     }
 
     farmers = {
@@ -973,12 +973,6 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
         size = 0
     }
 
@@ -997,37 +991,43 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
         size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 88
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
         size = 1
     }
 
     soldiers = {
         culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 70
+    }
+
+    soldiers = {
+        culture = mexican
         religion = animist
-        size = 22
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = animist
+        size = 15
     }
 }
 #Monclova (48000/12000 POPS)
@@ -1053,7 +1053,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 153
+        size = 127
     }
 
     farmers = {
@@ -1065,31 +1065,31 @@
     soldiers = {
         culture = mexican
         religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
         size = 2
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 7
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 136
+        size = 111
     }
 }
 #Torreon (56000/14000 POPS)
@@ -1115,7 +1115,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 153
+        size = 127
     }
 
     farmers = {
@@ -1139,7 +1139,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 20
+        size = 14
     }
 
     farmers = {
@@ -1151,31 +1151,31 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 3
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 6
+        size = 2
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 123
+        size = 100
     }
 
     soldiers = {
@@ -1187,13 +1187,13 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = animist
-        size = 22
+        size = 15
     }
 }
 #Nuevo Leon-Tamaulipas Region (172000)
@@ -1233,7 +1233,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 247
+        size = 205
     }
 
     farmers = {
@@ -1257,7 +1257,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 61
+        size = 47
     }
 
     farmers = {
@@ -1269,43 +1269,43 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 0
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 0
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
         size = 2
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 11
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 212
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 176
     }
 
     soldiers = {
@@ -1317,7 +1317,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 2
+        size = 0
     }
 
     soldiers = {
@@ -1329,7 +1329,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 53
+        size = 42
     }
 }
 #Reynosa (16000/4000 POPS)
@@ -1355,7 +1355,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 61
+        size = 47
     }
 
     farmers = {
@@ -1367,7 +1367,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
@@ -1379,7 +1379,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
@@ -1391,7 +1391,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 45
+        size = 35
     }
 }
 #Matamoros (28000/7000 POPS)
@@ -1417,7 +1417,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 92
+        size = 74
     }
 
     farmers = {
@@ -1429,7 +1429,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
@@ -1441,7 +1441,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 3
+        size = 0
     }
 
     soldiers = {
@@ -1453,7 +1453,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 78
+        size = 63
     }
 }
 #Ciudad Victoria (24000/6000 POPS)
@@ -1479,7 +1479,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 61
+        size = 47
     }
 
     farmers = {
@@ -1491,7 +1491,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
@@ -1503,7 +1503,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 3
+        size = 0
     }
 
     soldiers = {
@@ -1515,7 +1515,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 67
+        size = 52
     }
 }
 #Durango-Sinaloa Region (252000)
@@ -1543,7 +1543,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 186
+        size = 154
     }
 
     farmers = {
@@ -1573,7 +1573,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 20
+        size = 14
     }
 
     farmers = {
@@ -1585,37 +1585,37 @@
     soldiers = {
         culture = mexican
         religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
         size = 3
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 8
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 158
+        size = 130
     }
 
     soldiers = {
         culture = mexican
         religion = animist
-        size = 15
+        size = 10
     }
 }
 #Santa Maria del Oro (44000/11000 POPS)
@@ -1641,7 +1641,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 123
+        size = 100
     }
 
     farmers = {
@@ -1671,7 +1671,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 20
+        size = 14
     }
 
     farmers = {
@@ -1683,7 +1683,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
@@ -1695,25 +1695,25 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
         size = 1
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 103
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 83
     }
 
     soldiers = {
         culture = mexican
         religion = animist
-        size = 15
+        size = 10
     }
 }
 #Mazatlan (116000/29000 POPS)
@@ -1751,7 +1751,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 372
+        size = 312
     }
 
     farmers = {
@@ -1763,43 +1763,43 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 7
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 0
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 0
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
         size = 2
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 17
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 3
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 328
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 11
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 273
     }
 }
 #Culiacan (28000/7000 POPS)
@@ -1825,7 +1825,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 92
+        size = 74
     }
 
     farmers = {
@@ -1837,7 +1837,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
@@ -1849,7 +1849,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 3
+        size = 0
     }
 
     soldiers = {
@@ -1861,7 +1861,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 78
+        size = 63
     }
 }
 #Zacatecas-Aguascalientes Region (568000)
@@ -1901,7 +1901,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 527
+        size = 441
     }
 
     farmers = {
@@ -1925,7 +1925,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 558
+        size = 469
     }
 
     farmers = {
@@ -1937,67 +1937,67 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 21
+        size = 14
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 5
+        size = 1
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 47
+        size = 36
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 5
+        size = 1
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 441
+        size = 368
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 26
+        size = 18
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 5
+        size = 1
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 505
+        size = 425
     }
 }
 #Aguascalientes (152000/38000 POPS)
@@ -2023,7 +2023,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 496
+        size = 416
     }
 
     farmers = {
@@ -2035,31 +2035,31 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 10
+        size = 4
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 5
+        size = 1
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 18
+        size = 12
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 5
+        size = 1
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 437
+        size = 366
     }
 }
 #Tepic (76000/19000 POPS)
@@ -2085,7 +2085,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 186
+        size = 154
     }
 
     farmers = {
@@ -2109,7 +2109,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 40
+        size = 30
     }
 
     farmers = {
@@ -2121,31 +2121,31 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
         size = 1
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 8
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 3
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 190
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 156
     }
 
     soldiers = {
@@ -2157,7 +2157,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 1
+        size = 0
     }
 
     soldiers = {
@@ -2169,7 +2169,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 30
+        size = 23
     }
 }
 #Potosi-Guanajuato Region (1356000)
@@ -2197,7 +2197,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 621
+        size = 522
     }
 
     farmers = {
@@ -2221,7 +2221,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 435
+        size = 364
     }
 
     farmers = {
@@ -2233,31 +2233,19 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 20
+        size = 14
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 5
+        size = 1
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 30
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 608
+        size = 23
     }
 
     soldiers = {
@@ -2269,19 +2257,31 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 20
+        size = 511
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 3
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 382
+        size = 14
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 320
     }
 }
 #Guanajuato (672000/168000 POPS)
@@ -2319,7 +2319,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 621
+        size = 522
     }
 
     farmers = {
@@ -2343,7 +2343,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1305
+        size = 1102
     }
 
     farmers = {
@@ -2355,31 +2355,55 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 42
+        size = 31
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 7
+        size = 2
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 42
+        size = 31
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 7
+        size = 2
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 38
+        size = 28
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 578
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 51
     }
 
     soldiers = {
@@ -2391,31 +2415,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 687
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 65
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 12
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 1235
+        size = 1043
     }
 
     craftsmen = {
@@ -2447,7 +2447,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 621
+        size = 522
     }
 
     farmers = {
@@ -2471,7 +2471,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 713
+        size = 601
     }
 
     farmers = {
@@ -2483,31 +2483,19 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 22
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
         size = 15
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 6
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 301
+        size = 10
     }
 
     soldiers = {
@@ -2519,19 +2507,31 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 35
+        size = 250
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 7
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 735
+        size = 25
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 620
     }
 }
 #Veracruz-Tabasco Region (328000)
@@ -2571,7 +2571,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 61
+        size = 47
     }
 
     farmers = {
@@ -2595,7 +2595,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 278
+        size = 233
     }
 
     farmers = {
@@ -2619,7 +2619,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 123
+        size = 100
     }
 
     farmers = {
@@ -2631,25 +2631,19 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 17
+        size = 11
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 6
+        size = 0
     }
 
     soldiers = {
@@ -2667,31 +2661,13 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 20
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 12
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 251
+        size = 14
     }
 
     soldiers = {
@@ -2709,13 +2685,37 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 116
+        size = 210
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 95
     }
 }
 #Tampico (80000/20000 POPS)
@@ -2741,7 +2741,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 30
+        size = 23
     }
 
     farmers = {
@@ -2765,7 +2765,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 247
+        size = 205
     }
 
     farmers = {
@@ -2777,25 +2777,13 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
         size = 1
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 16
+        size = 0
     }
 
     soldiers = {
@@ -2813,13 +2801,25 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 211
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 175
     }
 }
 #Minatitlan (48000/12000 POPS)
@@ -2845,7 +2845,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 30
+        size = 23
     }
 
     farmers = {
@@ -2869,13 +2869,31 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 153
+        size = 127
     }
 
     farmers = {
         culture = mexican
         religion = catholic
         size = 70222
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
     }
 
     soldiers = {
@@ -2893,13 +2911,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 0
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 7
+        size = 2
     }
 
     soldiers = {
@@ -2911,19 +2923,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 128
+        size = 105
     }
 }
 #Villahermosa (60000/15000 POPS)
@@ -2949,7 +2949,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 61
+        size = 47
     }
 
     farmers = {
@@ -2979,7 +2979,7 @@
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 195
+        size = 162
     }
 
     farmers = {
@@ -2991,19 +2991,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
@@ -3015,7 +3003,19 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 30
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 23
     }
 }
 #Jalisco Region (448000)
@@ -3061,7 +3061,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 807
+        size = 680
     }
 
     farmers = {
@@ -3085,7 +3085,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 153
+        size = 127
     }
 
     farmers = {
@@ -3097,49 +3097,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 18
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 7
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 125
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 23
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 7
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 613
+        size = 12
     }
 
     soldiers = {
@@ -3151,19 +3109,61 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 6
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 2
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 128
+        size = 103
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 16
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 516
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 105
     }
 }
 #Puerto Vallarta (148000/37000 POPS)
@@ -3189,7 +3189,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 310
+        size = 259
     }
 
     farmers = {
@@ -3213,7 +3213,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 186
+        size = 154
     }
 
     farmers = {
@@ -3225,31 +3225,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 8
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 15
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 270
+        size = 3
     }
 
     soldiers = {
@@ -3261,19 +3237,43 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 7
+        size = 10
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 151
+        size = 225
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 123
     }
 }
 #Michoacan Region (568000)
@@ -3301,7 +3301,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 341
+        size = 284
     }
 
     farmers = {
@@ -3313,31 +3313,31 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 7
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
         size = 2
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 16
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 11
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 307
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 257
     }
 }
 #Morelia (348000/87000 POPS)
@@ -3375,7 +3375,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 651
+        size = 549
     }
 
     farmers = {
@@ -3399,7 +3399,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 465
+        size = 389
     }
 
     farmers = {
@@ -3411,13 +3411,55 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 21
+        size = 14
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
         size = 2
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 23
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 476
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 15
     }
 
     soldiers = {
@@ -3429,49 +3471,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 31
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 568
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 22
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 422
+        size = 354
     }
 }
 #Los Alaniles (112000/28000 POPS)
@@ -3497,7 +3497,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 247
+        size = 205
     }
 
     farmers = {
@@ -3521,7 +3521,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 123
+        size = 100
     }
 
     farmers = {
@@ -3533,31 +3533,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 7
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
         size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 13
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 225
     }
 
     soldiers = {
@@ -3569,7 +3545,25 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 5
+        size = 7
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 187
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
     }
 
     soldiers = {
@@ -3581,7 +3575,13 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 92
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 74
     }
 }
 #Mexico Region (720000)
@@ -3639,7 +3639,7 @@
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 993
+        size = 838
     }
 
     farmers = {
@@ -3675,7 +3675,7 @@
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 621
+        size = 522
     }
 
     farmers = {
@@ -3687,85 +3687,37 @@
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 20
+        size = 14
     }
 
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 3
+        size = 0
     }
 
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 10
+        size = 4
     }
 
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 125
+        size = 103
     }
 
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 125
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 12
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 100
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 10
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 567
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 2
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 125
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 112
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 2
+        size = 103
     }
 
     soldiers = {
@@ -3777,7 +3729,55 @@
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 363
+        size = 81
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 475
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 103
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 91
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 304
     }
 }
 #Toluca (212000/53000 POPS)
@@ -3803,7 +3803,7 @@
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 8705
+        size = 7374
     }
 
     farmers = {
@@ -3827,7 +3827,7 @@
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 435
+        size = 364
     }
 
     farmers = {
@@ -3839,55 +3839,55 @@
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 12
+        size = 6
     }
 
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 11
+        size = 5
     }
 
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 87
+        size = 70
     }
 
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 122
+        size = 98
     }
 
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 21
+        size = 14
     }
 
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 3
+        size = 0
     }
 
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 398
+        size = 334
     }
 }
 #Puebla-Hidalgo Region (692000)
@@ -3915,7 +3915,7 @@
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 247
+        size = 205
     }
 
     farmers = {
@@ -3939,7 +3939,7 @@
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 372
+        size = 312
     }
 
     farmers = {
@@ -3951,55 +3951,55 @@
     soldiers = {
         culture = lusitanian
         religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 174
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
         size = 11
     }
 
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 11
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 2
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 210
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 1
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 17
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 3
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 328
+        size = 273
     }
 }
 #Puebla (504000/126000 POPS)
@@ -4037,7 +4037,7 @@
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 8705
+        size = 7374
     }
 
     farmers = {
@@ -4061,7 +4061,7 @@
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 932
+        size = 787
     }
 
     farmers = {
@@ -4073,43 +4073,19 @@
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 31
+        size = 23
     }
 
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 3
+        size = 0
     }
 
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 2
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 11
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 106
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 87
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 421
+        size = 0
     }
 
     soldiers = {
@@ -4121,19 +4097,43 @@
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 81
+        size = 86
     }
 
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 8
+        size = 70
     }
 
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 821
+        size = 353
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 64
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 3
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 692
     }
 }
 #Oaxaca Region (452000)
@@ -4173,7 +4173,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 8705
+        size = 7374
     }
 
     farmers = {
@@ -4197,7 +4197,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 870
+        size = 734
     }
 
     farmers = {
@@ -4209,7 +4209,19 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 20
+        size = 14
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
     }
 
     soldiers = {
@@ -4221,31 +4233,31 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 14
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 5
+        size = 70
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 21
+        size = 164
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 87
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 198
+        size = 43
     }
 
     soldiers = {
@@ -4257,19 +4269,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 56
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 8
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 821
+        size = 692
     }
 }
 #Collataro (100000/25000 POPS)
@@ -4295,7 +4295,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 61
+        size = 47
     }
 
     farmers = {
@@ -4319,25 +4319,13 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 247
+        size = 205
     }
 
     farmers = {
         culture = mexican
         religion = catholic
         size = 18605
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 1
     }
 
     soldiers = {
@@ -4355,31 +4343,43 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 50
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 13
+        size = 38
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 235
+        size = 7
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 194
     }
 }
 #Guerrero Region (246000)
@@ -4419,7 +4419,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 310
+        size = 259
     }
 
     farmers = {
@@ -4443,7 +4443,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 278
+        size = 233
     }
 
     farmers = {
@@ -4455,7 +4455,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 11
+        size = 5
     }
 
     soldiers = {
@@ -4473,49 +4473,49 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 3
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 13
+        size = 7
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 291
+        size = 241
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 12
+        size = 6
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 245
+        size = 204
     }
 }
 #Chilpancingo (80000/20000 POPS)
@@ -4541,7 +4541,7 @@
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 123
+        size = 100
     }
 
     farmers = {
@@ -4565,7 +4565,7 @@
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 153
+        size = 127
     }
 
     farmers = {
@@ -4577,31 +4577,7 @@
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 5
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
         size = 1
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 5
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 1
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
-        size = 98
     }
 
     soldiers = {
@@ -4613,19 +4589,43 @@
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 6
-    }
-
-    soldiers = {
-        culture = lusitanian
-        religion = catholic
         size = 1
     }
 
     soldiers = {
         culture = lusitanian
         religion = catholic
-        size = 128
+        size = 0
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 79
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = lusitanian
+        religion = catholic
+        size = 105
     }
 }
 #Chiapas Region (124000)
@@ -4707,7 +4707,7 @@
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 272
+        size = 227
     }
 
     farmers = {
@@ -4719,25 +4719,25 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 3
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 38
+        size = 28
     }
 }
 #Tapachula (40000/10000 POPS)
@@ -4787,7 +4787,7 @@
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 156
+        size = 129
     }
 
     farmers = {
@@ -4799,25 +4799,25 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 42
+        size = 31
     }
 }
 #Yucatan Region (440000)
@@ -4857,7 +4857,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 621
+        size = 522
     }
 
     farmers = {
@@ -4905,7 +4905,7 @@
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 625
+        size = 527
     }
 
     farmers = {
@@ -4917,31 +4917,25 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 15
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
         size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 12
     }
 
     soldiers = {
@@ -4953,7 +4947,13 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 218
+        size = 2
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 181
     }
 }
 #Camnpeche (108000/27000 POPS)
@@ -5015,7 +5015,7 @@
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 468
+        size = 392
     }
 
     farmers = {
@@ -5027,25 +5027,25 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
         size = 2
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 5
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 86
+        size = 1
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 70
     }
 }
 #Bacalar (92000/23000 POPS)
@@ -5107,7 +5107,7 @@
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 351
+        size = 293
     }
 
     farmers = {
@@ -5119,13 +5119,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
@@ -5137,6 +5131,12 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 15
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 10
     }
 }

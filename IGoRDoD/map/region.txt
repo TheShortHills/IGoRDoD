@@ -1443,13 +1443,15 @@ TUS_744 = { 744 745 747 748 740 746 } #Toscana
 
 PAP_741 = { 741 742 743 739 738 } #Emilia-Romagna
 
-PAP_752 = { 749 750 754 2567 755 3258 } #Lazio-Compania
+PAP_752 = {  754 2567 755 3258 } #Lazio-Compania
+
+PAP_749 = { 749 750 751 752 }
 
 #SIC_754 = { 754 2567 755 } #Campania
 
 SIC_756 = { 756 759 761 760 758 3259 } #Apulia-Calabria
 
-ITA_753 = { 752 753 751 757 3260 } #Abruzzo-Marche
+ITA_753 = { 753 757 3260 } #Abruzzo-Marche
 
 #PAP_752 = { 749 752 750 751 } #Lazio
 

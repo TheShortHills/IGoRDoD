@@ -41,7 +41,7 @@
     craftsmen = {
         culture = czech
         religion = catholic
-        size = 130515
+        size = 138345
     }
 
     soldiers = {
@@ -119,7 +119,7 @@
     craftsmen = {
         culture = czech
         religion = jewish
-        size = 2136
+        size = 2264
     }
 
     artisans = {
@@ -373,7 +373,7 @@
     craftsmen = {
         culture = czech
         religion = catholic
-        size = 3465
+        size = 3672
     }
 
     soldiers = {
@@ -409,7 +409,7 @@
     craftsmen = {
         culture = czech
         religion = catholic
-        size = 3465
+        size = 3672
     }
 
     soldiers = {
@@ -471,7 +471,7 @@
     craftsmen = {
         culture = czech
         religion = catholic
-        size = 2310
+        size = 2448
     }
 
     soldiers = {
@@ -513,7 +513,7 @@
     craftsmen = {
         culture = czech
         religion = catholic
-        size = 2310
+        size = 2448
     }
 
     soldiers = {

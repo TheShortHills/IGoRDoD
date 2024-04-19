@@ -266,11 +266,13 @@
         religion = protestant
         size = 2750
     }
+
     craftsmen = {
         culture = scandinavian
         religion = protestant
-        size = 3825
+        size = 4054
     }
+
     officers = {
         culture = scandinavian
         religion = protestant

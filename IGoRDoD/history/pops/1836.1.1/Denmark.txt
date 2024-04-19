@@ -33,11 +33,13 @@
         religion = protestant
         size = 825
     }
+
     craftsmen = {
         culture = scandinavian
         religion = protestant
-        size = 4825
+        size = 5114
     }
+
     bureaucrats = {
         culture = scandinavian
         religion = protestant
@@ -204,43 +206,43 @@
     }
 
     aristocrats = {
-        culture = pomeranian 
+        culture = pomeranian
         religion = protestant
         size = 1315
     }
 
     bureaucrats = {
-        culture = pomeranian  
+        culture = pomeranian
         religion = protestant
         size = 202
     }
 
     officers = {
-        culture = pomeranian  
+        culture = pomeranian
         religion = protestant
         size = 303
     }
 
     clergymen = {
-        culture = pomeranian  
+        culture = pomeranian
         religion = protestant
         size = 505
     }
 
     artisans = {
-        culture = pomeranian  
+        culture = pomeranian
         religion = protestant
         size = 5062
     }
 
     soldiers = {
-        culture = pomeranian  
+        culture = pomeranian
         religion = protestant
         size = 1012
     }
 
     farmers = {
-        culture = pomeranian  
+        culture = pomeranian
         religion = protestant
         size = 78670
     }
@@ -272,31 +274,31 @@
     }
 
     aristocrats = {
-        culture = pomeranian  
+        culture = pomeranian
         religion = protestant
         size = 202
     }
 
     clergymen = {
-        culture = pomeranian  
+        culture = pomeranian
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = pomeranian  
+        culture = pomeranian
         religion = protestant
         size = 505
     }
 
     soldiers = {
-        culture = pomeranian   
+        culture = pomeranian
         religion = protestant
         size = 100
     }
 
     farmers = {
-        culture = pomeranian  
+        culture = pomeranian
         religion = protestant
         size = 13263
     }
@@ -309,11 +311,13 @@
         religion = protestant
         size = 2062
     }
+
     craftsmen = {
         culture = scandinavian
         religion = protestant
-        size = 50825
+        size = 53874
     }
+
     bureaucrats = {
         culture = scandinavian
         religion = protestant
@@ -369,7 +373,7 @@
     }
 
     artisans = {
-        culture = pomeranian 
+        culture = pomeranian
         religion = protestant
         size = 2227
     }

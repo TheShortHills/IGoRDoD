@@ -867,7 +867,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 17
+        size = 11
     }
 
     farmers = {
@@ -897,7 +897,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 31
+        size = 23
     }
 
     farmers = {
@@ -909,7 +909,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 11
+        size = 5
     }
 }
 #Idaho Region (24000)
@@ -1231,7 +1231,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 31
+        size = 23
     }
 
     farmers = {
@@ -1263,7 +1263,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 31
+        size = 23
     }
 
     farmers = {
@@ -1293,7 +1293,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 18
+        size = 12
     }
 
     farmers = {
@@ -1326,7 +1326,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 31
+        size = 23
     }
 
     farmers = {
@@ -1362,7 +1362,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 5
+        size = 1
     }
 
     farmers = {
@@ -1374,7 +1374,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 0
     }
 }
 #New Mexico Region (56000)
@@ -1530,7 +1530,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 31
+        size = 23
     }
 
     farmers = {
@@ -1560,7 +1560,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 30
+        size = 23
     }
 
     farmers = {
@@ -1578,13 +1578,13 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 22
+        size = 15
     }
 }
 #Las Cruces (4000/1000 POPS)
@@ -1610,7 +1610,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 18
+        size = 12
     }
 
     farmers = {
@@ -2774,7 +2774,7 @@
     soldiers = {
         culture = mexican
         religion = protestant
-        size = 1375
+        size = 1162
     }
 
     farmers = {
@@ -2810,7 +2810,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 6
+        size = 2
     }
 
     farmers = {
@@ -2854,7 +2854,7 @@
     soldiers = {
         culture = mexican
         religion = protestant
-        size = 1375
+        size = 1162
     }
 
     farmers = {
@@ -2890,7 +2890,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 6
+        size = 2
     }
 
     farmers = {
@@ -2920,7 +2920,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 8
+        size = 3
     }
 
     farmers = {
@@ -2952,7 +2952,7 @@
     soldiers = {
         culture = mexican
         religion = protestant
-        size = 1375
+        size = 1162
     }
 
     farmers = {
@@ -2988,7 +2988,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 6
+        size = 2
     }
 
     farmers = {
@@ -3018,7 +3018,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 8
+        size = 3
     }
 
     farmers = {
@@ -3050,7 +3050,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 18
+        size = 12
     }
 
     farmers = {
@@ -3080,7 +3080,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 12
+        size = 6
     }
 
     farmers = {
@@ -3092,7 +3092,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 5
+        size = 1
     }
 }
 #"ruled" by Texas/de facto under Native Control
@@ -3113,7 +3113,7 @@
     soldiers = {
         culture = mexican
         religion = protestant
-        size = 6
+        size = 2
     }
 
     farmers = {
@@ -3149,7 +3149,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 18
+        size = 12
     }
 
     farmers = {
@@ -3181,7 +3181,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 31
+        size = 23
     }
 
     farmers = {
@@ -3213,7 +3213,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 31
+        size = 23
     }
 
     farmers = {
@@ -3243,7 +3243,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 5
+        size = 1
     }
 
     farmers = {
@@ -3255,7 +3255,7 @@
     soldiers = {
         culture = mexican
         religion = catholic
-        size = 2
+        size = 0
     }
 }
 #Louisiana Region (280000)
@@ -4535,7 +4535,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 40
+        size = 29
     }
 
     farmers = {
@@ -4565,7 +4565,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 40
+        size = 29
     }
 
     farmers = {
@@ -4597,7 +4597,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 67
+        size = 48
     }
 
     farmers = {
@@ -4629,7 +4629,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 40
+        size = 29
     }
 
     farmers = {
@@ -4659,7 +4659,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 40
+        size = 29
     }
 
     farmers = {
@@ -4691,7 +4691,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 67
+        size = 48
     }
 
     farmers = {
@@ -4719,7 +4719,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 135
+        size = 98
     }
 
     farmers = {
@@ -4731,19 +4731,19 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 10
+        size = 5
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 199
+        size = 149
     }
 }
 #Eau Claire (4000/1000 POPS)
@@ -4769,7 +4769,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 40
+        size = 29
     }
 
     farmers = {
@@ -4795,7 +4795,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 67
+        size = 48
     }
 
     farmers = {
@@ -4825,7 +4825,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 40
+        size = 29
     }
 
     farmers = {
@@ -4837,13 +4837,13 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 48
+        size = 33
     }
 }
 #Madison (8000/2000 POPS)
@@ -4869,7 +4869,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 67
+        size = 48
     }
 
     farmers = {
@@ -4881,19 +4881,19 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 5
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 99
+        size = 73
     }
 }
 #Illinois Region (452000)
@@ -4915,7 +4915,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 1215
+        size = 2523
     }
 
     farmers = {
@@ -4927,19 +4927,19 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 16
+        size = 2009
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 116
+        size = 86
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 2168
+        size = 1648
     }
 }
 #Rockford (44000/11000 POPS)
@@ -4959,7 +4959,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 337
+        size = 255
     }
 
     farmers = {
@@ -4971,19 +4971,19 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 5
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 29
+        size = 20
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 553
+        size = 419
     }
 }
 #Champaign (36000/9000 POPS)
@@ -5003,7 +5003,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 270
+        size = 202
     }
 
     farmers = {
@@ -5015,19 +5015,19 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 24
+        size = 15
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 453
+        size = 342
     }
 }
 #Peoria (100000/25000 POPS)
@@ -5047,7 +5047,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 675
+        size = 0
     }
 
     farmers = {
@@ -5059,19 +5059,19 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 8
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 67
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 1260
+        size = 0
     }
 }
 #Springfield (36000/9000 POPS)
@@ -5103,7 +5103,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 270
+        size = 202
     }
 
     farmers = {
@@ -5115,31 +5115,31 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 16
+        size = 9
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 8
+        size = 3
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 24
+        size = 15
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 437
+        size = 329
     }
 }
 #Carbondale (68000/17000 POPS)
@@ -5159,7 +5159,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 472
+        size = 357
     }
 
     farmers = {
@@ -5189,19 +5189,19 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 5
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 43
+        size = 31
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 807
+        size = 612
     }
 }
 #Indiana Region (644000)
@@ -5235,7 +5235,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 1755
+        size = 0
     }
 
     farmers = {
@@ -5265,31 +5265,31 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 16
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 8
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 21
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 172
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 3469
+        size = 0
     }
 }
 #Evansville (196000/49000 POPS)
@@ -5309,7 +5309,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 1215
+        size = 0
     }
 
     farmers = {
@@ -5357,19 +5357,19 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 18
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 124
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 2319
+        size = 0
     }
 }
 #South Bend (44000/11000 POPS)
@@ -5389,7 +5389,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 337
+        size = 255
     }
 
     farmers = {
@@ -5401,19 +5401,19 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 29
+        size = 20
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 556
+        size = 422
     }
 }
 #Fort Wayne (128000/32000 POPS)
@@ -5433,31 +5433,31 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 877
+        size = 0
     }
 
     farmers = {
         culture = vinlander
         religion = protestant
-        size = 29253
+        size = 69253
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 13
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 86
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 1611
+        size = 0
     }
 }
 #Michigan Region (148000)
@@ -5491,7 +5491,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 270
+        size = 202
     }
 
     farmers = {
@@ -5515,7 +5515,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 27
+        size = 18
     }
 
     farmers = {
@@ -5545,43 +5545,43 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 5
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 48
+        size = 33
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 909
+        size = 691
     }
 
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 51
+        size = 35
     }
 }
 #Grand Rapids (POPS)
@@ -5601,7 +5601,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 202
+        size = 150
     }
 
     farmers = {
@@ -5613,19 +5613,19 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 5
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 16
+        size = 9
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 299
+        size = 226
     }
 }
 #Saginaw (POPS)
@@ -5645,7 +5645,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 135
+        size = 98
     }
 
     farmers = {
@@ -5657,19 +5657,19 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 10
+        size = 5
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 199
+        size = 149
     }
 }
 #Traverse City (POPS)
@@ -5689,7 +5689,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 67
+        size = 48
     }
 
     farmers = {
@@ -5719,7 +5719,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 40
+        size = 29
     }
 
     farmers = {
@@ -5731,19 +5731,19 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 5
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 99
+        size = 73
     }
 }
 #Marquette (POPS)
@@ -5763,7 +5763,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 40
+        size = 29
     }
 
     farmers = {
@@ -5793,7 +5793,7 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 67
+        size = 48
     }
 
     farmers = {
@@ -5805,13 +5805,13 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 51
+        size = 35
     }
 }
 #Ohio Region (1344000)
@@ -5839,7 +5839,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 1215
+        size = 2523
     }
 
     farmers = {
@@ -5869,19 +5869,19 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 18
+        size = 11
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 121
+        size = 90
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 2265
+        size = 1723
     }
 }
 #Columbus (268000/67000 POPS)
@@ -5913,7 +5913,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 1350
+        size = 1026
     }
 
     farmers = {
@@ -5961,31 +5961,31 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 35
+        size = 24
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 16
+        size = 9
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 21
+        size = 13
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 135
+        size = 98
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 2473
+        size = 1880
     }
 }
 #Sandusky (188000/47000 POPS)
@@ -6005,7 +6005,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 1012
+        size = 0
     }
 
     farmers = {
@@ -6029,25 +6029,25 @@
     farmers = {
         culture = vinlander
         religion = protestant
-        size = 9425
+        size = 29425
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 13
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 99
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 1865
+        size = 0
     }
 }
 #Dayton (224000/56000 POPS)
@@ -6067,7 +6067,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 1350
+        size = 1026
     }
 
     farmers = {
@@ -6097,19 +6097,19 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 18
+        size = 11
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 132
+        size = 97
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 2470
+        size = 1879
     }
 }
 #Cincinnati (296000/74000 POPS)
@@ -6129,7 +6129,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 1417
+        size = 1078
     }
 
     farmers = {
@@ -6195,19 +6195,19 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 21
+        size = 13
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 143
+        size = 106
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 2670
+        size = 2031
     }
 }
 #Marietta (160000/40000 POPS)
@@ -6227,7 +6227,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 1080
+        size = 2521
     }
 
     farmers = {
@@ -6257,19 +6257,19 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 13
+        size = 6
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 105
+        size = 77
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 1968
+        size = 1497
     }
 }
 #Kentucky Region (740000)
@@ -8541,7 +8541,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 2400
+        size = 3748
     }
 
     farmers = {
@@ -8597,7 +8597,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 180
+        size = 129
     }
 
     farmers = {
@@ -8653,7 +8653,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 330
+        size = 239
     }
 
     farmers = {
@@ -8709,7 +8709,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 90
+        size = 63
     }
 
     farmers = {
@@ -8739,7 +8739,7 @@
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 210
+        size = 152
     }
 
     farmers = {
@@ -8795,7 +8795,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 180
+        size = 129
     }
 
     farmers = {
@@ -8914,7 +8914,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 210
+        size = 152
     }
 
     farmers = {
@@ -8944,7 +8944,7 @@
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 60
+        size = 42
     }
 
     farmers = {
@@ -9076,7 +9076,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 12000
+        size = 8746
     }
 
     bureaucrats = {
@@ -9112,7 +9112,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 600
+        size = 436
     }
 
     farmers = {
@@ -9186,7 +9186,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 540
+        size = 392
     }
 
     farmers = {
@@ -9254,7 +9254,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 180
+        size = 229
     }
 
     farmers = {
@@ -9336,7 +9336,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 150
+        size = 107
     }
 
     farmers = {
@@ -9424,7 +9424,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 14160
+        size = 10320
     }
 
     farmers = {
@@ -9472,7 +9472,7 @@
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 210
+        size = 152
     }
 
     farmers = {
@@ -9532,7 +9532,19 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 43
+        size = 29
+    }
+
+    soldiers = {
+        culture = septiman
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = septiman
+        religion = protestant
+        size = 0
     }
 
     soldiers = {
@@ -9544,31 +9556,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = septiman
-        religion = protestant
-        size = 13
-    }
-
-    soldiers = {
-        culture = septiman
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = septiman
-        religion = protestant
-        size = 28
-    }
-
-    soldiers = {
-        culture = septiman
-        religion = protestant
-        size = 240
+        size = 0
     }
 
     soldiers = {
@@ -9580,49 +9568,61 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 1606
+        size = 173
+    }
+
+    soldiers = {
+        culture = septiman
+        religion = protestant
+        size = 11
+    }
+
+    soldiers = {
+        culture = septiman
+        religion = protestant
+        size = 1169
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 3
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 49
+        size = 34
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 369
+        size = 267
     }
 
     soldiers = {
         culture = septiman
         religion = jewish
-        size = 12
+        size = 7
     }
 }
 #Scranton (164000/41000 POPS)
@@ -9642,7 +9642,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 510
+        size = 370
     }
 
     farmers = {
@@ -9654,19 +9654,19 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 7
+        size = 3
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 49
+        size = 34
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 918
+        size = 667
     }
 }
 #Williamsport (172000/43000 POPS)
@@ -9686,7 +9686,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 510
+        size = 370
     }
 
     farmers = {
@@ -9698,19 +9698,19 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 8
+        size = 4
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 51
+        size = 35
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 962
+        size = 699
     }
 }
 #Harrisburg (292000/73000 POPS)
@@ -9730,7 +9730,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 2400
+        size = 1748
     }
 
     farmers = {
@@ -9742,19 +9742,19 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 13
+        size = 7
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 87
+        size = 62
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 1603
+        size = 1166
     }
 }
 #Pittsburgh (332000/83000 POPS)
@@ -9774,7 +9774,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 660
+        size = 479
     }
 
     farmers = {
@@ -9798,7 +9798,7 @@
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 210
+        size = 152
     }
 
     farmers = {
@@ -9846,37 +9846,37 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 9
+        size = 5
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 66
+        size = 46
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 1231
+        size = 894
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 3
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 21
+        size = 13
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 403
+        size = 291
     }
 }
 #Erie (108000/27000 POPS)
@@ -9896,7 +9896,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 330
+        size = 239
     }
 
     farmers = {
@@ -9908,19 +9908,19 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 4
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 32
+        size = 21
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 604
+        size = 438
     }
 }
 #New Jersey Region (340000)
@@ -9942,7 +9942,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 390
+        size = 282
     }
 
     farmers = {
@@ -9966,7 +9966,7 @@
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 60
+        size = 42
     }
 
     farmers = {
@@ -9996,37 +9996,37 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 4
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 37
+        size = 25
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 694
+        size = 503
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 4
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 88
+        size = 62
     }
 }
 #Trenton (96000/24000 POPS)
@@ -10058,7 +10058,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 270
+        size = 195
     }
 
     farmers = {
@@ -10094,7 +10094,7 @@
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 30
+        size = 20
     }
 
     farmers = {
@@ -10106,55 +10106,55 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 4
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 3
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 25
+        size = 16
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 506
+        size = 367
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 3
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 66
+        size = 46
     }
 }
 #Atlantic City (88000/22000 POPS)
@@ -10174,7 +10174,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 270
+        size = 195
     }
 
     farmers = {
@@ -10186,19 +10186,19 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 3
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 26
+        size = 17
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 493
+        size = 357
     }
 }
 #New York Region (2140000)
@@ -10244,7 +10244,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 12000
+        size = 8746
     }
 
     farmers = {
@@ -10322,103 +10322,103 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 3
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 16
+        size = 9
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 8
+        size = 4
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 367
+        size = 266
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 240
+        size = 173
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 240
+        size = 173
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 240
+        size = 173
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 240
+        size = 173
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 240
+        size = 173
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 201
+        size = 144
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 2043
+        size = 1486
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 12
+        size = 7
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 84
+        size = 59
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 20
+        size = 13
     }
 
     soldiers = {
         culture = septiman
         religion = jewish
-        size = 12
+        size = 7
     }
 }
 #Islip (100000/25000 POPS)
@@ -10438,7 +10438,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 300
+        size = 217
     }
 
     farmers = {
@@ -10450,19 +10450,19 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 4
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 30
+        size = 20
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 560
+        size = 406
     }
 }
 #Albany (332000/83000 POPS)
@@ -10494,7 +10494,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 2400
+        size = 1748
     }
 
     farmers = {
@@ -10530,7 +10530,7 @@
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 60
+        size = 42
     }
 
     farmers = {
@@ -10542,31 +10542,49 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 43
+        size = 29
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 12
+        size = 7
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 15
+        size = 8
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 75
+        size = 53
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 1699
+        size = 1237
+    }
+
+    soldiers = {
+        culture = septiman
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = septiman
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = septiman
+        religion = catholic
+        size = 0
     }
 
     soldiers = {
@@ -10578,25 +10596,7 @@
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 1
-    }
-
-    soldiers = {
-        culture = septiman
-        religion = catholic
-        size = 2
-    }
-
-    soldiers = {
-        culture = septiman
-        religion = catholic
-        size = 6
-    }
-
-    soldiers = {
-        culture = septiman
-        religion = catholic
-        size = 108
+        size = 77
     }
 }
 #Binghamton (352000/88000 POPS)
@@ -10616,7 +10616,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 2400
+        size = 1748
     }
 
     farmers = {
@@ -10628,19 +10628,19 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 15
+        size = 8
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 105
+        size = 74
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 1944
+        size = 1415
     }
 }
 #Buffalo (244000/61000 POPS)
@@ -10660,7 +10660,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 750
+        size = 545
     }
 
     farmers = {
@@ -10672,19 +10672,19 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 10
+        size = 6
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 73
+        size = 51
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 1365
+        size = 992
     }
 }
 #Rochester (176000/44000 POPS)
@@ -10704,7 +10704,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 540
+        size = 392
     }
 
     farmers = {
@@ -10716,19 +10716,19 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 8
+        size = 4
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 52
+        size = 35
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 985
+        size = 716
     }
 }
 #Syracuse (304000/76000 POPS)
@@ -10748,7 +10748,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 2400
+        size = 1748
     }
 
     farmers = {
@@ -10760,19 +10760,19 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 13
+        size = 7
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 91
+        size = 63
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 1672
+        size = 1216
     }
 }
 #Watertown (116000/29000 POPS)
@@ -10792,7 +10792,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 360
+        size = 260
     }
 
     farmers = {
@@ -10804,19 +10804,19 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 6
+        size = 2
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 34
+        size = 23
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 649
+        size = 471
     }
 }
 #Plattsburgh (76000/19000 POPS)
@@ -10836,7 +10836,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 240
+        size = 173
     }
 
     farmers = {
@@ -10848,19 +10848,19 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 3
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 22
+        size = 14
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 426
+        size = 308
     }
 }
 #Connecticut Region (304000)
@@ -10912,7 +10912,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 2400
+        size = 1748
     }
 
     farmers = {
@@ -10942,43 +10942,43 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 3
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 13
+        size = 7
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 13
+        size = 7
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 73
+        size = 51
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 1597
+        size = 1162
     }
 }
 #Rhode Island Region (104000)
@@ -11030,7 +11030,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 300
+        size = 217
     }
 
     farmers = {
@@ -11060,49 +11060,49 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 4
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 18
+        size = 11
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 100
+        size = 71
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 468
+        size = 339
     }
 }
 #Massachusetts Region (660000)
@@ -11178,7 +11178,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 12000
+        size = 8746
     }
 
     farmers = {
@@ -11214,7 +11214,7 @@
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 90
+        size = 63
     }
 
     farmers = {
@@ -11244,103 +11244,103 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 7
-    }
-
-    soldiers = {
-        culture = septiman
-        religion = protestant
         size = 3
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 8
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 16
+        size = 4
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 20
+        size = 9
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 342
+        size = 13
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 240
+        size = 247
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 240
+        size = 173
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 240
+        size = 173
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 240
+        size = 173
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 238
+        size = 173
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 531
+        size = 171
+    }
+
+    soldiers = {
+        culture = septiman
+        religion = protestant
+        size = 385
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 26
+        size = 17
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 70
+        size = 49
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 69
+        size = 48
     }
 }
 #New Bedford (132000/33000 POPS)
@@ -11372,7 +11372,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 360
+        size = 260
     }
 
     farmers = {
@@ -11402,31 +11402,31 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 6
+        size = 2
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 7
+        size = 3
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 27
+        size = 17
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 649
+        size = 471
     }
 }
 #Pittsfield (84000/21000 POPS)
@@ -11446,7 +11446,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 270
+        size = 195
     }
 
     farmers = {
@@ -11458,19 +11458,19 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 3
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 25
+        size = 16
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 470
+        size = 341
     }
 }
 #Vermont Region (284000)
@@ -11504,7 +11504,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 780
+        size = 566
     }
 
     farmers = {
@@ -11528,7 +11528,7 @@
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 90
+        size = 63
     }
 
     farmers = {
@@ -11540,49 +11540,49 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 3
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 2
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 12
+        size = 7
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 75
+        size = 53
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 1396
+        size = 1016
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 9
+        size = 5
     }
 
     soldiers = {
         culture = septiman
         religion = catholic
-        size = 180
+        size = 129
     }
 }
 #New Hampshire Region (276000)
@@ -11604,7 +11604,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 12000
+        size = 8746
     }
 
     clerks = {
@@ -11634,7 +11634,7 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 2400
+        size = 1748
     }
 
     farmers = {
@@ -11646,43 +11646,43 @@
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 6
-    }
-
-    soldiers = {
-        culture = septiman
-        religion = protestant
         size = 2
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 1
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 12
+        size = 0
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 27
+        size = 7
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 70
+        size = 17
     }
 
     soldiers = {
         culture = septiman
         religion = protestant
-        size = 1492
+        size = 49
+    }
+
+    soldiers = {
+        culture = septiman
+        religion = protestant
+        size = 1085
     }
 }
 #Maine Region (432000)
@@ -11716,7 +11716,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 1620
+        size = 1232
     }
 
     farmers = {
@@ -11728,31 +11728,31 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 10
-    }
-
-    soldiers = {
-        culture = vinlander
-        religion = protestant
         size = 5
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 24
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 162
+        size = 15
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 3007
+        size = 121
+    }
+
+    soldiers = {
+        culture = vinlander
+        religion = protestant
+        size = 2288
     }
 }
 #Bangor (156000/44000 POPS)
@@ -11772,7 +11772,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 1012
+        size = 2568
     }
 
     farmers = {
@@ -11796,7 +11796,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 202
+        size = 150
     }
 
     farmers = {
@@ -11808,19 +11808,19 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 13
+        size = 6
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 102
+        size = 74
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 1917
+        size = 1457
     }
 }
 #ruled by the UK
@@ -11841,7 +11841,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 135
+        size = 98
     }
 
     farmers = {
@@ -11865,7 +11865,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 67
+        size = 48
     }
 
     farmers = {
@@ -11877,18 +11877,18 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 5
+        size = 0
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 13
+        size = 6
     }
 
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 251
+        size = 188
     }
 }

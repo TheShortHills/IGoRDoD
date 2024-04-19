@@ -35,7 +35,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 3306
+        size = 2797
     }
 
     farmers = {
@@ -59,7 +59,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 3306
+        size = 2797
     }
 
     farmers = {
@@ -97,7 +97,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 3306
+        size = 2797
     }
 
     farmers = {
@@ -121,7 +121,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 71
+        size = 57
     }
 
     farmers = {
@@ -159,7 +159,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 3306
+        size = 2797
     }
 
     farmers = {
@@ -183,7 +183,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 71
+        size = 57
     }
 
     farmers = {
@@ -221,7 +221,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 3306
+        size = 2797
     }
 
     farmers = {
@@ -245,7 +245,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 25
+        size = 17
     }
 
     farmers = {
@@ -291,7 +291,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 147
+        size = 120
     }
 
     farmers = {
@@ -315,7 +315,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 25
+        size = 17
     }
 
     farmers = {
@@ -353,7 +353,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 220
+        size = 182
     }
 
     farmers = {
@@ -377,7 +377,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 71
+        size = 57
     }
 
     farmers = {
@@ -415,7 +415,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 147
+        size = 120
     }
 
     farmers = {
@@ -439,7 +439,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 25
+        size = 17
     }
 
     farmers = {
@@ -469,7 +469,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 71
+        size = 57
     }
 
     farmers = {
@@ -515,7 +515,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 445
+        size = 374
     }
 
     farmers = {
@@ -539,7 +539,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 296
+        size = 247
     }
 
     farmers = {
@@ -569,7 +569,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 25
+        size = 17
     }
 
     farmers = {
@@ -601,7 +601,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 3306
+        size = 2797
     }
 
     farmers = {
@@ -625,7 +625,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 147
+        size = 120
     }
 
     farmers = {
@@ -655,7 +655,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 25
+        size = 17
     }
 
     farmers = {
@@ -687,7 +687,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 296
+        size = 247
     }
 
     farmers = {
@@ -711,7 +711,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 147
+        size = 120
     }
 
     farmers = {
@@ -749,7 +749,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 597
+        size = 502
     }
 
     farmers = {
@@ -773,7 +773,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 147
+        size = 120
     }
 
     farmers = {
@@ -813,7 +813,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 147
+        size = 120
     }
 
     farmers = {
@@ -843,7 +843,7 @@
     soldiers = {
         culture = granadan
         religion = animist
-        size = 71
+        size = 57
     }
 
     farmers = {
@@ -887,7 +887,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 672
+        size = 566
     }
 
     farmers = {
@@ -911,7 +911,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 147
+        size = 120
     }
 
     farmers = {
@@ -950,7 +950,7 @@
     soldiers = {
         culture = granadan
         religion = catholic
-        size = 25
+        size = 17
     }
 
     farmers = {
@@ -980,7 +980,7 @@
     soldiers = {
         culture = granadan
         religion = animist
-        size = 71
+        size = 57
     }
 
     farmers = {
@@ -1012,7 +1012,7 @@
     soldiers = {
         culture = granadan
         religion = animist
-        size = 40
+        size = 30
     }
 
     farmers = {

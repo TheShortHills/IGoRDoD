@@ -29,7 +29,7 @@ army = {
 	regiment = {
 		name= "2.1st Division"
 		type = artillery
-		home = 225
+		home = 219
 	}
 	regiment = {
 		name= "3.1st Division"
@@ -68,7 +68,7 @@ army = {
 	regiment = {
 		name= "3.1st Division"
 		type = infantry
-		home = 223
+		home = 237
 	}
 	regiment = {
 		name= "4.1st Division"
@@ -78,12 +78,12 @@ army = {
 	regiment = {
 		name= "1.1st Division"
 		type = artillery
-		home = 232
+		home = 247
 	}
 	regiment = {
 		name= "2.1st Division"
 		type = artillery
-		home = 232
+		home = 234
 	}
 	regiment = {
 		name= "3.1st Division"
@@ -98,11 +98,11 @@ army = {
 	regiment = {
 		name= "5.1st Division"
 		type = artillery
-		home = 247
+		home = 225
 	}
 	regiment = {
 		name= "5.1st Division"
 		type = hussar
-		home = 247
+		home = 243
 	}
 }

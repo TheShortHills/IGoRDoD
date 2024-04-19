@@ -313,7 +313,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 54
+        size = 38
     }
 
     farmers = {
@@ -345,7 +345,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 13
+        size = 6
     }
 
     farmers = {
@@ -377,7 +377,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 40
+        size = 29
     }
 
     farmers = {
@@ -1575,7 +1575,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 40
+        size = 29
     }
 
     farmers = {
@@ -1865,7 +1865,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 27
+        size = 18
     }
 
     farmers = {
@@ -1897,7 +1897,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 54
+        size = 38
     }
 
     farmers = {
@@ -1929,7 +1929,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 67
+        size = 48
     }
 
     farmers = {
@@ -1953,7 +1953,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 40
+        size = 29
     }
 
     farmers = {
@@ -1985,7 +1985,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 67
+        size = 48
     }
 
     farmers = {
@@ -2017,7 +2017,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 40
+        size = 29
     }
 
     farmers = {
@@ -2047,7 +2047,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 40
+        size = 29
     }
 
     farmers = {
@@ -2079,7 +2079,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 67
+        size = 48
     }
 
     farmers = {
@@ -2111,7 +2111,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 40
+        size = 29
     }
 
     farmers = {
@@ -2143,7 +2143,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 13
+        size = 6
     }
 
     farmers = {
@@ -2175,7 +2175,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 40
+        size = 29
     }
 
     farmers = {
@@ -2208,7 +2208,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 2970
+        size = 2260
     }
 
     farmers = {
@@ -2234,7 +2234,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 270
+        size = 202
     }
 
     labourers = {
@@ -2260,7 +2260,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 540
+        size = 410
     }
 
     farmers = {
@@ -2286,7 +2286,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 472
+        size = 357
     }
 
     farmers = {
@@ -2310,7 +2310,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 67
+        size = 48
     }
 
     farmers = {
@@ -2336,7 +2336,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 270
+        size = 202
     }
 
     farmers = {
@@ -2360,7 +2360,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 135
+        size = 98
     }
 
     farmers = {
@@ -2394,7 +2394,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 27
+        size = 18
     }
 
     farmers = {
@@ -2426,7 +2426,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 13
+        size = 6
     }
 
     farmers = {
@@ -2456,7 +2456,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 13
+        size = 6
     }
 
     farmers = {
@@ -2488,7 +2488,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 13
+        size = 6
     }
 
     farmers = {
@@ -2518,7 +2518,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 13
+        size = 6
     }
 
     farmers = {
@@ -2550,7 +2550,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 13
+        size = 6
     }
 
     farmers = {
@@ -2580,7 +2580,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 13
+        size = 6
     }
 
     farmers = {
@@ -2612,7 +2612,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 27
+        size = 18
     }
 
     farmers = {
@@ -2644,7 +2644,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 13
+        size = 6
     }
 
     farmers = {
@@ -2677,7 +2677,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 675
+        size = 2512
     }
 
     farmers = {
@@ -2707,7 +2707,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 1080
+        size = 821
     }
 
     farmers = {
@@ -2739,7 +2739,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 27
+        size = 18
     }
 
     farmers = {
@@ -2763,7 +2763,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 67
+        size = 48
     }
 
     farmers = {
@@ -2795,7 +2795,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 40
+        size = 29
     }
 
     farmers = {
@@ -2819,7 +2819,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 27
+        size = 18
     }
 
     farmers = {
@@ -2851,7 +2851,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 40
+        size = 29
     }
 
     farmers = {
@@ -2875,7 +2875,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 67
+        size = 48
     }
 
     farmers = {
@@ -2901,7 +2901,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 405
+        size = 306
     }
 
     labourers = {
@@ -2927,7 +2927,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 1350
+        size = 1026
     }
 
     farmers = {
@@ -2953,7 +2953,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 270
+        size = 202
     }
 
     farmers = {
@@ -2977,7 +2977,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 405
+        size = 306
     }
 
     farmers = {
@@ -3003,7 +3003,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 405
+        size = 306
     }
 
     labourers = {
@@ -3037,7 +3037,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 405
+        size = 306
     }
 
     farmers = {
@@ -3061,7 +3061,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 270
+        size = 202
     }
 
     farmers = {
@@ -3087,7 +3087,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 405
+        size = 306
     }
 
     labourers = {
@@ -3111,7 +3111,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 67
+        size = 48
     }
 
     farmers = {
@@ -3139,7 +3139,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 270
+        size = 202
     }
 
     farmers = {
@@ -3173,7 +3173,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 540
+        size = 410
     }
 
     farmers = {
@@ -3211,7 +3211,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 337
+        size = 255
     }
 
     farmers = {
@@ -3243,7 +3243,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 135
+        size = 98
     }
 
     farmers = {
@@ -3277,7 +3277,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 135
+        size = 98
     }
 
     farmers = {
@@ -3321,7 +3321,7 @@
     soldiers = {
         culture = vinlander
         religion = protestant
-        size = 135
+        size = 98
     }
 
     farmers = {
@@ -3371,7 +3371,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 13
+        size = 6
     }
 
     farmers = {
@@ -3403,7 +3403,7 @@
     soldiers = {
         culture = vinlander
         religion = catholic
-        size = 67
+        size = 48
     }
 
     farmers = {
@@ -3417,7 +3417,7 @@
 #Saint Pierre (2000/500 POPS)
 77 = {
     bureaucrats = {
-        culture = scandinavian 
+        culture = scandinavian
         religion = catholic
         size = 5
     }

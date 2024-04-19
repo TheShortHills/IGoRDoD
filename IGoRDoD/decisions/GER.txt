@@ -115,6 +115,7 @@ political_decisions = {
 		}
 		effect = {
 			SGF = {all_core = {add_core = GER remove_core = SGF}}
+			PRU = {all_core = {add_core = GER}}
 			AUS_625 = {add_core = GER}
 			AUS_626 = {add_core = GER}
 			PRU_682 = {add_core = GER}
