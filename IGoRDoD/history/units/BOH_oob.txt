@@ -161,3 +161,57 @@ army = {
 		home = 684
 	}
 }
+army = {
+	name = "Third Army of Bohemia"
+	location = 682
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 625
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 625
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 631
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = infantry
+		home = 626
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 629
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 625
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 625
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 625
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = artillery
+		home = 625
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = hussar
+		home = 628
+	}
+}

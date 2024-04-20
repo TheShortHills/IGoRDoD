@@ -97,6 +97,19 @@ political_decisions = {
 									}
 								} 
 							}
+							LUC = {
+								all_core = {
+									OR = {
+										owned_by = THIS
+										owner = {
+										  OR = {
+											in_sphere = THIS
+											vassal_of = THIS
+											}
+										}
+									}
+								} 
+							}
 		}
 		effect = {
 			set_country_flag = form_italy
@@ -138,6 +151,7 @@ political_decisions = {
 			MOD = {all_core = {add_core = ITA remove_core = MOD}}
 			FRR = {all_core = {add_core = ITA remove_core = FRR}}
 			TUS = {all_core = {add_core = ITA remove_core = TUS}}
+			LUC = {all_core = {add_core = ITA remove_core = LUC}}
 			change_tag = ITA
 		}
 	}

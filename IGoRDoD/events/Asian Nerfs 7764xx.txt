@@ -1,37 +1,4 @@
-country_event = {
-	id = 776410
-	title = "776405"
-	desc = "EVTDESC776405"
-	picture = "xinhai"
-	
-	trigger = {
-		tag = GHO
-		NOT = { has_country_flag = indian_economic_compensation }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
-	immediate = {
-		name = "EVTOPTA776405"
-		set_country_flag = indian_economic_compensation
-		any_country = {	
-			any_owned = {
-				limit = {
-					continent = india
-				}
-				any_pop = {
-						reduce_pop = 0.30
-				}
-			}
-		}
-	}
-	
-	option = {
-		name = "Thanks!"
-	}
-}
+
 
 country_event = {
 	id = 776405

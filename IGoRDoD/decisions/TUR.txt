@@ -13,9 +13,10 @@ political_decisions = {
 		effect = {
 			set_country_flag = ankara_capital
 			capital = 876
+			BUL = {all_core = {remove_core = TUR}}
 		}
 	}
-	keep_instanbul_capital {
+	keep_instanbul_capital = {
 		potential = {
 			tag = TUR
 			NOT = {has_country_flag = ankara_capital}
@@ -72,7 +73,7 @@ political_decisions = {
 		}
 		allow = {
 			state_n_government = 1
-			SER = {all_core = {owned_by = THIS}}
+			ALB = {all_core = {owned_by = THIS}}
 		}
 		effect = {
 			set_country_flag = tanzimat_reforms_albanian

@@ -2894,39 +2894,35 @@ humiliate = {
 		THIS = { prestige_factor = 0.05 }
 	}
 }
-# Humiliate
+
 hre_unification = {
-	sprite_index = 11
+	sprite_index = 4
 	is_triggered_only = yes
 	months = 12
 	
-	construction_speed = 1
-	
-	badboy_factor = 300
-	prestige_factor = 1
-	peace_cost_factor = 0.004
+	badboy_factor = 0.5
+	prestige_factor = 3
+	peace_cost_factor = 10
 	penalty_factor = 1
-	
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 1
-	break_truce_militancy_factor = 1
+
+	break_truce_prestige_factor = 5
+	break_truce_infamy_factor = 2
+	break_truce_militancy_factor = 2
 	truce_months = 60
 	
 	good_relation_prestige_factor = 1
 	good_relation_infamy_factor = 1
 	good_relation_militancy_factor = 1
 	
-	po_remove_prestige = yes
-
-	tws_battle_factor = 2.0
-	
-	war_name = WAR_HUMILIATE_NAME
+	construction_speed = 2.5
 
 	can_use = {
-		THIS = {tag = BOH }
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		this = { NOT = { badboy = 1 } }
+		THIS ={
+			tag = BOH 
+			is_greater_power = yes
+		}
 		NOT = { 
 			OR = { 
 				has_country_modifier = neutrality
@@ -2940,23 +2936,34 @@ hre_unification = {
 				}
 			 } 
 		}
+		this = { NOT = { badboy = 1 } }
+		is_greater_power = yes
 	}
+
+	
+	# THIS - us
+	# FROM - country scope is possible match?
+	# war target country of goal is scope
 	allowed_countries = {
+		FROM = { is_culture_group = germanic }
+		is_sphere_leader_of = FROM
+		NOT = { is_our_vassal = FROM }
 		OR = {
-			tag = BRG
-			tag = SCA
+			FROM = { is_vassal = no }
+			THIS = { is_our_vassal = FROM }
 		}
 	}
+	
+	po_add_to_sphere = yes
+	
+	war_name = WAR_TAKE_SPHERE_NAME
+	
 	on_add = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
 			value = 0.25
 		}
-	}
-	on_po_accepted = {
-		prestige_factor = -0.2
-		THIS = { prestige_factor = 0.05 }
 	}
 }
 # Demand Concession on Tiny State

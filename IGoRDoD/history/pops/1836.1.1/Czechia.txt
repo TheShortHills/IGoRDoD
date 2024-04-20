@@ -47,7 +47,7 @@
     soldiers = {
         culture = czech
         religion = catholic
-        size = 4331
+        size = 0
     }
 
     farmers = {
@@ -95,7 +95,7 @@
     soldiers = {
         culture = czech
         religion = catholic
-        size = 11550
+        size = 16650
     }
 
     farmers = {
@@ -131,7 +131,7 @@
     soldiers = {
         culture = czech
         religion = jewish
-        size = 86
+        size = 0
     }
 }
 #Hradec Kralove (528000/132000 POPS)
@@ -311,7 +311,7 @@
     soldiers = {
         culture = czech
         religion = catholic
-        size = 115
+        size = 0
     }
 
     farmers = {
@@ -341,7 +341,7 @@
     soldiers = {
         culture = czech
         religion = catholic
-        size = 1270
+        size = 2270
     }
 
     farmers = {

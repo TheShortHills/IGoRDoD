@@ -426,7 +426,7 @@ anaconda_plan = {
 }
 
 the_homestead_act = {
-	global_immigrant_attract = 0.50	#50%
+	global_immigrant_attract = 0.30	
 	#global_assimilation_rate = 0.25
 	icon = 9
 }

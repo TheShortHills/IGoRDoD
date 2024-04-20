@@ -118,7 +118,7 @@ army = {
 
 }
 army = {
-	name = "1e Divisie"
+	name = "2e Divisie"
 	location = 400
 	regiment = {
 		name= "1e Cavalerie Brigade"
@@ -182,7 +182,7 @@ army = {
 
 }
 army = {
-	name = "1e Divisie"
+	name = "3e Divisie"
 	location = 428
 	regiment = {
 		name= "1e Cavalerie Brigade"
@@ -243,7 +243,70 @@ army = {
 		type = artillery
 		home = 414
 	}
+}
 
+army = {
+	name = "4e Divisie"
+	location = 388
+	regiment = {
+		name= "1e Cavalerie Brigade"
+		type = hussar
+		home = 388
+	}
+
+	regiment = {
+		name= "2e Cavalerie Brigade"
+		type = infantry
+		home = 389
+	}
+
+	regiment = {
+		name= "3e Cavalerie Brigade"
+		type = infantry
+		home = 387
+	}
+
+	regiment = {
+		name = "1e Infanterie Brigade"
+		type = infantry
+		home = 387
+	}
+
+	regiment = {
+		name = "4e Infanterie Brigade"
+		type = infantry
+		home = 387
+	}
+
+	regiment = {
+		name = "5e Infanterie Brigade"
+		type = artillery
+		home = 397
+	}
+
+	regiment = {
+		name = "6e Infanterie Brigade"
+		type = artillery
+		home = 571
+	}
+	
+	regiment = {
+		name = "7e Infanterie Brigade"
+		type = artillery
+		home = 570
+	}
+	
+	regiment = {
+		name = "8e Infanterie Brigade"
+		type = artillery
+		home = 576
+	}
+	
+	regiment = {
+		name = "8e Infanterie Brigade"
+		type = artillery
+		home = 575
+	}
 }
 navy = {
 	name = "Dutch Navy"
