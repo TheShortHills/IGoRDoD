@@ -1,0 +1,19 @@
+army = {
+	name = "Yesgai Army"
+	location = 1183
+	regiment = {
+		name= "1.1st Division"
+		type = irregular
+		home = 1042
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = irregular
+		home = 1192
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = irregular
+		home = 1192
+	}
+}

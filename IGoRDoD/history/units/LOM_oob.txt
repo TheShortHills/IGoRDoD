@@ -1,0 +1,14 @@
+army = {
+	name = "Army of Milian"
+	location = 726
+	regiment = {
+		name= "1. Infantry"
+		type = infantry
+		home = 726
+	}
+    	regiment = {
+		name= "2. Infantry"
+		type = infantry
+		home = 726
+	}
+}

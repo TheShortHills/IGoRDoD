@@ -1,0 +1,54 @@
+army = {
+	name = "Turkic Army"
+	location = 2606
+	regiment = {
+		name= "1.1st Division"
+		type = irregular
+		home = 1191
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = irregular
+		home = 1191
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = irregular
+		home = 1203
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = irregular
+		home = 1203
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = irregular
+		home = 1189
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = irregular
+		home = 1189
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = irregular
+		home = 1189
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = irregular
+		home = 3282
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = irregular
+		home = 3282
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = irregular
+		home = 1532
+	}
+}

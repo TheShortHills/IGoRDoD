@@ -1,0 +1,54 @@
+army = {
+	name = "Caucasian Army"
+	location = 1050
+	regiment = {
+		name= "1.1st Division"
+		type = irregular
+		home = 1050
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = irregular
+		home = 1050
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = irregular
+		home = 1050
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = irregular
+		home = 1049
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = irregular
+		home = 1051
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = irregular
+		home = 1056
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = irregular
+		home = 1056
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = irregular
+		home = 1054
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = irregular
+		home = 1055
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = irregular
+		home = 1039
+	}
+}

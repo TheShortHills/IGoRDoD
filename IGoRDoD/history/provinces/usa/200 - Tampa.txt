@@ -4,4 +4,5 @@ add_core = PLA
 trade_goods = fruit
 life_rating = 35
 is_slave = yes
+colony = 2
 naval_base = 11861.1.1 = {	colony = 0	controller = CSA	owner = CSA	add_core = CSA}

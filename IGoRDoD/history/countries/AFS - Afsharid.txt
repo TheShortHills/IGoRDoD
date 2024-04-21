@@ -42,5 +42,5 @@ upper_house = {
 consciousness = 0
 nonstate_consciousness = 0
 
-oob = "AFG_oob.txt"
+oob = "AFS_oob.txt"
 

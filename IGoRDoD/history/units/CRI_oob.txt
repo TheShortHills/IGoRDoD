@@ -1,0 +1,54 @@
+army = {
+	name = "First Army of Crimea"
+	location = 972
+	regiment = {
+		name= "1.1st Division"
+		type = irregular
+		home = 972
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = irregular
+		home = 969
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = irregular
+		home = 968
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = irregular
+		home = 974
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = irregular
+		home = 964
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = irregular
+		home = 978
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = irregular
+		home = 980
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = irregular
+		home = 976
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = irregular
+		home = 979
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = irregular
+		home = 979
+	}
+}

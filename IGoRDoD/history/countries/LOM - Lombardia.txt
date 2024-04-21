@@ -71,3 +71,6 @@ market_structure = 1
 romanticism = 1
 practical_steam_engine = 1
 mechanical_production = 1
+
+
+oob = "LOM_oob.txt"

@@ -3,5 +3,5 @@ controller = MUS
 add_core = MUS
 #add_core = UKR
 trade_goods = grain
-life_rating = 36
+life_rating = 35
 

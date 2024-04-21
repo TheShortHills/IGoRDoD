@@ -1,0 +1,54 @@
+army = {
+	name = "First Army of Vij"
+	location = 1301
+	regiment = {
+		name= "1.1st Division"
+		type = irregular
+		home = 1301
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = irregular
+		home = 1297
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = irregular
+		home = 1297
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = irregular
+		home = 1297
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = irregular
+		home = 1297
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = irregular
+		home = 1297
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = irregular
+		home = 1300
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = irregular
+		home = 1308
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = irregular
+		home = 1308
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = irregular
+		home = 1278
+	}
+}
