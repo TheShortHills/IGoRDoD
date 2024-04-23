@@ -2214,7 +2214,7 @@
     farmers = {
         culture = vinlander
         religion = protestant
-        size = 39000
+        size = 139000
     }
 }
 #Windsor (36000/9000 POPS)
@@ -2683,7 +2683,7 @@
     farmers = {
         culture = vinlander
         religion = protestant
-        size = 13425
+        size = 113425
     }
 
     bureaucrats = {
@@ -2933,7 +2933,7 @@
     farmers = {
         culture = vinlander
         religion = catholic
-        size = 41000
+        size = 141000
     }
 }
 #Sherbrooke (68000/17000 POPS)

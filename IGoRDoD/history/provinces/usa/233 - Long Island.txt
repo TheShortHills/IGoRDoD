@@ -1,7 +1,6 @@
 owner = NBG
 controller = NBG
 add_core = NBG
-add_core = VIN
 trade_goods = grain
 naval_base = 1
 life_rating = 35

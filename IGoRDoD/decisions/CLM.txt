@@ -1,8 +1,8 @@
 political_decisions = {	
-	integrate_afro_amerigan_arcadian = {
+	integrate_afro_amerigan_clm = {
 		potential = {
 			tag = CLM
-			NOT = {has_country_flag = integrate_afro_amerigan_arcadian}
+			NOT = {has_country_flag = integrate_afro_amerigan_clm}
 		}
 		allow = {
 			nationalism_n_imperialism = 1
@@ -10,7 +10,7 @@ political_decisions = {
 			NOT = { war = yes }
 		}
 		effect = {
-			set_country_flag = integrate_afro_amerigan_arcadian
+			set_country_flag = integrate_afro_amerigan_clm
 			add_accepted_culture = afro_american
 			add_accepted_culture = afro_brazilian
 		}
@@ -51,7 +51,7 @@ political_decisions = {
 			}
 		}
 	}
-	Congress_CLM = { 
+	congress_clm = { 
 		potential = { 
 			tag = CLM
 	        war= no

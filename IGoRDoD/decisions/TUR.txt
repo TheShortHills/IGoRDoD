@@ -88,7 +88,7 @@ political_decisions = {
 			NOT = {has_country_flag = tanzimat_reforms_serb}
 		}
 		allow = {
-			state_n_government = 1
+			nationalism_n_imperialism = 1
 			SER = {all_core = {owned_by = THIS}}
 		}
 		effect = {
@@ -104,7 +104,7 @@ political_decisions = {
 			NOT = {has_country_flag = tanzimat_reforms_croat}
 		}
 		allow = {
-			state_n_government = 1
+			nationalism_n_imperialism = 1
 			CRO = {all_core = {owned_by = THIS}}
 		}
 		effect = {
@@ -123,7 +123,7 @@ political_decisions = {
 			NOT = {has_country_flag = tanzimat_reforms_mashriqi}
 		}
 		allow = {
-			state_n_government = 1
+			nationalism_n_imperialism = 1
 			SYR = {all_core = {owned_by = THIS}}
 			IRQ = {all_core = {owned_by = THIS}}
 		}

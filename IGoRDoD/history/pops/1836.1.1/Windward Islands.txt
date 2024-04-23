@@ -78,13 +78,13 @@
     artisans = {
         culture = english
         religion = protestant
-        size = 130
+        size = 136
     }
 
     farmers = {
         culture = english
         religion = protestant
-        size = 100
+        size = 104
     }
 
     clergymen = {
@@ -109,6 +109,30 @@
         culture = afro_caribbean
         religion = protestant
         size = 4050
+    }
+
+    aristocrats = {
+        culture = anglois
+        religion = protestant
+        size = 0
+    }
+
+    clergymen = {
+        culture = anglois
+        religion = protestant
+        size = 0
+    }
+
+    artisans = {
+        culture = anglois
+        religion = protestant
+        size = 4
+    }
+
+    farmers = {
+        culture = anglois
+        religion = protestant
+        size = 3
     }
 }
 #Dominica (19000/4750 POPS) #now independent
@@ -234,13 +258,13 @@
     artisans = {
         culture = english
         religion = protestant
-        size = 130
+        size = 136
     }
 
     farmers = {
         culture = english
         religion = protestant
-        size = 100
+        size = 104
     }
 
     clergymen = {
@@ -265,5 +289,29 @@
         culture = afro_caribbean
         religion = protestant
         size = 4700
+    }
+
+    aristocrats = {
+        culture = anglois
+        religion = protestant
+        size = 0
+    }
+
+    clergymen = {
+        culture = anglois
+        religion = protestant
+        size = 0
+    }
+
+    artisans = {
+        culture = anglois
+        religion = protestant
+        size = 4
+    }
+
+    farmers = {
+        culture = anglois
+        religion = protestant
+        size = 3
     }
 }

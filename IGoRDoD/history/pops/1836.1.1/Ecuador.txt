@@ -5,67 +5,133 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 3667
+        size = 3594
     }
 
     bureaucrats = {
         culture = quechua
         religion = catholic
-        size = 472
+        size = 463
     }
 
     officers = {
         culture = quechua
         religion = catholic
-        size = 352
+        size = 345
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 1418
+        size = 1390
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 13960
+        size = 13681
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 2752
+        size = 2697
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 51112
+        size = 50090
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 412
+        size = 404
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 9700
+        size = 9506
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 2752
+        size = 2697
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 94003
+        size = 92123
+    }
+
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 73
+    }
+
+    bureaucrats = {
+        culture = granadan
+        religion = catholic
+        size = 9
+    }
+
+    officers = {
+        culture = granadan
+        religion = catholic
+        size = 7
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 28
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 279
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 55
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 1022
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 8
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 194
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 55
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 1880
     }
 }
 #Zamora (176000/44000 POPS)
@@ -73,55 +139,109 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 2128
+        size = 2085
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 648
+        size = 635
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 1063
+        size = 1042
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 245
+        size = 240
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 17212
+        size = 16868
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 412
+        size = 404
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 4140
+        size = 4057
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 2752
+        size = 2697
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 75189
+        size = 73685
+    }
+
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 43
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 13
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 21
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 5
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 344
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 8
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 83
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 55
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 1504
     }
 }
 #Tena (32000/8000 POPS)
@@ -129,85 +249,169 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 235
+        size = 230
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 175
+        size = 171
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 352
+        size = 345
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 120
+        size = 118
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 6208
+        size = 6084
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 57
+        size = 56
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 235
+        size = 230
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 57
+        size = 56
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 4377
+        size = 4289
     }
 
     aristocrats = {
         culture = quechua
         religion = animist
-        size = 117
+        size = 115
     }
 
     clergymen = {
         culture = quechua
         religion = animist
-        size = 175
+        size = 171
     }
 
     artisans = {
         culture = quechua
         religion = animist
-        size = 352
+        size = 345
     }
 
     soldiers = {
         culture = quechua
         religion = animist
-        size = 57
+        size = 56
     }
 
     farmers = {
         culture = quechua
         religion = animist
-        size = 6388
+        size = 6260
+    }
+
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 5
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 4
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 7
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 2
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 124
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 1
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 1
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 88
+    }
+
+    aristocrats = {
+        culture = granadan
+        religion = animist
+        size = 2
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = animist
+        size = 4
+    }
+
+    artisans = {
+        culture = granadan
+        religion = animist
+        size = 7
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = animist
+        size = 1
+    }
+
+    farmers = {
+        culture = granadan
+        religion = animist
+        size = 128
     }
 }
 #Guayaquil Region (328000)
@@ -217,73 +421,145 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 1063
+        size = 1042
     }
 
     bureaucrats = {
         culture = quechua
         religion = catholic
-        size = 235
+        size = 230
     }
 
     officers = {
         culture = quechua
         religion = catholic
-        size = 235
+        size = 230
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 412
+        size = 404
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 2011
+        size = 1971
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 433
+        size = 424
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 35848
+        size = 35131
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 117
+        size = 115
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 352
+        size = 345
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 120
+        size = 118
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 4257
+        size = 4172
     }
 
     slaves = {
         culture = quechua
         religion = catholic
-        size = 2601
+        size = 2549
+    }
+
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 21
+    }
+
+    bureaucrats = {
+        culture = granadan
+        religion = catholic
+        size = 5
+    }
+
+    officers = {
+        culture = granadan
+        religion = catholic
+        size = 5
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 8
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 40
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 9
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 717
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 2
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 7
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 2
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 85
+    }
+
+    slaves = {
+        culture = granadan
+        religion = catholic
+        size = 52
     }
 }
 #Esmereldas (88000/22000 POPS)
@@ -291,61 +567,121 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 1063
+        size = 1042
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 412
+        size = 404
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 828
+        size = 811
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 181
+        size = 177
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 16089
+        size = 15767
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 175
+        size = 171
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 1773
+        size = 1738
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 368
+        size = 361
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 14256
+        size = 13971
     }
 
     slaves = {
         culture = quechua
         religion = catholic
-        size = 18931
+        size = 18552
+    }
+
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 21
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 8
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 322
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 4
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 35
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 7
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 285
+    }
+
+    slaves = {
+        culture = granadan
+        religion = catholic
+        size = 379
     }
 }
 #Loja (160000/40000 POPS)
@@ -353,55 +689,109 @@
     aristocrats = {
         culture = quechua
         religion = catholic
-        size = 1951
+        size = 1912
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 648
+        size = 635
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 1773
+        size = 1738
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 368
+        size = 361
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 30763
+        size = 30148
     }
 
     clergymen = {
         culture = quechua
         religion = catholic
-        size = 235
+        size = 230
     }
 
     artisans = {
         culture = quechua
         religion = catholic
-        size = 2956
+        size = 2897
     }
 
     soldiers = {
         culture = quechua
         religion = catholic
-        size = 622
+        size = 610
     }
 
     farmers = {
         culture = quechua
         religion = catholic
-        size = 55372
+        size = 54265
+    }
+
+    aristocrats = {
+        culture = granadan
+        religion = catholic
+        size = 39
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 13
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 35
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 7
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 615
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 5
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 59
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 12
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 1107
     }
 }
 #Galapagos Region (300)
@@ -435,6 +825,36 @@
     farmers = {
         culture = quechua
         religion = catholic
-        size = 44
+        size = 43
+    }
+
+    bureaucrats = {
+        culture = granadan
+        religion = catholic
+        size = 0
+    }
+
+    clergymen = {
+        culture = granadan
+        religion = catholic
+        size = 0
+    }
+
+    artisans = {
+        culture = granadan
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = granadan
+        religion = catholic
+        size = 0
+    }
+
+    farmers = {
+        culture = granadan
+        religion = catholic
+        size = 1
     }
 }

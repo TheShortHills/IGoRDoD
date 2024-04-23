@@ -55,7 +55,6 @@ country_event = {
                 OR = {
                     has_pop_culture = latvian
                     has_pop_culture = estonian
-					has_pop_culture = lusitanian
 					has_pop_culture = portuguese
                 }
             }
@@ -119,6 +118,7 @@ country_event = {
 					has_pop_culture = irish
 					has_pop_culture = french
 					has_pop_culture = anglois
+
                 }
             }
             literacy = 0.29
@@ -137,10 +137,9 @@ country_event = {
 		any_pop = {
             limit = {
                 OR = {
-					has_pop_culture = bulgarian 
 					has_pop_culture = albanian
 					has_pop_culture = qingqiuan
-					has_pop_culture = quechua
+					has_pop_culture = lusitanian
                 }
             }
             literacy = 0.23
@@ -151,7 +150,6 @@ country_event = {
                     has_pop_culture = polish
 					has_pop_culture = lithuanian
 					has_pop_culture = ukrainian
-					has_pop_culture = north_caucasian
 					has_pop_culture = bedouin
 					has_pop_culture = japanese
                 }
@@ -165,7 +163,6 @@ country_event = {
 					has_pop_culture = aryan
 					has_pop_culture = russian
 					has_pop_culture = croat
-					has_pop_culture = serb
                 }
             }
             literacy = 0.17
@@ -173,7 +170,8 @@ country_event = {
 		any_pop = {
             limit = {
                 OR = {
-					has_pop_culture = armenian
+					has_pop_culture = north_caucasian
+					has_pop_culture = quechua
                 }
             }
             literacy = 0.14
@@ -181,12 +179,11 @@ country_event = {
 		any_pop = {
             limit = {
                 OR = {
+					has_pop_culture = bulgarian 
 					has_pop_culture = central_american
-					has_pop_culture = misri
-					has_pop_culture = mexican
+					has_pop_culture = armenian
 					has_pop_culture = maghrebi
 					has_pop_culture = granadan
-					has_pop_culture = turkish
 					has_pop_culture = vietnamese
 					has_pop_culture = turkic
 					has_pop_culture = tatar
@@ -201,6 +198,7 @@ country_event = {
 					has_pop_culture = mongol
 					has_pop_culture = tibetan
 					has_pop_culture = burmese
+					has_pop_culture = serb
 				}
             }
             literacy = 0.09
@@ -208,6 +206,9 @@ country_event = {
 		any_pop = {
             limit = {
                 OR = {
+					has_pop_culture = mexican
+					has_pop_culture = misri
+					has_pop_culture = turkish
                     has_pop_culture = beifaren
 					has_pop_culture = nanfaren
 					has_pop_culture = manchu
@@ -291,7 +292,6 @@ country_event = {
                 OR = {
                     has_pop_culture = latvian
                     has_pop_culture = estonian
-					has_pop_culture = lusitanian
 					has_pop_culture = portuguese
                 }
             }
@@ -373,10 +373,9 @@ country_event = {
 		any_pop = {
             limit = {
                 OR = {
-					has_pop_culture = bulgarian 
 					has_pop_culture = albanian
 					has_pop_culture = qingqiuan
-					has_pop_culture = quechua
+					has_pop_culture = lusitanian
                 }
             }
             literacy = 0.23
@@ -387,7 +386,6 @@ country_event = {
                     has_pop_culture = polish
 					has_pop_culture = lithuanian
 					has_pop_culture = ukrainian
-					has_pop_culture = north_caucasian
 					has_pop_culture = bedouin
 					has_pop_culture = japanese
                 }
@@ -401,7 +399,6 @@ country_event = {
 					has_pop_culture = aryan
 					has_pop_culture = russian
 					has_pop_culture = croat
-					has_pop_culture = serb
                 }
             }
             literacy = 0.17
@@ -409,7 +406,8 @@ country_event = {
 		any_pop = {
             limit = {
                 OR = {
-					has_pop_culture = armenian
+					has_pop_culture = north_caucasian
+					has_pop_culture = quechua
                 }
             }
             literacy = 0.14
@@ -417,12 +415,11 @@ country_event = {
 		any_pop = {
             limit = {
                 OR = {
+					has_pop_culture = bulgarian 
+					has_pop_culture = armenian
 					has_pop_culture = central_american
-					has_pop_culture = misri
-					has_pop_culture = mexican
 					has_pop_culture = maghrebi
 					has_pop_culture = granadan
-					has_pop_culture = turkish
 					has_pop_culture = vietnamese
 					has_pop_culture = turkic
 					has_pop_culture = tatar
@@ -437,6 +434,7 @@ country_event = {
 					has_pop_culture = mongol
 					has_pop_culture = tibetan
 					has_pop_culture = burmese
+					has_pop_culture = serb
 				}
             }
             literacy = 0.09
@@ -444,6 +442,9 @@ country_event = {
 		any_pop = {
             limit = {
                 OR = {
+					has_pop_culture = mexican
+					has_pop_culture = misri
+					has_pop_culture = turkish
                     has_pop_culture = beifaren
 					has_pop_culture = nanfaren
 					has_pop_culture = manchu

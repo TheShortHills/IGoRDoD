@@ -157,22 +157,6 @@ political_decisions = {
 			NAN = {all_core = {add_core = AZL}}
 		}
 	}
-	dominate_ameriga = {
-		potential = {
-			tag = AZL 
-			NOT = {has_country_flag = manifest_destiny_azl}
-		}
-		allow = {
-			nationalism_n_imperalism = 1
-			year = 1870
-			NAN = {all_core = {owned_by = THIS}}
-			GRA = {all_core = {owned_by = THIS}}
-		}
-		effect = {
-			set_country_flag = manifest_destiny_azl
-			INC = {all_core ={add_core = THIS}}
-		}
-	}
 	integrate_granada = {
 		potential = {
 			tag = AZL 

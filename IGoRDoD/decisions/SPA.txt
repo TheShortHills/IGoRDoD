@@ -9,12 +9,14 @@ political_decisions = {
 			POR = {all_core = {owned_by = THIS}}
 			SPA_498 = {owned_by = THIS}
 			SPA_492 = {owned_by = THIS}
+			SPA_503 = {owned_by = THIS}
 		}
 		effect = {
 			add_accepted_culture = catalan 
 			SPA = {all_core = {add_core = IBE remove_core = SPA }}
 			SPA_498 = {add_core = IBE}
 			SPA_492 = {add_core = IBE}
+			SPA_503 = {add_core = IBE}
 			change_tag = IBE
 		}
 	}

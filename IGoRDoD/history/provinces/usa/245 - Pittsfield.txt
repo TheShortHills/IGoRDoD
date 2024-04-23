@@ -1,7 +1,6 @@
 owner = NBG
 controller = NBG
 add_core = NBG
-add_core = VIN
 #add_core = NEN
 trade_goods = iron
 life_rating = 35

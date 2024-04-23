@@ -7802,25 +7802,25 @@
     bureaucrats = {
         culture = french
         religion = catholic
-        size = 10
+        size = 12
     }
 
     clergymen = {
         culture = french
         religion = catholic
-        size = 15
+        size = 18
     }
 
     artisans = {
         culture = french
         religion = catholic
-        size = 25
+        size = 28
     }
 
     soldiers = {
         culture = french
         religion = catholic
-        size = 25
+        size = 28
     }
 
     clergymen = {
@@ -7869,6 +7869,54 @@
         culture = dravidian
         religion = catholic
         size = 2600
+    }
+
+    bureaucrats = {
+        culture = anglois
+        religion = catholic
+        size = 0
+    }
+
+    clergymen = {
+        culture = anglois
+        religion = catholic
+        size = 0
+    }
+
+    artisans = {
+        culture = anglois
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = anglois
+        religion = catholic
+        size = 1
+    }
+
+    bureaucrats = {
+        culture = provencal
+        religion = catholic
+        size = 0
+    }
+
+    clergymen = {
+        culture = provencal
+        religion = catholic
+        size = 0
+    }
+
+    artisans = {
+        culture = provencal
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = provencal
+        religion = catholic
+        size = 1
     }
 }
 #Under the rule of Denmark 1836

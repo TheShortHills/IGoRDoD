@@ -9588,17 +9588,22 @@
 } # Scranton
 
 224 = {
-    unit = {
-        x = 1628.000000
-        y = 1653.000000
-    }
-
     text_position = {
-        x = 1628.599976
-        y = 1652.300049
+        x = 1621.890000
+        y = 1656.955000
     }
 
     text_scale = 2.300000
+    unit = {
+        x = 1623.255000
+        y = 1654.615000
+    }
+
+    factory = {
+        x = 1621.000000
+        y = 1663.000000
+    }
+
     building_construction = {
         x = 1629.000000
         y = 1664.000000
@@ -9607,11 +9612,6 @@
     military_construction = {
         x = 1627.000000
         y = 1648.000000
-    }
-
-    factory = {
-        x = 1621.000000
-        y = 1663.000000
     }
 
     building_position = {
@@ -9630,17 +9630,22 @@
 } # Williamsport
 
 225 = {
+    text_position = {
+        x = 1590.475000
+        y = 1654.000000
+    }
+
+    text_scale = 3.499999
     unit = {
         x = 1592.000000
         y = 1650.000000
     }
 
-    text_position = {
-        x = 1592.000000
-        y = 1648.800049
+    factory = {
+        x = 1584.000000
+        y = 1658.199951
     }
 
-    text_scale = 3.499999
     building_construction = {
         x = 1598.000000
         y = 1645.000000
@@ -9649,11 +9654,6 @@
     military_construction = {
         x = 1601.000000
         y = 1663.000000
-    }
-
-    factory = {
-        x = 1584.000000
-        y = 1658.199951
     }
 
     building_position = {
@@ -9710,11 +9710,21 @@
 
 227 = {
     text_position = {
-        x = 1562.800049
-        y = 1632.099976
+        x = 1563.200000
+        y = 1635.300000
     }
 
     text_scale = 2.700000
+    unit = {
+        x = 1563.590000
+        y = 1638.355000
+    }
+
+    factory = {
+        x = 1569.000000
+        y = 1639.599976
+    }
+
     building_construction = {
         x = 1556.000000
         y = 1640.699951
@@ -9723,11 +9733,6 @@
     military_construction = {
         x = 1557.000000
         y = 1649.000000
-    }
-
-    factory = {
-        x = 1569.000000
-        y = 1639.599976
     }
 
     building_position = {
@@ -9998,30 +10003,30 @@
 } # Albany
 
 234 = {
-    unit = {
-        x = 1655.000000
-        y = 1680.000000
-    }
-
     text_position = {
-        x = 1653.599976
-        y = 1682.099976
+        x = 1654.700000
+        y = 1674.620000
     }
 
     text_scale = 2.700000
+    unit = {
+        x = 1654.880000
+        y = 1672.100000
+    }
+
+    factory = {
+        x = 1656.560000
+        y = 1680.200000
+    }
+
     building_construction = {
-        x = 1646.000000
-        y = 1685.000000
+        x = 1649.660000
+        y = 1681.760000
     }
 
     military_construction = {
         x = 1656.000000
         y = 1671.000000
-    }
-
-    factory = {
-        x = 1659.000000
-        y = 1688.000000
     }
 
     building_position = {
@@ -10035,30 +10040,30 @@
 } # Binghamton
 
 235 = {
+    text_position = {
+        x = 1634.920000
+        y = 1674.880000
+    }
+
+    text_scale = 2.600000
     unit = {
         x = 1631.000000
         y = 1676.000000
     }
 
-    text_position = {
-        x = 1631.599976
-        y = 1671.800049
+    factory = {
+        x = 1644.000000
+        y = 1677.000000
     }
 
-    text_scale = 2.600000
     building_construction = {
-        x = 1617.000000
-        y = 1674.000000
+        x = 1625.040000
+        y = 1672.215000
     }
 
     military_construction = {
         x = 1624.000000
         y = 1679.000000
-    }
-
-    factory = {
-        x = 1644.000000
-        y = 1677.000000
     }
 
     building_position = {
@@ -10157,11 +10162,21 @@
 
 238 = {
     text_position = {
-        x = 1625.699951
-        y = 1687.900024
+        x = 1624.013333
+        y = 1691.500000
     }
 
     text_scale = 2.799999
+    unit = {
+        x = 1625.098333
+        y = 1691.913333
+    }
+
+    factory = {
+        x = 1620.000000
+        y = 1696.000000
+    }
+
     building_construction = {
         x = 1634.000000
         y = 1688.000000
@@ -10170,11 +10185,6 @@
     military_construction = {
         x = 1615.099976
         y = 1694.000000
-    }
-
-    factory = {
-        x = 1620.000000
-        y = 1696.000000
     }
 
     building_position = {

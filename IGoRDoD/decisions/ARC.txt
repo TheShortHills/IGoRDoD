@@ -169,6 +169,7 @@ political_decisions = {
 			set_country_flag = manifest_destiny_arc
 			badboy = 20
 			TEX_132 = {add_core = ARC}
+			TEX_105 = {add_core = ARC}
 			USA_118 = {add_core = ARC}
 			USA_148 = {add_core = ARC}
 			MEX_100 = {add_core = ARC}

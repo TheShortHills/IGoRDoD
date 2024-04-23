@@ -1,0 +1,17 @@
+political_decisions = {
+	startingleadership = {
+		potential = {
+			NOT = {has_country_flag = lead}
+		}
+		allow = {
+
+		}
+		effect = {
+			set_country_flag = lead
+			leadership = 60
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

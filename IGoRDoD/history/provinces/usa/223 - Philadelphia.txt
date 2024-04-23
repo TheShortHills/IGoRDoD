@@ -1,7 +1,6 @@
 owner = NBG
 controller = NBG
 add_core = NBG
-add_core = PLA
 trade_goods = iron
 life_rating = 40
 railroad = 1

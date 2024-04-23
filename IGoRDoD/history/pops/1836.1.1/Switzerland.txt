@@ -2,91 +2,91 @@
 #Zurich (560000/140000 POPS)
 603 = {
     aristocrats = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 534
     }
 
     clergymen = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 1547
     }
 
     capitalists = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 118
     }
 
     clerks = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 476
     }
 
     craftsmen = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 11664
     }
 
     artisans = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 3927
     }
 
     soldiers = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 1308
     }
 
     farmers = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 87660
     }
 
     aristocrats = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 297
     }
 
     clergymen = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 594
     }
 
     clerks = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 237
     }
 
     craftsmen = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 5950
     }
 
     artisans = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 2260
     }
 
     soldiers = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 1308
     }
 
     farmers = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 48978
     }
@@ -94,85 +94,85 @@
 #Basel (272000/68000 POPS)
 604 = {
     aristocrats = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 177
     }
 
     clergymen = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 326
     }
 
     clerks = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 160
     }
 
     craftsmen = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 4165
     }
 
     artisans = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 2677
     }
 
     soldiers = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 1308
     }
 
     farmers = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 36527
     }
 
     aristocrats = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 177
     }
 
     clergymen = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 297
     }
 
     clerks = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 153
     }
 
     craftsmen = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 1784
     }
 
     artisans = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 2260
     }
 
     soldiers = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 1308
     }
 
     farmers = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 29518
     }
@@ -180,55 +180,55 @@
 #Bern (352000/88000 POPS)
 605 = {
     aristocrats = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 534
     }
 
     officers = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 415
     }
 
     bureaucrats = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 952
     }
 
     clergymen = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 742
     }
 
     clerks = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 326
     }
 
     craftsmen = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 8331
     }
 
     artisans = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 4165
     }
 
     soldiers = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 1308
     }
 
     farmers = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 88434
     }
@@ -236,43 +236,43 @@
 #Lucerne (204000/51000 POPS)
 606 = {
     aristocrats = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 207
     }
 
     clergymen = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 534
     }
 
     artisans = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 2975
     }
 
     clerks = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 118
     }
 
     craftsmen = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 3451
     }
 
     soldiers = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 1308
     }
 
     farmers = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 50851
     }
@@ -425,31 +425,61 @@
     aristocrats = {
         culture = provencal
         religion = catholic
-        size = 150
+        size = 145
     }
 
     clergymen = {
         culture = provencal
         religion = catholic
-        size = 175
+        size = 170
     }
 
     artisans = {
         culture = provencal
         religion = catholic
-        size = 1100
+        size = 1067
     }
 
     soldiers = {
         culture = provencal
         religion = catholic
-        size = 1100
+        size = 1067
     }
 
     farmers = {
         culture = provencal
         religion = catholic
-        size = 15675
+        size = 15205
+    }
+
+    aristocrats = {
+        culture = provencal
+        religion = catholic
+        size = 5
+    }
+
+    clergymen = {
+        culture = provencal
+        religion = catholic
+        size = 5
+    }
+
+    artisans = {
+        culture = provencal
+        religion = catholic
+        size = 33
+    }
+
+    soldiers = {
+        culture = provencal
+        religion = catholic
+        size = 33
+    }
+
+    farmers = {
+        culture = provencal
+        religion = catholic
+        size = 470
     }
 }
 #Ticino & Grisons Region (188000)
@@ -500,61 +530,61 @@
 #Chur (80000/20000 POPS)
 611 = {
     aristocrats = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 118
     }
 
     clergymen = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 326
     }
 
     artisans = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 773
     }
 
     soldiers = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 1308
     }
 
     farmers = {
-        culture = rheinish 
+        culture = rheinish
         religion = catholic
         size = 13419
     }
 
     aristocrats = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 58
     }
 
     clergymen = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 58
     }
 
     artisans = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 415
     }
 
     soldiers = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 88
     }
 
     farmers = {
-        culture = rheinish 
+        culture = rheinish
         religion = protestant
         size = 7705
     }

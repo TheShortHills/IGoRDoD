@@ -183,31 +183,61 @@
     aristocrats = {
         culture = provencal
         religion = catholic
-        size = 275
+        size = 267
     }
 
     clergymen = {
         culture = provencal
         religion = catholic
-        size = 225
+        size = 218
     }
 
     artisans = {
         culture = provencal
         religion = catholic
-        size = 1175
+        size = 1140
     }
 
     soldiers = {
         culture = provencal
         religion = catholic
-        size = 225
+        size = 218
     }
 
     farmers = {
         culture = provencal
         religion = catholic
-        size = 21600
+        size = 20952
+    }
+
+    aristocrats = {
+        culture = provencal
+        religion = catholic
+        size = 8
+    }
+
+    clergymen = {
+        culture = provencal
+        religion = catholic
+        size = 7
+    }
+
+    artisans = {
+        culture = provencal
+        religion = catholic
+        size = 35
+    }
+
+    soldiers = {
+        culture = provencal
+        religion = catholic
+        size = 7
+    }
+
+    farmers = {
+        culture = provencal
+        religion = catholic
+        size = 648
     }
 }
 #Novara (212000/53000 POPS)
@@ -525,11 +555,13 @@
         religion = catholic
         size = 1600
     }
+
     craftsmen = {
         culture = venetian
         religion = catholic
         size = 10045
     }
+
     officers = {
         culture = venetian
         religion = catholic
@@ -1696,6 +1728,7 @@
         religion = catholic
         size = 40515
     }
+
     aristocrats = {
         culture = south_italian
         religion = catholic
