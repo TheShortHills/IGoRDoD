@@ -28,19 +28,19 @@ army = {
 	location = 1216
 	regiment = {
 		name= "1. Mohammedzi"
-		type = irregular
+		type = infantry
 		home = 1209
 	}
 
 	regiment = {
 		name= "2. Mohammedzi"
-		type = irregular
+		type = infantry
 		home = 1209
 	}
 
 	regiment = {
 		name= "3. Mohammedzi"
-		type = irregular
+		type = infantry
 		home = 1216
 	}
 
@@ -64,7 +64,52 @@ army = {
 
 }
 
+army = {
+	name = "Army of Punjab"
+	location = 1229
+	regiment = {
+		name= "1. Durranni"
+		type = infantry
+		home = 1214
+	}
 
+	regiment = {
+		name= "2. Durranni"
+		type = infantry
+		home = 1218
+	}
+
+	regiment = {
+		name= "3. Durranni"
+		type = infantry
+		home = 1214
+	}
+      
+
+	regiment = {
+		name= "2. Durranni"
+		type = infantry
+		home = 1218
+	}
+
+	regiment = {
+		name= "3. Durranni"
+		type = infantry
+		home = 1219
+	}
+
+	regiment = {
+		name= "4. Durranni"
+		type = hussar
+		home = 1219
+	}
+
+	regiment = {
+		name= "5. Durranni"
+		type = hussar
+		home = 1219
+	}
+}
 
 
 

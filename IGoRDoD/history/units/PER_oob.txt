@@ -126,6 +126,18 @@ army = {
 		type = infantry
 		home = 1148
 	}
+
+}
+
+army = {
+	name = "Southern Army of Persia"
+	location = 1108
+	regiment = {
+		name= "16. Bakhsh-i Piyadenizam"
+		type = infantry
+		home = 1121
+	}
+
 	regiment = {
 		name= "17. Bakhsh-i Piyadenizam"
 		type = infantry
