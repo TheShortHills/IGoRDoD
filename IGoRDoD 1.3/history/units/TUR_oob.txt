@@ -333,19 +333,44 @@ navy = {
 		name= "Fakim i Zafar"
 		type = frigate
 	}
-
 	ship = {
-		name= "1st Transport Flotilla"
+		name= "transport"
 		type = clipper_transport
 	}
-
 	ship = {
-		name= "2nd Transport Flotilla"
+		name= "transport"
 		type = clipper_transport
 	}
-
 	ship = {
-		name= "3rd Transport Flotilla"
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
 		type = clipper_transport
 	}
 

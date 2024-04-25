@@ -98,7 +98,7 @@ land_province = {
 
 blockaded = 
 {
-	war_exhaustion = 0.02
+
 }
 
 no_adjacent_controlled = {
@@ -161,10 +161,14 @@ disarming = {
 }
 
 war_exhaustion = {
-	org_regain = -0.01
-	factory_throughput = -0.01
-	RGO_throughput = -0.01
-	cb_generation_speed_modifier = -0.02
+    org_regain = -0.01
+    factory_throughput = -0.01
+    tax_efficiency = -0.002
+    tariff_efficiency_modifier = -0.002
+    administrative_efficiency_modifier = -0.002
+    global_immigrant_attract = -0.01
+    cb_generation_speed_modifier = -0.01
+    RGO_throughput = -0.01
 }
 
 
@@ -225,12 +229,12 @@ generalised_debt_default = {
 }
 
 total_occupation = {
-	war_exhaustion = 0.05 				#increased by war exhaustion.
+	war_exhaustion = 0.1 				#increased by war exhaustion.
 	prestige = -0.1
 }
 
 total_blockaded = {
-	war_exhaustion = 0.05				#increased by war exhaustion.  
+	war_exhaustion = 0.5				#increased by war exhaustion.  
 	prestige = -0.1
 }
 

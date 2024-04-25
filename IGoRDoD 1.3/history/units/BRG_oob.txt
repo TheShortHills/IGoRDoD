@@ -368,6 +368,30 @@ navy = {
 		type = manowar
 	}
 	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
 		name= "frigate"
 		type = frigate
 	}

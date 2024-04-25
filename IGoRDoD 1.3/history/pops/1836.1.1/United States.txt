@@ -6425,7 +6425,7 @@
     soldiers = {
         culture = plantagenian
         religion = protestant
-        size = 1282
+        size = 6282
     }
 
     farmers = {
@@ -6464,11 +6464,6 @@
         size = 1187
     }
 
-    soldiers = {
-        culture = plantagenian
-        religion = protestant
-        size = 945
-    }
 
     farmers = {
         culture = plantagenian
@@ -6500,35 +6495,6 @@
         size = 12812
     }
 
-    soldiers = {
-        culture = plantagenian
-        religion = protestant
-        size = 8
-    }
-
-    soldiers = {
-        culture = plantagenian
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = plantagenian
-        religion = protestant
-        size = 18
-    }
-
-    soldiers = {
-        culture = plantagenian
-        religion = protestant
-        size = 126
-    }
-
-    soldiers = {
-        culture = plantagenian
-        religion = protestant
-        size = 2362
-    }
 }
 #Bowling Green (144000/36000 POPS)
 186 = {
@@ -6754,12 +6720,6 @@
         size = 2205
     }
 
-    soldiers = {
-        culture = plantagenian
-        religion = protestant
-        size = 945
-    }
-
     farmers = {
         culture = plantagenian
         religion = protestant
@@ -6799,7 +6759,7 @@
     soldiers = {
         culture = plantagenian
         religion = protestant
-        size = 5400
+        size = 7400
     }
 
     farmers = {
@@ -6835,31 +6795,7 @@
     soldiers = {
         culture = plantagenian
         religion = protestant
-        size = 10
-    }
-
-    soldiers = {
-        culture = plantagenian
-        religion = protestant
         size = 2
-    }
-
-    soldiers = {
-        culture = plantagenian
-        religion = protestant
-        size = 16
-    }
-
-    soldiers = {
-        culture = plantagenian
-        religion = protestant
-        size = 97
-    }
-
-    soldiers = {
-        culture = plantagenian
-        religion = protestant
-        size = 1541
     }
 }
 #Memphis (128000/32000 POPS)

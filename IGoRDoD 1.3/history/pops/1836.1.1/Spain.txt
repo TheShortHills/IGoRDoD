@@ -1242,11 +1242,6 @@
         size = 1965
     }
 
-    soldiers = {
-        culture = catalan
-        religion = catholic
-        size = 588
-    }
 
     farmers = {
         culture = catalan
@@ -1277,7 +1272,7 @@
     soldiers = {
         culture = catalan
         religion = catholic
-        size = 420
+        size = 2420
     }
 
     farmers = {
@@ -1382,13 +1377,6 @@
         size = 2247
     }
 
-    soldiers = {
-        culture = catalan
-        religion = catholic
-        size = 674
-        militancy = 8
-        rebel_type = carlist_rebels
-    }
 
     farmers = {
         culture = catalan
@@ -1423,7 +1411,7 @@
     soldiers = {
         culture = catalan
         religion = catholic
-        size = 337
+        size = 3337
     }
 
     farmers = {

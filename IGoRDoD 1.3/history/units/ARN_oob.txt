@@ -93,7 +93,66 @@ army = {
 		home = 761
 	}
 }
+army = {
+	name = "Esercito delle Due Catalan"
+	location = 498
+	regiment = {
+		name= "1. Fanteria di Linea - Re e Regina"
+		type = hussar
+		home = 498
+	}
+	regiment = {
+		name= "1. Guardia Reale"
+		type = artillery
+		home = 498
+	}
 
+	regiment = {
+		name= "2. Guardia Reale"
+		type = artillery
+		home = 499
+	}
+
+	regiment = {
+		name= "3. Guardia Reale"
+		type = artillery
+		home = 501
+	}
+
+	regiment = {
+		name= "4. Truppe Svizzere"
+		type = artillery
+		home = 3258
+	}
+
+	regiment = {
+		name= "5. Truppe Svizzere"
+		type = artillery
+		home = 765
+	}
+	regiment = {
+		name= "1. Guardia Reale"
+		type = infantry
+		home = 765
+	}
+
+	regiment = {
+		name= "2. Guardia Reale"
+		type = infantry
+		home = 3259
+	}
+	regiment = {
+		name= "1. Guardia Reale"
+		type = infantry
+		home = 3259
+	}
+
+	regiment = {
+		name= "2. Guardia Reale"
+		type = infantry
+		home = 3259
+	}
+}
 army = {
 	name = "Esercito delle Due Tunis"
 	location = 1725
