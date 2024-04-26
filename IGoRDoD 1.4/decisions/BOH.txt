@@ -305,8 +305,7 @@ political_decisions = {
 		}
 		effect = {
 			set_country_flag = claim_prussia
-			PRU_701 = {add_core = THIS}
-			PRU_690 = {add_core = THIS}
+			PRU = {all_core = {add_core = THIS}}
 		}
 	}
 	integrate_rheinish_boh = {
