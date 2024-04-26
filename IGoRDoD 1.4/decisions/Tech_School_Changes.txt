@@ -63,7 +63,6 @@ political_decisions = {
 			NOT = { tech_school = army_tech_school }
 		}
 		allow = {
-			prestige = 45
 			military_score = 50
 			NOT = {
 				tech_school = prussian_tech_school
@@ -102,7 +101,6 @@ political_decisions = {
 			NOT = { tech_school = naval_tech_school }
 		}
 		allow = {
-			prestige = 45
 			military_score = 50
 			total_amount_of_ships = 30
 			NOT = {
@@ -141,7 +139,6 @@ political_decisions = {
 			NOT = { tech_school = culture_tech_school }
 		}
 		allow = {
-			prestige = 45
 			average_consciousness = 4
 			NOT = {
 				tech_school = prussian_tech_school
@@ -178,7 +175,6 @@ political_decisions = {
 			NOT = { tech_school = commerce_tech_school }
 		}
 		allow = {
-			prestige = 45
 			industrial_score = 50
 			NOT = {
 				tech_school = prussian_tech_school
@@ -216,7 +212,6 @@ political_decisions = {
 			NOT = { tech_school = industrial_tech_school }
 		}
 		allow = {
-			prestige = 45
 			industrial_score = 50
 			NOT = {
 				tech_school = prussian_tech_school
@@ -246,7 +241,6 @@ political_decisions = {
 		}
 		
 		allow = {
-			prestige = 45
 			NOT = {
 				has_country_modifier = academic_confusion
 			}

@@ -1275,3 +1275,7 @@ incan_breadbasket = {
 	population_growth = 0.002
 	icon = 19
 }
+capital_supply = {
+    supply_limit = 1000
+    icon = 17
+}
