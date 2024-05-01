@@ -5,7 +5,7 @@ country_event = {
 	trigger = {
 		tag = LCT
 		NOT = { has_country_modifier = sizing_cooldown }
-		NOT = { year = 1870 }
+		NOT = { year = 1860 }
 	}
 
 	immediate = {
@@ -81,7 +81,7 @@ country_event = {
 				limit = {
 					state_scope = { 
 						total_pops = 100000
-						NOT = { total_pops = 400000 }
+						NOT = { total_pops = 450000 }
 					}
 				}
 				add_core = SMA 
@@ -118,8 +118,8 @@ country_event = {
 			any_owned = { 
 				limit = {
 					state_scope = { 
-						total_pops = 400000 
-						NOT = { total_pops = 700000 }
+						total_pops = 450000 
+						NOT = { total_pops = 750000 }
 					} 
 				} 
 				add_core = MED
@@ -156,8 +156,8 @@ country_event = {
 			any_owned = {
 				limit = {
 					state_scope = { 
-						total_pops = 700000 
-						NOT = { total_pops = 1000000 }
+						total_pops = 750000 
+						NOT = { total_pops = 1050000 }
 					} 
 				} 
 			add_core = LRG
@@ -194,7 +194,7 @@ country_event = {
 			any_owned = { 
 				limit = {
 					state_scope = { 
-						total_pops = 1000000
+						total_pops = 1050000
 					}
 				}
 				add_core = HUG 
@@ -214,7 +214,7 @@ country_event = {
 	trigger = {
 		tag = LCT
 		NOT = { has_country_modifier = sizing_cooldown }
-		year = 1870
+		year = 1860
 		NOT = { year = 1900 }
 	}
 
@@ -281,7 +281,7 @@ country_event = {
 				limit = {
 					state_scope = { 
 						total_pops = 150000
-						NOT = { total_pops = 600000 }
+						NOT = { total_pops = 650000 }
 					}
 				}
 				add_core = SMA 
@@ -313,8 +313,8 @@ country_event = {
 			any_owned = { 
 				limit = {
 					state_scope = { 
-						total_pops = 600000 
-						NOT = { total_pops = 1000000 }
+						total_pops = 650000 
+						NOT = { total_pops = 1050000 }
 					} 
 				} 
 				add_core = MED
@@ -346,7 +346,7 @@ country_event = {
 			any_owned = {
 				limit = {
 					state_scope = { 
-						total_pops = 1000000 
+						total_pops = 1050000 
 						NOT = { total_pops = 1500000 }
 					} 
 				} 
