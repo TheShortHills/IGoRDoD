@@ -1,0 +1,250 @@
+#Semireche Region (292000) #see turkichstan.txt for balance of region
+#under the "rule" of Kokand in 1836
+#Bishkek (236000/59000 POPS) #now part of Kirghizstan
+1189 = {
+    aristocrats = {
+        culture = turkic
+        religion = sunni
+        size = 960
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 510
+    }
+
+    artisans = {
+        culture = turkic
+        religion = sunni
+        size = 2400
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 4200
+    }
+
+    farmers = {
+        culture = turkic
+        religion = sunni
+        size = 40530
+    }
+
+    aristocrats = {
+        culture = turkic
+        religion = sunni
+        size = 120
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 90
+    }
+
+    artisans = {
+        culture = turkic
+        religion = sunni
+        size = 360
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 45
+    }
+
+    farmers = {
+        culture = turkic
+        religion = sunni
+        size = 7740
+    }
+
+    aristocrats = {
+        culture = turkic
+        religion = sunni
+        size = 150
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 90
+    }
+
+    artisans = {
+        culture = turkic
+        religion = sunni
+        size = 420
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 45
+    }
+
+    farmers = {
+        culture = turkic
+        religion = sunni
+        size = 8850
+    }
+}
+#Naryn (56000/14000 POPS) #now part of Kirghizstan
+1190 = {
+    aristocrats = {
+        culture = turkic
+        religion = sunni
+        size = 60
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 60
+    }
+
+    artisans = {
+        culture = turkic
+        religion = sunni
+        size = 120
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 660
+    }
+
+    farmers = {
+        culture = turkic
+        religion = sunni
+        size = 3330
+    }
+
+    aristocrats = {
+        culture = turkic
+        religion = animist
+        size = 120
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = animist
+        size = 60
+    }
+
+    artisans = {
+        culture = turkic
+        religion = animist
+        size = 300
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = animist
+        size = 30
+    }
+
+    farmers = {
+        culture = turkic
+        religion = animist
+        size = 5490
+    }
+
+    aristocrats = {
+        culture = turkic
+        religion = sunni
+        size = 120
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 60
+    }
+
+    artisans = {
+        culture = turkic
+        religion = sunni
+        size = 240
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 30
+    }
+
+    farmers = {
+        culture = turkic
+        religion = sunni
+        size = 5520
+    }
+}
+#Mawarannahr Region (112000) #see turkichstan.txt, turkicistan.txt, turkicistan.txt for balance of region
+#under the rule of Kokand in 1836
+#Osh (112000/28000 POPS) #Now part of Kirghizstan
+1203 = {
+    aristocrats = {
+        culture = turkic
+        religion = sunni
+        size = 210
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 90
+    }
+
+    artisans = {
+        culture = turkic
+        religion = sunni
+        size = 540
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 60
+    }
+
+    farmers = {
+        culture = turkic
+        religion = sunni
+        size = 9840
+    }
+
+    aristocrats = {
+        culture = turkic
+        religion = sunni
+        size = 450
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 210
+    }
+
+    artisans = {
+        culture = turkic
+        religion = sunni
+        size = 1080
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 2400
+    }
+
+    farmers = {
+        culture = turkic
+        religion = sunni
+        size = 16260
+    }
+}

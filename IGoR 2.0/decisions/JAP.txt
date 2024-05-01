@@ -1,0 +1,17 @@
+political_decisions = {
+	core_korea = {
+		potential = {
+			tag = JAP
+			NOT = {has_country_flag = core_korea}
+		}
+		allow = {
+			state_n_government = 1
+			KOR = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			KOR = {all_core = {add_core = THIS}}
+			set_country_flag = core_korea
+		}
+	}
+
+}

@@ -1,0 +1,160 @@
+#Mawarannahr Region (200000) #see turkichstan.txt, turkicistan.txt, Kirghizstan.txt and turkicistan.txt for balance of region
+#under the rule of Kokand in 1836
+#Khujand (200000/50000 POPS) #now part of turkicistan
+1201 = {
+    aristocrats = {
+        culture = turkic
+        religion = sunni
+        size = 930
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 480
+    }
+
+    artisans = {
+        culture = turkic
+        religion = sunni
+        size = 2400
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 480
+    }
+
+    farmers = {
+        culture = turkic
+        religion = sunni
+        size = 43710
+    }
+
+    aristocrats = {
+        culture = turkic
+        religion = sunni
+        size = 210
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 90
+    }
+
+    artisans = {
+        culture = turkic
+        religion = sunni
+        size = 600
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 120
+    }
+
+    farmers = {
+        culture = turkic
+        religion = sunni
+        size = 10980
+    }
+}
+#Badakhshan Region (212000)
+#under the rule of Kokand in 1836
+#Kulob (120000/30000 POPS)
+1207 = {
+    aristocrats = {
+        culture = turkic
+        religion = sunni
+        size = 690
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = sunni
+        size = 330
+    }
+
+    artisans = {
+        culture = turkic
+        religion = sunni
+        size = 1740
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = sunni
+        size = 300
+    }
+
+    farmers = {
+        culture = turkic
+        religion = sunni
+        size = 32940
+    }
+}
+#Khorugh (92000/23000 POPS)
+1208 = {
+    aristocrats = {
+        culture = oirat
+        religion = sunni
+        size = 656
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = sunni
+        size = 327
+    }
+
+    artisans = {
+        culture = oirat
+        religion = sunni
+        size = 1593
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = sunni
+        size = 1308
+    }
+
+    farmers = {
+        culture = oirat
+        religion = sunni
+        size = 32718
+    }
+
+    aristocrats = {
+        culture = oirat
+        religion = sunni
+        size = 140
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = sunni
+        size = 140
+    }
+
+    artisans = {
+        culture = oirat
+        religion = sunni
+        size = 327
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = sunni
+        size = 184
+    }
+
+    farmers = {
+        culture = oirat
+        religion = sunni
+        size = 6843
+    }
+}

@@ -1,0 +1,7 @@
+owner = KZH
+controller = KZH
+add_core = KZH
+add_core = CHG
+trade_goods = cattle
+life_rating = 35
+

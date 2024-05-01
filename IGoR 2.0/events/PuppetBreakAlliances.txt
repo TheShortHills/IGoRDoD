@@ -1,0 +1,26 @@
+country_event = {
+	id = 659184
+	title = "clear alliances"
+	desc = "clear alliances"
+	picture = ""
+	
+	
+	trigger = {
+        	has_global_flag = alliance_check
+		THIS = {
+			is_vassal = yes
+		}
+   	}
+    	mean_time_to_happen = {
+        	days = 1
+    	}
+	
+	option = {
+		name = "its over"
+		any_country = {
+			leave_alliance = THIS
+		}
+		clr_global_flag = alliance_check
+    	}
+	
+}
