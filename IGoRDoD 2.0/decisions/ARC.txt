@@ -183,6 +183,7 @@ political_decisions = {
 			USA_106 = {add_core = ARC}
 			MEX_85 = {add_core = ARC}
 			USA_81 = {add_core = ARC}
+			USA_78 = {add_core = ARC}
 			ENG_22 = {add_core = ARC}
 			ENG_13 = {add_core = ARC}
 			USA_1 = {add_core = ARC}

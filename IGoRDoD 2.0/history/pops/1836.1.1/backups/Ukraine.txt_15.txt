@@ -491,43 +491,43 @@
     aristocrats = {
         culture = polish
         religion = catholic
-        size = 4125
+        size = 3750
     }
 
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 7150
+        size = 6500
     }
 
     officers = {
         culture = polish
         religion = catholic
-        size = 825
+        size = 750
     }
 
     clergymen = {
         culture = polish
         religion = catholic
-        size = 852
+        size = 775
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 3575
+        size = 3250
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 1072
+        size = 975
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 60197
+        size = 54725
     }
 
     clergymen = {
@@ -557,25 +557,25 @@
     clergymen = {
         culture = polish
         religion = catholic
-        size = 55
+        size = 50
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 110
+        size = 100
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 40
+        size = 37
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 2007
+        size = 1825
     }
 }
 #Stryi (404000/101000 POPS) #now part of Ukraine
@@ -607,31 +607,31 @@
     aristocrats = {
         culture = polish
         religion = catholic
-        size = 5500
+        size = 5000
     }
 
     clergymen = {
         culture = polish
         religion = catholic
-        size = 467
+        size = 425
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 2310
+        size = 2100
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 742
+        size = 675
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 37427
+        size = 34025
     }
 
     clergymen = {
@@ -661,25 +661,25 @@
     clergymen = {
         culture = polish
         religion = catholic
-        size = 22
+        size = 20
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 55
+        size = 50
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 16
+        size = 15
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 1012
+        size = 920
     }
 }
 #Ternopil (1136000/284000 POPS) #now part of Ukraine
@@ -711,31 +711,31 @@
     aristocrats = {
         culture = polish
         religion = catholic
-        size = 7150
+        size = 6500
     }
 
     clergymen = {
         culture = polish
         religion = catholic
-        size = 770
+        size = 700
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 3740
+        size = 3400
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 1155
+        size = 1050
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 62370
+        size = 56700
     }
 
     clergymen = {
@@ -765,25 +765,25 @@
     clergymen = {
         culture = polish
         religion = catholic
-        size = 22
+        size = 20
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 55
+        size = 50
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 16
+        size = 15
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 1012
+        size = 920
     }
 }
 #Stanislavov (376000/94000 POPS) #now part of Ukraine
@@ -815,31 +815,31 @@
     aristocrats = {
         culture = polish
         religion = catholic
-        size = 2365
+        size = 2150
     }
 
     clergymen = {
         culture = polish
         religion = catholic
-        size = 357
+        size = 325
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 1815
+        size = 1650
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 535
+        size = 487
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 31405
+        size = 28550
     }
 
     clergymen = {
@@ -869,25 +869,25 @@
     clergymen = {
         culture = polish
         religion = catholic
-        size = 22
+        size = 20
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 55
+        size = 50
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 16
+        size = 15
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 1012
+        size = 920
     }
 }
 #Volhynia-Podolia Region (1892000)
@@ -921,43 +921,43 @@
     aristocrats = {
         culture = polish
         religion = catholic
-        size = 2200
+        size = 2000
     }
 
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 687
+        size = 625
     }
 
     officers = {
         culture = polish
         religion = catholic
-        size = 440
+        size = 400
     }
 
     clergymen = {
         culture = polish
         religion = catholic
-        size = 82
+        size = 75
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 330
+        size = 300
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 82
+        size = 75
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 357
+        size = 325
     }
 
     clergymen = {
@@ -1037,31 +1037,31 @@
     aristocrats = {
         culture = polish
         religion = catholic
-        size = 3025
+        size = 2750
     }
 
     clergymen = {
         culture = polish
         religion = catholic
-        size = 110
+        size = 100
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 715
+        size = 650
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 165
+        size = 150
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 7040
+        size = 6400
     }
 
     clergymen = {
@@ -1091,25 +1091,25 @@
     clergymen = {
         culture = polish
         religion = catholic
-        size = 27
+        size = 25
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 110
+        size = 100
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 40
+        size = 37
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 935
+        size = 850
     }
 }
 #Rovne (460000/115000 POPS)
@@ -1141,31 +1141,31 @@
     aristocrats = {
         culture = polish
         religion = catholic
-        size = 2860
+        size = 2600
     }
 
     clergymen = {
         culture = polish
         religion = catholic
-        size = 137
+        size = 125
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 825
+        size = 750
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 247
+        size = 225
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 11412
+        size = 10375
     }
 
     clergymen = {
@@ -1221,31 +1221,31 @@
     aristocrats = {
         culture = polish
         religion = catholic
-        size = 2530
+        size = 2300
     }
 
     clergymen = {
         culture = polish
         religion = catholic
-        size = 110
+        size = 100
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 660
+        size = 600
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 205
+        size = 187
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 8662
+        size = 7875
     }
 
     clergymen = {

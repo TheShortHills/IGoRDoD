@@ -155,6 +155,19 @@ political_decisions = {
 				}
 				annex_to = THIS
 			}
+			any_country = {
+				limit = {
+					primary_culture = south_italian
+					 OR = {
+					   in_sphere = THIS
+					   vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
 			ARN = {all_core = {add_core = ARI remove_core = ARN}}
 			SIC = {all_core = {add_core = ARI}}
 			SAR = {all_core = {add_core = ARI}}
