@@ -1,0 +1,217 @@
+THU = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+BRA = {
+	value = 25		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+HAN = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+BRE = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+HEK = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+BAV = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+AUS = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+TIR = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+HES = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+PLC = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+HUN = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+army = {
+	name = "First Army of Bohemia"
+	location = 625
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 560
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 551
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 550
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = infantry
+		home = 559
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 555
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 556
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 552
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 627
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = artillery
+		home = 687
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = hussar
+		home = 558
+	}
+}
+army = {
+	name = "Second Army of Bohemia"
+	location = 549
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 549
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 549
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 549
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = infantry
+		home = 553
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 681
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 682
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 682
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 682
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = artillery
+		home = 682
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = hussar
+		home = 684
+	}
+}
+army = {
+	name = "Third Army of Bohemia"
+	location = 682
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 625
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 625
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 631
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = infantry
+		home = 626
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 629
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 625
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 625
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 625
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = artillery
+		home = 625
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = hussar
+		home = 628
+	}
+}

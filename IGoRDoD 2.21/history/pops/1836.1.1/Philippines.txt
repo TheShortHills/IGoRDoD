@@ -1,0 +1,1577 @@
+#Luzon Region (2176000)
+#Ruled by Spain in 1836
+#Manila (780000/195000 POPS)
+1455 = {
+    aristocrats = {
+        culture = scandinavian
+        religion = catholic
+        size = 190
+    }
+
+    bureaucrats = {
+        culture = scandinavian
+        religion = catholic
+        size = 380
+    }
+
+    clergymen = {
+        culture = scandinavian
+        religion = catholic
+        size = 641
+    }
+
+    artisans = {
+        culture = scandinavian
+        religion = catholic
+        size = 997
+    }
+
+    soldiers = {
+        culture = scandinavian
+        religion = catholic
+        size = 99
+    }
+
+    aristocrats = {
+        culture = filipino
+        religion = catholic
+        size = 1187
+    }
+
+    bureaucrats = {
+        culture = filipino
+        religion = catholic
+        size = 427
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = catholic
+        size = 1924
+    }
+
+    artisans = {
+        culture = filipino
+        religion = catholic
+        size = 9500
+    }
+
+    artisans = {
+        culture = filipino
+        religion = catholic
+        size = 9500
+    }
+
+    artisans = {
+        culture = filipino
+        religion = catholic
+        size = 8550
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = catholic
+        size = 3800
+    }
+
+    farmers = {
+        culture = filipino
+        religion = catholic
+        size = 129722
+    }
+
+    artisans = {
+        culture = nanfaren
+        religion = catholic
+        size = 1140
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 30400
+    }
+
+    farmers = {
+        culture = nanfaren
+        religion = catholic
+        size = 760
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = catholic
+        size = 192
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = catholic
+        size = 1045
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 190
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 16839
+    }
+
+    aristocrats = {
+        culture = qingqiuan
+        religion = catholic
+        size = 10
+    }
+
+    bureaucrats = {
+        culture = qingqiuan
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = catholic
+        size = 34
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = catholic
+        size = 53
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 5
+    }
+
+    aristocrats = {
+        culture = qingqiuan
+        religion = catholic
+        size = 63
+    }
+
+    bureaucrats = {
+        culture = qingqiuan
+        religion = catholic
+        size = 23
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = catholic
+        size = 101
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = catholic
+        size = 500
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = catholic
+        size = 450
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 6828
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = catholic
+        size = 60
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = mahayana
+        size = 1600
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 40
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = catholic
+        size = 10
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = catholic
+        size = 55
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 10
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 886
+    }
+}
+#Vigan (608000/152000 POPS)
+1456 = {
+    aristocrats = {
+        culture = filipino
+        religion = catholic
+        size = 1045
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = catholic
+        size = 1603
+    }
+
+    artisans = {
+        culture = filipino
+        religion = catholic
+        size = 6982
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = catholic
+        size = 1425
+    }
+
+    farmers = {
+        culture = filipino
+        religion = catholic
+        size = 127799
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = catholic
+        size = 128
+    }
+
+    artisans = {
+        culture = filipino
+        religion = catholic
+        size = 237
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = catholic
+        size = 47
+    }
+
+    farmers = {
+        culture = filipino
+        religion = catholic
+        size = 6317
+    }
+
+    aristocrats = {
+        culture = qingqiuan
+        religion = catholic
+        size = 55
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = catholic
+        size = 84
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = catholic
+        size = 368
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 75
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 6726
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = catholic
+        size = 7
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = catholic
+        size = 13
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 3
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 333
+    }
+}
+#Legazpi (564000/141000 POPS)
+1457 = {
+    aristocrats = {
+        culture = filipino
+        religion = catholic
+        size = 1045
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = catholic
+        size = 1603
+    }
+
+    artisans = {
+        culture = filipino
+        religion = catholic
+        size = 6175
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = catholic
+        size = 1282
+    }
+
+    farmers = {
+        culture = filipino
+        religion = catholic
+        size = 116399
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = catholic
+        size = 128
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = catholic
+        size = 475
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 95
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 26932
+    }
+
+    aristocrats = {
+        culture = qingqiuan
+        religion = catholic
+        size = 55
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = catholic
+        size = 84
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = catholic
+        size = 325
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 68
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 6126
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = catholic
+        size = 7
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = catholic
+        size = 25
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 5
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 1418
+    }
+}
+#Mindoro (224000/56000 POPS)
+1458 = {
+    aristocrats = {
+        culture = filipino
+        religion = catholic
+        size = 380
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = catholic
+        size = 448
+    }
+
+    artisans = {
+        culture = filipino
+        religion = catholic
+        size = 1995
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = catholic
+        size = 427
+    }
+
+    farmers = {
+        culture = filipino
+        religion = catholic
+        size = 36931
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = sunni
+        size = 320
+    }
+
+    artisans = {
+        culture = filipino
+        religion = sunni
+        size = 712
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = sunni
+        size = 95
+    }
+
+    farmers = {
+        culture = filipino
+        religion = sunni
+        size = 10474
+    }
+
+    aristocrats = {
+        culture = qingqiuan
+        religion = catholic
+        size = 20
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = catholic
+        size = 24
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = catholic
+        size = 105
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 23
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 1944
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = sunni
+        size = 17
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = sunni
+        size = 38
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = sunni
+        size = 5
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = sunni
+        size = 551
+    }
+}
+#Visayas Region (1044000 POPS)
+#under rule of Spain 1836
+#Palawan (80000/20000 POPS)
+1459 = {
+    aristocrats = {
+        culture = filipino
+        religion = catholic
+        size = 24
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = catholic
+        size = 64
+    }
+
+    artisans = {
+        culture = filipino
+        religion = catholic
+        size = 190
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = catholic
+        size = 47
+    }
+
+    farmers = {
+        culture = filipino
+        religion = catholic
+        size = 3515
+    }
+
+    aristocrats = {
+        culture = filipino
+        religion = sunni
+        size = 71
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = sunni
+        size = 128
+    }
+
+    artisans = {
+        culture = filipino
+        religion = sunni
+        size = 285
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = sunni
+        size = 71
+    }
+
+    farmers = {
+        culture = filipino
+        religion = sunni
+        size = 5225
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = animist
+        size = 192
+    }
+
+    artisans = {
+        culture = filipino
+        religion = animist
+        size = 427
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = animist
+        size = 95
+    }
+
+    farmers = {
+        culture = filipino
+        religion = animist
+        size = 8906
+    }
+
+    aristocrats = {
+        culture = qingqiuan
+        religion = catholic
+        size = 1
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = catholic
+        size = 3
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = catholic
+        size = 10
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 3
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 185
+    }
+
+    aristocrats = {
+        culture = qingqiuan
+        religion = sunni
+        size = 4
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = sunni
+        size = 7
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = sunni
+        size = 15
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = sunni
+        size = 4
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = sunni
+        size = 275
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = animist
+        size = 10
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = animist
+        size = 23
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = animist
+        size = 5
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = animist
+        size = 469
+    }
+}
+#Iloilo (312000/78000 POPS)
+1460 = {
+    aristocrats = {
+        culture = filipino
+        religion = catholic
+        size = 617
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = catholic
+        size = 898
+    }
+
+    artisans = {
+        culture = filipino
+        religion = catholic
+        size = 3325
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = catholic
+        size = 712
+    }
+
+    farmers = {
+        culture = filipino
+        religion = catholic
+        size = 61512
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = sunni
+        size = 192
+    }
+
+    artisans = {
+        culture = filipino
+        religion = sunni
+        size = 475
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = sunni
+        size = 95
+    }
+
+    farmers = {
+        culture = filipino
+        religion = sunni
+        size = 6959
+    }
+
+    aristocrats = {
+        culture = qingqiuan
+        religion = catholic
+        size = 33
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = catholic
+        size = 47
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = catholic
+        size = 175
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 38
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 3238
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = sunni
+        size = 10
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = sunni
+        size = 25
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = sunni
+        size = 5
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = sunni
+        size = 366
+    }
+}
+#Tacloban (348000/87000 POPS)
+1461 = {
+    aristocrats = {
+        culture = filipino
+        religion = catholic
+        size = 712
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = catholic
+        size = 1603
+    }
+
+    artisans = {
+        culture = filipino
+        religion = catholic
+        size = 4037
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = catholic
+        size = 807
+    }
+
+    farmers = {
+        culture = filipino
+        religion = catholic
+        size = 76119
+    }
+
+    aristocrats = {
+        culture = qingqiuan
+        religion = catholic
+        size = 38
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = catholic
+        size = 84
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = catholic
+        size = 213
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 43
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 4006
+    }
+}
+#Cebu (304000/76000 POPS)
+2565 = {
+    bureaucrats = {
+        culture = scandinavian
+        religion = catholic
+        size = 119
+    }
+
+    clergymen = {
+        culture = scandinavian
+        religion = catholic
+        size = 128
+    }
+
+    soldiers = {
+        culture = scandinavian
+        religion = catholic
+        size = 24
+    }
+
+    aristocrats = {
+        culture = filipino
+        religion = catholic
+        size = 641
+    }
+
+    bureaucrats = {
+        culture = filipino
+        religion = catholic
+        size = 356
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = catholic
+        size = 1154
+    }
+
+    artisans = {
+        culture = filipino
+        religion = catholic
+        size = 3325
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = catholic
+        size = 712
+    }
+
+    farmers = {
+        culture = filipino
+        religion = catholic
+        size = 60847
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = sunni
+        size = 128
+    }
+
+    artisans = {
+        culture = filipino
+        religion = sunni
+        size = 475
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = sunni
+        size = 71
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = sunni
+        size = 33606
+    }
+
+    farmers = {
+        culture = filipino
+        religion = sunni
+        size = 5106
+    }
+
+    bureaucrats = {
+        culture = qingqiuan
+        religion = catholic
+        size = 6
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = catholic
+        size = 7
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 1
+    }
+
+    aristocrats = {
+        culture = qingqiuan
+        religion = catholic
+        size = 34
+    }
+
+    bureaucrats = {
+        culture = qingqiuan
+        religion = catholic
+        size = 19
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = catholic
+        size = 61
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = catholic
+        size = 175
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 38
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 3203
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = sunni
+        size = 7
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = sunni
+        size = 25
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = sunni
+        size = 4
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = sunni
+        size = 1769
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = sunni
+        size = 269
+    }
+}
+#Mindanao Region (496000)
+#Under Spanish "Rule" 1836
+#Davao (152000/38000 POPS)
+1463 = {
+    bureaucrats = {
+        culture = scandinavian
+        religion = catholic
+        size = 71
+    }
+
+    clergymen = {
+        culture = scandinavian
+        religion = catholic
+        size = 128
+    }
+
+    soldiers = {
+        culture = scandinavian
+        religion = catholic
+        size = 24
+    }
+
+    aristocrats = {
+        culture = filipino
+        religion = catholic
+        size = 95
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = catholic
+        size = 256
+    }
+
+    artisans = {
+        culture = filipino
+        religion = catholic
+        size = 807
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = catholic
+        size = 1045
+    }
+
+    farmers = {
+        culture = filipino
+        religion = catholic
+        size = 14060
+    }
+
+    aristocrats = {
+        culture = filipino
+        religion = sunni
+        size = 95
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = sunni
+        size = 256
+    }
+
+    artisans = {
+        culture = filipino
+        religion = sunni
+        size = 570
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = sunni
+        size = 95
+    }
+
+    farmers = {
+        culture = filipino
+        religion = sunni
+        size = 10545
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 20045
+    }
+
+    aristocrats = {
+        culture = filipino
+        religion = animist
+        size = 95
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = animist
+        size = 192
+    }
+
+    artisans = {
+        culture = filipino
+        religion = animist
+        size = 332
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = animist
+        size = 95
+    }
+
+    farmers = {
+        culture = filipino
+        religion = animist
+        size = 7006
+    }
+
+    bureaucrats = {
+        culture = qingqiuan
+        religion = catholic
+        size = 4
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = catholic
+        size = 7
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 1
+    }
+
+    aristocrats = {
+        culture = qingqiuan
+        religion = catholic
+        size = 5
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = catholic
+        size = 14
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = catholic
+        size = 43
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 55
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 740
+    }
+
+    aristocrats = {
+        culture = qingqiuan
+        religion = sunni
+        size = 5
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = sunni
+        size = 14
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = sunni
+        size = 30
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = sunni
+        size = 5
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = sunni
+        size = 555
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 1055
+    }
+
+    aristocrats = {
+        culture = qingqiuan
+        religion = animist
+        size = 5
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = animist
+        size = 10
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = animist
+        size = 18
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = animist
+        size = 5
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = animist
+        size = 369
+    }
+}
+#Under rule of Sultans of Sulu in 1836
+#Zamboanga (300000/75000 POPS)
+1462 = {
+    aristocrats = {
+        culture = filipino
+        religion = sunni
+        size = 570
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = sunni
+        size = 1282
+    }
+
+    artisans = {
+        culture = filipino
+        religion = sunni
+        size = 2375
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = sunni
+        size = 475
+    }
+
+    farmers = {
+        culture = filipino
+        religion = sunni
+        size = 42655
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = catholic
+        size = 128
+    }
+
+    artisans = {
+        culture = filipino
+        religion = catholic
+        size = 712
+    }
+
+    farmers = {
+        culture = filipino
+        religion = catholic
+        size = 11590
+    }
+
+    slaves = {
+        culture = filipino
+        religion = catholic
+        size = 3800
+    }
+
+    aristocrats = {
+        culture = filipino
+        religion = animist
+        size = 95
+    }
+
+    clergymen = {
+        culture = filipino
+        religion = animist
+        size = 192
+    }
+
+    artisans = {
+        culture = filipino
+        religion = animist
+        size = 285
+    }
+
+    soldiers = {
+        culture = filipino
+        religion = animist
+        size = 95
+    }
+
+    farmers = {
+        culture = filipino
+        religion = animist
+        size = 8099
+    }
+
+    aristocrats = {
+        culture = qingqiuan
+        religion = sunni
+        size = 30
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = sunni
+        size = 68
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = sunni
+        size = 125
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = sunni
+        size = 25
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = sunni
+        size = 2245
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = catholic
+        size = 7
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = catholic
+        size = 38
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = catholic
+        size = 610
+    }
+
+    slaves = {
+        culture = qingqiuan
+        religion = catholic
+        size = 200
+    }
+
+    aristocrats = {
+        culture = qingqiuan
+        religion = animist
+        size = 5
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = animist
+        size = 10
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = animist
+        size = 15
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = animist
+        size = 5
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = animist
+        size = 426
+    }
+}
+#Jolo (44000/11000 POPS)
+1464 = {
+    aristocrats = {
+        culture = malay
+        religion = sunni
+        size = 95
+    }
+
+    bureaucrats = {
+        culture = malay
+        religion = sunni
+        size = 71
+    }
+
+    officers = {
+        culture = malay
+        religion = sunni
+        size = 71
+    }
+
+    clergymen = {
+        culture = malay
+        religion = sunni
+        size = 256
+    }
+
+    artisans = {
+        culture = malay
+        religion = sunni
+        size = 570
+    }
+
+    soldiers = {
+        culture = malay
+        religion = sunni
+        size = 214
+    }
+
+    farmers = {
+        culture = malay
+        religion = sunni
+        size = 9334
+    }
+
+    aristocrats = {
+        culture = qingqiuan
+        religion = sunni
+        size = 5
+    }
+
+    bureaucrats = {
+        culture = qingqiuan
+        religion = sunni
+        size = 4
+    }
+
+    officers = {
+        culture = qingqiuan
+        religion = sunni
+        size = 4
+    }
+
+    clergymen = {
+        culture = qingqiuan
+        religion = sunni
+        size = 14
+    }
+
+    artisans = {
+        culture = qingqiuan
+        religion = sunni
+        size = 30
+    }
+
+    soldiers = {
+        culture = qingqiuan
+        religion = sunni
+        size = 11
+    }
+
+    farmers = {
+        culture = qingqiuan
+        religion = sunni
+        size = 491
+    }
+}
