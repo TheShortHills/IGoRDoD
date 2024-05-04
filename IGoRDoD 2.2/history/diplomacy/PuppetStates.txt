@@ -1,0 +1,123 @@
+#China substates
+substate = {
+	first = CHI
+	second = XIN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = PLC
+	second = PRU
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = PLC
+	second = LIT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = PLC
+	second = BYE
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = PLC
+	second = UKR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+#vassal = {
+#	first = CHI
+#	second = KOR
+#	start_date = 1836.1.1
+#	end_date = 1895.5.17 #Treaty of Shimonoseki
+#}
+
+# Russia-Finland
+vassal = {
+	first = SCA
+	second = PSV
+	start_date = 1809.9.17 #Treaty of Fredrikshamn
+	end_date = 2917.12.6 #Declared independence
+}
+
+# Denmark-Holstein
+vassal = {
+	first = DEN
+	second = HOL
+	start_date = 1773.1.1
+	end_date = 1864.10.30
+}
+
+# NET-LUX
+vassal = {
+	first = NET
+	second = LUX
+	start_date = 1839.1.1
+	end_date = 1890.11.23
+}
+
+
+
+
+# United Kingdom-Commonwealth
+vassal = {
+	first = ENG
+	second = COM
+	start_date = 1670.5.2
+	end_date = 1950.1.1
+}
+
+
+# Switzerland-Liechtenstein
+#vassal = {
+#	first = SWI
+#	second = LEI
+#	start_date = 1836.1.1
+#	end_date = 1999.1.1	
+#}
+
+#######################
+#        INDIA        #
+#######################
+
+# UK - India
+vassal = {
+	first = ENG
+	second = HND
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+# Dai Nam-Cambodia
+
+
+#########1861
+# Siam - Cambodia
+
+# UK - KAS
+vassal = {
+	first = ENG
+	second = KAS
+	start_date = 1861.1.1
+	end_date = 1936.1.1
+}
+
+# UK - Yemen
+vassal = {
+	first = ENG
+	second = YEM
+	start_date = 1861.1.1
+	end_date = 1936.1.1
+}
+
+# OE - Hejaz 
+#vassal = {
+#	first = TUR
+#	second = HDJ
+#	start_date = 1861.1.1
+#	end_date = 1936.1.1
+#}
