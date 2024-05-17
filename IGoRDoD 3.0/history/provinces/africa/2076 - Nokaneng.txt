@@ -1,0 +1,6 @@
+owner = BTV
+controller = BTV
+add_core = BTV
+trade_goods = fruit
+life_rating = 35
+

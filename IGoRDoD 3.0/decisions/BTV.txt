@@ -1,0 +1,50 @@
+political_decisions = {	
+	westward_colonization = {
+		potential = {
+			tag = BTV
+			NOT = {has_country_flag = westward_colonization}
+		}
+		allow = {
+			medicine = 1
+			idealism = 1
+			2083 = {empty = yes}
+			2079 = {empty = yes}
+		}
+		effect = {
+			set_country_flag = westward_colonization
+			2086 = { secede_province = BTV}
+			2084 = { secede_province = BTV}
+			2085 = { secede_province = BTV}
+			2083 = { secede_province = BTV}
+			2078 = { secede_province = BTV}
+			2079 = { secede_province = BTV}
+			2080 = { secede_province = BTV}
+			2082 = { secede_province = BTV}
+			2081 = { secede_province = BTV}
+			GER_2084 = {life_rating = 15} 
+			GER_2078 = {life_rating = 15}
+		}
+	}
+	eastward_colonization = {
+		potential = {
+			tag = BTV
+			NOT = {has_country_flag = eastward_colonization}
+		}
+		allow = {
+			medicine = 1
+			idealism = 1
+			2071 = {empty = yes}
+		}
+		effect = {
+			set_country_flag = eastward_colonization
+			2071 = { secede_province = BTV}
+			2073 = { secede_province = BTV}
+			2069 = { secede_province = BTV}
+			2072 = { secede_province = BTV}
+			2070 = { secede_province = BTV}
+			2068 = { secede_province = BTV}
+			2635 = { secede_province = BTV}
+			ENG_2068 = {life_rating = 15} 
+		}
+	}
+}

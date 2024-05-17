@@ -1,0 +1,9 @@
+owner = BTV
+controller = BTV
+add_core = BTV
+trade_goods = iron
+life_rating = 35
+
+
+
+

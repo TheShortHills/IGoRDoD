@@ -1,0 +1,30 @@
+country_event = {
+    id = 575454
+    title = "PLC Supply"
+    desc = "Please invade Russia"
+
+    trigger = {
+		OR = {
+			tag = LIT
+			tag = BYE
+			tag = UKR
+		}
+		NOT = { has_global_flag = plc_supply }
+    }
+
+    mean_time_to_happen = {
+        days = 0
+    }
+    
+    option = {
+        name = "Great!"
+		any_owned = {
+            add_province_modifier = {
+                name = plc_march_supply 
+                duration = -1
+            }
+		}
+		set_global_flag = plc_supply
+    }
+}
+

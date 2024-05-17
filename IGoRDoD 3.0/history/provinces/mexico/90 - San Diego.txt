@@ -1,0 +1,9 @@
+owner = CLM
+controller = CLM
+add_core = CLM
+add_core = LST
+#add_core = DES
+#add_core = CAL
+trade_goods = grain
+life_rating = 35
+1861.1.1 = {owner = USAcontroller = USAadd_core = USA}

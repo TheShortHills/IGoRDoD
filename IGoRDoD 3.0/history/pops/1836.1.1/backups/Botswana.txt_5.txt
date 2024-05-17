@@ -1,0 +1,253 @@
+#Bechuanaland Region (76000) #see South Africa.txt for balance of region
+#uncolonized in 1836/dominated by the Tswana in 1836
+#Gaborone (28000/7000 POPS)
+2074 = {
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 165
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 99
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 465
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 99
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 8484
+    }
+}
+#Nokaneng (12000/3000 POPS)
+2076 = {
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 18
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 31
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 66
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 13
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 1197
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 31
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 66
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 133
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 31
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 2395
+    }
+}
+#Tshabong (12000/3000 POPS)
+2077 = {
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 31
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 66
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 133
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 31
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 2395
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 18
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 31
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 66
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 13
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 1197
+    }
+}
+#Mochidi (16000/4000 POPS)
+2574 = {
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 66
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 66
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 266
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 66
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 4857
+    }
+}
+#uncolonized in 1836/dominated by the Ndebele in 1836
+#Serowe (8000/2000 POPS)
+2075 = {
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 18
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 18
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 66
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 26
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 1197
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 18
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 31
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 66
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 13
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 1197
+    }
+}
