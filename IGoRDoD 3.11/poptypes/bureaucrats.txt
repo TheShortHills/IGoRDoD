@@ -815,7 +815,7 @@ promote_to =
 			}
 		}
 		modifier = {
-			factor = -100
+			factor = -70
 			OR = {
 				location = {
 					is_colonial = yes
