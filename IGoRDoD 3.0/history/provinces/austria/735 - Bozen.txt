@@ -1,6 +1,0 @@
-owner = TIR
-controller = TIR
-add_core = TIR
-trade_goods = grain
-life_rating = 38
-
