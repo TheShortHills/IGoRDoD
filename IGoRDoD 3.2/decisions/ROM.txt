@@ -1,0 +1,72 @@
+political_decisions = {	
+	form_romania = {
+		potential = {
+			OR = {
+				tag = MOL
+				tag = WAL
+			}
+		}
+		allow = {
+			MOL = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+							  OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+								}
+							}
+						}
+					} 
+				}
+			WAL_665 = {
+						OR = {
+							owned_by = THIS
+							owner = {
+							  OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+								}
+							}
+						}
+			}
+			
+		}
+		effect = {
+			any_country = {
+				limit = {
+					primary_culture = romania
+					  OR = {
+					   in_sphere = THIS
+					   vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			change_tag = ROM
+			WAL = { all_core = {add_core = ROM remove_core = WAL remove_core = TUR}}
+			MOL = { all_core = {add_core = ROM remove_core = MOL}
+			
+		}
+	}
+	greater_romania = {
+		potential = {
+			tag = ROM
+			NOT = {has_country_flag = greater_romania}
+		}
+		allow = {
+			ROM = {all_core = {owned_by = THIS}}
+			AUS_641 = { owned_by = THIS}
+			AUS_623  = { owned_by = THIS}
+		}
+		effect = {
+			set_country_flag = greater_romania
+			AUS_641 = { add_core = THIS}
+			AUS_623  = { add_core = THIS}
+		}
+	}	
+}

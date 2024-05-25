@@ -1,0 +1,19 @@
+# Event to Inherit
+country_event = {
+	id = 11101
+	title = "EVTNAME11101"
+	desc = "EVTDESC11101"
+	picture = "Celebration"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA11101"
+		FROM = {
+			inherit = THIS
+		}
+		ai_chance = {
+			factor = 1
+		}
+	}
+}
