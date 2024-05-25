@@ -43,3 +43,24 @@ nonstate_consciousness = 0
 
 oob = "DAI_oob.txt"
 
+#Reforms
+foreign_training = yes_foreign_training
+foreign_weapons = yes_foreign_weapons
+foreign_officers = yes_foreign_officers
+land_reform = yes_land_reform
+finance_reform = yes_finance_reform
+industrial_construction = yes_western_science
+education_reform = education_reform_two
+
+#Technologies
+post_napoleonic_thought = 1
+flintlock_rifles = 1
+army_command_principle = 1
+private_banks = 1
+late_enlightenment_philosophy = 1
+water_wheel_power = 1
+mechanized_mining = 1
+basic_chemistry = 1
+malthusian_thought = 1
+positivism = 1
+enlightenment_thought = 1
