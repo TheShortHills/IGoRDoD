@@ -9,6 +9,8 @@ literacy = 0.01
 non_state_culture_literacy = 0.01
 prestige = 5 #was 40
 
+set_country_flag = edu_flag
+
 #Political Reforms
 slavery = yes_slavery
 upper_house_composition = appointed

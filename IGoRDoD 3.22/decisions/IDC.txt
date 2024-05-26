@@ -62,7 +62,7 @@ political_decisions = {
 			}
 			DAI = {all_core = { add_core = IDC remove_core = DAI}}
 			CAM = {all_core = { add_core = IDC remove_core = CAM}}
-			SAI = {all_core = { add_core = IDC remove_core = SAI}}
+			SIA = {all_core = { add_core = IDC remove_core = SIA}}
 			BUR = {all_core = { add_core = IDC}}
 		}
 	}
