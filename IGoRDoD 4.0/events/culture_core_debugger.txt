@@ -1,0 +1,61 @@
+province_event = {
+	id = 78700943
+	title = "Russian Core Debugging"
+	desc = "If there is an awkward overlapping culture core, this event is intended to clean it up"
+	
+	trigger = {
+		owner = {
+			OR = {
+				tag = PLC
+				tag = CHG
+				tag = TKS
+			}
+			NOT = {
+				war = yes
+			}
+		}
+		AND = {
+			is_core = MUS
+			is_core = NOV
+		}
+		
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Fix me up!"
+		remove_core = NOV
+	}
+}
+
+province_event = {
+	id = 78700944
+	title = "Aragon Core Debugging"
+	desc = "Meant to prevent annoying rebels for a dead Aragon"
+	
+	trigger = {
+		owner = {
+			tag = ITA
+			NOT = {
+				war = yes
+			}
+		}
+		AND = {
+			is_core = ARN
+			is_core = ITA
+		}
+		NOT = {exists = ARN}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Fix me up!"
+		remove_core = ARN
+	}
+}

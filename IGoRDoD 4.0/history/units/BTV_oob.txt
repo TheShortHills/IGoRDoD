@@ -1,0 +1,148 @@
+army = {
+	name = "1e Divisie"
+	location = 2087 
+	regiment = {
+		name= "1e Cavalerie Brigade"
+		type = hussar
+		home = 2087 
+	}
+
+	regiment = {
+		name= "2e Cavalerie Brigade"
+		type = infantry
+		home = 2087 
+	}
+
+	regiment = {
+		name= "3e Cavalerie Brigade"
+		type = infantry
+		home = 2094
+	}
+
+	regiment = {
+		name = "1e Infanterie Brigade"
+		type = infantry
+		home = 2101
+	}
+
+	regiment = {
+		name = "4e Infanterie Brigade"
+		type = infantry
+		home = 2102
+	}
+
+	regiment = {
+		name = "5e Infanterie Brigade"
+		type = artillery
+		home = 2102
+	}
+
+	regiment = {
+		name = "6e Infanterie Brigade"
+		type = artillery
+		home = 2105
+	}
+	
+	regiment = {
+		name = "7e Infanterie Brigade"
+		type = artillery
+		home = 2105
+	}
+	
+	regiment = {
+		name = "8e Infanterie Brigade"
+		type = artillery
+		home = 2113
+	}
+	
+	regiment = {
+		name = "8e Infanterie Brigade"
+		type = artillery
+		home = 2113
+	}
+
+}
+navy = {
+	name = "Cape Navy"
+	location = 2087
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+}
