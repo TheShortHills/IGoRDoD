@@ -1,0 +1,11 @@
+owner = SPA
+controller = SPA
+add_core = SPA
+add_core = POR
+trade_goods = iron
+life_rating = 38	
+naval_base = 1
+1861.1.1 = { naval_base = 2 }
+
+
+

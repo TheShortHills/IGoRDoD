@@ -1,0 +1,6 @@
+owner = ARN
+controller = ARN
+add_core = ARN
+trade_goods = cattle
+life_rating = 38
+

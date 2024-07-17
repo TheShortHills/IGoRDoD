@@ -1,0 +1,13 @@
+owner = SPA
+controller = SPA
+add_core = SPA
+trade_goods = fish
+life_rating = 36
+naval_base = 2
+fort = 1
+1861.1.1 = {
+	colonial = 1
+	fort = 3
+	naval_base = 3
+}
+
