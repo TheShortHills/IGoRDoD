@@ -1,0 +1,7 @@
+owner = PNJ
+controller = PNJ
+add_core = AFG
+add_core = PNJ
+trade_goods = tea
+life_rating = 35
+

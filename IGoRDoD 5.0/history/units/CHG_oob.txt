@@ -1,0 +1,29 @@
+army = {
+	name = "First Cavalry Army"
+	location = 1596
+	regiment = {
+		name= "1.1st Division"
+		type = cavalry
+		home = 2608
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = cavalry
+		home = 2608
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = cavalry
+		home = 2608
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = cavalry
+		home = 2678
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = cavalry
+		home = 2678
+	}
+}

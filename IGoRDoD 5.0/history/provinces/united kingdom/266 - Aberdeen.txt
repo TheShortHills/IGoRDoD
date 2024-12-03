@@ -1,0 +1,17 @@
+owner = SCA
+controller = SCA
+add_core = SCA
+add_core = SCO
+trade_goods = wool
+life_rating = 36
+1861.1.1 = {
+	state_building = {
+		level = 1
+		building = fabric_factory
+		upgrade = yes
+	}
+}
+1861.1.1 = { 
+	railroad = 3 
+}
+

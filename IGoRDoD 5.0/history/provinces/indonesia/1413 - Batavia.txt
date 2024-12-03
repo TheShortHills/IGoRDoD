@@ -1,0 +1,8 @@
+owner = BRG
+controller = BRG
+add_core = JAV
+#add_core = INO
+trade_goods = coffee
+life_rating = 32
+naval_base = 1
+colonial = 2

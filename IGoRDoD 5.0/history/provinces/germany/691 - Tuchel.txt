@@ -1,0 +1,10 @@
+owner = PLC
+controller = PLC
+add_core = PLC
+add_core = PRU
+#add_core = PLC
+trade_goods = cattle
+life_rating = 38
+fort = 1
+1861.1.1 = { railroad = 3 }
+
