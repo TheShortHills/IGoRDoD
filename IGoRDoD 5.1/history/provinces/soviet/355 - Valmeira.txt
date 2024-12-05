@@ -1,0 +1,9 @@
+owner = SCA
+controller = SCA
+add_core = SCA
+add_core = LAT
+#add_core = UBD
+#add_core = PLC
+trade_goods = cattle
+life_rating = 38
+

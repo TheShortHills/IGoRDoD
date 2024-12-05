@@ -1,0 +1,152 @@
+political_decisions = {
+	form_danubia = {
+		potential = {
+			OR = {
+				tag = AUS
+				tag = BAV
+			}
+		}
+		allow = {
+			AUS =  {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+								}
+							}
+						}
+					} 
+			}
+			BAV =  {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+								}
+							}
+						}
+					} 
+				}
+			TIR =  {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+								}
+							}
+						}
+					} 
+				}
+		}
+		effect = {
+			add_accepted_culture = pomeranian 
+			add_accepted_culture = rheinish
+			add_accepted_culture = north_german
+			any_country = {
+				limit = {
+					primary_culture = south_german
+					  OR = {
+					   in_sphere = THIS
+					   vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}			
+			AUS = {all_core = {add_core = SGF remove_core = AUS}}
+			BAV = {all_core = {add_core = SGF remove_core = BAV}}
+			TIR = {all_core = {add_core = SGF remove_core = TIR}}
+			WUR = {all_core = {add_core = SGF}}
+			BAD = {all_core = {add_core = SGF}}
+			SWI = {all_core = {add_core = SGF}}
+			change_tag = SGF
+		}
+	}
+	unite_germany = {
+		potential = {
+			tag = SGF
+		}
+		allow = {
+			SGF = {all_core ={owned_by = THIS}}
+			RHI = {all_core ={owned_by = THIS}}
+			BEG = {all_core ={owned_by = THIS}}
+			FRI = {all_core ={owned_by = THIS}}
+			HES = {all_core ={owned_by = THIS}}
+			FRM = {all_core ={owned_by = THIS}}
+			NAS = {all_core ={owned_by = THIS}}
+			HEK = {all_core ={owned_by = THIS}}
+			MNR = {all_core ={owned_by = THIS}}
+			LIP = {all_core ={owned_by = THIS}}
+			OLD = {all_core ={owned_by = THIS}}
+			BRE = {all_core ={owned_by = THIS}}
+			HAN = {all_core ={owned_by = THIS}}
+			BRA = {all_core ={owned_by = THIS}}
+			THU = {all_core ={owned_by = THIS}}
+			BRN = {all_core ={owned_by = THIS}}
+			SAX = {all_core ={owned_by = THIS}}
+			POM = {all_core ={owned_by = THIS}}
+			HOL = {all_core ={owned_by = THIS}}
+		}
+		effect = {
+			SGF = {all_core = {add_core = GER remove_core = SGF}}
+			RHI = {all_core = {add_core = GER}}
+			BEG = {all_core = {add_core = GER}}
+			FRI = {all_core = {add_core = GER}}
+			HES = {all_core = {add_core = GER}}
+			FRM = {all_core = {add_core = GER}}
+			NAS = {all_core = {add_core = GER}}
+			HEK = {all_core = {add_core = GER}}
+			MNR = {all_core = {add_core = GER}}
+			LIP = {all_core = {add_core = GER}}
+			OLD = {all_core = {add_core = GER}}
+			BRE = {all_core = {add_core = GER}}
+			HAN = {all_core = {add_core = GER}}
+			BRA = {all_core = {add_core = GER}}
+			THU = {all_core = {add_core = GER}}
+			BRN = {all_core = {add_core = GER}}
+			SAX = {all_core = {add_core = GER}}
+			POM = {all_core = {add_core = GER}}
+			HOL = {all_core = {add_core = GER}}
+			PRU = {all_core = {add_core = GER}}
+			PRU_682 = {add_core = GER}
+			FRA_412 = {add_core = GER}
+			change_tag = GER
+		}
+	}
+	the_ruhr_boom = {
+		potential = {
+			tag = GER
+			owns = 578
+			owns = 2561
+			owns = 575
+			NOT = {
+				has_global_flag = ruhr_boom_has_happened
+			}
+		}
+		
+		allow = {
+			market_structure = 1
+			organized_factories = 1
+			early_railroad = 1
+		}
+		
+		effect = {
+			add_country_modifier = {
+				name = ruhr_boom
+				duration = 3650
+			}
+			set_global_flag = ruhr_boom_has_happened
+		}
+	}
+}
