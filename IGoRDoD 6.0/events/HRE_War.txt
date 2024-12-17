@@ -1,0 +1,19 @@
+country_event = {
+	id = 888888
+	title = "HRE War Cleanup"
+
+	trigger = {
+		tag = LCT
+		has_global_flag = hre_war
+		BOH = { war = no }
+		BOH = { is_our_vassal = HES }
+	}
+	option = {
+		BOH = {
+			release_vassal = HES
+			clr_country_flag = puppeted_HES
+		}
+		clr_global_flag = hre_war
+	}
+	
+}

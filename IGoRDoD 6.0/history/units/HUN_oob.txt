@@ -1,0 +1,109 @@
+
+army = {
+	name = "First Army of Hungary"
+	location = 641
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 637
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 640
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 644
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = infantry
+		home = 643
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 642
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 633
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 647
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 950
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = artillery
+		home = 649
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = hussar
+		home = 641
+	}
+}
+army = {
+	name = "Army of Slovakia"
+	location = 647
+	regiment = {
+		name= "1 Division"
+		type = infantry
+		home = 950
+	}
+	regiment = {
+		name= "2 Division"
+		type = infantry
+		home = 633
+	}
+	regiment = {
+		name= "3 Division"
+		type = infantry
+		home = 633
+	}
+	regiment = {
+		name= "4 Division"
+		type = infantry
+		home = 633
+	}
+	regiment = {
+		name= "5 Division"
+		type = artillery
+		home = 635
+	}
+	regiment = {
+		name= "6 Division"
+		type = artillery
+		home = 635
+	}
+	regiment = {
+		name= "7 Division"
+		type = artillery
+		home = 641
+	}
+	regiment = {
+		name= "8 Division"
+		type = artillery
+		home = 792
+	}
+	regiment = {
+		name= "9 Division"
+		type = artillery
+		home = 792
+	}
+	regiment = {
+		name= "10 Division"
+		type = hussar
+		home = 633
+	}
+}

@@ -1,0 +1,45 @@
+#alliance=
+#	{
+#		first="BOL"
+#		second="PEU"
+#		end_date="1936.1.1"
+#		start_date="1836.1.1"
+#	}
+#	
+alliance=
+	{
+		first="CHI"
+		second="KOR"
+		end_date="1936.1.1"
+		start_date="1836.1.1"
+	
+}
+
+alliance=
+	{
+		first="BRG"
+		second="SCA"
+		end_date="1936.1.1"
+		start_date="1836.1.1"
+	}
+alliance=
+	{
+		first="SPA"
+		second="VEN"
+		end_date="1936.1.1"
+		start_date="1836.1.1"
+	}
+alliance=
+	{
+		first="BOH"
+		second="HES"
+		end_date="1936.1.1"
+		start_date="1836.1.1"
+	}
+alliance=
+	{
+		first="BOH"
+		second="BAV"
+		end_date="1936.1.1"
+		start_date="1836.1.1"
+	}

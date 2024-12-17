@@ -1,0 +1,35 @@
+political_decisions = {	
+	integrate_rheinish_brg = {
+		potential = {
+			tag = BRG
+			NOT = {has_country_flag = integrate_rheinish_brg}
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			experimental_psychology = 1 
+			owns = 575
+		}
+		effect = {
+			set_country_flag = integrate_rheinish_brg
+			add_accepted_culture = rheinish
+		}
+	}
+	dominate_france = {
+		potential = {
+			tag = BRG 
+			NOT = {has_country_flag = dominate_france}
+		}
+		allow = {
+			FRA = {all_core = {owned_by = THIS}}
+			war = no
+		}
+		effect = {
+			set_country_flag = dominate_france
+			FRA = { 
+				all_core = {
+					add_core = THIS 
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,54 @@
+political_decisions = {	
+	centralize_plc = {
+		potential = {
+			tag = PLC
+			NOT = {has_country_flag = centralize_plc}
+		}
+		allow = {
+			state_n_government = 1		
+			war = no
+		}
+		effect = {
+			set_country_flag = centralize_plc
+			PRU = { annex_to = THIS}
+			LIT = { annex_to = THIS}
+			UKR = { annex_to = THIS}
+			BYE = { annex_to = THIS}
+		}
+	}
+	integrate_ruthenians = {
+		potential = {
+			tag = PLC 
+			NOT = {has_country_flag = integrate_ruthenians}
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			year = 1860
+			BYE = {all_core = {owned_by = THIS}}
+			UKR = {all_core = {owned_by = THIS}}
+			RUT = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			set_country_flag = integrate_ruthenians
+			add_accepted_culture = ukrainian  
+		}
+	}
+	baltic_protectors = {
+		potential = {
+			tag = PLC 
+			NOT = {has_country_flag = baltic_protectors}
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			LAT = {all_core = {owned_by = THIS}}
+			EST = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			set_country_flag = baltic_protectors
+			LAT = {all_core = {add_core = THIS}}
+			EST = {all_core = {add_core = THIS}}
+			add_accepted_culture = latvian
+			add_accepted_culture = estonian
+		}
+	}
+}

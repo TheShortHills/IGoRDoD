@@ -1,5 +1,0 @@
-name = "IGoRDoD 5.1" 
-path = "mod/IGoRDoD 5.1" 
-user_dir = "IGoRDoD 5.1" 
-replace_path = "decisions"
-replace_path = "events"
