@@ -1,0 +1,20 @@
+#political_decisions = {	
+#	form_turania = {
+#		potential = {
+#			tag = CHG
+#		}
+#		allow = {
+#			civilized = yes
+#			CHG = {all_core = {owned_by = THIS}}
+#		}
+#		effect = {
+#			CHG = {all_core = {add_core = TKS remove_core = CHG}} 
+#			NOG = {all_core = {add_core = TKS}}
+#			SIB = {all_core = {add_core = TKS}}
+#			ASK = {all_core = {add_core = TKS}}
+#			add_accepted_culture = tatar
+#			add_accepted_culture = manchu
+#			change_tag = TKS
+#		}
+#	}
+#}

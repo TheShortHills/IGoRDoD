@@ -1,0 +1,181 @@
+political_decisions = {	
+	accept_pomeranian  = {
+		potential = {
+			tag = SCA
+			NOT = {has_country_flag = accept_pomeranian}
+		}
+		allow = {
+			state_n_government = 1
+			owns = 546
+			owns = 369
+		}
+		effect = {
+			set_country_flag = accept_pomeranian
+			add_accepted_culture = pomeranian
+		}
+	}
+	prussian_coastline = {
+		potential = {
+			tag = SCA 
+			NOT = {has_country_flag = prussian_coastline}
+		}
+		allow = {
+			has_country_flag = accept_pomeranian
+			owns = 546
+			owns = 369
+		}
+		effect = {
+			set_country_flag = prussian_coastline
+			PRU_600 = {add_core = THIS}
+			PRU_690 = {add_core = THIS}
+			badboy = 8
+		}
+	}
+	nordtyskland = {
+		potential = {
+			tag = SCA
+			NOT = {has_country_flag = nordtyskland}
+			NOT = {has_country_flag = claim_ireland}
+		}
+		allow = {
+				NOT = {has_country_flag = claim_ireland}
+				nationalism_n_imperialism = 1
+					POM = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					BRN = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					SAX = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+		}
+		effect = {
+			set_country_flag = nordtyskland
+			any_country = {
+				limit = {
+					primary_culture = north_german
+					NOT = { tag = PRU }
+					OR = {
+					   in_sphere = THIS
+					   vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			BRN = {all_core = {add_core = THIS}}
+			HAN = {all_core = {add_core = THIS}}
+			SAX = {all_core = {add_core = THIS}}
+			OLD = {all_core = {add_core = THIS}}
+			BRA = {all_core = {add_core = THIS}}
+			THU = {all_core = {add_core = THIS}}
+			BRE = {all_core = {add_core = THIS}}
+		}
+	}
+	baltic_empire = {
+		potential = {
+			tag = SCA
+			NOT = {has_country_flag = baltic_empire}
+			NOT = {has_country_flag = claim_ireland}
+		}
+		allow = {
+			has_country_flag = nordtyskland
+			NOT = {has_country_flag = claim_ireland}
+			empiricism = 1
+					POM = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					BRN = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					SAX = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}			
+		}
+		effect = {
+			RUS_360 = {add_core = SCA}
+			RUS_994 = {add_core = SCA}
+			add_accepted_culture = lithuanian
+			set_country_flag = baltic_empire
+		}
+	}
+	claim_ireland = {
+		potential = {
+			tag = SCA 
+			NOT = {has_country_flag = nordtyskland}
+			NOT = {has_country_flag = claim_ireland}
+		}
+		allow = {
+			NOT = {has_country_flag = nordtyskland}
+			nationalism_n_imperialism = 1 
+			IRE = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			set_country_flag = claim_ireland
+			IRE = {all_core ={add_core = THIS}}
+		}
+	}
+}

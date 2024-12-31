@@ -1,0 +1,111 @@
+political_decisions = {	
+	form_russia = {
+		potential = {
+			OR = {
+				tag = MUS
+				tag = NOV
+			}
+		}
+		allow = {
+			state_n_government = 1
+			war = no
+				MUS = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+				NOV = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+				PSV = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+		}
+		effect = {
+			any_country = {
+				limit = {
+					primary_culture = russian
+					  OR = {
+					   in_sphere = THIS
+					   vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			MUS = {all_core = {add_core = RUS remove_core = MUS }}
+			NOV = {all_core = {add_core = RUS remove_core = NOV }}
+			PSV = {all_core = {add_core = RUS remove_core = PSV }}
+			RUS_958 = {add_core = RUS}
+			RUS_962 = {add_core = RUS}
+			RUS_718 = {add_core = RUS}
+			RUS_948 = {add_core = RUS}
+			change_tag = RUS
+		}
+	}
+	push_west ={
+		potential = {
+			tag = RUS
+			NOT = {has_country_flag = push_west}
+		}
+		allow = {
+			year = 1860
+			nationalism_n_imperialism = 1
+			BYE = {all_core = {owned_by = THIS}}
+			UKR = {all_core = {owned_by = THIS}}
+		}	
+		effect = {
+			set_country_flag = push_west
+			BYE = {all_core = {add_core = THIS}}
+			UKR = {all_core = {add_core = THIS}}
+			add_accepted_culture = ukrainian
+		}
+	}
+	reclaim_eastern_colonies = {
+		potential = {
+			tag = RUS
+			NOT = {has_country_flag = eastern_colonies}
+		}
+		allow = {
+			
+		}
+		effect = {
+			badboy = 7.5
+			CRI = {all_core = {add_core = THIS}}
+			ASK = {all_core = {add_core = THIS}}
+			NOG = {all_core = {add_core = THIS}}
+			SIB = {all_core = {add_core = THIS}}
+			set_country_flag = eastern_colonies
+		}
+	}
+}

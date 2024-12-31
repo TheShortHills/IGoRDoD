@@ -1,0 +1,340 @@
+political_decisions = {	
+	form_elbians = {
+		potential = {
+			tag = BOH
+		}
+		allow = {
+			OR = {
+				AND = {
+					BOH = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					BRN = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					THU = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					BRA = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					HAN = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					BRE = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					POM = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					HOL = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+				}
+				AND = {
+					BOH = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					BRN = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					THU = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					BRA = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					HAN = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					BRE = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					LIP = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					HEK = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					OLD = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+					FRI = {
+						all_core = {
+							OR = {
+								owned_by = THIS
+								owner = {
+								  OR = {
+									in_sphere = THIS
+									vassal_of = THIS
+									}
+								}
+							}
+						} 
+					}
+				}
+			}
+		}
+		effect = {
+			add_accepted_culture = north_german
+			add_accepted_culture = pomeranian
+			any_country = {
+				limit = {
+					primary_culture = north_german
+					NOT = { tag = PRU }
+					NOT = { tag = FRI }
+					  OR = {
+					   in_sphere = THIS
+					   vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			any_country = {
+				limit = {
+					primary_culture = pomeranian
+					NOT = { tag = PRU }
+					NOT = { tag = FRI }
+					  OR = {
+					   in_sphere = THIS
+					   vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			BOH = {all_core = {add_core = CAE remove_core = BOH}}
+			POM = {all_core = {add_core = CAE}}
+			HOL = {all_core = {add_core = CAE}}
+			THU = {all_core = {add_core = CAE}}
+			BRA = {all_core = {add_core = CAE}}
+			HAN = {all_core = {add_core = CAE}}
+			BRE = {all_core = {add_core = CAE}}
+			HEK = {all_core = {add_core = CAE}}
+			LIP = {all_core = {add_core = CAE}}
+			OLD = {all_core = {add_core = CAE}}
+			FRI = {all_core = {add_core = CAE}}
+			change_tag = CAE
+		}
+	}
+	claim_prussia = {
+		potential = {
+			tag = CAE
+			NOT = {has_country_flag = claim_prussia}
+		}
+		allow = {
+			state_n_government = 1
+			CAE = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			set_country_flag = claim_prussia
+			PRU = {all_core = {add_core = THIS}}
+		}
+	}
+	integrate_rheinish_boh = {
+		potential = {
+			tag = CAE
+			NOT = {has_country_flag = integrate_rheinish_boh}
+		}
+		allow = {
+			empiricism = 1
+		}
+		effect = {
+			set_country_flag = integrate_rheinish_boh
+			add_accepted_culture = rheinish
+		}
+	}
+	imperial_cta = {
+		potential = {
+			tag = BOH
+			has_global_flag = hre_war
+			NOT = { has_country_flag = puppeted_HES}
+		}
+		allow = {
+			NOT = {year = 1845}
+		}
+		effect = {
+			BOH = {
+				create_vassal = HES
+				create_alliance = HES
+			}
+			set_country_flag = puppeted_HES
+		}
+	}
+}
+
