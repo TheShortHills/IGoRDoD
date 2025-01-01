@@ -1,0 +1,442 @@
+NOV = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+PSV = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+OLD = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+BER = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+SIN = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+JOD = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+army = {
+	name = "Svenska Armén"
+	location = 322
+	regiment = {
+		name= "Svea Livgarde"
+		type = hussar
+		home = 322
+	}
+
+	regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 326
+	}
+
+	regiment = {
+		name= "Första Livgrenadjärregementet"
+		type = infantry
+		home = 325
+	}
+
+	regiment = {
+		name= "Upplands Regemente"
+		type = infantry
+		home = 324
+	}
+
+	regiment = {
+		name= "Västgöta Regemente"
+		type = infantry
+		home = 330
+	}
+
+	regiment = {
+		name= "Kalmar Regemente"
+		type = artillery
+		home = 332
+	}
+
+	regiment = {
+		name= "Jönköpings Regemente"
+		type = artillery
+		home = 333
+	}
+
+	regiment = {
+		name= "Södra Skånska Infanteriregementet"
+		type = artillery
+		home = 334
+	}
+
+	regiment = {
+		name= "Kronprinsens Husarregemente"
+		type = artillery
+		home = 335
+	}
+
+	regiment = {
+		name= "Norrlands Dragonregemente"
+		type = artillery
+		home = 321
+	}
+
+}
+army = {
+	name = "Svenska Armén"
+	location = 330
+	regiment = {
+		name= "Svea Livgarde"
+		type = hussar
+		home = 305
+	}
+
+	regiment = {
+		name= "Södermanlands Regemente"
+		type = infantry
+		home = 309
+	}
+
+	regiment = {
+		name= "Första Livgrenadjärregementet"
+		type = infantry
+		home = 310
+	}
+
+	regiment = {
+		name= "Upplands Regemente"
+		type = infantry
+		home = 313
+	}
+
+	regiment = {
+		name= "Västgöta Regemente"
+		type = infantry
+		home = 317
+	}
+
+	regiment = {
+		name= "Kalmar Regemente"
+		type = artillery
+		home = 322
+	}
+
+	regiment = {
+		name= "Jönköpings Regemente"
+		type = artillery
+		home = 322
+	}
+
+	regiment = {
+		name= "Södra Skånska Infanteriregementet"
+		type = artillery
+		home = 323
+	}
+
+	regiment = {
+		name= "Kronprinsens Husarregemente"
+		type = artillery
+		home = 327
+	}
+
+	regiment = {
+		name= "Norrlands Dragonregemente"
+		type = artillery
+		home = 328
+	}
+
+}
+army = {
+	name = "Danske Haeren"
+	location = 372
+	regiment = {
+		name= "1.1. Infanteridivision"
+		type = infantry
+		home = 372
+	}
+
+	regiment = {
+		name= "2.1. Infanteridivision"
+		type = infantry
+		home = 372
+	}
+
+	regiment = {
+		name= "3.1. Infanteridivision"
+		type = infantry
+		home = 372
+	}
+	
+	regiment = {
+		name= "1.2. Infanteridivision"
+		type = infantry
+		home = 366
+	}
+
+	regiment = {
+		name= "1.2. Infanteridivision"
+		type = artillery
+		home = 366
+	}
+
+	regiment = {
+		name= "2.2. Infanteridivision"
+		type = artillery
+		home = 366
+	}
+	regiment = {
+		name= "3.2. Infanteridivision"
+		type = artillery
+		home = 369
+	}
+	regiment = {
+		name= "4.2. Infanteridivision"
+		type = artillery
+		home = 373
+	}
+	regiment = {
+		name= "5.2. Infanteridivision"
+		type = artillery
+		home = 366
+	}
+	regiment = {
+		name= "1.1. Kavalleridivision"
+		type = hussar
+		home = 373
+	}
+
+}
+army = {
+	name = "Pomeranian Army"
+	location = 546
+	regiment = {
+		name= "1.1. Infanteridivision"
+		type = infantry
+		home = 546
+	}
+
+	regiment = {
+		name= "2.1. Infanteridivision"
+		type = infantry
+		home = 546
+	}
+
+	regiment = {
+		name= "3.1. Infanteridivision"
+		type = infantry
+		home = 679
+	}
+	
+	regiment = {
+		name= "1.2. Infanteridivision"
+		type = infantry
+		home = 680
+	}
+
+	regiment = {
+		name= "1.2. Infanteridivision"
+		type = artillery
+		home = 547
+	}
+
+	regiment = {
+		name= "2.2. Infanteridivision"
+		type = artillery
+		home = 545
+	}
+	regiment = {
+		name= "3.2. Infanteridivision"
+		type = artillery
+		home = 548
+	}
+	regiment = {
+		name= "4.2. Infanteridivision"
+		type = artillery
+		home = 548
+	}
+	regiment = {
+		name= "5.2. Infanteridivision"
+		type = artillery
+		home = 544
+	}
+	regiment = {
+		name= "1.1. Kavalleridivision"
+		type = hussar
+		home = 530
+	}
+
+}
+navy = {
+	name = "Scandinavian Navy"
+	location = 372
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+}

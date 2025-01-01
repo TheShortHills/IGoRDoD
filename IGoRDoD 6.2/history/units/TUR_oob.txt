@@ -1,0 +1,299 @@
+CRI = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+ASK = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+NEJ = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+AZB = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+leader = {
+	name = "Mehmet Vesif Pasha"
+	picture = tur_gen_mehmetvesif
+	date = 1830.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Mehmet Namik Pasha"
+	picture = tur_gen_mehmetnamik
+	date = 1832.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Halil Rifat Pasha"
+	picture = tur_adm_halilrifat
+	date = 1830.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Resid Mehmed Pasha"
+	date = 1809.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+leader = {
+	name = "Wojciech Chrzanowski"
+	picture = tur_gen_chrzanowski
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Helmuth von Moltke"
+	picture = tur_gen_moltke
+	date = 1833.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Abdi Pasha"
+	picture = tur_gen_abdi
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Hafiz Osman Pasha"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Yaver Pasha"
+	date = 1836.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+
+army = {
+	name = "Army of Anatolia"
+	location = 809
+	regiment = {
+		name= "5. Piyade Tümeni"
+		type = hussar
+		home = 882
+	}
+
+	regiment = {
+		name= "6. Piyade Tümeni"
+		type = infantry
+		home = 873
+	}
+
+	regiment = {
+		name= "7. Piyade Tümeni"
+		type = infantry
+		home = 869
+	}
+
+	regiment = {
+		name= "8. Piyade Tümeni"
+		type = infantry
+		home = 863
+	}
+
+	regiment = {
+		name= "1. Redif Kars"
+		type = infantry
+		home = 873
+	}
+
+	regiment = {
+		name= "2. Redif Kars"
+		type = artillery
+		home = 874
+	}
+
+	regiment = {
+		name= "3. Redif Kars"
+		type = artillery
+		home = 875
+	}
+
+	regiment = {
+		name= "1. Redif Trabzon"
+		type = artillery
+		home = 876
+	}
+
+	regiment = {
+		name= "2. Redif Trabzon"
+		type = artillery
+		home = 883
+	}
+
+	regiment = {
+		name= "3. Redif Trabzon"
+		type = artillery
+		home = 869
+	}
+
+}
+
+army = {
+	name = "Army of Arabia"
+	location = 919
+	regiment = {
+		name= "12. Piyade Tümeni"
+		type = hussar
+		home = 894
+	}
+
+	regiment = {
+		name= "13. Piyade Tümeni"
+		type = infantry
+		home = 878
+	}
+
+	regiment = {
+		name= "14. Piyade Tümeni"
+		type = infantry
+		home = 878
+	}
+
+	regiment = {
+		name= "1. Redif Halab"
+		type = infantry
+		home = 871
+	}
+
+	regiment = {
+		name= "2. Redif Halab"
+		type = infantry
+		home = 870
+	}
+
+	regiment = {
+		name= "3. Redif Halab"
+		type = artillery
+		home = 868
+	}
+
+	regiment = {
+		name= "7. Sipahis"
+		type = artillery
+		home = 864
+	}
+
+	regiment = {
+		name= "8. Sipahis"
+		type = artillery
+		home = 862
+	}
+
+	regiment = {
+		name= "1. Askäris"
+		type = artillery
+		home = 880
+	}
+
+	regiment = {
+		name= "2. Askäris"
+		type = artillery
+		home = 809
+	}
+}
+
+navy = {
+	name = "Ottoman Navy"
+	location = 860
+
+	ship = {
+		name= "Denyuvet"
+		type = frigate
+	}
+
+	ship = {
+		name= "Rahbar i Alam"
+		type = frigate
+	}
+
+	ship = {
+		name= "Malbaik Nesuret"
+		type = frigate
+	}
+
+	ship = {
+		name= "Bedr i Zafar"
+		type = frigate
+	}
+
+	ship = {
+		name= "Meskeni Ghazi"
+		type = frigate
+	}
+
+	ship = {
+		name= "Fakim i Zafar"
+		type = frigate
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+
+}
+

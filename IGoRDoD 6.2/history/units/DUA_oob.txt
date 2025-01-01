@@ -1,0 +1,437 @@
+
+SAR = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+LOM = {
+	value = 125		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+MDR = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+TRA = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+army = {
+	name = "Garde Royale"
+	location = 425
+	regiment = {
+		name= "1.Garde Royale"
+		type = hussar
+		home = 425
+	}
+
+	regiment = {
+		name= "2.Garde Royale"
+		type = infantry
+		home = 420
+	}
+
+	regiment = {
+		name= "3.Garde Royale"
+		type = infantry
+		home = 421
+	}
+
+	regiment = {
+		name= "4.Garde Royale"
+		type = infantry
+		home = 422
+	}
+	
+	regiment = {
+		name= "1.Cavalerie de la Garde"
+		type = infantry
+		home = 423
+	}
+
+	regiment = {
+		name= "2.Cavalerie de la Garde"
+		type = artillery
+		home = 424
+	}
+
+	regiment = {
+		name= "3.Cavalerie de la Garde"
+		type = artillery
+		home = 418
+	}
+
+	regiment = {
+		name= "4.Cavalerie de la Garde"
+		type = artillery
+		home = 417
+	}
+	
+	regiment = {
+		name= "1.2ème Division"
+		type = artillery
+		home = 416
+	}
+	
+	regiment = {
+		name= "1.3ème Division"
+		type = artillery
+		home = 415
+	}
+}
+army = {
+	name = "Garde Royale"
+	location = 458
+	regiment = {
+		name= "1.Garde Royale"
+		type = hussar
+		home = 458
+	}
+
+	regiment = {
+		name= "2.Garde Royale"
+		type = infantry
+		home = 458
+	}
+
+	regiment = {
+		name= "3.Garde Royale"
+		type = infantry
+		home = 458
+	}
+
+	regiment = {
+		name= "4.Garde Royale"
+		type = infantry
+		home = 458
+	}
+	
+	regiment = {
+		name= "1.Cavalerie de la Garde"
+		type = infantry
+		home = 459
+	}
+
+	regiment = {
+		name= "2.Cavalerie de la Garde"
+		type = artillery
+		home = 444
+	}
+
+	regiment = {
+		name= "3.Cavalerie de la Garde"
+		type = artillery
+		home = 442
+	}
+
+	regiment = {
+		name= "4.Cavalerie de la Garde"
+		type = artillery
+		home = 447
+	}
+	
+	regiment = {
+		name= "1.2ème Division"
+		type = artillery
+		home = 447
+	}
+	
+	regiment = {
+		name= "1.3ème Division"
+		type = artillery
+		home = 447
+	}
+}
+army = {
+	name = "Garde Royale"
+	location = 303
+	regiment = {
+		name= "1.Garde Royale"
+		type = hussar
+		home = 303
+	}
+
+	regiment = {
+		name= "2.Garde Royale"
+		type = infantry
+		home = 302
+	}
+
+	regiment = {
+		name= "3.Garde Royale"
+		type = infantry
+		home = 301
+	}
+
+	regiment = {
+		name= "4.Garde Royale"
+		type = infantry
+		home = 300
+	}
+	
+	regiment = {
+		name= "1.Cavalerie de la Garde"
+		type = infantry
+		home = 300
+	}
+
+	regiment = {
+		name= "2.Cavalerie de la Garde"
+		type = artillery
+		home = 300
+	}
+
+	regiment = {
+		name= "3.Cavalerie de la Garde"
+		type = artillery
+		home = 300
+	}
+
+	regiment = {
+		name= "4.Cavalerie de la Garde"
+		type = artillery
+		home = 294
+	}
+	
+	regiment = {
+		name= "1.2ème Division"
+		type = artillery
+		home = 295
+	}
+	
+	regiment = {
+		name= "1.3ème Division"
+		type = artillery
+		home = 297
+	}
+}
+army = {
+	name = "Garde Royale"
+	location = 263
+	regiment = {
+		name= "1.Garde Royale"
+		type = hussar
+		home = 263
+	}
+
+	regiment = {
+		name= "2.Garde Royale"
+		type = infantry
+		home = 265
+	}
+
+	regiment = {
+		name= "3.Garde Royale"
+		type = infantry
+		home = 264
+	}
+
+	regiment = {
+		name= "4.Garde Royale"
+		type = infantry
+		home = 259
+	}
+	
+	regiment = {
+		name= "1.Cavalerie de la Garde"
+		type = infantry
+		home = 258
+	}
+
+	regiment = {
+		name= "2.Cavalerie de la Garde"
+		type = artillery
+		home = 261
+	}
+
+	regiment = {
+		name= "3.Cavalerie de la Garde"
+		type = artillery
+		home = 262
+	}
+
+	regiment = {
+		name= "4.Cavalerie de la Garde"
+		type = artillery
+		home = 260
+	}
+	
+	regiment = {
+		name= "1.2ème Division"
+		type = artillery
+		home = 256
+	}
+	
+	regiment = {
+		name= "1.3ème Division"
+		type = artillery
+		home = 254
+	}
+}
+navy = {
+	name = "French Navy"
+	location = 420
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+}

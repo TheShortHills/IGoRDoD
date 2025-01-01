@@ -1,0 +1,102 @@
+army = {
+	name = "First Army of Venice"
+	location = 729
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 729
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 731
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 730
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = infantry
+		home = 834
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 834
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 835
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 840
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 839
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = artillery
+		home = 841
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = hussar
+		home = 842
+	}
+}
+navy = {
+	name = "Venice Navy"
+	location = 729
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+}

@@ -1,0 +1,455 @@
+FRI = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+MNR = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+LIP = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+BEG = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+NAS = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+FRM = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+BAD = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+WUR = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+SWI = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+HYD = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+NAG = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+BTV = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+JAV = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+DJA = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+SAK = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+army = {
+	name = "1e Divisie"
+	location = 375 
+	regiment = {
+		name= "1e Cavalerie Brigade"
+		type = hussar
+		home = 385
+	}
+
+	regiment = {
+		name= "2e Cavalerie Brigade"
+		type = infantry
+		home = 383
+	}
+
+	regiment = {
+		name= "3e Cavalerie Brigade"
+		type = infantry
+		home = 380
+	}
+
+	regiment = {
+		name = "1e Infanterie Brigade"
+		type = infantry
+		home = 376
+	}
+
+	regiment = {
+		name = "4e Infanterie Brigade"
+		type = infantry
+		home = 378
+	}
+
+	regiment = {
+		name = "5e Infanterie Brigade"
+		type = artillery
+		home = 379
+	}
+
+	regiment = {
+		name = "6e Infanterie Brigade"
+		type = artillery
+		home = 386
+	}
+	
+	regiment = {
+		name = "7e Infanterie Brigade"
+		type = artillery
+		home = 382
+	}
+	
+	regiment = {
+		name = "8e Infanterie Brigade"
+		type = artillery
+		home = 383
+	}
+	
+	regiment = {
+		name = "8e Infanterie Brigade"
+		type = artillery
+		home = 377
+	}
+
+}
+army = {
+	name = "2e Divisie"
+	location = 400
+	regiment = {
+		name= "1e Cavalerie Brigade"
+		type = hussar
+		home = 400
+	}
+
+	regiment = {
+		name= "2e Cavalerie Brigade"
+		type = infantry
+		home = 401
+	}
+
+	regiment = {
+		name= "3e Cavalerie Brigade"
+		type = infantry
+		home = 399
+	}
+
+	regiment = {
+		name = "1e Infanterie Brigade"
+		type = infantry
+		home = 404
+	}
+
+	regiment = {
+		name = "4e Infanterie Brigade"
+		type = infantry
+		home = 393
+	}
+
+	regiment = {
+		name = "5e Infanterie Brigade"
+		type = artillery
+		home = 394
+	}
+
+	regiment = {
+		name = "6e Infanterie Brigade"
+		type = artillery
+		home = 392
+	}
+	
+	regiment = {
+		name = "7e Infanterie Brigade"
+		type = artillery
+		home = 392
+	}
+	
+	regiment = {
+		name = "8e Infanterie Brigade"
+		type = artillery
+		home = 392
+	}
+	
+	regiment = {
+		name = "8e Infanterie Brigade"
+		type = artillery
+		home = 398
+	}
+
+}
+army = {
+	name = "3e Divisie"
+	location = 428
+	regiment = {
+		name= "1e Cavalerie Brigade"
+		type = hussar
+		home = 431
+	}
+
+	regiment = {
+		name= "2e Cavalerie Brigade"
+		type = infantry
+		home = 428
+	}
+
+	regiment = {
+		name= "3e Cavalerie Brigade"
+		type = infantry
+		home = 429
+	}
+
+	regiment = {
+		name = "1e Infanterie Brigade"
+		type = infantry
+		home = 430
+	}
+
+	regiment = {
+		name = "4e Infanterie Brigade"
+		type = infantry
+		home = 432
+	}
+
+	regiment = {
+		name = "5e Infanterie Brigade"
+		type = artillery
+		home = 432
+	}
+
+	regiment = {
+		name = "6e Infanterie Brigade"
+		type = artillery
+		home = 432
+	}
+	
+	regiment = {
+		name = "7e Infanterie Brigade"
+		type = artillery
+		home = 407
+	}
+	
+	regiment = {
+		name = "8e Infanterie Brigade"
+		type = artillery
+		home = 411
+	}
+	
+	regiment = {
+		name = "8e Infanterie Brigade"
+		type = artillery
+		home = 414
+	}
+}
+
+army = {
+	name = "4e Divisie"
+	location = 388
+	regiment = {
+		name= "1e Cavalerie Brigade"
+		type = hussar
+		home = 388
+	}
+
+	regiment = {
+		name= "2e Cavalerie Brigade"
+		type = infantry
+		home = 389
+	}
+
+	regiment = {
+		name= "3e Cavalerie Brigade"
+		type = infantry
+		home = 387
+	}
+
+	regiment = {
+		name = "1e Infanterie Brigade"
+		type = infantry
+		home = 387
+	}
+
+	regiment = {
+		name = "4e Infanterie Brigade"
+		type = infantry
+		home = 387
+	}
+
+	regiment = {
+		name = "5e Infanterie Brigade"
+		type = artillery
+		home = 397
+	}
+
+	regiment = {
+		name = "6e Infanterie Brigade"
+		type = artillery
+		home = 571
+	}
+	
+	regiment = {
+		name = "7e Infanterie Brigade"
+		type = artillery
+		home = 570
+	}
+	
+	regiment = {
+		name = "8e Infanterie Brigade"
+		type = artillery
+		home = 576
+	}
+	
+	regiment = {
+		name = "8e Infanterie Brigade"
+		type = artillery
+		home = 575
+	}
+}
+navy = {
+	name = "Dutch Navy"
+	location = 375
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+}
