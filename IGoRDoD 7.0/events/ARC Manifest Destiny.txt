@@ -1,0 +1,67 @@
+country_event = {
+	id = 333333
+	title = "Arcadian Destiny"
+	desc = "With the declaration of the formation of the Union between Arcadian nations, the question of our future awaits"
+	is_triggered_only = yes
+	major = yes
+	
+	option = {
+		name = "This is our Destiny!"
+		prestige = 25
+		set_global_flag = arc_vin_destiny_accepted
+		HKK_3 = {add_core = ARC}
+		HKK_2 = {add_core = ARC}
+		HKK_1 = {add_core = ARC}
+		DNG_3 = {add_core = ARC}
+		DNG_4 = {add_core = ARC}
+		DNG_2 = {add_core = ARC}
+		DNG_5 = {add_core = ARC}
+	}
+	option = {
+		name = "Our lands are currently enough..."
+		prestige = -15
+		ARC = {
+			set_global_flag = arc_vin_destiny_rejected
+		}
+	}
+}
+
+country_event = {
+	id = 333244
+	title = "Arcadian Destiny"
+	desc = "With the declaration of the formation of the Union between Arcadian nations, the question of our future awaits"
+	is_triggered_only = yes
+	major = yes
+	
+	option = {
+		name = "We are the masters of Arcadia!"
+		prestige = 25
+		set_global_flag = arc_nbg_destiny
+	}
+}
+
+country_event = {
+	id = 333245
+	title = "Arcadian Destiny"
+	desc = "With the declaration of the formation of the Union between Arcadian nations, the question of our future awaits"
+	is_triggered_only = yes
+	major = yes
+	
+	option = {
+		name = "This is our Destiny!"
+		prestige = 25
+		set_global_flag = arc_pla_destiny_accepted
+		LUS_3 = {add_core = ARC}
+		LUS_2 = {add_core = ARC}
+		LUS_5 = {add_core = ARC}
+		LUS_6 = {add_core = ARC}
+		LUS_7 = {add_core = ARC}
+	}
+	option = {
+		name = "Our lands are currently enough..."
+		prestige = -15
+		ARC = {
+			set_global_flag = arc_pla_destiny_rejected
+		}
+	}
+}

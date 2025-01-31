@@ -1,0 +1,394 @@
+#Uman Region (116000) #see Trucial States.txt for balance of region
+#under the rule of Oman in 1836
+#Muscat (32000/8000 POPS)
+1166 = {
+    aristocrats = {
+        culture = bedouin
+        religion = placeholder
+        size = 225
+    }
+
+    bureaucrats = {
+        culture = bedouin
+        religion = placeholder
+        size = 37
+    }
+
+    officers = {
+        culture = bedouin
+        religion = placeholder
+        size = 75
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = placeholder
+        size = 150
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = placeholder
+        size = 1650
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = placeholder
+        size = 937
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = placeholder
+        size = 37
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = placeholder
+        size = 150
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = placeholder
+        size = 37
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = placeholder
+        size = 2775
+    }
+
+    artisans = {
+        culture = aryan
+        religion = placeholder
+        size = 75
+    }
+
+    soldiers = {
+        culture = aryan
+        religion = placeholder
+        size = 37
+    }
+
+    farmers = {
+        culture = aryan
+        religion = placeholder
+        size = 1387
+    }
+
+    clergymen = {
+        culture = aryan
+        religion = placeholder
+        size = 37
+    }
+
+    artisans = {
+        culture = aryan
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = aryan
+        religion = placeholder
+        size = 1387
+    }
+
+    slaves = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 3000
+    }
+}
+#Suhar (16000/4000 POPS)
+1169 = {
+    aristocrats = {
+        culture = bedouin
+        religion = placeholder
+        size = 75
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = placeholder
+        size = 112
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = placeholder
+        size = 300
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = placeholder
+        size = 5437
+    }
+}
+#Nizwa (24000/6000 POPS)
+1170 = {
+    aristocrats = {
+        culture = bedouin
+        religion = placeholder
+        size = 112
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = placeholder
+        size = 375
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = placeholder
+        size = 6862
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = placeholder
+        size = 22
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = placeholder
+        size = 75
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = placeholder
+        size = 15
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = placeholder
+        size = 1387
+    }
+}
+#Sur (24000/6000 POPS)
+1171 = {
+    aristocrats = {
+        culture = bedouin
+        religion = placeholder
+        size = 37
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = placeholder
+        size = 150
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = placeholder
+        size = 37
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = placeholder
+        size = 2700
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = placeholder
+        size = 37
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = placeholder
+        size = 150
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = placeholder
+        size = 37
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = placeholder
+        size = 2775
+    }
+
+    artisans = {
+        culture = aryan
+        religion = placeholder
+        size = 75
+    }
+
+    soldiers = {
+        culture = aryan
+        religion = placeholder
+        size = 37
+    }
+
+    farmers = {
+        culture = aryan
+        religion = placeholder
+        size = 1387
+    }
+
+    slaves = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 1650
+    }
+}
+#Duqm (20000/5000 POPS)
+1172 = {
+    aristocrats = {
+        culture = bedouin
+        religion = placeholder
+        size = 112
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = placeholder
+        size = 112
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = placeholder
+        size = 300
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = placeholder
+        size = 5400
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = placeholder
+        size = 37
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = placeholder
+        size = 1387
+    }
+}
+#Hadramaut Region (36000) #see Yemen.txt for balance of region
+#under the rule of Oman in 1836
+#Salalah (20000/5000 POPS)
+1174 = {
+    aristocrats = {
+        culture = bedouin
+        religion = placeholder
+        size = 97
+    }
+
+    bureaucrats = {
+        culture = bedouin
+        religion = placeholder
+        size = 7
+    }
+
+    officers = {
+        culture = bedouin
+        religion = placeholder
+        size = 7
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = placeholder
+        size = 112
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = placeholder
+        size = 300
+    }
+
+    soldiers = {
+        culture = bedouin
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = placeholder
+        size = 5400
+    }
+
+    clergymen = {
+        culture = bedouin
+        religion = placeholder
+        size = 37
+    }
+
+    artisans = {
+        culture = bedouin
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = bedouin
+        religion = placeholder
+        size = 1387
+    }
+}

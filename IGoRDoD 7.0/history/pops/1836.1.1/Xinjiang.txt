@@ -1,0 +1,877 @@
+#Xinjiang Region (1356000)
+#under the "rule" of China in 1836
+#Kashgar (268000/67000 POPS)
+1594 = {
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 1769
+    }
+
+    bureaucrats = {
+        culture = oirat
+        religion = placeholder
+        size = 400
+    }
+
+    officers = {
+        culture = oirat
+        religion = placeholder
+        size = 521
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 843
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 4182
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 1066
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 25248
+    }
+
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 361
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 199
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 923
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 583
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 17654
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 79
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 803
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 2331
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 39
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 1567
+    }
+}
+#Ili (168000/42000 POPS)
+1595 = {
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 923
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 482
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 2412
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 1753
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 43957
+    }
+
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 159
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 79
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 482
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 436
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 8806
+    }
+
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 6
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 6
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 17
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 361
+    }
+
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 159
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 79
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 400
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 290
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 7319
+    }
+
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 6
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 6
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 17
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 361
+    }
+}
+#Tulta (88000/22000 POPS)
+1596 = {
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 199
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 562
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 436
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 10254
+    }
+
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 199
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 562
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 436
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 10254
+    }
+
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 6
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 6
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 17
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 361
+    }
+
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 199
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 562
+    }
+
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 10254
+    }
+
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 6
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 6
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 17
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 361
+    }
+}
+#Aksu (192000/48000 POPS)
+1597 = {
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 1528
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 803
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 3861
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 923
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 70221
+    }
+}
+#Khotan (88000/22000 POPS)
+1598 = {
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 682
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 361
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 1769
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 313
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 32214
+    }
+}
+#Kumul (188000/47000 POPS)
+1599 = {
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 1366
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 682
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 3458
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 63063
+    }
+
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 17
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 27
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 57
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 31
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 1084
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 17
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 31
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 361
+    }
+
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 17
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 28
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 57
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 31
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 1084
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 17
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 31
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 361
+    }
+}
+#Urumqi (332000/83000 POPS)
+1600 = {
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 1930
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 964
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 5307
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 946
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 16886
+    }
+
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 48
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 27
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 159
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 99
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 2944
+    }
+
+    bureaucrats = {
+        culture = oirat
+        religion = placeholder
+        size = 17
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 17
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 57
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 65
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 1103
+    }
+
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 39
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 79
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 159
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 143
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 2895
+    }
+
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 120
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 321
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 290
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 5791
+    }
+
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 48
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 28
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 159
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 102
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 2944
+    }
+
+    bureaucrats = {
+        culture = oirat
+        religion = placeholder
+        size = 17
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 17
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 57
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 65
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 1103
+    }
+}
+#Lopnur (32000/8000 POPS)
+2607 = {
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 120
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 79
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 400
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 290
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 7358
+    }
+
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 79
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 241
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 143
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 4343
+    }
+}

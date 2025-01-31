@@ -1,0 +1,563 @@
+#Cambodia Region (864000)
+#under the rule of Cambodia in 1836
+#Phnom Penh (468000/117000 POPS)
+1364 = {
+    aristocrats = {
+        culture = khmer
+        religion = placeholder
+        size = 1900
+    }
+
+    bureaucrats = {
+        culture = khmer
+        religion = placeholder
+        size = 142
+    }
+
+    officers = {
+        culture = khmer
+        religion = placeholder
+        size = 190
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = placeholder
+        size = 1069
+    }
+
+    artisans = {
+        culture = khmer
+        religion = placeholder
+        size = 5225
+    }
+
+    soldiers = {
+        culture = khmer
+        religion = placeholder
+        size = 3800
+    }
+
+    farmers = {
+        culture = khmer
+        religion = placeholder
+        size = 93124
+    }
+
+    slaves = {
+        culture = khmer
+        religion = placeholder
+        size = 1900
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = placeholder
+        size = 71
+    }
+
+    artisans = {
+        culture = khmer
+        religion = placeholder
+        size = 1187
+    }
+
+    farmers = {
+        culture = khmer
+        religion = placeholder
+        size = 2541
+    }
+
+    aristocrats = {
+        culture = khmer
+        religion = placeholder
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = khmer
+        religion = placeholder
+        size = 8
+    }
+
+    officers = {
+        culture = khmer
+        religion = placeholder
+        size = 10
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = placeholder
+        size = 56
+    }
+
+    artisans = {
+        culture = khmer
+        religion = placeholder
+        size = 275
+    }
+
+    soldiers = {
+        culture = khmer
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = khmer
+        religion = placeholder
+        size = 4901
+    }
+
+    slaves = {
+        culture = khmer
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = placeholder
+        size = 4
+    }
+
+    artisans = {
+        culture = khmer
+        religion = placeholder
+        size = 63
+    }
+
+    farmers = {
+        culture = khmer
+        religion = placeholder
+        size = 134
+    }
+}
+#Kampot (160000/40000 POPS)
+1367 = {
+    aristocrats = {
+        culture = khmer
+        religion = placeholder
+        size = 689
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = placeholder
+        size = 356
+    }
+
+    artisans = {
+        culture = khmer
+        religion = placeholder
+        size = 1662
+    }
+
+    soldiers = {
+        culture = khmer
+        religion = placeholder
+        size = 1045
+    }
+
+    farmers = {
+        culture = khmer
+        religion = placeholder
+        size = 32442
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = placeholder
+        size = 24
+    }
+
+    artisans = {
+        culture = khmer
+        religion = placeholder
+        size = 475
+    }
+
+    farmers = {
+        culture = khmer
+        religion = placeholder
+        size = 1401
+    }
+
+    aristocrats = {
+        culture = khmer
+        religion = placeholder
+        size = 36
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = placeholder
+        size = 19
+    }
+
+    artisans = {
+        culture = khmer
+        religion = placeholder
+        size = 88
+    }
+
+    soldiers = {
+        culture = khmer
+        religion = placeholder
+        size = 55
+    }
+
+    farmers = {
+        culture = khmer
+        religion = placeholder
+        size = 1708
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = placeholder
+        size = 1
+    }
+
+    artisans = {
+        culture = khmer
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = khmer
+        religion = placeholder
+        size = 74
+    }
+}
+#Stongtreng (84000/21000 POPS)
+1368 = {
+    aristocrats = {
+        culture = khmer
+        religion = placeholder
+        size = 285
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = placeholder
+        size = 166
+    }
+
+    artisans = {
+        culture = khmer
+        religion = placeholder
+        size = 855
+    }
+
+    soldiers = {
+        culture = khmer
+        religion = placeholder
+        size = 166
+    }
+
+    farmers = {
+        culture = khmer
+        religion = placeholder
+        size = 15627
+    }
+
+    aristocrats = {
+        culture = khmer
+        religion = placeholder
+        size = 47
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = placeholder
+        size = 47
+    }
+
+    artisans = {
+        culture = khmer
+        religion = placeholder
+        size = 119
+    }
+
+    soldiers = {
+        culture = khmer
+        religion = placeholder
+        size = 24
+    }
+
+    farmers = {
+        culture = khmer
+        religion = placeholder
+        size = 2612
+    }
+
+    aristocrats = {
+        culture = khmer
+        religion = placeholder
+        size = 15
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = placeholder
+        size = 9
+    }
+
+    artisans = {
+        culture = khmer
+        religion = placeholder
+        size = 45
+    }
+
+    soldiers = {
+        culture = khmer
+        religion = placeholder
+        size = 9
+    }
+
+    farmers = {
+        culture = khmer
+        religion = placeholder
+        size = 823
+    }
+
+    aristocrats = {
+        culture = khmer
+        religion = placeholder
+        size = 3
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = placeholder
+        size = 3
+    }
+
+    artisans = {
+        culture = khmer
+        religion = placeholder
+        size = 6
+    }
+
+    soldiers = {
+        culture = khmer
+        religion = placeholder
+        size = 1
+    }
+
+    farmers = {
+        culture = khmer
+        religion = placeholder
+        size = 138
+    }
+}
+#under the rule of Siam in 1836
+#Battambang (152000/48000 POPS)
+1366 = {
+    aristocrats = {
+        culture = khmer
+        religion = placeholder
+        size = 24
+    }
+
+    bureaucrats = {
+        culture = khmer
+        religion = placeholder
+        size = 47
+    }
+
+    officers = {
+        culture = khmer
+        religion = placeholder
+        size = 71
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = placeholder
+        size = 24
+    }
+
+    artisans = {
+        culture = khmer
+        religion = placeholder
+        size = 47
+    }
+
+    soldiers = {
+        culture = khmer
+        religion = placeholder
+        size = 47
+    }
+
+    farmers = {
+        culture = khmer
+        religion = placeholder
+        size = 689
+    }
+
+    aristocrats = {
+        culture = khmer
+        religion = placeholder
+        size = 712
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = placeholder
+        size = 380
+    }
+
+    artisans = {
+        culture = khmer
+        religion = placeholder
+        size = 1900
+    }
+
+    soldiers = {
+        culture = khmer
+        religion = placeholder
+        size = 404
+    }
+
+    farmers = {
+        culture = khmer
+        religion = placeholder
+        size = 37454
+    }
+
+    slaves = {
+        culture = khmer
+        religion = placeholder
+        size = 1045
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = placeholder
+        size = 47
+    }
+
+    artisans = {
+        culture = khmer
+        religion = placeholder
+        size = 712
+    }
+
+    soldiers = {
+        culture = khmer
+        religion = placeholder
+        size = 47
+    }
+
+    farmers = {
+        culture = khmer
+        religion = placeholder
+        size = 2042
+    }
+
+    aristocrats = {
+        culture = khmer
+        religion = placeholder
+        size = 1
+    }
+
+    bureaucrats = {
+        culture = khmer
+        religion = placeholder
+        size = 3
+    }
+
+    officers = {
+        culture = khmer
+        religion = placeholder
+        size = 4
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = placeholder
+        size = 1
+    }
+
+    artisans = {
+        culture = khmer
+        religion = placeholder
+        size = 3
+    }
+
+    soldiers = {
+        culture = khmer
+        religion = placeholder
+        size = 3
+    }
+
+    farmers = {
+        culture = khmer
+        religion = placeholder
+        size = 36
+    }
+
+    aristocrats = {
+        culture = khmer
+        religion = placeholder
+        size = 38
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = placeholder
+        size = 20
+    }
+
+    artisans = {
+        culture = khmer
+        religion = placeholder
+        size = 100
+    }
+
+    soldiers = {
+        culture = khmer
+        religion = placeholder
+        size = 21
+    }
+
+    farmers = {
+        culture = khmer
+        religion = placeholder
+        size = 1971
+    }
+
+    slaves = {
+        culture = khmer
+        religion = placeholder
+        size = 55
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = placeholder
+        size = 3
+    }
+
+    artisans = {
+        culture = khmer
+        religion = placeholder
+        size = 38
+    }
+
+    soldiers = {
+        culture = khmer
+        religion = placeholder
+        size = 3
+    }
+
+    farmers = {
+        culture = khmer
+        religion = placeholder
+        size = 108
+    }
+}

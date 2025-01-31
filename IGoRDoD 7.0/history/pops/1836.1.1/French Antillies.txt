@@ -1,0 +1,264 @@
+#French Antilles (319200)
+#Ruled by France 1836
+#Martinique (190800/27450 POPS)
+2228 = {
+    aristocrats = {
+        culture = french
+        religion = placeholder
+        size = 874
+    }
+
+    bureaucrats = {
+        culture = french
+        religion = placeholder
+        size = 322
+    }
+
+    clergymen = {
+        culture = french
+        religion = placeholder
+        size = 58
+    }
+
+    artisans = {
+        culture = french
+        religion = placeholder
+        size = 1050
+    }
+
+    soldiers = {
+        culture = french
+        religion = placeholder
+        size = 291
+    }
+
+    farmers = {
+        culture = french
+        religion = placeholder
+        size = 466
+    }
+
+    clergymen = {
+        culture = afro_antillean
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = placeholder
+        size = 1250
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = placeholder
+        size = 250
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = placeholder
+        size = 3400
+    }
+
+    slaves = {
+        culture = afro_antillean
+        religion = placeholder
+        size = 20000
+    }
+
+    aristocrats = {
+        culture = anglois
+        religion = placeholder
+        size = 23
+    }
+
+    bureaucrats = {
+        culture = anglois
+        religion = placeholder
+        size = 6
+    }
+
+    clergymen = {
+        culture = anglois
+        religion = placeholder
+        size = 2
+    }
+
+    artisans = {
+        culture = anglois
+        religion = placeholder
+        size = 27
+    }
+
+    soldiers = {
+        culture = anglois
+        religion = placeholder
+        size = 8
+    }
+
+    farmers = {
+        culture = anglois
+        religion = placeholder
+        size = 12
+    }
+
+    aristocrats = {
+        culture = provencal
+        religion = placeholder
+        size = 22
+    }
+
+    bureaucrats = {
+        culture = provencal
+        religion = placeholder
+        size = 6
+    }
+
+    clergymen = {
+        culture = provencal
+        religion = placeholder
+        size = 1
+    }
+
+    artisans = {
+        culture = provencal
+        religion = placeholder
+        size = 26
+    }
+
+    soldiers = {
+        culture = provencal
+        religion = placeholder
+        size = 7
+    }
+
+    farmers = {
+        culture = provencal
+        religion = placeholder
+        size = 12
+    }
+}
+#Guadeloupe (128400/32100 POPS)
+2230 = {
+    aristocrats = {
+        culture = french
+        religion = placeholder
+        size = 990
+    }
+
+    clergymen = {
+        culture = french
+        religion = placeholder
+        size = 58
+    }
+
+    artisans = {
+        culture = french
+        religion = placeholder
+        size = 1516
+    }
+
+    soldiers = {
+        culture = french
+        religion = placeholder
+        size = 349
+    }
+
+    farmers = {
+        culture = french
+        religion = placeholder
+        size = 700
+    }
+
+    clergymen = {
+        culture = afro_antillean
+        religion = placeholder
+        size = 150
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = placeholder
+        size = 1500
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = placeholder
+        size = 300
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = placeholder
+        size = 3050
+    }
+
+    slaves = {
+        culture = afro_antillean
+        religion = placeholder
+        size = 24000
+    }
+
+    aristocrats = {
+        culture = anglois
+        religion = placeholder
+        size = 26
+    }
+
+    clergymen = {
+        culture = anglois
+        religion = placeholder
+        size = 2
+    }
+
+    artisans = {
+        culture = anglois
+        religion = placeholder
+        size = 39
+    }
+
+    soldiers = {
+        culture = anglois
+        religion = placeholder
+        size = 9
+    }
+
+    farmers = {
+        culture = anglois
+        religion = placeholder
+        size = 18
+    }
+
+    aristocrats = {
+        culture = provencal
+        religion = placeholder
+        size = 25
+    }
+
+    clergymen = {
+        culture = provencal
+        religion = placeholder
+        size = 1
+    }
+
+    artisans = {
+        culture = provencal
+        religion = placeholder
+        size = 38
+    }
+
+    soldiers = {
+        culture = provencal
+        religion = placeholder
+        size = 9
+    }
+
+    farmers = {
+        culture = provencal
+        religion = placeholder
+        size = 17
+    }
+}

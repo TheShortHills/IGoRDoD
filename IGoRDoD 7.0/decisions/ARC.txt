@@ -1,0 +1,128 @@
+political_decisions = {
+	integrate_septimans = {
+		potential = {
+			tag = ARC
+			NOT = {primary_culture = septiman}
+			NOT = {has_country_flag = integrated_ngb}
+		}
+		allow = {
+			war = no
+			NBG = {
+				all_core = {
+					owned_by = THIS
+				} 
+			}
+		}
+		effect = {
+			set_country_flag = integrated_ngb
+			add_accepted_culture = septiman
+			NBG = {all_core = {remove_core = NBG} }
+		}
+	}
+	integrate_plantagenian = {
+		potential = {
+			tag = ARC
+			NOT = {primary_culture = plantagenian}
+			NOT = {has_country_flag = integrated_pla}
+		}
+		allow = {
+			war = no
+			PLA = {
+				all_core = {
+					owned_by = THIS
+				} 
+			}
+		}
+		effect = {
+			set_country_flag = integrated_pla
+			add_accepted_culture = plantagenian
+			PLA = {all_core = {remove_core = PLA} }
+		}
+	}
+	integrate_vinlander = {
+		potential = {
+			tag = ARC
+			NOT = {primary_culture = vinlander}
+			NOT = {has_country_flag = integrated_vin}
+		}
+		allow = {
+			war = no
+			VIN = {
+				all_core = {
+					owned_by = THIS
+				} 
+			}
+		}
+		effect = {
+			set_country_flag = integrated_vin
+			add_accepted_culture = vinlander
+			VIN = {all_core = {remove_core = VIN} }
+		}
+	}
+	integrate_afro_arcadians = {
+		potential = {
+			tag = ARC 
+			NOT = {has_country_flag = integrate_afro_arcadians}
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			experimental_psychology = 1
+			slavery = no_slavery
+			NOT = { war = yes }
+		}
+		effect = {
+			set_country_flag = integrate_afro_arcadians
+			add_accepted_culture = afro_american
+		}
+	}
+	integrate_caribbeans_arc = {
+		potential = {
+			tag = ARC 
+			NOT = {has_country_flag = integrate_caribbeans_arc}
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			OR = {
+				CUB = {all_core = {owned_by = THIS}}
+				HAI = {all_core = {owned_by = THIS}}
+			}
+		}
+		effect = {
+			set_country_flag = integrate_caribbeans_arc
+			add_accepted_culture = afro_caribeno
+			add_accepted_culture = caribeno
+			add_accepted_culture = afro_caribbean
+		}
+	}
+	a_new_life_in_the_new_world = {
+		potential = {
+			OR = {
+				capital_scope = { continent = north_america }
+				capital_scope = { continent = south_america }
+				tag = BTV
+			}
+			NOT = {tag = INC}
+			NOT = { has_country_flag = come_to_the_new_world }
+			number_of_states = 2
+			num_of_ports = 1
+			civilized = yes
+			ai = no
+		}
+		
+		allow = {
+			OR = {
+				government = democracy
+				government = hms_government
+			}
+		}
+		
+		effect = {
+			set_country_flag = come_to_the_new_world
+			add_country_modifier = { name = the_homestead_act duration = 2920 }
+		}
+	}
+
+
+
+}
+

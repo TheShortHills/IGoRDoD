@@ -1,0 +1,11188 @@
+#Alaska Region (25000)
+#ruled by Russia 1836
+#Sitka (8000/2000 POPS)
+1 = {
+	bureaucrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = kaiganese
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = kaiganese
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = kaiganese
+		religion = placeholder
+		size= 100
+
+	}
+
+	aristocrats = {
+		culture = inuit
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 2600
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 4080
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 480
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 240
+	}
+}
+#Yakutat (4000/1000 POPS)
+2 = {
+	aristocrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = kaiganese
+		religion = placeholder
+		size = 45
+	}
+	
+	artisans = {
+		culture = kaiganese
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 1300
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 1400
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 300
+	}
+}
+#Kenai (2400/600 POPS)
+3 = {
+	aristocrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 5
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 20
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 50
+	}
+	
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 10
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 550
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 1250
+	}
+}
+#Dutch Harbor (2000/500 POPS)
+4 = {
+	aristocrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = kaiganese
+		religion = placeholder
+		size = 40
+	}
+
+	artisans = {
+		culture = kaiganese
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = kaiganese
+		religion = placeholder
+		size= 5
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 1800
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 2400
+	}
+}
+#Bethel (2000/500 POPS)
+5 = {
+	aristocrats = {
+		culture = inuit
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 1600
+	}
+}
+#Fairbanks (2000/500 POPS)
+2599 = {
+	aristocrats = {
+		culture = inuit
+		religion = placeholder
+		size = 5
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 15
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 5
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 1400
+	}
+}
+#Cordova (1600/360 POPS)
+2630 = {
+	aristocrats = {
+		culture = inuit
+		religion = placeholder
+		size = 5
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 15
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 20
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 5
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 360
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 600
+	}
+}
+#Unalakeet (3000/750 POPS)
+2631 = {
+	aristocrats = {
+		culture = inuit
+		religion = placeholder
+		size = 5
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 15
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 5
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 450
+	}
+
+	aristocrats = {
+		culture = inuit
+		religion = placeholder
+		size = 2
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 4
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 15
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 5
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 225
+	}
+}
+#Washington Region (20000)
+#claims by Britain and USA in 1836, de facto Native American rule
+#Seattle (12000/3000 POPS)
+78 = {
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 85
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 500
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 165
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 12000
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 4250
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 1600
+	}
+	
+	soldiers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 400
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1000
+	}
+}
+#Spokane (4000/1000 POPS)
+79 = {
+	aristocrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = kaiganese
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 9600
+	}
+	
+	artisans = {
+		culture = kaiganese
+		religion = placeholder
+		size = 3600
+	}
+
+	soldiers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 600
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 5000
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1000
+	}
+}
+#Walla Walla (4000/1000 POPS)
+80 = {
+aristocrats = {
+	culture = qingqiuan
+	religion = placeholder
+	size = 150
+}
+
+clergymen = {
+	culture = qingqiuan
+	religion = placeholder
+	size = 150
+}
+
+bureaucrats = {
+	culture = qingqiuan
+	religion = placeholder
+	size = 75
+}
+
+farmers = {
+	culture = qingqiuan
+	religion = placeholder
+	size = 12919
+}
+
+artisans = {
+	culture = qingqiuan
+	religion = placeholder
+	size = 6956
+}
+
+soldiers = {
+	culture = qingqiuan
+	religion = placeholder
+	size = 750 
+	}
+
+farmers = {
+	culture = kaiganese
+	religion = placeholder
+	size = 6525
+}
+
+bureaucrats = {
+	culture = kaiganese
+	religion = placeholder
+	size = 75
+}
+
+clergymen = {
+	culture = kaiganese
+	religion = placeholder
+	size = 150
+}
+
+aristocrats = {
+	culture = kaiganese
+	religion = placeholder
+	size = 150
+}
+
+soldiers = {
+	culture = kaiganese 
+	religion = placeholder
+	size = 600
+}
+
+farmers = {
+	culture = qingqiuan
+	religion = placeholder
+	size = 1500
+}
+}
+#Oregon Region (20000)
+#claims by Britain and USA in 1836, de facto Native American rule
+#Portland (12000/3000 POPS)
+81 = {
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 50
+	}
+	
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 50
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 50
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 50
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2200
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1600
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 975
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 650
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3000
+	}
+}
+#Baker City (4000/1000 POPS)
+82 = {
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+	
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 50
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 50
+	}	
+
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 10400
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 600
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2250
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1500
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 1250
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 100
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 150
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2100
+	}
+}
+#Klamath Falls (4000/1000 POPS)
+83 = {
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 40
+	}
+	
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 40
+	}
+
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 20
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1100
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 800
+	}
+	
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1520
+	}
+	
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size = 180
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 400
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 200
+	}
+}
+#California Region (64000)
+#ruled by Mexico 1836
+#San Francisco (9600/2400 POPS)
+84 = {
+	capitalists = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 60
+	}
+	
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder 
+		size = 200
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder 
+		size = 105
+	}
+
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder 
+		size = 105
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 5900
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 5900
+	}
+	
+	craftsmen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2440
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1000
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 4200
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1050
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3900
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 800
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 520
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 4425
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 525
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 280
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2000
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 800
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 800
+	}
+}
+#Eureka (4000/1000 POPS)
+85 = {
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 200
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 250
+	}
+
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 5560
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3150
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1450
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1560
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 390
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 650
+	}
+}
+#Sacramento (12000/3000 POPS)
+86 = {
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 13900
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 500
+	}
+	
+		clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+	
+		aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 250
+	}
+	
+		bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 250
+	}
+	
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 4000
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1000
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3000
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 750
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 850
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 250
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 150
+	}
+}
+#Monterey (6400/1600 POPS)
+87 = {
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 150
+	}
+	
+	bureaucrats = {
+		culture = lusitanian
+		religion = placeholder
+		size = 30
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 30
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 120
+	}
+	
+	aristocrats = {
+		culture = lusitanian
+		religion = placeholder
+		size = 150
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3345
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2850
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3300
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 600
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2550
+	}
+	
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 1300
+	}
+	
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 390
+	}
+}
+#Mariposa (8000/2000 POPS)
+88 = {
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 500
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 4000
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 4000
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 5125
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 500
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3750
+	}
+
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 7400
+	}
+
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 500
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 900
+	}
+}
+#Los Angeles (12000/3000 POPS)
+89 = {
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 40
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 40
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 20
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2400
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1300
+	}	
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 130
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 130
+	}
+	
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 1200
+	}
+	
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 600
+	}
+}
+#San Diego (12000/3000 POPS)
+90 = {
+	aristocrats = {
+		culture = lusitanian
+		religion = placeholder
+		size = 320
+	}
+
+	bureaucrats = {
+		culture = mexican
+		religion = placeholder
+		size = 50
+	}
+
+	officers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = lusitanian
+		religion = placeholder
+		size = 200
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = lusitanian
+		religion = placeholder
+		size = 6200
+	}
+	
+	
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 7400
+	}
+
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 15200
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 4500
+	}
+	
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 60
+	}
+
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 3100
+	}
+}
+#Idaho Region (24000)
+#claims by Britain and USA in 1836, de facto Native American rule
+#Boise (8000/2000 POPS)
+91 = {
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 40
+	}
+	
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 40
+	}
+
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 20
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1900
+	}
+	
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1520
+	}
+	
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size = 180
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 400
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 200
+	}
+}
+#Coeur d'Alene (4000/1000 POPS)
+92 = {
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 50
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 25
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 20
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 2100
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 450
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 225
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 225
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1600
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 240
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 160
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 400
+	}
+}
+#Pocatello (12000/3000 POPS)
+93 = {
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 40
+	}
+	
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 40
+	}
+
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 20
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1000
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 600
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1220
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 180
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 800
+	}
+	
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 250
+	}
+	
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 150
+	}
+}
+#Nevada Region (12000)
+#"ruled" by Mexico 1836/de facto under Native Control
+#Carson City (4000/1000 POPS)
+94 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 40
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 40
+	}
+
+	bureaucrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 20
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 180
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1300
+	}
+	
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 1300
+	}	
+	
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1000
+	}	
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 200
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 20
+	}
+}
+#Elko (4000/1000 POPS)
+95 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+
+	bureaucrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 3
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1375
+	}
+	
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 1200
+	}
+	
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 2100
+	}	
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1050
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 50
+	}
+}
+#Las Vegas (4000/1000 POPS)
+96 = {
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 40
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 40
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 20
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 800
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 800
+	}	
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 130
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 130
+	}
+	
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 3100
+	}
+	
+		farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 100
+	}
+}
+#Utah Region (16000)
+#"ruled" by Mexico 1836/de facto under Native Control
+#Salt Lake City (8000/2000 POPS)
+97 = {
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 25
+	}
+	
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 25
+	}
+	
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1200
+	}
+	
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 800
+	}
+	
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 800
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1800
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 230
+	}
+}
+#Loa (4000/1000 POPS)
+98 = {
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 25
+	}
+	
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 25
+	}
+	
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1400
+	}
+	
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 800
+	}
+	
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 800
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1400
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+	
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 400
+	}
+}
+#Moab (4000/1000 POPS)
+99 = {
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 30
+	}
+	
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 30
+	}
+	
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 30
+	}
+
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 3800
+	}
+	
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1300
+	}
+	
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1300
+	}
+	
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 240
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 800
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 600
+	}
+	
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 800
+	}
+}
+#Arizona Region (37000)
+#"ruled" by Mexico 1836/de facto under Native Control
+#Phoenix (12000/3000 POPS)
+100 = {
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1800
+	}
+	
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 560
+	}
+	
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 560
+	}
+
+	aristocrats = {
+		culture = lusitanian
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = lusitanian
+		religion = placeholder
+		size = 40
+	}
+
+	bureaucrats = {
+		culture = lusitanian
+		religion = placeholder
+		size = 120
+	}
+
+	artisans = {
+		culture = lusitanian
+		religion = placeholder
+		size = 800
+	}
+
+	soldiers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 2800
+	}
+}
+#Flagstaff (12000/3000 POPS)
+101 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 20
+	}
+
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 45
+	}
+
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 150
+	}
+	
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 4600
+	}
+	
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 800
+	}
+
+	clergymen = {
+		culture = lusitanian
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 300
+	}
+
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 800
+	}
+}
+#ruled by Mexico 1836
+#Tucson (13000/3250 POPS)
+102 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 75
+	}
+
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 3400
+	}
+
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1800
+	}
+
+	aristocrats = {
+		culture = lusitanian
+		religion = placeholder
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = lusitanian
+		religion = placeholder
+		size = 120
+	}
+
+	clergymen = {
+		culture = lusitanian
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 3800
+	}
+}
+#New Mexico Region (56000)
+#ruled by Mexico 1836
+#Santa Fe (32000/8000 POPS)
+103 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 175
+	}
+
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size= 525
+
+	}
+
+	artisans = {
+		culture = lusitanian
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 2200
+	}
+
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 6200
+	}
+
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 4200
+	}
+
+	aristocrats = {
+		culture = lusitanian
+		religion = placeholder
+		size = 60
+	}
+
+	clergymen = {
+		culture = lusitanian
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 1200
+	}
+}
+#Albuquerque (20000/5000 POPS)
+104 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 40
+	}
+
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 60
+	}
+
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 1850
+	}
+
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size= 225
+
+	}
+
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 2800
+	}
+	
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1400
+	}
+
+	aristocrats = {
+		culture = lusitanian
+		religion = placeholder
+		size = 40
+	}
+
+	clergymen = {
+		culture = lusitanian
+		religion = placeholder
+		size = 60
+	}
+
+	artisans = {
+		culture = lusitanian
+		religion = placeholder
+		size = 400
+	}
+
+	soldiers = {
+		culture = lusitanian
+		religion = placeholder
+		size= 250
+
+	}
+
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 1400
+	}
+}
+#Las Cruces (4000/1000 POPS)
+105 = {
+	aristocrats = {
+		culture = apache
+		religion = placeholder
+		size = 35
+	}
+
+	clergymen = {
+		culture = apache
+		religion = placeholder
+		size = 70
+	}
+
+	artisans = {
+		culture = apache
+		religion = placeholder
+		size = 300
+	}
+
+	soldiers = {
+		culture = apache
+		religion = placeholder
+		size= 125
+
+	}
+
+	farmers = {
+		culture = apache
+		religion = placeholder
+		size = 2300
+	}
+	
+	farmers = {
+		culture = apache
+		religion = placeholder
+		size = 1900
+	}
+
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 800
+	}
+	
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 400
+	}
+	
+	aristocrats = {
+		culture = lusitanian
+		religion = placeholder
+		size = 40
+	}
+	
+	clergymen = {
+		culture = lusitanian
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = lusitanian
+		religion = placeholder
+		size = 500
+	}
+
+	soldiers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 200
+	}
+
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 3800
+	}
+}
+#Colorado Region (20000)
+#claimed by both Mexico and the USA/de facto under Native Control
+#Denver (8000/2000 POPS)
+106 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1800
+	}
+}
+#Grand Junction (4000/1000 POPS)
+107 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 20
+	}
+	
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 20
+	}
+	
+	bureaucrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 20
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1090
+	}
+	
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 820
+	}
+	
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1710
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 320
+	}
+}
+#Alamosa (4000/1000 POPS)
+108 = {
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 30
+	}
+	
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 30
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 30
+	}
+
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 30
+	}
+	
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1600
+	}
+	
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 690
+	}
+	
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 690
+	}
+	
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 240
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1300
+	}
+	
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1130
+	}
+}
+#Pueblo (4000/1000 POPS)
+109 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 900
+	}
+}
+#Wyoming Region (28000)
+#"ruled" by the USA/de facto under Native Control
+#Cheyenne (8000/2000 POPS)
+110 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1800
+	}
+}
+#Cody (12000/3000 POPS)
+111 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 20
+	}
+	
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 20
+	}
+	
+	bureaucrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 20
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1090
+	}
+	
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 940
+	}
+	
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1710
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 200
+	}
+}
+#Casper (8000/2000 POPS)
+112 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1800
+	}
+}
+#Montana Region (32000)
+#"ruled" by the USA/de facto under Native Control
+#Bozeman (8000/2000 POPS)
+113 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1800
+	}
+}
+#Missoula (4000/1000 POPS)
+114 = {
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 40
+	}
+	
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 40
+	}
+
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 20
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1000
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 600
+	}
+	
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1220
+	}
+	
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size = 180
+	}
+	
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 800
+	}
+	
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 250
+	}
+	
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 150
+	}
+}
+#Great Falls (8000/2000 POPS)
+115 = {
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 20
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size= 30
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 1800
+	}
+}
+#Billings (12000/3000 POPS)
+116 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 35
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 75
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 40
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 2700
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+}
+#North native_american_minor Region (24000)
+#"ruled" by the USA/de facto under Native Control
+#Bismarck (8000/2000 POPS)
+117 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1800
+	}
+}
+#Minot (8000/2000 POPS)
+118 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1800
+	}
+}
+#Dickinson (8000/2000 POPS)
+119 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 20
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 30
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1800
+	}
+}
+#South native_american_minor Region (24000)
+#"ruled" by the USA/de facto under Native Control
+#Sioux Falls (8000/2000 POPS)
+120 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 20
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 30
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1800
+	}
+}
+#Dupree (8000/2000 POPS)
+121 = {
+ 	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1800
+	}
+}
+#Rapid City (8000/2000 POPS)
+122 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 20
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 30
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 4584
+	}
+}
+#Nebraska Region (20000)
+#"ruled" by the USA/de facto under Native Control
+#Omaha (8000/2000 POPS)
+123 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 20
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 30
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 3579
+	}
+}
+#Alliance (4000/1000 POPS)
+124 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 20
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 30
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 3579
+	}
+}
+#North Platte (8000/2000 POPS)
+125 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 67
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 700
+	}
+	
+	bureaucrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 65
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 132
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 8343
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 4575
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 98
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 42
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 490
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 210
+	}
+}
+#Kansas Region (24000)
+#"ruled" by the USA/de facto under Native Control
+#Topeka (8000/2000 POPS)
+126 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 166
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2000
+	}
+
+	bureaucrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 666
+	}
+
+	officers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 65
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 9476
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 4061
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 500
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 2100
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 900
+	}
+}
+#Goodland (8000/2000 POPS)
+127 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1800
+	}
+}
+#Wichita (8000/2000 POPS)
+128 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 67
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 750
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 132
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 8966
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 3842
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 342
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 630
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 270
+	}
+	
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 200
+	}
+}
+#Oklahoma Region (32000)
+#"ruled" by the USA/de facto under Native Control
+#Oklahoma City (12000/3000 POPS)
+129 = {
+	aristocrats = {
+		culture = apache
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = apache
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = apache
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = apache
+		religion = placeholder
+		size = 400
+	}
+
+	farmers = {
+		culture = apache
+		religion = placeholder
+		size = 12300
+	}
+}
+#Tahlequah (12000/3000 POPS)
+130 = {
+	aristocrats = {
+		culture = apache
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = apache
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = apache
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = apache
+		religion = placeholder
+		size = 400
+	}
+
+	farmers = {
+		culture = apache
+		religion = placeholder
+		size = 12300
+	}
+}
+
+#Texas Region (67400)
+#ruled by Texas in 1836
+#Houston (16000/4000 POPS)
+132 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 715
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 392
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 283
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 5395
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 714
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 100
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 1900
+	}
+	
+	slaves = { 
+		culture = apache
+		religion = placeholder
+		size = 1500
+	}
+}
+#Austin (14000/3500 POPS)
+133 = {
+	aristocrats = {
+		culture = apache
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = apache
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = apache
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = apache
+		religion = placeholder
+		size = 400
+	}
+
+	farmers = {
+		culture = apache
+		religion = placeholder
+		size = 12300
+	}
+}
+#San Antonio (10000/2500 POPS)
+137 = {
+	aristocrats = {
+		culture = lusitanian
+		religion = placeholder
+		size = 225
+	}
+	bureaucrats = {
+		culture = lusitanian
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = {
+		culture = lusitanian
+		religion = placeholder
+		size = 125
+	}
+	
+	artisans = {
+		culture = lusitanian
+		religion = placeholder
+		size = 8000
+	}
+
+	soldiers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 2500
+	}
+
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 38000
+	}
+	
+	farmers = {
+		culture = apache
+		religion = placeholder
+		size = 2200
+	}
+	
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 20
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 2300
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 4700
+	}
+}
+#Laredo (6000/1500 POPS)
+138 = {
+	aristocrats = {
+		culture = lusitanian
+		religion = placeholder
+		size = 100
+	}
+	clergymen = {
+		culture = lusitanian
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = {
+		culture = lusitanian
+		religion = placeholder
+		size = 1500
+	}
+
+	soldiers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 1500
+	}
+
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 30300
+	}
+	
+	farmers = {
+		culture = apache
+		religion = placeholder
+		size = 1800
+	}
+	
+	farmers = {
+		culture = apache 
+		religion = placeholder
+		size = 1400
+	}
+}
+#"ruled" by Texas/de facto under Native Control
+#Dallas (4400/1100 POPS)
+134 = {
+	aristocrats = {
+		culture = apache
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = apache
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = apache
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = apache
+		religion = placeholder
+		size = 400
+	}
+
+	farmers = {
+		culture = apache
+		religion = placeholder
+		size = 12300
+	}
+}
+#Lubbock (8000/2000 POPS)
+135 = {
+	aristocrats = {
+		culture = apache
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = apache
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = apache
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = apache
+		religion = placeholder
+		size = 400
+	}
+
+	farmers = {
+		culture = apache
+		religion = placeholder
+		size = 12300
+	}
+}
+#El Paso (9000/2250 POPS)
+136 = {
+	aristocrats = {
+		culture = apache
+		religion = placeholder
+		size = 35
+	}
+
+	clergymen = {
+		culture = apache
+		religion = placeholder
+		size = 70
+	}
+
+	artisans = {
+		culture = apache
+		religion = placeholder
+		size = 300
+	}
+
+	soldiers = {
+		culture = apache
+		religion = placeholder
+		size= 125
+
+	}
+
+	farmers = {
+		culture = apache
+		religion = placeholder
+		size = 2300
+	}
+	
+	farmers = {
+		culture = apache
+		religion = placeholder
+		size = 1900
+	}
+
+	aristocrats = {
+		culture = lusitanian
+		religion = placeholder
+		size = 40
+	}
+	
+	clergymen = {
+		culture = lusitanian
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = lusitanian
+		religion = placeholder
+		size = 500
+	}
+
+	soldiers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 200
+	}
+
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 3800
+	}
+}
+#Louisiana Region (280000)
+#ruled by USA in 1836
+#New Orleans (128000/32000 POPS)
+139 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 5000
+	}
+
+	capitalists = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1600
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 7250
+	}
+	
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 4000
+	}
+
+	bureaucrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1000
+	}
+	
+	craftsmen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 40000
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2000
+	}
+
+	clerks = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 500
+	}
+
+	officers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1400
+	}
+
+	craftsmen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2000
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 7625
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 5625
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 4000
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 43000
+	}
+}
+#Baton Rouge (72000/18000 POPS)
+140 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 715
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1500
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 392
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 733
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 13945
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 600
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 11400
+	}
+}
+#Lake Charles (36000/9000 POPS)
+141 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 715
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2000
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 392
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 17030
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1614
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 760
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 17440
+	}
+}
+#Shreveport (44000/11000 POPS)
+142 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 715
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1000
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 392
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 478
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 9100
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 714
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 380
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 7220
+	}
+}
+#Arkansas Region (88000)
+#ruled by USA in 1836
+#Little Rock (56000/14000 POPS)
+143 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1000
+	}
+
+	bureaucrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 350
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1000
+	}
+
+	officers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 250
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2200
+	}
+	
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 260
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 1260
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 23940
+	}
+}
+#Hot Springs (16000/4000 POPS)
+144 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 715
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1000
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 392
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 108
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2070
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 714
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 750
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 14250
+	}
+}
+#Fayetteville (16000/4000 POPS)
+145 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 67
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1500
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 132
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 5711
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2447
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 342
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 5940
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 13860
+	}
+}
+#Missouri Region (365000)
+#ruled by USA in 1836
+#Saint Louis (188000/47000 POPS)
+146 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 67
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1500
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 132
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 13860
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 5940
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1540
+	}
+	
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 5711
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 2447
+	}
+}
+#Joplin (25000/5000 POPS)
+147 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 715
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1000
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 392
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 608
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 11570
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 714
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 250
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 4750
+	}
+}
+#Malden (40000/10000 POPS)
+148 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 145
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 4374
+	}
+
+	bureaucrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 56
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 582
+	}
+
+	officers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 56
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 22045
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 8805
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1520
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 7000
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 3000
+	}
+}
+#Jefferson City (56000/14000 POPS)
+149 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 67
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1000
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 132
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 11521
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 4937
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 342
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 1400
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 600
+	}
+
+}
+#Kansas City (56000/14000 POPS)
+150 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 67
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1250
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 132
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 15546
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 6662
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 342
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 700
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 300
+	}
+}
+#Iowa Region (44000)
+#ruled by the USA/parts de facto under Native Control
+#Des Moines (12000/3000 POPS)
+151 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 67
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1250
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 132
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 15546
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 6662
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 342
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 700
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 300
+	}
+}
+#Oskaloosa (8000/2000 POPS)
+152 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 67
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1250
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 132
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 15546
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 6662
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 342
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 700
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 300
+	}
+}
+#Cedar Rapids (16000/4000 POPS)
+153 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 900
+	}
+}
+#Sioux City (8000/2000 POPS)
+154 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1800
+	}
+}
+#Minnesota Region (32000)
+#"ruled" by the USA/de facto under Native Control
+#Minneapolis (8000/2000 POPS)
+155 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 20
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 30
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1800
+	}
+}
+#Granite Falls (8000/2000 POPS)
+156 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1800
+	}
+}
+#Moorhead (8000/2000 POPS)
+157 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 20
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 30
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1800
+	}
+}
+
+#Wisconsin Region (36000)
+#ruled by the USA/parts under de facto under Native Control
+#Milwaukee (16000/4000 POPS)
+159 = {
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 350
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 6336
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 140
+	}
+}
+#Eau Claire (4000/1000 POPS)
+160 = {
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 17
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 1743
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 17
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 1743
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+
+}
+#Green Bay (8000/2000 POPS)
+161 = {
+	aristocrats = { 
+		culture = iroquois
+		religion = placeholder
+		size = 70
+	}
+
+	artisans = { 
+		culture = iroquois
+		religion = placeholder
+		size = 175
+	}
+
+	clergymen = { 
+		culture = iroquois
+		religion = placeholder
+		size = 17
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 3169
+	}
+
+	soldiers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 69
+	}
+
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 14
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 35
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 3
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 634
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 14
+	}
+
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 56
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 139
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 13
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 2536
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 56
+	}
+}
+#Madison (8000/2000 POPS)
+162 = {
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 75
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 17
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 1268
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 75
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 17
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 1268
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+}
+#Illinois Region (452000)
+#ruled by the USA
+#Chicago (172000/43000 POPS)
+163 = {
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 576
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 2300
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 19448
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 576
+	}
+}
+#Rockford (44000/11000 POPS)
+164 = {
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 600
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 11086
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 140
+	}
+
+}
+#Champaign (36000/9000 POPS)
+165 = {
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 300
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 5386
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 140
+	}
+}
+#Peoria (100000/25000 POPS)
+166 = {
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 650
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 12036
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 140
+	}
+}
+#Springfield (36000/9000 POPS)
+167 = {
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 576
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 1500
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 12248
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 576
+	}
+}
+#Carbondale (68000/17000 POPS)
+168 = {
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 2186
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 140
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 7000
+	}
+}
+#Indiana Region (644000)
+#ruled by the USA
+#Indianapolis (276000/69000 POPS)
+169 = {
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 4436
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 140
+	}
+}
+#Evansville (196000/49000 POPS)
+170 = {
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 350
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 6336
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 140
+	}
+}
+#South Bend (44000/11000 POPS)
+171 = {
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 400
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 7286
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 140
+	}
+}
+#Fort Wayne (128000/32000 POPS)
+172 = {
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 400
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 7286
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 140
+	}
+}
+#Michigan Region (148000)
+#ruled by the USA/parts under defacto native Control
+#Detroit (POPS)
+173 = {
+	aristocrats = { 
+		culture = iroquois
+		religion = placeholder
+		size = 600
+	}
+
+	artisans = { 
+		culture = iroquois
+		religion = placeholder
+		size = 3450
+	}
+
+	bureaucrats = { 
+		culture = iroquois
+		religion = placeholder
+		size = 236
+	}
+
+	clergymen = { 
+		culture = iroquois
+		religion = placeholder
+		size = 299
+	}
+
+	officers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 236
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 8379
+	}
+
+	soldiers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 600
+	}
+
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 400
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 2300
+	}
+
+	bureaucrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 157
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 200
+	}
+
+	officers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 157
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 5586
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 400
+	}
+}
+#Grand Rapids (POPS)
+174 = {
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 750
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 13936
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 140
+	}
+}
+#Saginaw (POPS)
+175 = {
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 49
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 174
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 11
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 3217
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 49
+	}
+
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 56
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 200
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 13
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 3676
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 55
+	}
+
+	aristocrats = { 
+		culture = iroquois
+		religion = placeholder
+		size = 35
+	}
+
+	artisans = { 
+		culture = iroquois
+		religion = placeholder
+		size = 124
+	}
+
+	clergymen = { 
+		culture = iroquois
+		religion = placeholder
+		size = 8
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 2298
+	}
+
+	soldiers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 35
+	}
+}
+#Traverse City (POPS)
+176 = {
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 17
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 4593
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 17
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 4593
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+}
+#Marquette (POPS)
+177 = {
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 17
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 2693
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 17
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 2693
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+}
+#Ohio Region (1344000)
+#ruled by the USA
+#Cleveland (208000/52000 POPS)
+178 = {
+	aristocrats = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = iroquois
+		religion = placeholder
+		size = 700
+	}
+
+	clergymen = { 
+		culture = iroquois
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 12986
+	}
+
+	soldiers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+}
+#Columbus (268000/67000 POPS)
+179 = {
+	aristocrats = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = iroquois
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = { 
+		culture = iroquois
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 9186
+	}
+
+	soldiers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+}
+#Sandusky (188000/47000 POPS)
+180 = {
+	aristocrats = { 
+		culture = iroquois
+		religion = placeholder
+		size = 576
+	}
+
+	artisans = { 
+		culture = iroquois
+		religion = placeholder
+		size = 1500
+	}
+
+	clergymen = { 
+		culture = iroquois
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 12248
+	}
+
+	soldiers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 576
+	}
+}
+#Dayton (224000/56000 POPS)
+181 = {
+	aristocrats = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = iroquois
+		religion = placeholder
+		size = 400
+	}
+
+	clergymen = { 
+		culture = iroquois
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 7286
+	}
+
+	soldiers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+}
+#Cincinnati (296000/74000 POPS)
+182 = {
+	aristocrats = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = iroquois
+		religion = placeholder
+		size = 450
+	}
+
+	clergymen = { 
+		culture = iroquois
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 8236
+	}
+
+	soldiers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+}
+#Marietta (160000/40000 POPS)
+183 = {
+	aristocrats = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = iroquois
+		religion = placeholder
+		size = 350
+	}
+
+	clergymen = { 
+		culture = iroquois
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 6336
+	}
+
+	soldiers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+}
+#Kentucky Region (740000)
+#ruled by the USA
+#Louisville (156000/39000 POPS)
+184 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 500
+	}
+
+	bureaucrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 400
+	}
+
+	officers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 18200
+	}
+
+	farmers = { 
+		culture = cherokee
+		religion = placeholder
+		size = 1000
+	}
+}
+#Lexington (332000/83000 POPS)
+185 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 333
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 166
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1109
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 333
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 16150
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 850
+	}
+
+	farmers = { 
+		culture = cherokee
+		religion = placeholder
+		size = 950
+	}
+
+	soldiers = { 
+		culture = cherokee
+		religion = placeholder
+		size = 50
+	}
+}
+#Bowling Green (144000/36000 POPS)
+186 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 333
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 166
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1109
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 133
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 16150
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 400
+	}
+
+	farmers = { 
+		culture = cherokee
+		religion = placeholder
+		size = 950
+	}
+
+	soldiers = { 
+		culture = cherokee
+		religion = placeholder
+		size = 50
+	}
+}
+#Paducah (108000/27000 POPS)
+187 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1200
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 4000
+	}
+
+	bureaucrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 350
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1000
+	}
+
+	officers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 277
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 5272
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2250
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 1280
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 24320
+	}
+}
+#Tennessee Region (772000)
+#ruled by the USA
+#Nashville (396000/99000 POPS)
+188 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 715
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1250
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 392
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 96
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1832
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 714
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 1000
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 19000
+	}
+}
+#Memphis (128000/32000 POPS)
+189 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 715
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1500
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 392
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 208
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 3970
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1114
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 125
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 21375
+	}
+}
+#Knoxville (116000/29000 POPS)
+190 = {
+	aristocrats = {
+		culture = cherokee
+		religion = placeholder
+		size = 600
+	}
+
+	clergymen = {
+		culture = cherokee
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = {
+		culture = cherokee
+		religion = placeholder
+		size = 1350
+	}
+
+	soldiers = {
+		culture = cherokee
+		religion = placeholder
+		size= 1500
+
+	}
+
+	farmers = {
+		culture = cherokee
+		religion = placeholder
+		size = 21475
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 500
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 150
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 5300
+	}
+
+	clergymen = {
+		culture = plantagenian
+		religion = placeholder
+		size = 100
+	}
+}
+#Chattanooga (132000/33000 POPS)
+191 = {
+	clergymen = {
+		culture = plantagenian
+		religion = placeholder
+		size = 150
+	}
+
+	aristocrats = {
+		culture = cherokee
+		religion = placeholder
+		size = 575
+	}
+
+	clergymen = {
+		culture = cherokee
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = cherokee
+		religion = placeholder
+		size = 4825
+	}
+
+	soldiers = {
+		culture = cherokee
+		religion = placeholder
+		size= 3100
+
+	}
+
+	farmers = {
+		culture = cherokee
+		religion = placeholder
+		size = 29000
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 350
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 400
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 15200
+	}
+
+	aristocrats = {
+		culture = plantagenian
+		religion = placeholder
+		size = 125
+	}
+}
+#Mississippi Region (340000)
+#ruled by the USA
+#Jackson (164000/41000 POPS)
+192 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 715
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1500
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 392
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 238
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 4540
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1123
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 320
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 20805
+	}
+}
+#Vicksburg (100000/25000 POPS)
+193 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 715
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1500
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 392
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 208
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 3970
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 714
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 1125
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 21375
+	}
+}
+#Biloxi (76000/19000 POPS)
+194 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 715
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2500
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 392
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1133
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 21545
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 714
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 1100
+	}
+	
+	soldiers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 50
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 21850
+	}
+}
+#Alabama Region (576000)
+#ruled by the USA
+#Montgomery (268000/67000 POPS)
+195 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 715
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2500
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 392
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1412
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 29145
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1145
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 750
+	}
+	
+	soldiers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 200
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 14250
+	}
+
+}
+#Tuscaloosa (168000/42000 POPS)
+196 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 715
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2000
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 392
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 308
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 5870
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1250
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 1500
+	}
+	
+	soldiers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 400
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 28500
+	}
+}
+#Mobile (140000/35000 POPS)
+197 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 715
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2500
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 392
+	}
+
+	craftsmen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1333
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 22345
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 714
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 950
+	}
+	
+	craftsmen = { 
+		culture = afro_american
+		religion = placeholder
+		size = 50
+	}
+	
+	soldiers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 50
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 21050
+	}
+}
+#Florida Region (88000)
+#ruled by the USA
+#Tallahassee (32000/8000 POPS)
+198 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 715
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1250
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 392
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 596
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 11332
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 714
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 500
+	}
+	
+	soldiers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 50
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 9500
+	}
+}
+#St Augustine (48000/12000 POPS)
+199 = {
+	aristocrats = {
+		culture = plantagenian
+		religion = placeholder
+		size = 150
+	}
+
+	capitalists = {
+		culture = plantagenian
+		religion = placeholder
+		size = 3
+	}
+
+	officers = {
+		culture = plantagenian
+		religion = placeholder
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = plantagenian
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = plantagenian
+		religion = placeholder
+		size = 850
+	}
+
+	artisans = {
+		culture = plantagenian
+		religion = placeholder
+		size = 10000
+	}
+
+	soldiers = {
+		culture = plantagenian
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = plantagenian
+		religion = placeholder
+		size = 23000
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = placeholder
+		size = 410
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 3780
+	}
+
+	soldiers = {
+		culture = afro_american
+		religion = placeholder
+		size = 50
+	}
+	
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 459
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 7000
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 489
+	}
+}
+#Tampa (8000/2000 POPS)
+200 = {
+	clergymen = {
+		culture = plantagenian
+		religion = placeholder
+		size = 145
+	}
+	
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1000
+	}
+
+	farmers = {
+		culture = plantagenian
+		religion = placeholder
+		size = 9450
+	}
+
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1000
+	}
+	
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 8450
+	}
+	
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 150
+	} 
+	
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 9900
+	}
+}
+#Georgia Region (628000)
+#ruled by the USA
+#Atlanta (244000/61000 POPS)
+201 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1000
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 6000
+	}
+
+	bureaucrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 350
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1000
+	}
+
+	officers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 147
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2802
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2250
+	}
+
+	farmers = { 
+		culture = cherokee
+		religion = placeholder
+		size = 210
+	}
+
+	farmers = { 
+		culture = cherokee
+		religion = placeholder
+		size = 3990
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 2100
+	}
+	
+	soldiers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 500
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 39900
+	}
+}
+#Valdosta (44000/11000 POPS)
+202 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 400
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2250
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 400
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 130
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1170
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1600
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 3005
+	}
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 40050
+	}
+}
+#Savannah (200000/50000 POPS)
+204 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1000
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 5500
+	}
+
+	bureaucrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 466
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2155
+	}
+
+	officers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 233
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2758
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 21822
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2666
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 1540
+	}
+	
+	soldiers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 300
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 16860
+	}
+}
+#Augusta (140000/35000 POPS)
+2555 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 400
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2500
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 400
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 360
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 3240
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 600
+	}
+
+	farmers = { 
+		culture = cherokee
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = { 
+		culture = cherokee
+		religion = placeholder
+		size = 2250
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 4000
+	}
+	
+	soldiers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 400
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 36000
+	}
+}
+#South Carolina Region (588000)
+#ruled by the USA
+#Charleston (248000/61000 POPS)
+205 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1000
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 9000
+	}
+
+	bureaucrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 466
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2155
+	}
+
+	officers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 233
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 968
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 8712
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2666
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 6480
+	}
+	
+	soldiers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 451
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 58320
+	}
+}
+#Columbia (340000/85000 POPS)
+206 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 400
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 3000
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 400
+	}
+
+	officers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 233
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1396
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 12570
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 800
+	}
+
+	farmers = { 
+		culture = cherokee
+		religion = placeholder
+		size = 180
+	}
+
+	farmers = { 
+		culture = cherokee
+		religion = placeholder
+		size = 1620
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 3960
+	}
+	
+	soldiers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 90
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 35640
+	}
+}
+#North Carolina Region (736000)
+#ruled by the USA
+#Greenville (96000/27000 POPS)
+207 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 400
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 4156
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 400
+	}
+
+	officers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 233
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 19410
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 600
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 1480
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 13320
+	}
+}
+#Raleigh (156000/39000 POPS)
+208 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 400
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1750
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 400
+	}
+
+	officers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 233
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2146
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 17320
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 600
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 1015
+	}
+	
+	soldiers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 50
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 11135
+	}
+}
+#Charlotte (136000/34000 POPS)
+209 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 400
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 4956
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 400
+	}
+
+	officers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 233
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 7610
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1600
+	}
+
+	farmers = { 
+		culture = cherokee
+		religion = placeholder
+		size = 400
+	}
+
+	farmers = { 
+		culture = cherokee
+		religion = placeholder
+		size = 3600
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 6080
+	}
+	
+	soldiers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 300
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 54720
+	}
+}
+#Wilmington (188000/47000 POPS)
+210 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 400
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 15250
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 400
+	}
+
+	officers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 233
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 6661
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 38955
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2600
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 3150
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 37350
+	}
+}
+#Asheville (148000/37000 POPS)
+2556 = {
+	aristocrats = {
+		culture = cherokee
+		religion = placeholder
+		size = 600
+	}
+
+	clergymen = {
+		culture = cherokee
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = {
+		culture = cherokee
+		religion = placeholder
+		size = 1350
+	}
+
+	soldiers = {
+		culture = cherokee
+		religion = placeholder
+		size= 1500
+
+	}
+
+	farmers = {
+		culture = cherokee
+		religion = placeholder
+		size = 25475
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 500
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 150
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 1300
+	}
+
+	clergymen = {
+		culture = plantagenian
+		religion = placeholder
+		size = 100
+	}
+}
+#Virginia Region (1016000)
+#ruled by the USA
+#Richmond (340000/85000 POPS)
+211 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 400
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2500
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 400
+	}
+
+	officers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 233
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1086
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 9780
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 600
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 3500
+	}
+	
+	soldiers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 300
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 31500
+	}
+}
+#Manassas (68000/17000 POPS)
+212 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 235
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 3500
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 516
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 12000
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 1750
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 14500
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 20000
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 17500
+	}
+}
+#Fredericksburg (116000/29000 POPS)
+213 = {
+ 	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 235
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 3000
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 516
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 12499
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 1750
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 6000
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 24000
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 18000
+	}
+}
+#Norfolk (108000/27000 POPS)
+214 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 400
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1000
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 400
+	}
+
+	officers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 233
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1236
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 11130
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 600
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 500
+	}
+	
+	soldiers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 15
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 4500
+	}
+}
+#Staunton (60000/15000 POPS)
+215 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 117
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 1125
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 258
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 8875
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 875
+	}
+
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 117
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 1125
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 258
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 8875
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 875
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 11250
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 11250
+	}
+}
+#Roanoke (120000/30000 POPS)
+216 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 1000
+	}
+
+	artisans = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 5500
+	}
+
+	bureaucrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 466
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2155
+	}
+
+	officers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 233
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 2648
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 8832
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 850
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 3500
+	}
+	
+	soldiers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 50
+	}
+	
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 34850
+	}
+
+}
+#became West Virginia in 1863
+#Wheeling (104000/26000 POPS)
+217 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 66
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 1500
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 416
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 24318
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 700
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 3000
+	}
+}
+#Huntington (100000/25000 POPS)
+218 = {
+	aristocrats = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 333
+	}
+
+	clergymen = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 166
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 207
+	}
+
+	farmers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 10
+	}
+
+	soldiers = { 
+		culture = plantagenian
+		religion = placeholder
+		size = 333
+	}
+
+	farmers = { 
+		culture = cherokee
+		religion = placeholder
+		size = 997
+	}
+
+	soldiers = { 
+		culture = cherokee
+		religion = placeholder
+		size = 52
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 12255
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 645
+	}
+}
+#Maryland Region (452000)
+#ruled by the USA
+#Baltimore (212000/53000 POPS)
+219 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 162
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 2321
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 389
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 29083
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 545
+	}
+
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 12
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 178
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 29
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 2239
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 42
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 12500
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 2500
+	}
+}
+#Washington (184000/46000 POPS)
+220 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 533
+	}
+
+	capitalists = { 
+		culture = septiman
+		religion = placeholder
+		size = 66
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 13333
+	}
+
+	bureaucrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 850
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 666
+	}
+
+	clerks = { 
+		culture = septiman
+		religion = placeholder
+		size = 333
+	}
+
+	officers = { 
+		culture = septiman
+		religion = placeholder
+		size = 1019
+	}
+
+	craftsmen = { 
+		culture = septiman
+		religion = placeholder
+		size = 3333
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 8867
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 3500
+	}
+
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 266
+	}
+
+	capitalists = { 
+		culture = septiman
+		religion = placeholder
+		size = 33
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 6666
+	}
+
+	bureaucrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 425
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 333
+	}
+
+	clerks = { 
+		culture = septiman
+		religion = placeholder
+		size = 166
+	}
+
+	officers = { 
+		culture = septiman
+		religion = placeholder
+		size = 510
+	}
+
+	craftsmen = { 
+		culture = septiman
+		religion = placeholder
+		size = 1666
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 5435
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 22000
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 10000
+	}
+}
+#Hagerstown (56000/14000 POPS)
+221 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 250
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 4500
+	}
+
+	bureaucrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 1000
+	}
+
+	officers = { 
+		culture = septiman
+		religion = placeholder
+		size = 450
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 31750
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 2400
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 4500
+	}
+}
+#Delaware Region (76000)
+#ruled by the USA
+#Dover (76000/19000 POPS)
+222 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 62
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 1250
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 406
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 20970
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 562
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 1000
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 750
+	}
+
+}
+#Pennsylvania Region (1536000)
+#ruled by the USA
+#Philadelphia (468000/117000 POPS)
+223 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 162
+	}
+
+	capitalists = { 
+		culture = septiman
+		religion = placeholder
+		size = 278
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 17409
+	}
+
+	bureaucrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 92
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 389
+	}
+
+	clerks = { 
+		culture = septiman
+		religion = placeholder
+		size = 464
+	}
+
+	craftsmen = { 
+		culture = septiman
+		religion = placeholder
+		size = 4642
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 24769
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 545
+	}
+
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 12
+	}
+
+	capitalists = { 
+		culture = septiman
+		religion = placeholder
+		size = 21
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 1340
+	}
+
+	bureaucrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 7
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 29
+	}
+
+	clerks = { 
+		culture = septiman
+		religion = placeholder
+		size = 35
+	}
+
+	craftsmen = { 
+		culture = septiman
+		religion = placeholder
+		size = 357
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 1907
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 42
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 18750
+	}
+
+	slaves = {  
+		culture = afro_american
+		religion = placeholder
+		size = 3750
+	}
+}
+#Scranton (164000/41000 POPS)
+224 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 4500
+	}
+
+	bureaucrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 350
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 1000
+	}
+
+	officers = { 
+		culture = septiman
+		religion = placeholder
+		size = 350
+	}
+
+	craftsmen = { 
+		culture = septiman
+		religion = placeholder
+		size = 20000
+	}
+	
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 14050
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 1500
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 1800
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 1350
+	}
+}
+#Williamsport (172000/43000 POPS)
+225 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 62
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 1750
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 406
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 29770
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 562
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 1400
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 1050
+	}
+}
+#Harrisburg (292000/73000 POPS)
+226 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 175
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 2000
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 419
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 24818
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 588
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 12000
+	}
+}
+#Pittsburgh (332000/83000 POPS)
+227 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 66
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 1500
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 416
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 24318
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 700
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 3000
+	}
+}
+#Erie (108000/27000 POPS)
+228 = {
+	aristocrats = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = iroquois
+		religion = placeholder
+		size = 750
+	}
+
+	clergymen = { 
+		culture = iroquois
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 13936
+	}
+
+	soldiers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+}
+#New Jersey Region (340000)
+#ruled by the USA
+#Newark (156000/39000 POPS)
+229 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 238
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 10000
+	}
+
+	bureaucrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 1781
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 63356
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 4375
+	}
+}
+#Trenton (96000/24000 POPS)
+230 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 191
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 3078
+	}
+
+	bureaucrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 335
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 1368
+	}
+
+	officers = { 
+		culture = septiman
+		religion = placeholder
+		size = 670
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 20188
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 3683
+	}
+
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 14
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 237
+	}
+
+	bureaucrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 105
+	}
+
+	officers = { 
+		culture = septiman
+		religion = placeholder
+		size = 51
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 1555
+	}
+
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 73
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 1184
+	}
+
+	bureaucrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 128
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 526
+	}
+
+	officers = { 
+		culture = septiman
+		religion = placeholder
+		size = 257
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 7767
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 1315
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 2250
+	}
+}
+#Atlantic City (88000/22000 POPS)
+231 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 162
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 2089
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 389
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 26065
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 545
+	}
+
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 12
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 160
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 29
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 2007
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 42
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 11250
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 2250
+	}
+}
+#New York Region (2140000)
+#ruled by the USA
+#New York (440000/110000 POPS)
+232 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 238
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 10000
+	}
+
+	bureaucrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 1781
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 84556
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 4375
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 8800
+	}
+}
+#Islip (100000/25000 POPS)
+233 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 1000
+	}
+
+	capitalists = { 
+		culture = septiman
+		religion = placeholder
+		size = 1875
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 12414
+	}
+
+	bureaucrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 1000
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 3562
+	}
+
+	clerks = { 
+		culture = septiman
+		religion = placeholder
+		size = 1000
+	}
+
+	officers = { 
+		culture = septiman
+		religion = placeholder
+		size = 1875
+	}
+
+	craftsmen = { 
+		culture = septiman
+		religion = placeholder
+		size = 10000
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 114524
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 10000
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 9250
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 18500
+	}
+}
+#Albany (332000/83000 POPS)
+234 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 62
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 1500
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 406
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 25370
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 562
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 1200
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 900
+	}
+}
+#Binghamton (352000/88000 POPS)
+235 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 62
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 2000
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 406
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 34170
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 562
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 1600
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 1200
+	}
+}
+#Buffalo (244000/61000 POPS)
+236 = {
+	aristocrats = { 
+		culture = iroquois
+		religion = placeholder
+		size = 576
+	}
+
+	artisans = { 
+		culture = iroquois
+		religion = placeholder
+		size = 2500
+	}
+
+	clergymen = { 
+		culture = iroquois
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 21248
+	}
+
+	soldiers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 576
+	}
+}
+#Rochester (176000/44000 POPS)
+237 = {
+	aristocrats = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = iroquois
+		religion = placeholder
+		size = 900
+	}
+
+	clergymen = { 
+		culture = iroquois
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 16786
+	}
+
+	soldiers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+}
+#Syracuse (304000/76000 POPS)
+238 = {
+	clergymen = {
+		culture = iroquois
+		religion = placeholder
+		size = 525
+	}
+
+	artisans = {
+		culture = iroquois
+		religion = placeholder
+		size = 3800
+	}
+
+	soldiers = {
+		culture = iroquois
+		religion = placeholder
+		size= 2000
+
+	}
+
+	farmers = {
+		culture = iroquois
+		religion = placeholder
+		size = 49675
+	}
+}
+#Watertown (116000/29000 POPS)
+239 = {
+	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 356
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 2750
+	}
+
+	bureaucrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 106
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 300
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 41355
+	}
+
+	soldiers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1883
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 8250
+	}
+
+}
+#Plattsburgh (76000/19000 POPS)
+240 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 2000
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 36612
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 313
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 800
+	}
+}
+#Connecticut Region (304000)
+#ruled by the USA
+#Hartford (304000/76000 POPS)
+241 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 3750
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 1438
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 63299
+	}
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 1813
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 6000
+	}
+}
+#Rhode Island Region (104000)
+#ruled by the USA
+#Providence (104000/26000 POPS)
+242 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 3500
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 1438
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 58949
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 313
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 5600
+	}
+}
+#Massachusetts Region (660000)
+#ruled by the USA
+#Boston (444000/111000 POPS)
+243 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 500
+	}
+
+	capitalists = { 
+		culture = septiman
+		religion = placeholder
+		size = 1000
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 25000
+	}
+
+	bureaucrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 1625
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 4000
+	}
+
+	clerks = { 
+		culture = septiman
+		religion = placeholder
+		size = 1000
+	}
+
+	craftsmen = { 
+		culture = septiman
+		religion = placeholder
+		size = 10000
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 46875
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 8000
+	}
+}
+#New Bedford (132000/33000 POPS)
+244 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 1500
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 1438
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 24149
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 313
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 2400
+	}
+}
+#Pittsfield (84000/21000 POPS)
+245 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 2500
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 1438
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 41549
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 313
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 4000
+	}
+}
+#Vermont Region (284000)
+#ruled by the USA
+#Montpelier (284000/71000 POPS)
+246 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 4000
+	}
+
+	bureaucrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 125
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 32250
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 625
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 800
+	}
+}
+#New Hampshire Region (276000)
+#ruled by the USA
+#Concord (POPS)
+247 = {
+ 	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 2250
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 41262
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 313
+	}
+
+	farmers = { 
+		culture = afro_american
+		religion = placeholder
+		size = 900
+	}
+}
+#Maine Region (432000)
+#ruled by the USA
+#Lewiston (240000/60000 POPS)
+248 = {
+	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 130
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 2000
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 130
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 26757
+	}
+
+	soldiers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 983
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 10000
+	}
+}
+#Bangor (156000/44000 POPS)
+249 = {
+	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 130
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1700
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 130
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 22557
+	}
+
+	soldiers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 983
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 8500
+	}
+}
+#ruled by the UK
+#Caribou (36000/9000 POPS)
+250 = {
+	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 356
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1500
+	}
+
+	bureaucrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 106
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 300
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 17355
+	}
+
+	soldiers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 383
+	}
+}
+3298 = {
+	aristocrats = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = iroquois
+		religion = placeholder
+		size = 1250
+	}
+
+	clergymen = { 
+		culture = iroquois
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 23436
+	}
+
+	soldiers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+
+}
+3299 = {
+	aristocrats = { 
+		culture = septiman
+		religion = placeholder
+		size = 66
+	}
+
+	artisans = { 
+		culture = septiman
+		religion = placeholder
+		size = 2250
+	}
+
+	clergymen = { 
+		culture = septiman
+		religion = placeholder
+		size = 416
+	}
+
+	farmers = { 
+		culture = septiman
+		religion = placeholder
+		size = 37068
+	}
+
+	soldiers = { 
+		culture = septiman
+		religion = placeholder
+		size = 700
+	}
+
+	slaves = { 
+		culture = afro_american
+		religion = placeholder
+		size = 4500
+	}
+
+}
+3300 = {
+	aristocrats = {
+		culture = cherokee
+		religion = placeholder
+		size = 600
+	}
+
+	clergymen = {
+		culture = cherokee
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = {
+		culture = cherokee
+		religion = placeholder
+		size = 1350
+	}
+
+	farmers = {
+		culture = cherokee
+		religion = placeholder
+		size = 21975
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = placeholder
+		size = 50
+	}
+	
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 150
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 800
+	}
+
+	clergymen = {
+		culture = plantagenian
+		religion = placeholder
+		size = 100
+	}
+
+}
+#Paso del Norte (12000/3000 POPS)
+2143 = {
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 60
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 60
+	}
+	
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 60
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 60
+	}
+
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 60
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 5900
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 480
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 365
+	}
+	
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 2600
+	}
+	
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 2260
+	}
+	
+}
+
+#Malacca (52800/13200 POPS)
+1386 = {
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 65
+	}
+
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 130
+	}
+
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 130
+	}
+
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2000
+	}
+
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size= 200
+
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 5200
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 800
+	}
+	
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 3200
+	}
+	
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 2800
+	}
+}
+#Penang (84000/21000 POPS)
+1388 = {
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 50
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 25
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 20
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 2100
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 450
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 225
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 225
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1600
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 240
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 160
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 400
+	}
+}
+
+#Dezful (32000/8000 POPS)
+1133 = {
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+	
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 50
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 50
+	}	
+
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 10400
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 600
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2250
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1500
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 1250
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 100
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 150
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2100
+	}
+}
+
+#Sanandaj (92000/23000 POPS)
+1118 = {
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1870
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3810
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 12870
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 2000
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 250
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 250
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3750
+	}
+}
+#Ahvaz (debug)
+1131 = {
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 6750
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 4500
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 4000
+	}
+
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1000
+	}
+
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 150
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 150
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 284
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 28450
+	}
+}
+
+#Bam (debug)
+1143 = {
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 50
+	}
+	
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 50
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 50
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 50
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2275
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2000
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 980
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 650
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3500
+	}
+}
+
+#Bushehr (debug)
+1136 = {
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 200
+	}
+
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 5550
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3000
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1300
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1950
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 6200
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 800
+	}
+}
+
+#Shahr-e Kord (debug)
+1134 = {
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 200
+	}
+	
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 200
+	}
+
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 5000
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 4000
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1300
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2150
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 6550
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 800
+	}
+}
+
+#Lengeh (debug)
+1141 = {
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 12200
+	}
+
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 200
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 400
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 6120
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2125
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3750
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1680
+	}
+}
+
+#Bandar Abbas (debug)
+1142 = {
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2000
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 500
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 500
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 18100
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 18100
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2000
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 4500
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2750
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2250
+	}
+	
+}
+
+#Sirjan (16000/4000 POPS)
+1139 = {
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 50
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 5765
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1920
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 600
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 400
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 200
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 300
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1100
+	}
+}
+
+#Fort George (1600/400 POPS)
+2593 = {
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 200
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder 
+		size = 50
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 6700
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3200
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 7200
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 750
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1050
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 4200
+	}
+}
+
+#Kangan (debug)
+1138 = {
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 200
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder 
+		size = 50
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 6700
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3200
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 7200
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 750
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1050
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 4200
+	}
+}
+#Gorgan (debug)
+1116 = {
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 8330
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2970
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 5200
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 300
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1200
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 200
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 15575
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 4800
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1225
+	}
+
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 600
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 4500
+	}
+}
+#Rasht (debug)
+1113 = {
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 350
+	}
+
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 350
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 175
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 19125
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1200
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 5600
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1400
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 4200
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1050
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1350
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 200
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 200
+	}	
+}
+
+#Fort Simpson (2400/600 POPS)
+9 = {
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 300
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 150
+	}
+	
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 600
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 17050
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 8550
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 450
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3000
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 7550
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 450
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2000
+	}
+}
+
+#Churchill (4000/1000 POPS)
+37 = {
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 500
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 4000
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 4000
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 5125
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1000
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3750
+	}
+
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 7400
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 900
+	}
+}
+
+#Saint Pierre (2000/500 POPS)
+77 = {
+	capitalists = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 120
+	}
+
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1600
+	}
+	
+	capitalists = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 400
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 600
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 600
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 14000
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2400
+	}
+	
+	craftsmen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 5200
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 16000
+	}	
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 20400
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 6800
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 4165
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1785
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3400
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 850
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3188
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 637
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 425
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3613
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 425
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 212
+	}
+}
+#Qazvin (debug)
+1124 = {
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 550
+	}
+
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 400
+	}
+	
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 280
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 14970
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 4400
+	}	
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 10000
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 8000
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1600
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 5400
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3600
+	}
+}
+
+#Qom (debug)
+1125 = {
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 300
+	}
+
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 160
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 11940
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 4200
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1200
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 8000
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2400
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1600
+	}
+}
+
+#Sari (debug)
+1115 = {
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 150
+	}
+	
+	bureaucrats = {
+		culture = lusitanian
+		religion = placeholder
+		size = 30
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 30
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 120
+	}
+	
+	aristocrats = {
+		culture = lusitanian
+		religion = placeholder
+		size = 150
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3345
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2400
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3105
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 600
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2550
+	}
+	
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 1800
+	}
+	
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 540
+	}
+}
+
+#Yazd (debugged)
+1130 = {
+	bureaucrats = {
+		culture = lusitanian
+		religion = placeholder
+		size = 70
+	}
+	
+	aristocrats = {
+		culture = lusitanian
+		religion = placeholder
+		size = 165
+	}
+	
+	clergymen = {
+		culture = lusitanian
+		religion = placeholder
+		size = 132
+	}
+	
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 132
+	}
+	
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 165
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 70
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 13200
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 6000
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1200
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1155
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1155
+	}
+
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 6000
+	}
+	
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 1800
+	}
+}
+
+#Semnan (debugged)
+1126 = {
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 130
+	}
+	
+	bureaucrats = {
+		culture = lusitanian
+		religion = placeholder
+		size = 130
+	}
+
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 440
+	}
+	
+	clergymen = {
+		culture = lusitanian
+		religion = placeholder
+		size = 264
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 264
+	}
+	
+	aristocrats = {
+		culture = lusitanian
+		religion = placeholder
+		size = 440
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 11736
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1200
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 8600
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1200
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1200
+	}
+
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 12896
+	}
+	
+	farmers = {
+		culture = lusitanian
+		religion = placeholder
+		size = 5940
+	}
+}
+
+#Ardabil (280000/70000 POPS)
+1112 = {
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 40
+	}
+	
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 40
+	}
+
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 20
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1100
+	}
+	
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 800
+	}
+	
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1420
+	}
+	
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size = 180
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 400
+	}
+	
+		farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 200
+	}
+}

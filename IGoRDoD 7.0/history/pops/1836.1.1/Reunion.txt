@@ -1,0 +1,142 @@
+#Reunion (98000)
+#Ruled by France 1836
+#Reunion (98000/24500 POPS)
+2126 = {
+    aristocrats = {
+        culture = french
+        religion = placeholder
+        size = 874
+    }
+
+    bureaucrats = {
+        culture = french
+        religion = placeholder
+        size = 158
+    }
+
+    clergymen = {
+        culture = french
+        religion = placeholder
+        size = 88
+    }
+
+    artisans = {
+        culture = french
+        religion = placeholder
+        size = 582
+    }
+
+    soldiers = {
+        culture = french
+        religion = placeholder
+        size = 349
+    }
+
+    farmers = {
+        culture = french
+        religion = placeholder
+        size = 6795
+    }
+
+    clergymen = {
+        culture = afro_antillean
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = placeholder
+        size = 850
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = placeholder
+        size = 1825
+    }
+
+    slaves = {
+        culture = afro_antillean
+        religion = placeholder
+        size = 14000
+    }
+
+    aristocrats = {
+        culture = anglois
+        religion = placeholder
+        size = 23
+    }
+
+    bureaucrats = {
+        culture = anglois
+        religion = placeholder
+        size = 2
+    }
+
+    clergymen = {
+        culture = anglois
+        religion = placeholder
+        size = 2
+    }
+
+    artisans = {
+        culture = anglois
+        religion = placeholder
+        size = 15
+    }
+
+    soldiers = {
+        culture = anglois
+        religion = placeholder
+        size = 9
+    }
+
+    farmers = {
+        culture = anglois
+        religion = placeholder
+        size = 175
+    }
+
+    aristocrats = {
+        culture = provencal
+        religion = placeholder
+        size = 22
+    }
+
+    bureaucrats = {
+        culture = provencal
+        religion = placeholder
+        size = 1
+    }
+
+    clergymen = {
+        culture = provencal
+        religion = placeholder
+        size = 2
+    }
+
+    artisans = {
+        culture = provencal
+        religion = placeholder
+        size = 15
+    }
+
+    soldiers = {
+        culture = provencal
+        religion = placeholder
+        size = 9
+    }
+
+    farmers = {
+        culture = provencal
+        religion = placeholder
+        size = 170
+    }
+}

@@ -1,0 +1,8 @@
+owner = NBG
+controller = NBG
+add_core = NBG
+
+trade_goods = timber
+life_rating = 35
+
+

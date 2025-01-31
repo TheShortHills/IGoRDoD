@@ -1,0 +1,699 @@
+#Laos Region (700000)
+#under the rule of Luang Prabang in 1836
+#Louangprabang (240000/60000 POPS) #lao = hmong/montagnard
+1356 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 760
+    }
+
+    bureaucrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 71
+    }
+
+    officers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 95
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 404
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 2042
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 1045
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 36043
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 285
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 142
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 760
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 166
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 14796
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 40
+    }
+
+    bureaucrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 4
+    }
+
+    officers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 5
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 21
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 108
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 55
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 1897
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 15
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 40
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 9
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 779
+    }
+}
+#Vientiane (88000/22000 POPS)
+1357 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 237
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 142
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 712
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 142
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 13015
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 119
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 71
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 332
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 71
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 6056
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 13
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 38
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 8
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 685
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 6
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 4
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 18
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 4
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 319
+    }
+}
+#Savannakhet (80000/20000 POPS)
+1361 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 237
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 142
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 712
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 142
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 13015
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 95
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 47
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 237
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 47
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 4322
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 13
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 38
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 8
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 685
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 5
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 3
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 13
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 3
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 228
+    }
+}
+#Satavan (168000/42000 POPS)
+1362 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 427
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 237
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 1140
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 1045
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 20041
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 309
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 166
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 855
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 166
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 15604
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 23
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 13
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 60
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 55
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 1055
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 16
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 9
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 45
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 9
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 821
+    }
+}
+#under the rule of Siam in 1836
+#Xaignabouli (64000/16000 POPS)
+1360 = {
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 142
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 71
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 380
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 71
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 7885
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 119
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 71
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 332
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 71
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 6056
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 8
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 4
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 20
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 4
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 415
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 6
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 4
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 18
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 4
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 319
+    }
+}
+#Paekche (60000/15000 POPS)
+1363 = {
+    aristocrats = {
+        culture = khmer
+        religion = placeholder
+        size = 261
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = placeholder
+        size = 142
+    }
+
+    artisans = {
+        culture = khmer
+        religion = placeholder
+        size = 712
+    }
+
+    soldiers = {
+        culture = khmer
+        religion = placeholder
+        size = 119
+    }
+
+    farmers = {
+        culture = khmer
+        religion = placeholder
+        size = 13015
+    }
+
+    aristocrats = {
+        culture = vietnamese
+        religion = placeholder
+        size = 14
+    }
+
+    clergymen = {
+        culture = vietnamese
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = vietnamese
+        religion = placeholder
+        size = 38
+    }
+
+    soldiers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = vietnamese
+        religion = placeholder
+        size = 685
+    }
+}

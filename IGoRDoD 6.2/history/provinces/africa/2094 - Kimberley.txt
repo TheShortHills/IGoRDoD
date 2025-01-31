@@ -1,7 +1,0 @@
-owner = BTV
-controller = BTV
-add_core = BTV
-trade_goods = cattle
-life_rating = 35
-
-

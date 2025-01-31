@@ -1,0 +1,92 @@
+political_decisions = {
+	destiny_of_the_east = {
+		potential = {
+			tag = NBG
+			NOT = {has_country_flag = dominate_arc_nbg}
+		}
+		allow = {
+			war = no
+			state_n_government = 1
+			NBG = {all_core = {owned_by = THIS}}
+			PLA_1 = {owned_by = THIS}
+			PLA_4 = {owned_by = THIS}
+			VIN_7 = {owned_by = THIS}
+			VIN_6 = {owned_by = THIS}
+			
+		}
+		effect = {
+			PLA_1 = {add_core = THIS}
+			PLA_4 = {add_core = THIS}
+			VIN_7 = {add_core = THIS}
+			VIN_6 = {add_core = THIS}
+			VIN_12 = {add_core = THIS}
+			VIN_2 = {add_core = THIS}
+			VIN_13 = {add_core = THIS}
+			VIN_1 = {add_core = THIS}
+			VIN_4 = {add_core = THIS}
+			PLA_3 = {add_core = THIS}
+			PLA_5 = {add_core = THIS}
+			PLA_6 = {add_core = THIS}
+			set_country_flag = dominate_arc_nbg
+		}
+	}
+	form_arcadia_nbg = {
+		potential = {
+				tag = NBG
+				has_country_flag = dominate_arc_nbg
+		}
+		allow = {
+					war = no
+					nationalism_n_imperialism = 1
+					NBG = {
+						all_core = {
+							owned_by = THIS
+						} 
+					}
+		}
+		effect ={
+			NBG = {all_core = {add_core = ARC remove_core = NBG}}
+			VIN = {all_core = {add_core = ARC}}
+			PLA = {all_core = {add_core = ARC}}
+			OUM_1 = {add_core = THIS}
+			PLA_13 = {add_core = THIS}
+			HHR_4 = {add_core = THIS}
+			BFK_2 = {add_core = THIS}
+			HHR_3 = {add_core = THIS}
+			BFK_1 = {add_core = THIS}
+			HHR_2 = {add_core = THIS}
+			VIN_10 = {add_core = THIS}
+			VIN_11 = {add_core = THIS}
+			VIN_20 = {add_core = THIS}
+			VIN_19 = {add_core = THIS}
+			LUS_1 = {add_core = THIS}
+			LUS_4 = {add_core = THIS}
+			change_tag = ARC
+			country_event = { id = 333244 days = 0 }
+			
+		}
+	}
+	nbg_manifest_destiny = {
+		potential = {
+			tag = ARC
+			has_global_flag = arc_nbg_destiny
+			NOT = {has_country_flag = achived_manifest_destiny}
+		}
+		allow = {
+			war = no
+			ARC = {
+				all_core = {
+					owned_by = THIS
+				} 
+			}
+		}
+		effect = {
+			set_country_flag = achived_manifest_destiny
+			add_country_modifier = { 
+				name = best_arcadian_destiny
+				duration = -1
+			}
+		}
+	}
+}
+

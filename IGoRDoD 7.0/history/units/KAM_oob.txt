@@ -1,0 +1,24 @@
+
+
+leader = {
+	name = "Tokugawa Nariaki"
+	picture = jap_gen_tokugawanariaki
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+army = {
+	name = "Army of Siberia"	
+	location = 1072
+
+
+	regiment = {
+		name= "1.Edo"
+		type = infantry
+		home = 1072
+	}
+
+}
+

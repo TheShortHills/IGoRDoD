@@ -1,0 +1,422 @@
+#Outer Mongolia Region (1292000)
+#under the rule of China in 1836
+#Ugra (376000/94000 POPS)
+1465 = {
+    aristocrats = {
+        culture = mongol
+        religion = placeholder
+        size = 1731
+    }
+
+    bureaucrats = {
+        culture = mongol
+        religion = placeholder
+        size = 70
+    }
+
+    officers = {
+        culture = mongol
+        religion = placeholder
+        size = 304
+    }
+
+    clergymen = {
+        culture = mongol
+        religion = placeholder
+        size = 3744
+    }
+
+    artisans = {
+        culture = mongol
+        religion = placeholder
+        size = 4212
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = placeholder
+        size = 842
+    }
+
+    farmers = {
+        culture = mongol
+        religion = placeholder
+        size = 28951
+    }
+
+    bureaucrats = {
+        culture = mongol
+        religion = placeholder
+        size = 28
+    }
+
+    clergymen = {
+        culture = mongol
+        religion = placeholder
+        size = 16
+    }
+
+    artisans = {
+        culture = mongol
+        religion = placeholder
+        size = 93
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = placeholder
+        size = 23
+    }
+
+    farmers = {
+        culture = mongol
+        religion = placeholder
+        size = 772
+    }
+
+    bureaucrats = {
+        culture = mongol
+        religion = placeholder
+        size = 28
+    }
+
+    clergymen = {
+        culture = mongol
+        religion = placeholder
+        size = 17
+    }
+
+    artisans = {
+        culture = mongol
+        religion = placeholder
+        size = 93
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = placeholder
+        size = 23
+    }
+
+    farmers = {
+        culture = mongol
+        religion = placeholder
+        size = 772
+    }
+}
+#Dalandzadgad (212000/53000 POPS)
+1466 = {
+    aristocrats = {
+        culture = mongol
+        religion = placeholder
+        size = 982
+    }
+
+    clergymen = {
+        culture = mongol
+        religion = placeholder
+        size = 514
+    }
+
+    artisans = {
+        culture = mongol
+        religion = placeholder
+        size = 2480
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = placeholder
+        size = 514
+    }
+
+    farmers = {
+        culture = mongol
+        religion = placeholder
+        size = 45115
+    }
+}
+#Bayan Tumen (176000/44000 POPS)
+1467 = {
+    aristocrats = {
+        culture = mongol
+        religion = placeholder
+        size = 772
+    }
+
+    clergymen = {
+        culture = mongol
+        religion = placeholder
+        size = 397
+    }
+
+    artisans = {
+        culture = mongol
+        religion = placeholder
+        size = 1918
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = placeholder
+        size = 397
+    }
+
+    farmers = {
+        culture = mongol
+        religion = placeholder
+        size = 34889
+    }
+
+    aristocrats = {
+        culture = mongol
+        religion = placeholder
+        size = 46
+    }
+
+    clergymen = {
+        culture = mongol
+        religion = placeholder
+        size = 46
+    }
+
+    artisans = {
+        culture = mongol
+        religion = placeholder
+        size = 117
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = placeholder
+        size = 23
+    }
+
+    farmers = {
+        culture = mongol
+        religion = placeholder
+        size = 2574
+    }
+}
+#Uliastay (140000/35000 POPS)
+1468 = {
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 1044
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 562
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 2815
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 546
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 51318
+    }
+}
+#Sainshand (71100/17775 POPS)
+2207 = {
+    aristocrats = {
+        culture = mongol
+        religion = placeholder
+        size = 327
+    }
+
+    clergymen = {
+        culture = mongol
+        religion = placeholder
+        size = 163
+    }
+
+    artisans = {
+        culture = mongol
+        religion = placeholder
+        size = 819
+    }
+
+    soldiers = {
+        culture = mongol
+        religion = placeholder
+        size = 163
+    }
+
+    farmers = {
+        culture = mongol
+        religion = placeholder
+        size = 15163
+    }
+}
+#Khatgal (152000/38000 POPS)
+2608 = {
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 1205
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 602
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 2412
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 3870
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 62305
+    }
+}
+#Bulgan (84000/21000 POPS)
+2678 = {
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 643
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 321
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 1687
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 3213
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 50948
+    }
+}
+#Khovd (120000/30000 POPS)
+2679 = {
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 562
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 280
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 1446
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 1020
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 26383
+    }
+
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 321
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 159
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 964
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 726
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 17654
+    }
+}
+#Uliatai (32000/8000 POPS) #now Tuva Republic of Russia  Tatar = Tuvan
+1469 = {
+    aristocrats = {
+        culture = oirat
+        religion = placeholder
+        size = 241
+    }
+
+    clergymen = {
+        culture = oirat
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = oirat
+        religion = placeholder
+        size = 643
+    }
+
+    soldiers = {
+        culture = oirat
+        religion = placeholder
+        size = 4336
+    }
+
+    farmers = {
+        culture = oirat
+        religion = placeholder
+        size = 50742
+    }
+}

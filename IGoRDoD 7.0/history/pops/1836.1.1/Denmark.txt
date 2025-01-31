@@ -1,0 +1,438 @@
+#Faroe Islands Region (7000)
+#Torshavn (7000/1750 POPS)
+253 = {
+    bureaucrats = {
+        culture = scandinavian
+        religion = placeholder
+        size = 24
+    }
+
+    clergymen = {
+        culture = scandinavian
+        religion = placeholder
+        size = 332
+    }
+
+    artisans = {
+        culture = scandinavian
+        religion = placeholder
+        size = 227
+    }
+
+    farmers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 2598
+    }
+}
+#Jutland Region : 548000
+#Aarhus (248000/62000 POPS)
+366 = {
+    aristocrats = {
+        culture = scandinavian
+        religion = placeholder
+        size = 825
+    }
+
+    craftsmen = {
+        culture = scandinavian
+        religion = placeholder
+        size = 7145
+    }
+
+    bureaucrats = {
+        culture = scandinavian
+        religion = placeholder
+        size = 577
+    }
+
+    officers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 330
+    }
+
+    clergymen = {
+        culture = scandinavian
+        religion = placeholder
+        size = 1668
+    }
+
+    artisans = {
+        culture = scandinavian
+        religion = placeholder
+        size = 5362
+    }
+
+    soldiers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 12069
+    }
+
+    farmers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 83035
+    }
+}
+#Alborg (152000/38000 POPS)
+367 = {
+    aristocrats = {
+        culture = scandinavian
+        religion = placeholder
+        size = 357
+    }
+
+    clergymen = {
+        culture = scandinavian
+        religion = placeholder
+        size = 963
+    }
+
+    artisans = {
+        culture = scandinavian
+        religion = placeholder
+        size = 3300
+    }
+
+    soldiers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 861
+    }
+
+    farmers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 49500
+    }
+}
+#Ribe (148000/37000 POPS)
+368 = {
+    aristocrats = {
+        culture = scandinavian
+        religion = placeholder
+        size = 412
+    }
+
+    clergymen = {
+        culture = scandinavian
+        religion = placeholder
+        size = 1112
+    }
+
+    artisans = {
+        culture = scandinavian
+        religion = placeholder
+        size = 1815
+    }
+
+    soldiers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 861
+    }
+
+    farmers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 39600
+    }
+}
+# Esbjerg (Pops moved from Aalborg)
+2557 = {
+    artisans = {
+        culture = scandinavian
+        religion = placeholder
+        size = 1815
+    }
+
+    clergymen = {
+        culture = scandinavian
+        religion = placeholder
+        size = 553
+    }
+
+    soldiers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 430
+    }
+
+    aristocrats = {
+        culture = scandinavian
+        religion = placeholder
+        size = 412
+    }
+
+    farmers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 23760
+    }
+}
+#Schleswig Region : 336000
+#Flensburg (236000/59000 POPS)
+370 = {
+    bureaucrats = {
+        culture = scandinavian
+        religion = placeholder
+        size = 165
+    }
+
+    clergymen = {
+        culture = scandinavian
+        religion = placeholder
+        size = 553
+    }
+
+    artisans = {
+        culture = scandinavian
+        religion = placeholder
+        size = 2475
+    }
+
+    soldiers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 430
+    }
+
+    farmers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 23140
+    }
+
+    aristocrats = {
+        culture = pomeranian
+        religion = placeholder
+        size = 1315
+    }
+
+    bureaucrats = {
+        culture = pomeranian
+        religion = placeholder
+        size = 202
+    }
+
+    officers = {
+        culture = pomeranian
+        religion = placeholder
+        size = 303
+    }
+
+    clergymen = {
+        culture = pomeranian
+        religion = placeholder
+        size = 1363
+    }
+
+    artisans = {
+        culture = pomeranian
+        religion = placeholder
+        size = 5062
+    }
+
+    soldiers = {
+        culture = pomeranian
+        religion = placeholder
+        size = 1052
+    }
+
+    farmers = {
+        culture = pomeranian
+        religion = placeholder
+        size = 78670
+    }
+}
+#Aabenra (100000/25000 POPS)
+371 = {
+    clergymen = {
+        culture = scandinavian
+        religion = placeholder
+        size = 553
+    }
+
+    artisans = {
+        culture = scandinavian
+        religion = placeholder
+        size = 1815
+    }
+
+    soldiers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 430
+    }
+
+    farmers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 27430
+    }
+
+    aristocrats = {
+        culture = pomeranian
+        religion = placeholder
+        size = 202
+    }
+
+    clergymen = {
+        culture = pomeranian
+        religion = placeholder
+        size = 270
+    }
+
+    artisans = {
+        culture = pomeranian
+        religion = placeholder
+        size = 505
+    }
+
+    soldiers = {
+        culture = pomeranian
+        religion = placeholder
+        size = 102
+    }
+
+    farmers = {
+        culture = pomeranian
+        religion = placeholder
+        size = 13263
+    }
+}
+#Archipelago Region : 616000
+#Copenhagen (392000/98000 POPS)
+372 = {
+    aristocrats = {
+        culture = scandinavian
+        religion = placeholder
+        size = 2062
+    }
+
+    craftsmen = {
+        culture = scandinavian
+        religion = placeholder
+        size = 75290
+    }
+
+    bureaucrats = {
+        culture = scandinavian
+        religion = placeholder
+        size = 825
+    }
+
+    officers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 825
+    }
+
+    clergymen = {
+        culture = scandinavian
+        religion = placeholder
+        size = 3339
+    }
+
+    artisans = {
+        culture = scandinavian
+        religion = placeholder
+        size = 16500
+    }
+
+    artisans = {
+        culture = scandinavian
+        religion = placeholder
+        size = 16500
+    }
+
+    artisans = {
+        culture = scandinavian
+        religion = placeholder
+        size = 9900
+    }
+
+    soldiers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 17242
+    }
+
+    farmers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 94050
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 1650
+    }
+
+    artisans = {
+        culture = pomeranian
+        religion = placeholder
+        size = 2227
+    }
+}
+#Odense (208000/52000 POPS)
+373 = {
+    aristocrats = {
+        culture = scandinavian
+        religion = placeholder
+        size = 825
+    }
+
+    clergymen = {
+        culture = scandinavian
+        religion = placeholder
+        size = 1112
+    }
+
+    artisans = {
+        culture = scandinavian
+        religion = placeholder
+        size = 4950
+    }
+
+    soldiers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 12069
+    }
+
+    farmers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 68062
+    }
+}
+#Bornholm (16000/4000 POPS)
+374 = {
+    clergymen = {
+        culture = scandinavian
+        religion = placeholder
+        size = 221
+    }
+
+    artisans = {
+        culture = scandinavian
+        religion = placeholder
+        size = 660
+    }
+
+    soldiers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 85
+    }
+
+    farmers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 5775
+    }
+}

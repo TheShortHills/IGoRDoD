@@ -1,0 +1,8 @@
+#Vaduz (20000/5000 POPS)
+3252 = {
+    farmers = {
+        culture = rheinish 
+        religion = placeholder
+        size = 5950
+    }
+}

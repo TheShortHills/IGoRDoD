@@ -1,0 +1,7 @@
+owner = MJN
+controller = MJN
+add_core = MJN
+trade_goods = coal
+life_rating = 35
+
+

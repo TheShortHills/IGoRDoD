@@ -1,6 +1,0 @@
-owner =INC
-controller = INC
-add_core = INC
-trade_goods = tobacco
-life_rating = 35
-

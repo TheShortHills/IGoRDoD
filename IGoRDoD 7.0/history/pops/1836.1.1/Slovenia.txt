@@ -1,0 +1,154 @@
+#Carinthia-Styria Region (204000) #see Austria.txt for balance of Region
+#under the rule of Austria in 1836
+#Maribor (204000/51000 POPS) #Part of Slovenia Today
+767 = {
+    aristocrats = {
+        culture = south_german
+        religion = placeholder
+        size = 920
+    }
+
+    bureaucrats = {
+        culture = south_german
+        religion = placeholder
+        size = 1534
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = placeholder
+        size = 58
+    }
+
+    artisans = {
+        culture = south_german
+        religion = placeholder
+        size = 1350
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = placeholder
+        size = 36
+    }
+
+    farmers = {
+        culture = south_german
+        religion = placeholder
+        size = 3871
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = placeholder
+        size = 550
+    }
+
+    artisans = {
+        culture = slovene
+        religion = placeholder
+        size = 1965
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = placeholder
+        size = 348
+    }
+
+    farmers = {
+        culture = slovene
+        religion = placeholder
+        size = 53485
+    }
+}
+#Carniola Region (460000)
+#under the rule of Austria in 1836
+#Ljubljana (280000/70000 POPS)
+768 = {
+    aristocrats = {
+        culture = slovene
+        religion = placeholder
+        size = 1011
+    }
+
+    bureaucrats = {
+        culture = slovene
+        religion = placeholder
+        size = 1381
+    }
+
+    officers = {
+        culture = slovene
+        religion = placeholder
+        size = 121
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = placeholder
+        size = 859
+    }
+
+    artisans = {
+        culture = slovene
+        religion = placeholder
+        size = 4917
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = placeholder
+        size = 854
+    }
+
+    farmers = {
+        culture = slovene
+        religion = placeholder
+        size = 77646
+    }
+}
+#Postojna (180000/45000 POPS)
+769 = {
+    aristocrats = {
+        culture = slovene
+        religion = placeholder
+        size = 500
+    }
+
+    clergymen = {
+        culture = slovene
+        religion = placeholder
+        size = 425
+    }
+
+    artisans = {
+        culture = slovene
+        religion = placeholder
+        size = 2100
+    }
+
+    soldiers = {
+        culture = slovene
+        religion = placeholder
+        size = 425
+    }
+
+    farmers = {
+        culture = slovene
+        religion = placeholder
+        size = 39575
+    }
+
+    clergymen = {
+        culture = venetian
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = venetian
+        religion = placeholder
+        size = 1975
+    }
+}

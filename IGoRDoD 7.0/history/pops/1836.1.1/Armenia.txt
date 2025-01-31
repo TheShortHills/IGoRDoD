@@ -1,0 +1,496 @@
+#Armenia Region (30000)
+#under the rule of Russia in 1836
+#Erivan (128000/32000 POPS)
+1098 = {
+    bureaucrats = {
+        culture = russian
+        religion = placeholder
+        size = 250
+    }
+
+    clergymen = {
+        culture = russian
+        religion = placeholder
+        size = 10
+    }
+
+    artisans = {
+        culture = russian
+        religion = placeholder
+        size = 15
+    }
+
+    soldiers = {
+        culture = russian
+        religion = placeholder
+        size = 75
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = placeholder
+        size = 576
+    }
+
+    bureaucrats = {
+        culture = armenian
+        religion = placeholder
+        size = 411
+    }
+
+    officers = {
+        culture = armenian
+        religion = placeholder
+        size = 164
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 411
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 1980
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 411
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 35813
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 200
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 550
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 100
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 10050
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = placeholder
+        size = 12
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 925
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 577
+    }
+
+    bureaucrats = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 412
+    }
+
+    officers = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 165
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 412
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 1980
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 412
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 35813
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 13
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 13
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 925
+    }
+}
+#Gyumri (68000/17000 POPS)
+1099 = {
+    aristocrats = {
+        culture = armenian
+        religion = placeholder
+        size = 989
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 576
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 2640
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 576
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 48685
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = placeholder
+        size = 5
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 7
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 21
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 5
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 485
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 990
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 577
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 2641
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 577
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 48686
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 5
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 21
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 5
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 486
+    }
+}
+#Kapan (44000/11000 POPS)
+1100 = {
+    aristocrats = {
+        culture = armenian
+        religion = placeholder
+        size = 411
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 246
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 1320
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 246
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 24177
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 25
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 150
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 2775
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 412
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 246
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 1320
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 246
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 24177
+    }
+}
+#Nakhichevan (60000/15000 POPS) #now part of Azerbaijan
+1101 = {
+    aristocrats = {
+        culture = armenian
+        religion = placeholder
+        size = 411
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 576
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 1484
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 329
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 27231
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 300
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 4500
+    }
+
+    aristocrats = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 412
+    }
+
+    clergymen = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 577
+    }
+
+    artisans = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 1485
+    }
+
+    soldiers = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 330
+    }
+
+    farmers = {
+        culture = azerbaijani
+        religion = placeholder
+        size = 27231
+    }
+}

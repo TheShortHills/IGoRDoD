@@ -1,0 +1,853 @@
+#Banat-Bacska Region (760000) #See Romania.txt and Croatia.txt for balance of region
+#under the rule of Austria in 1836
+#Mitrovica (108000/27000 POPS) #part of Serbia today
+791 = {
+    clergymen = {
+        culture = serb
+        religion = placeholder
+        size = 187
+    }
+
+    artisans = {
+        culture = serb
+        religion = placeholder
+        size = 937
+    }
+
+    soldiers = {
+        culture = serb
+        religion = placeholder
+        size = 312
+    }
+
+    farmers = {
+        culture = serb
+        religion = placeholder
+        size = 19812
+    }
+
+    clergymen = {
+        culture = croat
+        religion = placeholder
+        size = 116
+    }
+
+    artisans = {
+        culture = croat
+        religion = placeholder
+        size = 312
+    }
+
+    soldiers = {
+        culture = croat
+        religion = placeholder
+        size = 77
+    }
+
+    farmers = {
+        culture = croat
+        religion = placeholder
+        size = 5741
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = placeholder
+        size = 375
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = placeholder
+        size = 62
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = placeholder
+        size = 437
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = placeholder
+        size = 93
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = placeholder
+        size = 6531
+    }
+}
+#Pancevo (268000/67000 POPS) #part of Serbia today
+792 = {
+    clergymen = {
+        culture = serb
+        religion = placeholder
+        size = 312
+    }
+
+    artisans = {
+        culture = serb
+        religion = placeholder
+        size = 1375
+    }
+
+    soldiers = {
+        culture = serb
+        religion = placeholder
+        size = 4375
+    }
+
+    farmers = {
+        culture = serb
+        religion = placeholder
+        size = 30406
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = placeholder
+        size = 750
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = placeholder
+        size = 625
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = placeholder
+        size = 4125
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = placeholder
+        size = 10875
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = placeholder
+        size = 1375
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = placeholder
+        size = 250
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = placeholder
+        size = 1375
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = placeholder
+        size = 250
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = placeholder
+        size = 22000
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = romanian
+        religion = placeholder
+        size = 625
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = romanian
+        religion = placeholder
+        size = 12875
+    }
+}
+#Novi Sad (384000/96000 POPS) #part of Serbia today
+2538 = {
+    officers = {
+        culture = serb
+        religion = placeholder
+        size = 93
+    }
+
+    clergymen = {
+        culture = serb
+        religion = placeholder
+        size = 343
+    }
+
+    artisans = {
+        culture = serb
+        religion = placeholder
+        size = 1562
+    }
+
+    soldiers = {
+        culture = serb
+        religion = placeholder
+        size = 375
+    }
+
+    farmers = {
+        culture = serb
+        religion = placeholder
+        size = 32718
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = placeholder
+        size = 1750
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = placeholder
+        size = 375
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = placeholder
+        size = 1875
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = placeholder
+        size = 375
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = placeholder
+        size = 33125
+    }
+
+    clergymen = {
+        culture = croat
+        religion = placeholder
+        size = 116
+    }
+
+    artisans = {
+        culture = croat
+        religion = placeholder
+        size = 390
+    }
+
+    soldiers = {
+        culture = croat
+        religion = placeholder
+        size = 77
+    }
+
+    farmers = {
+        culture = croat
+        religion = placeholder
+        size = 7226
+    }
+
+    clergymen = {
+        culture = slovak
+        religion = placeholder
+        size = 93
+    }
+
+    artisans = {
+        culture = slovak
+        religion = placeholder
+        size = 562
+    }
+
+    soldiers = {
+        culture = slovak
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = slovak
+        religion = placeholder
+        size = 11718
+    }
+
+    aristocrats = {
+        culture = hungarian
+        religion = placeholder
+        size = 1375
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = placeholder
+        size = 281
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = placeholder
+        size = 1437
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = placeholder
+        size = 312
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = placeholder
+        size = 25468
+    }
+}
+#Serbia Region (1288000)
+#under the rule of Serbia in 1836
+#Belgrade (328000/82000 POPS)
+794 = {
+    bureaucrats = {
+        culture = serb
+        religion = placeholder
+        size = 375
+    }
+
+    officers = {
+        culture = serb
+        religion = placeholder
+        size = 312
+    }
+
+    clergymen = {
+        culture = serb
+        religion = placeholder
+        size = 1031
+    }
+
+    artisans = {
+        culture = serb
+        religion = placeholder
+        size = 5000
+    }
+
+    soldiers = {
+        culture = serb
+        religion = placeholder
+        size = 7625
+    }
+
+    farmers = {
+        culture = serb
+        religion = placeholder
+        size = 94531
+    }
+}
+#Bor (220000/55000 POPS)
+795 = {
+    clergymen = {
+        culture = serb
+        religion = placeholder
+        size = 687
+    }
+
+    artisans = {
+        culture = serb
+        religion = placeholder
+        size = 3437
+    }
+
+    soldiers = {
+        culture = serb
+        religion = placeholder
+        size = 7625
+    }
+
+    farmers = {
+        culture = serb
+        religion = placeholder
+        size = 63375
+    }
+}
+#Kragujevac (188000/47000 POPS)
+796 = {
+    clergymen = {
+        culture = serb
+        religion = placeholder
+        size = 562
+    }
+
+    artisans = {
+        culture = serb
+        religion = placeholder
+        size = 2937
+    }
+
+    soldiers = {
+        culture = serb
+        religion = placeholder
+        size = 4125
+    }
+
+    farmers = {
+        culture = serb
+        religion = placeholder
+        size = 54000
+    }
+}
+#Uzice (72000/18000 POPS)
+797 = {
+    clergymen = {
+        culture = serb
+        religion = placeholder
+        size = 218
+    }
+
+    artisans = {
+        culture = serb
+        religion = placeholder
+        size = 1125
+    }
+
+    soldiers = {
+        culture = serb
+        religion = placeholder
+        size = 4125
+    }
+
+    farmers = {
+        culture = serb
+        religion = placeholder
+        size = 19906
+    }
+}
+#under the rule of Ottoman Empire in 1836
+#Nis (260000/65000 POPS)
+798 = {
+    clergymen = {
+        culture = serb
+        religion = placeholder
+        size = 562
+    }
+
+    artisans = {
+        culture = serb
+        religion = placeholder
+        size = 2500
+    }
+
+    soldiers = {
+        culture = serb
+        religion = placeholder
+        size = 2500
+    }
+
+    farmers = {
+        culture = serb
+        religion = placeholder
+        size = 59437
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 62
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 187
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 4750
+    }
+
+    aristocrats = {
+        culture = serb
+        religion = placeholder
+        size = 1468
+    }
+
+    bureaucrats = {
+        culture = serb
+        religion = placeholder
+        size = 937
+    }
+
+    officers = {
+        culture = serb
+        religion = placeholder
+        size = 187
+    }
+
+    clergymen = {
+        culture = serb
+        religion = placeholder
+        size = 93
+    }
+
+    artisans = {
+        culture = serb
+        religion = placeholder
+        size = 3750
+    }
+
+    soldiers = {
+        culture = serb
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = serb
+        religion = placeholder
+        size = 5562
+    }
+}
+#Leskovac (220000/55000 POPS)
+799 = {
+    clergymen = {
+        culture = serb
+        religion = placeholder
+        size = 406
+    }
+
+    artisans = {
+        culture = serb
+        religion = placeholder
+        size = 1875
+    }
+
+    soldiers = {
+        culture = serb
+        religion = placeholder
+        size = 156
+    }
+
+    farmers = {
+        culture = serb
+        religion = placeholder
+        size = 49000
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 62
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 312
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 10062
+    }
+
+    aristocrats = {
+        culture = serb
+        religion = placeholder
+        size = 1062
+    }
+
+    clergymen = {
+        culture = serb
+        religion = placeholder
+        size = 93
+    }
+
+    artisans = {
+        culture = serb
+        religion = placeholder
+        size = 3125
+    }
+
+    soldiers = {
+        culture = serb
+        religion = placeholder
+        size = 2000
+    }
+
+    farmers = {
+        culture = serb
+        religion = placeholder
+        size = 3843
+    }
+}
+#Kosovo-Sanjak Region (466000)
+#under the rule of Ottoman Empire in 1836
+#Pristina (208000/52000 POPS)
+802 = {
+    clergymen = {
+        culture = serb
+        religion = placeholder
+        size = 250
+    }
+
+    artisans = {
+        culture = serb
+        religion = placeholder
+        size = 1125
+    }
+
+    soldiers = {
+        culture = serb
+        religion = placeholder
+        size = 312
+    }
+
+    farmers = {
+        culture = serb
+        religion = placeholder
+        size = 28312
+    }
+
+    aristocrats = {
+        culture = serb
+        religion = placeholder
+        size = 1062
+    }
+
+    bureaucrats = {
+        culture = serb
+        religion = placeholder
+        size = 937
+    }
+
+    officers = {
+        culture = serb
+        religion = placeholder
+        size = 187
+    }
+
+    clergymen = {
+        culture = serb
+        religion = placeholder
+        size = 62
+    }
+
+    artisans = {
+        culture = serb
+        religion = placeholder
+        size = 2500
+    }
+
+    farmers = {
+        culture = serb
+        religion = placeholder
+        size = 3625
+    }
+
+    clergymen = {
+        culture = albanian
+        religion = placeholder
+        size = 250
+    }
+
+    artisans = {
+        culture = albanian
+        religion = placeholder
+        size = 1375
+    }
+
+    soldiers = {
+        culture = albanian
+        religion = placeholder
+        size = 500
+    }
+
+    farmers = {
+        culture = albanian
+        religion = placeholder
+        size = 25625
+    }
+}
+#Prizren (186000/46000 POPS)
+803 = {
+    clergymen = {
+        culture = serb
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = serb
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = serb
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = serb
+        religion = placeholder
+        size = 18750
+    }
+
+    aristocrats = {
+        culture = serb
+        religion = placeholder
+        size = 937
+    }
+
+    clergymen = {
+        culture = serb
+        religion = placeholder
+        size = 62
+    }
+
+    artisans = {
+        culture = serb
+        religion = placeholder
+        size = 2187
+    }
+
+    soldiers = {
+        culture = serb
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = serb
+        religion = placeholder
+        size = 6437
+    }
+
+    clergymen = {
+        culture = albanian
+        religion = placeholder
+        size = 250
+    }
+
+    artisans = {
+        culture = albanian
+        religion = placeholder
+        size = 1375
+    }
+
+    soldiers = {
+        culture = albanian
+        religion = placeholder
+        size = 500
+    }
+
+    farmers = {
+        culture = albanian
+        religion = placeholder
+        size = 30312
+    }
+
+    clergymen = {
+        culture = greek
+        religion = placeholder
+        size = 93
+    }
+
+    artisans = {
+        culture = greek
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = greek
+        religion = placeholder
+        size = 2281
+    }
+}
+#Novi Pazar (72000/18000 POPS)
+804 = {
+    clergymen = {
+        culture = serb
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = serb
+        religion = placeholder
+        size = 500
+    }
+
+    soldiers = {
+        culture = serb
+        religion = placeholder
+        size = 187
+    }
+
+    farmers = {
+        culture = serb
+        religion = placeholder
+        size = 84812
+    }
+
+    aristocrats = {
+        culture = serb
+        religion = placeholder
+        size = 500
+    }
+
+    clergymen = {
+        culture = serb
+        religion = placeholder
+        size = 62
+    }
+
+    artisans = {
+        culture = serb
+        religion = placeholder
+        size = 625
+    }
+
+    soldiers = {
+        culture = serb
+        religion = placeholder
+        size = 125
+    }
+
+    farmers = {
+        culture = serb
+        religion = placeholder
+        size = 25687
+    }
+}

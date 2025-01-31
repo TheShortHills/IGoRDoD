@@ -1,0 +1,6 @@
+owner = KKN
+controller = KKN
+add_core = KKN
+trade_goods = coal
+life_rating = 15
+colonial = 1

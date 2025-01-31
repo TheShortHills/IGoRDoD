@@ -1,0 +1,584 @@
+#Latvia Region (1236000)
+#under the rule of Russia in 1836
+#Riga (220000/55000 POPS)
+354 = {
+    clergymen = {
+        culture = latvian
+        religion = placeholder
+        size = 1251
+    }
+
+    artisans = {
+        culture = latvian
+        religion = placeholder
+        size = 2145
+    }
+
+    soldiers = {
+        culture = latvian
+        religion = placeholder
+        size = 572
+    }
+
+    farmers = {
+        culture = latvian
+        religion = placeholder
+        size = 55447
+    }
+
+    aristocrats = {
+        culture = pomeranian
+        religion = placeholder
+        size = 877
+    }
+
+    bureaucrats = {
+        culture = pomeranian
+        religion = placeholder
+        size = 1350
+    }
+
+    officers = {
+        culture = pomeranian
+        religion = placeholder
+        size = 337
+    }
+
+    clergymen = {
+        culture = pomeranian
+        religion = placeholder
+        size = 270
+    }
+
+    artisans = {
+        culture = pomeranian
+        religion = placeholder
+        size = 9078
+    }
+
+    soldiers = {
+        culture = pomeranian
+        religion = placeholder
+        size = 139
+    }
+
+    aristocrats = {
+        culture = scandinavian
+        religion = placeholder
+        size = 110
+    }
+
+    bureaucrats = {
+        culture = scandinavian
+        religion = placeholder
+        size = 412
+    }
+
+    officers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 110
+    }
+
+    clergymen = {
+        culture = scandinavian
+        religion = placeholder
+        size = 221
+    }
+
+    artisans = {
+        culture = scandinavian
+        religion = placeholder
+        size = 1650
+    }
+
+    soldiers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 171
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 202
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 2875
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 50
+    }
+}
+#Valmeira (516000/129000 POPS)
+355 = {
+    clergymen = {
+        culture = latvian
+        religion = placeholder
+        size = 4247
+    }
+
+    artisans = {
+        culture = latvian
+        religion = placeholder
+        size = 4790
+    }
+
+    soldiers = {
+        culture = latvian
+        religion = placeholder
+        size = 1644
+    }
+
+    farmers = {
+        culture = latvian
+        religion = placeholder
+        size = 152295
+    }
+
+    aristocrats = {
+        culture = pomeranian
+        religion = placeholder
+        size = 1687
+    }
+
+    clergymen = {
+        culture = pomeranian
+        religion = placeholder
+        size = 180
+    }
+
+    artisans = {
+        culture = pomeranian
+        religion = placeholder
+        size = 810
+    }
+
+    soldiers = {
+        culture = pomeranian
+        religion = placeholder
+        size = 139
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 202
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 1100
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 3875
+    }
+
+    aristocrats = {
+        culture = scandinavian
+        religion = placeholder
+        size = 275
+    }
+
+    clergymen = {
+        culture = scandinavian
+        religion = placeholder
+        size = 148
+    }
+
+    artisans = {
+        culture = scandinavian
+        religion = placeholder
+        size = 110
+    }
+
+    soldiers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 57
+    }
+
+    farmers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 1705
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = placeholder
+        size = 500
+    }
+
+    clergymen = {
+        culture = polish
+        religion = placeholder
+        size = 405
+    }
+
+    artisans = {
+        culture = polish
+        religion = placeholder
+        size = 400
+    }
+
+    soldiers = {
+        culture = polish
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = polish
+        religion = placeholder
+        size = 6875
+    }
+}
+#Daugavpils (136000/34000 POPS)
+356 = {
+    clergymen = {
+        culture = latvian
+        religion = placeholder
+        size = 673
+    }
+
+    artisans = {
+        culture = latvian
+        religion = placeholder
+        size = 929
+    }
+
+    soldiers = {
+        culture = latvian
+        religion = placeholder
+        size = 357
+    }
+
+    farmers = {
+        culture = latvian
+        religion = placeholder
+        size = 38144
+    }
+
+    aristocrats = {
+        culture = pomeranian
+        religion = placeholder
+        size = 945
+    }
+
+    clergymen = {
+        culture = pomeranian
+        religion = placeholder
+        size = 180
+    }
+
+    artisans = {
+        culture = pomeranian
+        religion = placeholder
+        size = 2970
+    }
+
+    soldiers = {
+        culture = pomeranian
+        religion = placeholder
+        size = 68
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 135
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 400
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 1525
+    }
+
+    aristocrats = {
+        culture = scandinavian
+        religion = placeholder
+        size = 55
+    }
+
+    clergymen = {
+        culture = scandinavian
+        religion = placeholder
+        size = 72
+    }
+
+    artisans = {
+        culture = scandinavian
+        religion = placeholder
+        size = 82
+    }
+
+    soldiers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 57
+    }
+
+    farmers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 1155
+    }
+}
+#Jelgava (128000/32000 POPS)
+357 = {
+    clergymen = {
+        culture = latvian
+        religion = placeholder
+        size = 865
+    }
+
+    artisans = {
+        culture = latvian
+        religion = placeholder
+        size = 357
+    }
+
+    soldiers = {
+        culture = latvian
+        religion = placeholder
+        size = 357
+    }
+
+    farmers = {
+        culture = latvian
+        religion = placeholder
+        size = 40432
+    }
+
+    aristocrats = {
+        culture = pomeranian
+        religion = placeholder
+        size = 1552
+    }
+
+    clergymen = {
+        culture = pomeranian
+        religion = placeholder
+        size = 180
+    }
+
+    artisans = {
+        culture = pomeranian
+        religion = placeholder
+        size = 1012
+    }
+
+    soldiers = {
+        culture = pomeranian
+        religion = placeholder
+        size = 68
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 67
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 200
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 750
+    }
+}
+#Ventspils (140000/35000 POPS) #uralic = Livonian
+358 = {
+    clergymen = {
+        culture = ugrian
+        religion = placeholder
+        size = 607
+    }
+
+    artisans = {
+        culture = latvian
+        religion = placeholder
+        size = 429
+    }
+
+    soldiers = {
+        culture = latvian
+        religion = placeholder
+        size = 392
+    }
+
+    farmers = {
+        culture = latvian
+        religion = placeholder
+        size = 42113
+    }
+
+    aristocrats = {
+        culture = pomeranian
+        religion = placeholder
+        size = 1620
+    }
+
+    clergymen = {
+        culture = pomeranian
+        religion = placeholder
+        size = 180
+    }
+
+    artisans = {
+        culture = pomeranian
+        religion = placeholder
+        size = 945
+    }
+
+    soldiers = {
+        culture = pomeranian
+        religion = placeholder
+        size = 68
+    }
+
+    farmers = {
+        culture = estonian
+        religion = placeholder
+        size = 3135
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 67
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 250
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 950
+    }
+}
+#Liepaja (96000/24000 POPS)
+359 = {
+    clergymen = {
+        culture = latvian
+        religion = placeholder
+        size = 673
+    }
+
+    artisans = {
+        culture = latvian
+        religion = placeholder
+        size = 214
+    }
+
+    soldiers = {
+        culture = latvian
+        religion = placeholder
+        size = 286
+    }
+
+    farmers = {
+        culture = latvian
+        religion = placeholder
+        size = 30708
+    }
+
+    aristocrats = {
+        culture = pomeranian
+        religion = placeholder
+        size = 742
+    }
+
+    clergymen = {
+        culture = pomeranian
+        religion = placeholder
+        size = 89
+    }
+
+    artisans = {
+        culture = pomeranian
+        religion = placeholder
+        size = 540
+    }
+
+    soldiers = {
+        culture = pomeranian
+        religion = placeholder
+        size = 32
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 67
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 200
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = placeholder
+        size = 750
+    }
+}

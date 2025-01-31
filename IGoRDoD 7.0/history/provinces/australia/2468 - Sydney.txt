@@ -1,0 +1,8 @@
+owner = YLO
+controller = YLO
+add_core = YLO
+trade_goods = grain
+life_rating = 40
+naval_base = 1
+
+

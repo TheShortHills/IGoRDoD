@@ -1,0 +1,59 @@
+army = {
+	name = "First Army of Beronia"
+	location = 2348
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 2349
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 2348
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 2348
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = infantry
+		home = 2352
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 3345
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 3346
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = cavalry
+		home = 2363
+	}
+}
+
+army = {
+	name = "Second Army of Beronia"
+	location = 2366
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 2364
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 3342
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = cavalry
+		home = 2361
+	}
+}

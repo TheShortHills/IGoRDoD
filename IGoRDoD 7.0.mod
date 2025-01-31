@@ -1,0 +1,5 @@
+name = "IGoRDoD 7.0" 
+path = "mod/IGoRDoD 7.0" 
+user_dir = "IGoRDoD 7.0" 
+replace_path = "decisions"
+replace_path = "events"

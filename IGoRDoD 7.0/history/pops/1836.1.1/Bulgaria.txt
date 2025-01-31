@@ -1,0 +1,834 @@
+#Macedonia Region (192000) #see Greece.txt and Macedonia.txt for balance of region
+#under the rule of Ottoman Empire in 1836
+#Petrich (192000/48000 POPS) #now part of Bulgaria
+808 = {
+    aristocrats = {
+        culture = bulgarian
+        religion = placeholder
+        size = 935
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 170
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 1275
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 255
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 13515
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 361
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 765
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 170
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 23693
+    }
+}
+#Bulgaria Region (1132000)
+#under the rule of Ottoman Empire in 1836
+#Sofia (260000/65000 POPS)
+809 = {
+    aristocrats = {
+        culture = bulgarian
+        religion = placeholder
+        size = 1232
+    }
+
+    bureaucrats = {
+        culture = bulgarian
+        religion = placeholder
+        size = 1700
+    }
+
+    officers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 255
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 191
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 2125
+    }
+
+    craftsmen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 4292
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 170
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 13536
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 148
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 2040
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 1636
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 32725
+    }
+
+    clergymen = {
+        culture = greek
+        religion = placeholder
+        size = 127
+    }
+
+    artisans = {
+        culture = greek
+        religion = placeholder
+        size = 722
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = placeholder
+        size = 21
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = placeholder
+        size = 828
+    }
+}
+#Vidin (124000/31000 POPS)
+810 = {
+    aristocrats = {
+        culture = bulgarian
+        religion = placeholder
+        size = 552
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 63
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 1530
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 616
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 127
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 425
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 22397
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 22397
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = placeholder
+        size = 4
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = placeholder
+        size = 208
+    }
+}
+#Ruse (188000/47000 POPS)
+811 = {
+    aristocrats = {
+        culture = bulgarian
+        religion = placeholder
+        size = 892
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 85
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 892
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 170
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 5822
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 170
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 637
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 340
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 30302
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = placeholder
+        size = 629
+    }
+}
+#Pleven (196000/49000 POPS)
+812 = {
+    aristocrats = {
+        culture = bulgarian
+        religion = placeholder
+        size = 743
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 85
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 1147
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 170
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 6353
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 212
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 935
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 1190
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 30812
+    }
+}
+#Shumen (144000/36000 POPS)
+813 = {
+    aristocrats = {
+        culture = bulgarian
+        religion = placeholder
+        size = 552
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 106
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 807
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 680
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 8138
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 127
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 722
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 170
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 19380
+    }
+}
+#Varna (220000/55000 POPS)
+814 = {
+    aristocrats = {
+        culture = bulgarian
+        religion = placeholder
+        size = 1105
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 148
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 1785
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 1700
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 10561
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 191
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 1615
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 170
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 30323
+    }
+}
+#Rumelia Region (396000)
+#under the rule of Ottoman Empire in 1836
+#Plovdiv (120000/30000 POPS)
+815 = {
+    aristocrats = {
+        culture = bulgarian
+        religion = placeholder
+        size = 680
+    }
+
+    bureaucrats = {
+        culture = bulgarian
+        religion = placeholder
+        size = 2337
+    }
+
+    officers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 85
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 85
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 935
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 148
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 5546
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 63
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 382
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 85
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 11453
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 42
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 170
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 2337
+    }
+
+    clergymen = {
+        culture = greek
+        religion = placeholder
+        size = 85
+    }
+
+    artisans = {
+        culture = greek
+        religion = placeholder
+        size = 510
+    }
+
+    soldiers = {
+        culture = greek
+        religion = placeholder
+        size = 85
+    }
+
+    farmers = {
+        culture = greek
+        religion = placeholder
+        size = 1870
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = placeholder
+        size = 629
+    }
+}
+#Stara Zagora (80000/20000 POPS)
+816 = {
+    aristocrats = {
+        culture = bulgarian
+        religion = placeholder
+        size = 276
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 42
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 467
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 85
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 4228
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 63
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 382
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 85
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 9668
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 21
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 85
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 1593
+    }
+}
+#Burgas (196000/49000 POPS)
+817 = {
+    aristocrats = {
+        culture = bulgarian
+        religion = placeholder
+        size = 935
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 106
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 765
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 212
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 9031
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 148
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 467
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 85
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 21398
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 63
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 85
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 3187
+    }
+
+    clergymen = {
+        culture = greek
+        religion = placeholder
+        size = 127
+    }
+
+    artisans = {
+        culture = greek
+        religion = placeholder
+        size = 765
+    }
+
+    soldiers = {
+        culture = greek
+        religion = placeholder
+        size = 85
+    }
+
+    farmers = {
+        culture = greek
+        religion = placeholder
+        size = 4122
+    }
+}
+#Dobruja Region (84000) #see Romania.txt for balance of Region
+#under the rule of the Ottoman Empire in 1836
+#Silistre (84000/21000 POPS) #now part of Bulgaria
+818 = {
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 42
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 382
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 85
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 7990
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = placeholder
+        size = 63
+    }
+
+    artisans = {
+        culture = romanian
+        religion = placeholder
+        size = 170
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = placeholder
+        size = 85
+    }
+
+    farmers = {
+        culture = romanian
+        religion = placeholder
+        size = 3931
+    }
+
+    aristocrats = {
+        culture = romanian
+        religion = placeholder
+        size = 340
+    }
+
+    clergymen = {
+        culture = romanian
+        religion = placeholder
+        size = 42
+    }
+
+    artisans = {
+        culture = romanian
+        religion = placeholder
+        size = 382
+    }
+
+    soldiers = {
+        culture = romanian
+        religion = placeholder
+        size = 85
+    }
+
+    farmers = {
+        culture = romanian
+        religion = placeholder
+        size = 4335
+    }
+}

@@ -1,0 +1,98 @@
+army = {
+	name = "First Septiman Army"
+	location = 232
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 213
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 224
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 212
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = infantry
+		home = 221
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 220
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 220
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 230
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 230
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = cavalry
+		home = 229
+	}
+}
+army = {
+	name = "Second Septiman Army"
+	location = 213
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 229
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 243
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 233
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = infantry
+		home = 233
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 233
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 233
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 232
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 232
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = cavalry
+		home = 241
+	}
+}

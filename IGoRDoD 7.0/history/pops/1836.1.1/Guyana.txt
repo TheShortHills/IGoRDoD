@@ -1,0 +1,232 @@
+#Guyana (99600)
+#Ruled by Britain 1836
+#Georgetown (58600/14650 POPS)
+2239 = {
+	aristocrats = {
+		culture = granadan
+		religion = placeholder
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = granadan
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = granadan
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = granadan
+		religion = placeholder
+		size = 350
+	}
+
+	soldiers = {
+		culture = granadan
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = granadan
+		religion = placeholder
+		size = 2200
+	}
+
+	clergymen = {
+		culture = granadan
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = granadan
+		religion = placeholder
+		size = 400
+	}
+
+	soldiers = {
+		culture = granadan
+		religion = placeholder
+		size= 150
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 3800
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 2400
+	}
+	
+	farmers = {
+		culture = granadan
+		religion = placeholder
+		size = 6200
+	}
+}
+#Mahdia (4000/1000 POPS)
+2242 = {
+	aristocrats = {
+		culture = granadan
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = granadan
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = granadan
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = granadan
+		religion = placeholder
+		size= 200
+
+	}
+
+	farmers = {
+		culture = granadan
+		religion = placeholder
+		size = 800
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 2200
+	}
+	
+	farmers = {
+		culture = granadan
+		religion = placeholder
+		size = 2200
+	}
+	
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 1200
+	}
+}
+#Essequibo (33000/8250 POPS)
+2243 = {
+	aristocrats = {
+		culture = granadan
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = granadan
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = granadan
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = granadan
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = granadan
+		religion = placeholder
+		size = 800
+	}
+
+	clergymen = {
+		culture = granadan
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = granadan
+		religion = placeholder
+		size = 300
+	}
+
+	soldiers = {
+		culture = granadan
+		religion = placeholder
+		size= 75
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 2400
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 1800
+	}
+
+	farmers = {
+		culture = granadan
+		religion = placeholder
+		size = 3200
+	}
+}
+#Biloka (4000/1000 POPS)
+1979 = {
+	aristocrats = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = amazonian_native
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 900
+	}
+}

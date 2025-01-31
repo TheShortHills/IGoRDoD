@@ -1,0 +1,2007 @@
+#file includes modern South Africa, Lesotho and Swaziland
+#Western Cape Region (395100)
+#Ruled by Britain 1836
+#bantu POPs represent post-Great Trek migration
+#Cape Town (173000/43250 POPS)
+2087 = {
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 161
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 1277
+    }
+
+    bureaucrats = {
+        culture = bantu
+        religion = placeholder
+        size = 3408
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 15447
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 148
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 1161
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 18699
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 31
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 227
+    }
+
+    bureaucrats = {
+        culture = bantu
+        religion = placeholder
+        size = 373
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 4265
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 92053
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 241
+    }
+
+    bureaucrats = {
+        culture = bantu
+        religion = placeholder
+        size = 182
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 1877
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 4344
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 19022
+    }
+}
+#Worcester (117700/29425 POPS)
+2089 = {
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 161
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 425
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 296
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 12972
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 222
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 231
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 73996
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 259
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 1193
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 55
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 5843
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 154
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 148
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 154
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 270
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 14974
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 509
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 67
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 1123
+    }
+}
+#Swettenham (69700/17425 POPS)
+2090 = {
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 241
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 340
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 296
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 11305
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 161
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 509
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 146
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 91667
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 222
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 154
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 403
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 22773
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 509
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 67
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 1123
+    }
+}
+#Mossel Bay (34700/8675 POPS)
+2091 = {
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 253
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 67
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 87486
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 161
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 253
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 67
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 3070
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 76
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 62
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 4482
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 169
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 67
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 3155
+    }
+}
+#Namaqualand Region (12000) #see Namibia.txt for balance of region
+#uncolonized 1836
+#Springbok (12000/3000 POPS)
+2088 = {
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 36
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 148
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 231
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 62
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 4265
+    }
+}
+#Karoo Region (244500)
+#Ruled by Britain 1836
+#bantu POPs represent post-Great Trek migration
+#Beaufort (34600/8650 POPS)
+2092 = {
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 253
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 67
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 4180
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 340
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 27
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 1320
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 2745
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 148
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 154
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 133
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 7447
+    }
+}
+#Calvinia (23300/5825 POPS)
+2093 = {
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 40
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 169
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 27
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 54404
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 68
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 76
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 62
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 4498
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 36
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 68
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 76
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 62
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 2907
+    }
+}
+#De Aar (30600/7650 POPS)
+2558 = {
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 76
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 148
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 231
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 133
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 61844
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 425
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 67
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 4008
+    }
+}
+#Uncolonized in 1836
+#Kimberley (156000/39000 POPS)
+2094 = {
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 620
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 1209
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 2481
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 1084
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 56180
+    }
+}
+#Bechuanaland Region (20000) #see Botswana.txt for balance of region
+#Dikathong (20000/5000 POPS)
+2095 = {
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 76
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 148
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 309
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 133
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 92014
+    }
+}
+#Eastern Cape Region (232000)
+#Ruled by Britain 1836
+#Port Elizabeth (44000/11000 POPS)
+2096 = {
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 509
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 67
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 4520
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 60
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 100
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 154
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 62
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 59051
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 20
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 37
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 1488
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 68
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 76
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 62
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 4498
+    }
+}
+#Graaf Reinet (36000/9000 POPS)
+2097 = {
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 28
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 253
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 37
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 15061
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 36
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 68
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 154
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 133
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 5895
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 14
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 37
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 154
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 62
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 1317
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 68
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 154
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 62
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 5973
+    }
+}
+#uncolonized/ruled by the Xhosa 1836
+#Bisho (40000/10000 POPS)
+2098 = {
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 154
+    }
+
+    bureaucrats = {
+        culture = bantu
+        religion = placeholder
+        size = 3408
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 299
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 774
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 270
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 67277
+    }
+}
+#Mathele (40000/10000 POPS)
+2099 = {
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 154
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 299
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 774
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 270
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 14277
+    }
+}
+#Umtata (72000/18000 POPS)
+2100 = {
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 309
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 604
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 1394
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 541
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 78606
+    }
+}
+#Transorangia Region (509000)
+#uncolonized in 1836/dominated by the Sotho in 1836
+#bantu POPs represent post-Great Trek migration
+#Bloemfontein (194000/48500 POPS)
+2101 = {
+    bureaucrats = {
+        culture = bantu
+        religion = placeholder
+        size = 7
+    }
+
+    officers = {
+        culture = bantu
+        religion = placeholder
+        size = 3
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 83
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 1021
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 1432
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 1434
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 3684
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 1604
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 67508
+    }
+}
+#Winburg (102000/25500 POPS)
+2102 = {
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 8
+    }
+
+    bureaucrats = {
+        culture = bantu
+        religion = placeholder
+        size = 3408
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 39
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 3284
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 714
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 541
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 675
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 1706
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 541
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 28281
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 114
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 148
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 386
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 133
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 7097
+    }
+}
+#Philippolis (85000/21250 POPS)
+2103 = {
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 28
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 83
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 260
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 1021
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 620
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 604
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 1587
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 541
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 81980
+    }
+}
+#Thaba Bosiu (128000/32000 POPS) #now Lesotho
+2104 = {
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 967
+    }
+
+    bureaucrats = {
+        culture = bantu
+        religion = placeholder
+        size = 134
+    }
+
+    officers = {
+        culture = bantu
+        religion = placeholder
+        size = 191
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 980
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 2481
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 878
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 44965
+    }
+}
+#Transvaal Region (349000)
+#uncolonized in 1836/dominated by the Sotho in 1836
+#bantu POPs represent post-Great Trek migration
+#Pretoria (137600/34400 POPS)
+2105 = {
+    bureaucrats = {
+        culture = bantu
+        religion = placeholder
+        size = 7
+    }
+
+    officers = {
+        culture = bantu
+        religion = placeholder
+        size = 3
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 31
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 3284
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 543
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 1007
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 1055
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 2093
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 947
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 48575
+    }
+}
+#Johannesburg (102400/25600 POPS)
+2106 = {
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 28
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 39
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 188
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 852
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 657
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 754
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 1938
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 676
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 35343
+    }
+}
+#uncolonized in 1836/dominated by the Ndebele
+#Klerksdorp (109000/27250 POPS)
+2107 = {
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 21
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 67
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 346
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 346
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 373
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 929
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 334
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 24711
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 425
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 450
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 929
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 403
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 13693
+    }
+}
+#Limpopo Region (129000)
+#uncolonized in 1836/dominated by the Ndebele
+#bantu POPs represent post-Great Trek migration
+#Mosega (48200/12050 POPS)
+2108 = {
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 1
+    }
+
+    bureaucrats = {
+        culture = bantu
+        religion = placeholder
+        size = 3408
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 3
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 10
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 65
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 114
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 148
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 309
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 133
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 35871
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 191
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 222
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 541
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 12995
+    }
+}
+#uncolonized in 1836/dominated by the Zulu
+#Lydenburg (52600/13150 POPS)
+2109 = {
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 3
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 18
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 37
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 202
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 346
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 373
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 1007
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 403
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 18388
+    }
+}
+#uncolonized in 1836/dominated by the Gaza Nguni
+#Thohoyandu (28200/7050 POPS)
+2110 = {
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 1
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 3
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 10
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 65
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 76
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 222
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 231
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 62
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 7292
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 114
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 148
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 270
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 133
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 2713
+    }
+}
+#Natal Region (682000)
+#ruled/dominated by the Zulu in 1836
+#bantu POPs represent post-Great Trek migration
+#Durban (126000/31500 POPS)
+2111 = {
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 39
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 146
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 714
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 231
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 222
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 620
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 11289
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 657
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 675
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 1628
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 676
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 32667
+    }
+}
+#Ladysmith (156000/39000 POPS)
+2112 = {
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 1161
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 1209
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 3024
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 460
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 44849
+    }
+}
+#Ulundi (320000/80000 POPS)
+2113 = {
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 2404
+    }
+
+    bureaucrats = {
+        culture = bantu
+        religion = placeholder
+        size = 2784
+    }
+
+    officers = {
+        culture = bantu
+        religion = placeholder
+        size = 231
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 2493
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 6207
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 6352
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 89157
+    }
+}
+#Mbabane (80000/20000 POPS)  #now Swaziland
+2114 = {
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 191
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 222
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 541
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 9891
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 386
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 373
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 1007
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 334
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 18388
+    }
+}

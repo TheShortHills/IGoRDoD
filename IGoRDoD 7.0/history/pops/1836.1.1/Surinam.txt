@@ -1,0 +1,177 @@
+#Surinam : 56640
+#Ruled by The Netherlands 1836
+#Paramaribo (48640/12160 POPS)
+2240 = {
+	aristocrats = {
+		culture = granadan
+		religion = placeholder
+		size = 325
+	}
+
+	clergymen = {
+		culture = granadan
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = granadan
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = granadan
+		religion = placeholder
+		size = 9013
+	}
+	aristocrats = {
+		culture = granadan
+		religion = placeholder
+		size = 225
+	}
+
+	clergymen = {
+		culture = granadan
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = granadan
+		religion = placeholder
+		size = 400
+	}
+
+	soldiers = {
+		culture = granadan
+		religion = placeholder
+		size= 600
+
+	}
+
+	farmers = {
+		culture = granadan
+		religion = placeholder
+		size = 7200
+	}
+
+	clergymen = {
+		culture = granadan
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = granadan
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = granadan
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = granadan
+		religion = placeholder
+		size = 350
+	}
+
+	farmers = {
+		culture = granadan
+		religion = placeholder
+		size = 3500
+	}
+}
+#Aperina (8000/2000 POPS)
+2245 = {
+	aristocrats = {
+		culture = granadan
+		religion = placeholder
+		size = 375
+	}
+
+	clergymen = {
+		culture = granadan
+		religion = placeholder
+		size = 150
+	}
+
+	artisans = {
+		culture = granadan
+		religion = placeholder
+		size = 725
+	}
+
+	soldiers = {
+		culture = granadan
+		religion = placeholder
+		size= 125
+	}
+
+	farmers = {
+		culture = granadan
+		religion = placeholder
+		size = 6200
+	}
+
+	clergymen = {
+		culture = granadan
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 200
+	}
+
+	soldiers = {
+		culture = granadan
+		religion = placeholder
+		size= 50
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 2200
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 800
+	}
+
+	clergymen = {
+		culture = granadan
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = granadan
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = granadan
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = granadan
+		religion = placeholder
+		size = 1800
+	}
+}

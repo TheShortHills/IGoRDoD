@@ -1,0 +1,150 @@
+#China substates
+substate = {
+	first = CHI
+	second = XIN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = PLC
+	second = PRU
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = PLC
+	second = LIT
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = PLC
+	second = BYE
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = PLC
+	second = UKR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+#vassal = {
+#	first = CHI
+#	second = KOR
+#	start_date = 1836.1.1
+#	end_date = 1895.5.17 #Treaty of Shimonoseki
+#}
+
+# Russia-Finland
+vassal = {
+	first = SCA
+	second = PSV
+	start_date = 1836.1.1 #Treaty of Fredrikshamn
+	end_date = 1937.1.1 
+}
+
+# Aragon-Ferrara
+vassal = {
+	first = ARN
+	second = FRR
+	start_date = 1836.1.1 #Treaty of Lazio
+	end_date = 1937.1.1 
+}
+
+# Aragon-Pope
+vassal = {
+	first = ARN
+	second = PAP
+	start_date = 1836.1.1 #Treaty of Fredrikshamn
+	end_date = 1937.1.1 
+}
+# Denmark-Holstein
+vassal = {
+	first = DEN
+	second = HOL
+	start_date = 1773.1.1
+	end_date = 1864.10.30
+}
+
+# Burgundy-Batavia
+vassal = {
+	first = BRG
+	second = BTV
+	start_date = 1836.1.1
+	end_date = 1936.11.23
+}
+
+
+#Japan Vassals
+substate = {
+	first = JAP
+	second = KAM
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = JAP
+	second = KKN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+# United Kingdom-Commonwealth
+vassal = {
+	first = ENG
+	second = COM
+	start_date = 1670.5.2
+	end_date = 1950.1.1
+}
+
+
+# Switzerland-Liechtenstein
+#vassal = {
+#	first = SWI
+#	second = LEI
+#	start_date = 1836.1.1
+#	end_date = 1999.1.1	
+#}
+
+#######################
+#        INDIA        #
+#######################
+
+# UK - India
+vassal = {
+	first = ENG
+	second = HND
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+# Dai Nam-Cambodia
+
+
+#########1861
+# Siam - Cambodia
+
+# UK - KAS
+vassal = {
+	first = ENG
+	second = KAS
+	start_date = 1861.1.1
+	end_date = 1936.1.1
+}
+
+# UK - Yemen
+vassal = {
+	first = ENG
+	second = YEM
+	start_date = 1861.1.1
+	end_date = 1936.1.1
+}
+
+# OE - Hejaz 
+#vassal = {
+#	first = TUR
+#	second = HDJ
+#	start_date = 1861.1.1
+#	end_date = 1936.1.1
+#}

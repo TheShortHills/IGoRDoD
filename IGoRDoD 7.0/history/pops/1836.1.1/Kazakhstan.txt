@@ -1,0 +1,841 @@
+#Western turkich Steppes Region (72000)
+#under the rule of Russia in 1836
+#Guryev (19000/4750 POPS)
+1182 = {
+    bureaucrats = {
+        culture = tatar
+        religion = placeholder
+        size = 75
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = placeholder
+        size = 11
+    }
+
+    artisans = {
+        culture = tatar
+        religion = placeholder
+        size = 26
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = placeholder
+        size = 11
+    }
+
+    farmers = {
+        culture = tatar
+        religion = placeholder
+        size = 499
+    }
+
+    aristocrats = {
+        culture = tatar
+        religion = placeholder
+        size = 56
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = placeholder
+        size = 56
+    }
+
+    artisans = {
+        culture = tatar
+        religion = placeholder
+        size = 150
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = placeholder
+        size = 19
+    }
+
+    farmers = {
+        culture = tatar
+        religion = placeholder
+        size = 2719
+    }
+
+    bureaucrats = {
+        culture = tatar
+        religion = placeholder
+        size = 25
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = placeholder
+        size = 4
+    }
+
+    artisans = {
+        culture = tatar
+        religion = placeholder
+        size = 9
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = placeholder
+        size = 4
+    }
+
+    farmers = {
+        culture = tatar
+        religion = placeholder
+        size = 166
+    }
+
+    aristocrats = {
+        culture = tatar
+        religion = placeholder
+        size = 19
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = placeholder
+        size = 19
+    }
+
+    artisans = {
+        culture = tatar
+        religion = placeholder
+        size = 50
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = tatar
+        religion = placeholder
+        size = 906
+    }
+}
+#Aqtobe (20000/5000 POPS)
+1183 = {
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 75
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 250
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 4575
+    }
+}
+#Uralsk (13000/3250 POPS)
+2610 = {
+    clergymen = {
+        culture = tatar
+        religion = placeholder
+        size = 22
+    }
+
+    artisans = {
+        culture = tatar
+        religion = placeholder
+        size = 34
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = placeholder
+        size = 19
+    }
+
+    farmers = {
+        culture = tatar
+        religion = placeholder
+        size = 862
+    }
+
+    aristocrats = {
+        culture = tatar
+        religion = placeholder
+        size = 19
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = placeholder
+        size = 19
+    }
+
+    artisans = {
+        culture = tatar
+        religion = placeholder
+        size = 75
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = placeholder
+        size = 19
+    }
+
+    farmers = {
+        culture = tatar
+        religion = placeholder
+        size = 1369
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = tatar
+        religion = placeholder
+        size = 11
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = tatar
+        religion = placeholder
+        size = 288
+    }
+
+    aristocrats = {
+        culture = tatar
+        religion = placeholder
+        size = 6
+    }
+
+    clergymen = {
+        culture = tatar
+        religion = placeholder
+        size = 6
+    }
+
+    artisans = {
+        culture = tatar
+        religion = placeholder
+        size = 25
+    }
+
+    soldiers = {
+        culture = tatar
+        religion = placeholder
+        size = 6
+    }
+
+    farmers = {
+        culture = tatar
+        religion = placeholder
+        size = 456
+    }
+}
+#Turgay (20000/5000 POPS)
+2611 = {
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 75
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 250
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 50
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 4575
+    }
+}
+#Eastern turkich Steppes Region (376000)
+#under the rule of Russia in 1836
+#Qaraganda (56000/14000 POPS)
+1181 = {
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 231
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 128
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 669
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 58
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 13256
+    }
+}
+#Kokshetau (96000/24000 POPS)
+1184 = {
+    bureaucrats = {
+        culture = turkic
+        religion = placeholder
+        size = 257
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 77
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 154
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 11
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 2779
+    }
+
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 437
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 205
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 1132
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 105
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 19613
+    }
+}
+#Yasi (80000/20000 POPS)
+1185 = {
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 360
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 205
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 1132
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 93
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 18790
+    }
+}
+#Zhambul (76000/19000 POPS)
+2606 = {
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 360
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 180
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 978
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 93
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 17837
+    }
+}
+#Aktash (68000/17000 POPS)
+2612 = {
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 334
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 180
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 875
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 81
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 15933
+    }
+}
+#Semireche Region (276000) #see Kirghizstan.txt for balance of region
+#under the "rule" of Russia in 1836
+#Semipalatinsk (80000/20000 POPS)
+1187 = {
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 360
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 205
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 1132
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 93
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 18790
+    }
+}
+#Qaratal (108000/27000 POPS)
+1188 = {
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 308
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 154
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 823
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 81
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 15006
+    }
+
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 205
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 102
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 566
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 58
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 10321
+    }
+}
+#under the "rule" of Kokand in 1836
+#Alma-Ata (88000/22000 POPS)
+1186 = {
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 102
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 51
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 308
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 35
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 5637
+    }
+
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 308
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 154
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 823
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 81
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 15006
+    }
+}
+#Khwarazm Region (168000) #see turkicistan.txt and turkicistan.txt for balance of region
+#under the rule of Khiva in 1836
+#Kyzylorda (108000/27000 POPS)
+1193 = {
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 257
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 128
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 720
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 70
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 13153
+    }
+
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 257
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 128
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 617
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 58
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 12252
+    }
+}
+#Aqtau (32000/8000 POPS)
+1194 = {
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 150
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 75
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 350
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 7350
+    }
+}
+#Aralsk (28000/7000 POPS)
+2702 = {
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 100
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 350
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 75
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 6425
+    }
+}
+#Mawarannahr Region (180000) #see turkicistan.txt, turkicistan.txt, Kirghizstan.txt for balance of region
+#under the rule of Bukhara in 1836
+#Shymkent (180000/45000 POPS) #now part of turkichstan
+1197 = {
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 257
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 128
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 772
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 70
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 14131
+    }
+
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 566
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 257
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 1544
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 117
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 28262
+    }
+}

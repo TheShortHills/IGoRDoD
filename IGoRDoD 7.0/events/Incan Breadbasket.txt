@@ -1,0 +1,30 @@
+province_event = {
+	
+	id = 41413144
+
+	trigger = {
+		year = 1850
+		owned_by = INC
+		is_core = INC
+		has_global_flag = incan_bb_starts
+		NOT = { 
+			has_province_modifier = incan_breadbasket
+		}
+	}
+
+	mean_time_to_happen =  {
+		months = 1
+
+	}
+
+	title = "Local Breadbasket"
+	desc = "With control over our homeland, we now can reap the benefits of our rejuvenated farming practices!"
+
+	option = {
+		name = "Prosperity is here"
+		add_province_modifier = {
+			name = incan_breadbasket
+			duration = -1
+		}
+	}
+}

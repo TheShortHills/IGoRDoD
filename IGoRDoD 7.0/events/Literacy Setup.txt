@@ -1,0 +1,513 @@
+country_event = {
+    id = 10000001
+    title = "Literacy Setup"
+    desc = " "
+
+    is_triggered_only = yes
+
+    option = {
+        name = "Cool"
+
+        set_country_flag = lit_setup
+        any_pop = {
+            limit = {
+                OR = {
+                    has_pop_culture = south_german
+					has_pop_culture = scandinavian 
+					has_pop_culture = ashkenazi 
+                }
+            }
+            literacy = 0.8
+        }
+        any_pop = {
+            limit = {
+                OR = {
+                    has_pop_culture = pomeranian
+					has_pop_culture = rheinish
+					has_pop_culture = north_german
+                }
+            }
+            literacy = 0.72
+        }
+        any_pop = {
+            limit = {
+                OR = {
+                    has_pop_culture = burgundian
+                    has_pop_culture = dutch
+					has_pop_culture = vinlander
+					has_pop_culture = finnish
+                }
+            }
+            literacy = 0.59
+        }
+        any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = scottish
+					has_pop_culture = beornian
+					has_pop_culture = septiman
+                }
+            }
+            literacy = 0.52
+        }
+        any_pop = {
+            limit = {
+                OR = {
+                    has_pop_culture = latvian
+                   	has_pop_culture = estonian
+					has_pop_culture = portuguese
+                }
+            }
+            literacy = 0.51
+        }
+        any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = czech
+					has_pop_culture = lotharian
+					has_pop_culture = welsh
+					has_pop_culture = english
+					has_pop_culture = plantagenian
+                }
+            }
+            literacy = 0.49
+        }
+        any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = amazonian
+                }
+            }
+            literacy = 0.46
+        }
+        any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = venetian
+					has_pop_culture = catalan
+					has_pop_culture = polish
+                }
+            }
+            literacy = 0.40
+        }
+		any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = north_italian
+                }
+            }
+            literacy = 0.37
+        }
+		any_pop = {
+            limit = {
+                OR = {
+                    has_pop_culture = south_italian
+					has_pop_culture = slovak
+					has_pop_culture = slovene
+					has_pop_culture = boer
+					has_pop_culture = qingqiuan
+                }
+            }
+            literacy = 0.34
+        }
+		any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = provencal
+					has_pop_culture = hungarian
+					has_pop_culture = breton
+					has_pop_culture = irish
+					has_pop_culture = french
+					has_pop_culture = anglois
+					has_pop_culture = japanese
+                }
+            }
+            literacy = 0.29
+        }
+		any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = spanish
+					has_pop_culture = persian
+					has_pop_culture = greek
+					has_pop_culture = romanian
+					has_pop_culture = azerbaijani
+                }
+            }
+            literacy = 0.24
+        }
+		any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = albanian
+					has_pop_culture = lusitanian
+                }
+            }
+            literacy = 0.23
+        }
+		any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = lithuanian
+					has_pop_culture = bedouin
+					has_pop_culture = afro_american
+                }
+            }
+            literacy = 0.19
+        }
+		any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = korean
+					has_pop_culture = aryan
+					has_pop_culture = russian
+					has_pop_culture = croat
+					has_pop_culture = ukrainian
+                }
+            }
+            literacy = 0.17
+        }
+		any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = north_caucasian
+					has_pop_culture = quechua
+					has_pop_culture = afro_caribeno
+					has_pop_culture = caribeno
+					has_pop_culture = afro_caribbean
+					has_pop_culture = afro_brazilian
+					has_pop_culture = zhuang
+					has_pop_culture = granadan
+                }
+            }
+            literacy = 0.14
+        }
+		any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = bulgarian 
+					has_pop_culture = central_american
+					has_pop_culture = armenian
+					has_pop_culture = maghrebi
+					has_pop_culture = vietnamese
+					has_pop_culture = tatar
+					has_pop_culture = khmer
+					has_pop_culture = malay
+					has_pop_culture = filipino
+					has_pop_culture = javan
+					has_pop_culture = moluccan
+					has_pop_culture = thai
+					has_pop_culture = lao
+					has_pop_culture = malagasy
+					has_pop_culture = tibetan
+					has_pop_culture = burmese
+					has_pop_culture = serb
+					has_pop_culture = cherokee
+					has_pop_culture = iroquois
+					has_pop_culture = cree
+					has_pop_culture = mexican
+				}
+            }
+            literacy = 0.09
+        }
+		any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = mongol
+					has_pop_culture = turkic
+					has_pop_culture = misri
+					has_pop_culture = turkish
+					has_pop_culture = oirat
+                    has_pop_culture = beifaren
+					has_pop_culture = nanfaren
+					has_pop_culture = manchu
+					has_pop_culture = native_american_minor
+					has_pop_culture = indo_aryan
+					has_pop_culture = dravidian
+					has_pop_culture = punjabi
+					has_pop_culture = afro_asiatic 
+					has_pop_culture = nepali
+					has_pop_culture = mashriqi
+					has_pop_culture = algonquin
+					has_pop_culture = apache
+					has_pop_culture = pueblo
+					has_pop_culture = rohnnst
+					has_pop_culture = mesoarcadian_native
+					has_pop_culture = mayan
+					has_pop_culture = salvadoran_native
+					has_pop_culture = amazonian_native
+					has_pop_culture = patagonian
+                }
+            }
+            literacy = 0.04
+        }
+    }
+}
+country_event = {
+    id = 10000002
+    title = "Literacy Setup 2"
+    desc = " "
+
+    mean_time_to_happen = {
+        days = 0
+    }
+
+    trigger = {
+		ai = yes
+        NOT = {
+            has_country_flag = lit_setup
+        }
+    }
+
+
+    option = {
+        name = "Cool"
+
+        set_country_flag = lit_setup
+        any_pop = {
+            limit = {
+                OR = {
+                    has_pop_culture = south_german
+					has_pop_culture = scandinavian 
+					has_pop_culture = ashkenazi 
+                }
+            }
+            literacy = 0.8
+        }
+        any_pop = {
+            limit = {
+                OR = {
+                    has_pop_culture = pomeranian
+					has_pop_culture = rheinish
+					has_pop_culture = north_german
+                }
+            }
+            literacy = 0.72
+        }
+        any_pop = {
+            limit = {
+                OR = {
+                    has_pop_culture = burgundian
+                    has_pop_culture = dutch
+					has_pop_culture = vinlander
+					has_pop_culture = finnish
+                }
+            }
+            literacy = 0.59
+        }
+        any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = scottish
+					has_pop_culture = beornian
+					has_pop_culture = septiman
+                }
+            }
+            literacy = 0.52
+        }
+        any_pop = {
+            limit = {
+                OR = {
+                    has_pop_culture = latvian
+                    has_pop_culture = estonian
+					has_pop_culture = portuguese
+                }
+            }
+            literacy = 0.51
+        }
+        any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = czech
+					has_pop_culture = lotharian
+					has_pop_culture = welsh
+					has_pop_culture = english
+					has_pop_culture = plantagenian
+                }
+            }
+            literacy = 0.49
+        }
+        any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = amazonian
+                }
+            }
+            literacy = 0.46
+        }
+        any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = venetian
+					has_pop_culture = spanish
+					has_pop_culture = catalan
+                }
+            }
+            literacy = 0.40
+        }
+		any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = north_italian
+					has_pop_culture = polish
+                }
+            }
+            literacy = 0.37
+        }
+		any_pop = {
+            limit = {
+                OR = {
+                    has_pop_culture = south_italian
+					has_pop_culture = slovak
+					has_pop_culture = slovene
+					has_pop_culture = boer
+					has_pop_culture = qingqiuan
+                }
+            }
+            literacy = 0.34
+        }
+		any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = provencal
+					has_pop_culture = hungarian
+					has_pop_culture = breton
+					has_pop_culture = irish
+					has_pop_culture = french
+					has_pop_culture = anglois
+					has_pop_culture = japanese
+                }
+            }
+            literacy = 0.29
+        }
+		any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = persian
+					has_pop_culture = greek
+					has_pop_culture = romanian
+					has_pop_culture = azerbaijani
+                }
+            }
+            literacy = 0.24
+        }
+		any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = albanian
+					has_pop_culture = lusitanian
+                }
+            }
+            literacy = 0.23
+        }
+		any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = lithuanian
+					has_pop_culture = ukrainian
+					has_pop_culture = bedouin
+                }
+            }
+            literacy = 0.19
+        }
+		any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = korean
+					has_pop_culture = aryan
+					has_pop_culture = russian
+					has_pop_culture = croat
+                }
+            }
+            literacy = 0.17
+        }
+		any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = north_caucasian
+					has_pop_culture = quechua
+					has_pop_culture = zhuang
+					has_pop_culture = granadan
+                }
+            }
+            literacy = 0.14
+        }
+		any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = bulgarian 
+					has_pop_culture = armenian
+					has_pop_culture = central_american
+					has_pop_culture = maghrebi
+					has_pop_culture = vietnamese
+					has_pop_culture = tatar
+					has_pop_culture = khmer
+					has_pop_culture = malay
+					has_pop_culture = filipino
+					has_pop_culture = javan
+					has_pop_culture = moluccan
+					has_pop_culture = thai
+					has_pop_culture = lao
+					has_pop_culture = malagasy
+					has_pop_culture = tibetan
+					has_pop_culture = burmese
+					has_pop_culture = serb
+					has_pop_culture = cherokee
+					has_pop_culture = iroquois
+					has_pop_culture = mexican
+				}
+            }
+            literacy = 0.09
+        }
+		any_pop = {
+            limit = {
+                OR = {
+					has_pop_culture = mongol
+					has_pop_culture = misri
+					has_pop_culture = turkish
+					has_pop_culture = oirat
+                    has_pop_culture = beifaren
+					has_pop_culture = nanfaren
+					has_pop_culture = manchu
+					has_pop_culture = native_american_minor
+					has_pop_culture = indo_aryan
+					has_pop_culture = dravidian
+					has_pop_culture = punjabi
+					has_pop_culture = afro_asiatic 
+					has_pop_culture = nepali
+					has_pop_culture = mashriqi
+					has_pop_culture = turkic
+					has_pop_culture = cree
+					has_pop_culture = algonquin
+					has_pop_culture = apache
+					has_pop_culture = pueblo
+					has_pop_culture = rohnnst
+					has_pop_culture = mesoarcadian_native
+					has_pop_culture = mayan
+					has_pop_culture = salvadoran_native
+					has_pop_culture = amazonian_native
+					has_pop_culture = patagonian
+                }
+            }
+            literacy = 0.04
+        }
+    }
+}
+
+country_event = {
+	id = 800011
+	title = "EVTNAME800011"
+	desc = "EVTDESC800011"
+	fire_only_once = yes
+	
+	trigger = {
+	tag = DUA
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA800011"
+		activate_technology = ideological_thought
+	}
+}

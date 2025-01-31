@@ -1,0 +1,9 @@
+owner = NBG
+controller = NBG
+add_core = NBG
+
+trade_goods = coal
+life_rating = 35
+
+
+

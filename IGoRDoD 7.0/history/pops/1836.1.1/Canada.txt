@@ -1,0 +1,4005 @@
+#Yukon Region - 12000
+#uncolonized in 1836
+#Whitehorse (4000/1000 POPS)
+6 = {
+	capitalists = {
+		culture = kaiganese
+		religion = placeholder
+		size = 200
+	}
+		
+	bureaucrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 448
+	}
+	
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 250
+	}
+
+	aristocrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 2240
+	}	
+	
+	clergymen = {
+		culture = kaiganese
+		religion = placeholder
+		size = 700
+	}
+
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 450
+	}
+
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 32800
+	}
+	
+	craftsmen = {
+		culture = kaiganese
+		religion = placeholder
+		size = 9600
+	}
+	
+	
+	artisans = {
+		culture = kaiganese
+		religion = placeholder
+		size = 30744
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 4480
+	}
+
+	soldiers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 1000
+	}
+
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 7960
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 11900
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2520
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1680
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 7840
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2352
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 504
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 252
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1052
+	}
+}
+#Khorramabad (64000/16000 POPS)
+1120 = {
+	aristocrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 300
+	}
+	
+	clergymen = {
+		culture = kaiganese
+		religion = placeholder
+		size = 150
+	}
+	
+	bureaucrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 75
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 17000
+	}
+	
+	soldiers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 625
+	}
+	
+	artisans = {
+		culture = kaiganese
+		religion = placeholder
+		size = 7350
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 3000
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1500
+	}
+}
+#Dawson (4000/1000 POPS)
+7 = {
+	aristocrats = {
+		culture = inuit
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 1400
+	}
+}
+#Ross River (4000/1000 POPS)
+8 = {
+	aristocrats = {
+		culture = inuit
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 1340
+	}
+}
+#Northwest Territories & Keewatin Regions - 28000
+#uncolonized in 1836
+
+#Inuvik (4000/1000 POPS)
+10 = {
+	aristocrats = {
+		culture = inuit
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 840
+	}
+}
+#Echo Bay (4000/1000 POPS)
+11 = {
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 900
+	}
+}
+#Reliance (Red Deer) (2000/500 POPS)
+12 = {
+	clergymen = {
+		culture = kaiganese
+		religion = placeholder
+		size = 60
+	}	
+	
+	bureaucrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 50
+	}	
+	
+	aristocrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 120
+	}	
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 6040
+	}	
+	
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 2000
+	}	
+
+	soldiers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 360
+	}	
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 780
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 390
+	}
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 2200
+	}
+	
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 1000
+	}	
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 630
+	}	
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 315
+	}
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 315
+	}
+}
+#Fort Resolution (2000/500 POPS)
+2596 = {
+	aristocrats = {
+		culture = inuit
+		religion = placeholder
+		size = 5
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 10
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 10
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 1200
+	}
+}
+#Fort Liard (1600/400 POPS)
+2598 = {
+	aristocrats = {
+		culture = inuit
+		religion = placeholder
+		size = 5
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 10
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 20
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 5
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 1200
+	}
+}
+#Arviat (3200/800 POPS)
+43 = {
+	aristocrats = {
+		culture = inuit
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 15
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 40
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 10
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 725
+	}
+}
+
+#Baffin Island (4000/1000 POPS)
+45 = {
+	aristocrats = {
+		culture = inuit
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 900
+	}
+}
+#Whale Cove (Peace River) (2800/700 POPS)
+2595 = {
+	aristocrats = {
+		culture = inuit
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 15
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 35
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 10
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 630
+	}
+}
+#British Columbia Region : 64000
+#uncolonized in 1836
+#Vancouver (12000/3000 POPS)
+13 = {
+	aristocrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 200
+	}
+	
+	bureaucrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 100
+	}
+	
+	clergymen = {
+		culture = kaiganese
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 12600
+	}
+	
+	soldiers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 600
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 800
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 1600
+	}
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 1800
+	}
+	
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 1000
+	}
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 600
+	}
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 300
+	}
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 300
+	}
+}
+#Vancouver Island (8000/2000 POPS)
+14 = {
+	bureaucrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 120
+	}	
+
+	aristocrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 220
+	}
+
+	aristocrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 160
+	}	
+
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 5800
+	}
+	
+	artisans = {
+		culture = kaiganese
+		religion = placeholder
+		size = 5000
+	}
+	
+	soldiers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 1100
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 1575
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 1575
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 1075
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 1075
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1575
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 315
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 105
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 105
+	}
+}
+#Prince Rupert (8000/2000 POPS)
+15 = {
+	clergymen = {
+		culture = kaiganese
+		religion = placeholder
+		size = 60
+	}	
+	
+	bureaucrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 100
+	}	
+	
+	aristocrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 200
+	}	
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 7040
+	}	
+	
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 1000
+	}	
+
+	soldiers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 460
+	}	
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 780
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 390
+	}
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 1940
+	}
+	
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 1000
+	}	
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 630
+	}	
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 315
+	}
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 315
+	}
+}
+#Glenora (4000/1000 POPS)
+16 = {
+	clergymen = {
+		culture = kaiganese
+		religion = placeholder
+		size = 30
+	}
+	
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 70
+	}
+	
+		bureaucrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 40
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 2537
+	}
+	
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 1000
+	}
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 787
+	}
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 393
+	}
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 393
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 1292
+	}
+	
+	soldiers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 200
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 174
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 90
+	}
+}
+#Atlin (4000/1000 POPS)
+17 = {
+	clergymen = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 60
+	}
+	
+	aristocrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 60
+	}
+
+	bureaucrats = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1450
+	}
+	
+	artisans = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1200
+	}
+	
+	soldiers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 240
+	}
+	
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 2364
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 300
+	}
+
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 300
+	}
+}
+#Fort St John (2400/600 POPS)
+18 = {
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 15
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 30
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size= 10
+
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 1200
+	}
+}
+#Prince George (8000/2000 POPS)
+19 = {
+	aristocrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 100
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 40
+	}
+	
+	clergymen = {
+		culture = kaiganese
+		religion = placeholder
+		size = 60
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 2600
+	}
+	
+	artisans = {
+		culture = kaiganese
+		religion = placeholder
+		size = 1300
+	}
+	
+	soldiers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 1300
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 450
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 225
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 4200
+	}
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 825
+	}
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 412
+	}
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 412
+	}
+}
+#Kelowna (8000/2000 POPS)
+20 = {
+	aristocrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 280
+	}
+
+	clergymen = {
+		culture = kaiganese
+		religion = placeholder
+		size = 110
+	}	
+	
+	bureaucrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 80
+	}	
+
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 3275
+	}
+	
+	soldiers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 275
+	}
+
+	artisans = {
+		culture = kaiganese
+		religion = placeholder
+		size = 2800
+	}
+
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 385
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 770
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 4415
+	}
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 945
+	}
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 470
+	}
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 470
+	}
+}
+#Vernon (8000/2000 POPS)
+21 = {
+	aristocrats = {
+		culture = kaiganese
+		religion = placeholder
+		size = 100
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 40
+	}
+	
+	clergymen = {
+		culture = kaiganese
+		religion = placeholder
+		size = 60
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 3000
+	}
+	
+	artisans = {
+		culture = kaiganese
+		religion = placeholder
+		size = 1300
+	}
+	
+	soldiers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 1300
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 450
+	}
+	
+	farmers = {
+		culture = kaiganese
+		religion = placeholder
+		size = 225
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 3851
+	}
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 825
+	}
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 412
+	}
+	
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 412
+	}
+}
+#Fort Nelson (Kamloops) (8000/2000 POPS)
+2629 = {
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 15
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 30
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size= 10
+
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 1400
+	}
+}
+#Alberta Region: 64000
+#uncolonized in 1836
+#Edmonton (16000/4000 POPS)
+22 = {
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 910
+	}
+
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 900
+	}
+}
+#Athabaska Landing (4800/1200 POPS)
+23 = {
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 40
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 320
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 1670
+	}
+
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 45
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 60
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 520
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 2670
+	}
+}
+#Jasper (4000/1000 POPS)
+24 = {
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 2200
+	}
+}
+#Banff (4000/1000 POPS)
+25 = {
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 910
+	}
+
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 900
+	}
+}
+#Calgary (8000/2000 POPS)
+26 = {
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 12
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 13
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size= 7
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 8
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 450
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 460
+	}
+
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 900
+	}
+}
+#Denwood (8000/2000 POPS)
+27 = {
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 40
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 40
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 340
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 2300
+	}
+
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 30
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 30
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 250
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 1340
+	}
+}
+#Fort MacLeod (8000/2000 POPS)
+28 = {
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1510
+	}
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 1230
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 2260
+	}
+	
+	farmers = {
+		culture = qingqiuan
+		religion = placeholder
+		size = 230
+	}
+}
+#Medicine Hat (8000/2000 POPS)
+29 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1750
+	}
+}
+#Fort Vermillion (3200/800 POPS)
+2597 = {
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+		
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 15
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 900
+	}
+
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 900
+	}
+}
+#Saskatchewan Region : 44000
+#uncolonized in 1836
+#Regina (12000/3000 POPS)
+30 = {
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 100
+	}
+
+	officers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 75
+	}
+
+	bureaucrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 40
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 760
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 500
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 4350
+	}
+
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+
+	officers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 20
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 540
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 500
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 3150
+	}
+}
+#Stanley (4000/1000 POPS)
+31 = {
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 900
+	}
+}
+#Prince Albert (8000/2000 POPS)
+32 = {
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 920
+	}
+
+	aristocrats = {
+		culture = cree
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = cree
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = cree
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = cree
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = cree
+		religion = placeholder
+		size = 900
+	}
+}
+#Asquith (8000/2000 POPS)
+33 = {
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 30
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 30
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 300
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 2400
+	}
+
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 30
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 30
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 300
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 2400
+	}
+}
+#Saskatoon (8000/2000 POPS)
+34 = {
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 40
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 60
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 650
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 2100
+	}
+
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 450
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 1940
+	}
+}
+#Maple Creek (4000/1000 POPS)
+35 = {
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+		
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 15
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 900
+	}
+
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 900
+	} size = 900
+    }
+}
+#Manitoba Region : 52000
+#uncolonized in 1836
+#Winnipeg (12000/3000 POPS)
+36 = {
+	aristocrats = {
+		culture = cree
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = cree
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = cree
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = cree
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = cree
+		religion = placeholder
+		size = 900
+	}
+}
+
+#Indian Lakes (4000/1000 POPS)
+38 = {
+	aristocrats = {
+		culture = inuit
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 900
+	}
+}
+#Norway House (8000/2000 POPS)
+39 = {
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 40
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 40
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 340
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 2300
+	}
+
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 30
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 30
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 250
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 1340
+	}
+}
+#Dauphin (8000/2000 POPS)
+40 = {
+	aristocrats = {
+		culture = cree
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = cree
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = cree
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = cree
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = cree
+		religion = placeholder
+		size = 900
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 910
+	}
+}
+#Brandon (8000/2000 POPS)
+41 = {
+	aristocrats = {
+		culture = rohnnst
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 900
+	}
+
+	clergymen = {
+		culture = rohnnst
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = rohnnst
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = rohnnst
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = rohnnst
+		religion = placeholder
+		size = 910
+	}
+}
+#Pembina (8000/2000 POPS)
+42 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 900
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 910
+	}
+}
+#Ontario Region : 448000
+#uncolonized in 1836
+#Fort Severn (2800/700 POPS)
+47 = {
+	aristocrats = {
+		culture = cree
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = cree
+		religion = placeholder
+		size = 15
+	}
+
+	artisans = {
+		culture = cree
+		religion = placeholder
+		size = 35
+	}
+
+	soldiers = {
+		culture = cree
+		religion = placeholder
+		size= 10
+
+	}
+
+	farmers = {
+		culture = cree
+		religion = placeholder
+		size = 630
+	}
+}
+#Fort Albany (6400/1600 POPS)
+48 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 35
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 80
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 20
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1440
+	}
+}
+#Dryden (12000/3000 POPS)
+49 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1750
+	}
+}
+#Thunder Bay (8000/2000 POPS)
+50 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = algonquin
+		religion = placeholder
+		size = 1750
+	}
+}
+#Sault Ste Marie (8000/2000 POPS)
+51 = {
+	aristocrats = {
+		culture = algonquin
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = algonquin
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = algonquin
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = algonquin
+		religion = placeholder
+		size= 15
+
+	}
+}
+#Sudbury (8000/2000 POPS)
+52 = {
+	aristocrats = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = iroquois
+		religion = placeholder
+		size = 350
+	}
+
+	clergymen = { 
+		culture = iroquois
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 6336
+	}
+
+	soldiers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+}
+#Barrie (4000/1000 POPS)
+53 = {
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 275
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 17
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 5068
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+
+	aristocrats = { 
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+
+	artisans = { 
+		culture = algonquin
+		religion = placeholder
+		size = 275
+	}
+
+	clergymen = { 
+		culture = algonquin
+		religion = placeholder
+		size = 17
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 5068
+	}
+
+	soldiers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 70
+	}
+}
+#Pickle Lake (1200/3000 POPS)
+2594 = {
+	aristocrats = {
+		culture = cree
+		religion = placeholder
+		size = 5
+	}
+
+	clergymen = {
+		culture = cree
+		religion = placeholder
+		size = 10
+	}
+
+	artisans = {
+		culture = cree
+		religion = placeholder
+		size = 15
+	}
+
+	soldiers = {
+		culture = cree
+		religion = placeholder
+		size= 5
+
+	}
+
+	farmers = {
+		culture = cree
+		religion = placeholder
+		size = 265
+	}
+}
+#Attawapiskat (5600/1600 POPS)
+2628 = {
+	aristocrats = {
+		culture = cree
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = cree
+		religion = placeholder
+		size = 35
+	}
+
+	artisans = {
+		culture = cree
+		religion = placeholder
+		size = 80
+	}
+
+	soldiers = {
+		culture = cree
+		religion = placeholder
+		size= 15
+
+	}
+
+	farmers = {
+		culture = cree
+		religion = placeholder
+		size = 1445
+	}
+}
+#ruled by Britain in 1836
+#Toronto (172000/43000 POPS)
+46 = {
+	aristocrats = { 
+		culture = iroquois
+		religion = placeholder
+		size = 576
+	}
+
+	artisans = { 
+		culture = iroquois
+		religion = placeholder
+		size = 2500
+	}
+
+	clergymen = { 
+		culture = iroquois
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 21248
+	}
+
+	soldiers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 576
+	}
+}
+#Windsor (36000/9000 POPS)
+54 = {
+	aristocrats = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = iroquois
+		religion = placeholder
+		size = 750
+	}
+
+	clergymen = { 
+		culture = iroquois
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 13936
+	}
+
+	soldiers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+}
+#Hamilton (68000/17000 POPS)
+55 = {
+	aristocrats = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+
+	artisans = { 
+		culture = iroquois
+		religion = placeholder
+		size = 1100
+	}
+
+	clergymen = { 
+		culture = iroquois
+		religion = placeholder
+		size = 34
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 20586
+	}
+
+	soldiers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 140
+	}
+}
+#Kingston (72000/18000 POPS)
+56 = {
+	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 500
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 6500
+	}
+
+	bureaucrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 435
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1000
+	}
+
+	officers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 435
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 40130
+	}
+
+	soldiers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 3000
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 9750
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 3250
+	}
+}
+#Ottawa (44000/11000 POPS)
+57 = {
+	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 185
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 750
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 370
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 7035
+	}
+
+	soldiers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 660
+	}
+
+	farmers = { 
+		culture = iroquois
+		religion = placeholder
+		size = 3000
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 3000
+	}
+}
+#Quebec Region : 676000
+#uncolonized in 1836
+#Nitchequon (2800/700 POPS)
+59 = {
+	aristocrats = {
+		culture = cree
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = cree
+		religion = placeholder
+		size = 15
+	}
+
+	artisans = {
+		culture = cree
+		religion = placeholder
+		size = 35
+	}
+
+	soldiers = {
+		culture = cree
+		religion = placeholder
+		size= 10
+
+	}
+
+	farmers = {
+		culture = cree
+		religion = placeholder
+		size = 630
+	}
+}
+#Erik Cove (2400/600 POPS)
+2592 = {
+	aristocrats = {
+		culture = inuit
+		religion = placeholder
+		size = 5
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 10
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 20
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 5
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 360
+	}
+
+	aristocrats = {
+		culture = cree
+		religion = placeholder
+		size = 2
+	}
+
+	clergymen = {
+		culture = cree
+		religion = placeholder
+		size = 3
+	}
+
+	artisans = {
+		culture = cree
+		religion = placeholder
+		size = 10
+	}
+
+	soldiers = {
+		culture = cree
+		religion = placeholder
+		size= 5
+
+	}
+
+	farmers = {
+		culture = cree
+		religion = placeholder
+		size = 180
+	}
+}
+#Port Harrison (2400/600 POPS)
+2626 = {
+	aristocrats = {
+		culture = inuit
+		religion = placeholder
+		size = 2
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 3
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 10
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 5
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 180
+	}
+
+	aristocrats = {
+		culture = cree
+		religion = placeholder
+		size = 5
+	}
+
+	clergymen = {
+		culture = cree
+		religion = placeholder
+		size = 10
+	}
+
+	artisans = {
+		culture = cree
+		religion = placeholder
+		size = 20
+	}
+
+	soldiers = {
+		culture = cree
+		religion = placeholder
+		size= 5
+
+	}
+
+	farmers = {
+		culture = cree
+		religion = placeholder
+		size = 360
+	}
+}
+#Fort Chimo (2400/600 POPS)
+2627 = {
+	aristocrats = {
+		culture = inuit
+		religion = placeholder
+		size = 5
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 10
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 20
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 5
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 360
+	}
+
+	aristocrats = {
+		culture = cree
+		religion = placeholder
+		size = 2
+	}
+
+	clergymen = {
+		culture = cree
+		religion = placeholder
+		size = 3
+	}
+
+	artisans = {
+		culture = cree
+		religion = placeholder
+		size = 10
+	}
+
+	soldiers = {
+		culture = cree
+		religion = placeholder
+		size= 5
+
+	}
+
+	farmers = {
+		culture = cree
+		religion = placeholder
+		size = 180
+	}
+}
+#Fort Rupert (2400/600 POPS)
+60 = {
+	aristocrats = {
+		culture = cree
+		religion = placeholder
+		size = 15
+	}
+
+	clergymen = {
+		culture = cree
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = cree
+		religion = placeholder
+		size = 30
+	}
+
+	soldiers = {
+		culture = cree
+		religion = placeholder
+		size= 10
+
+	}
+
+	farmers = {
+		culture = cree
+		religion = placeholder
+		size = 520
+	}
+}
+
+#ruled by Britain in 1836
+#58 - Montreal (248000/62000 POPS)
+58 = {
+	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 500
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 3500
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 500
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 62300
+	}
+
+	soldiers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 2500
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 700
+	}
+}
+#Chicoutimi (11200/2800 POPS)
+61 = {
+ 	aristocrats = {
+		culture = vinlander
+		religion = placeholder
+		size = 200
+	}
+
+	clergymen = {
+		culture = vinlander
+		religion = placeholder
+		size = 300
+	}
+
+	artisans = {
+		culture = vinlander
+		religion = placeholder
+		size = 5460
+	}
+
+	soldiers = {
+		culture = vinlander
+		religion = placeholder
+		size = 900
+	}
+
+	farmers = {
+		culture = vinlander
+		religion = placeholder
+		size = 3663
+	}
+	
+	farmers = {
+		culture = cree
+		religion = placeholder
+		size = 8547
+	}
+}
+#Sept-Iles (8000/2000 POPS)
+62 = {
+	aristocrats = {
+		culture = cree
+		religion = placeholder
+		size = 35
+	}	
+	
+	clergymen = {
+		culture = cree
+		religion = placeholder
+		size = 50
+	}	
+
+	artisans = {
+		culture = cree
+		religion = placeholder
+		size = 1000
+	}
+	
+	farmers = {
+		culture = cree
+		religion = placeholder
+		size = 6000
+	}
+}
+#Temiscaming (16000/4000 POPS)
+63 = {
+	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 185
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 350
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 370
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1935
+	}
+
+	soldiers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 660
+	}
+
+	farmers = { 
+		culture = algonquin
+		religion = placeholder
+		size = 3500
+	}
+}
+#Trois-Rivieres (68000/17000 POPS)
+64 = {
+	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 500
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 2000
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 500
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 34500
+	}
+
+	soldiers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 2500
+	}
+}
+#Quebec City (188000/47000 POPS)
+65 = {
+	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1935
+	}
+
+	capitalists = { 
+		culture = vinlander
+		religion = placeholder
+		size = 967
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 21773
+	}
+
+	bureaucrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 967
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1935
+	}
+
+	clerks = { 
+		culture = vinlander
+		religion = placeholder
+		size = 483
+	}
+
+	officers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 967
+	}
+
+	craftsmen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 3870
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 43265
+	}
+	
+	farmers = {
+		culture = vinlander
+		religion = placeholder
+		size = 6000
+	}
+
+	soldiers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 4838
+	}
+
+	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 64
+	}
+
+	capitalists = { 
+		culture = vinlander
+		religion = placeholder
+		size = 32
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 726
+	}
+
+	bureaucrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 32
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 64
+	}
+
+	clerks = { 
+		culture = vinlander
+		religion = placeholder
+		size = 16
+	}
+
+	officers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 32
+	}
+
+	craftsmen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 129
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1444
+	}
+
+	soldiers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 161
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1800
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 4500
+	}
+}
+#Sherbrooke (68000/17000 POPS)
+66 = {
+	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 356
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 2500
+	}
+
+	bureaucrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 106
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 300
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 44855
+	}
+
+	soldiers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1883
+	}
+}
+#Riviere du Loup (56000/14000 POPS)
+67 = {
+	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1400
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 6500
+	}
+
+	bureaucrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1000
+	}
+
+	officers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 570
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 50130
+	}
+
+	soldiers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 3850
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1300
+	}
+}
+#New Brunswick Region : 148000
+#Ruled by Britain 1836
+#Fredericton (84000/21000 POPS)
+68 = {
+	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1000
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 5000
+	}
+
+	bureaucrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 139
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1000
+	}
+
+	officers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 139
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 21222
+	}
+
+	soldiers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1500
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 10000
+	}
+}
+#Bathurst (64000/16000 POPS)
+69 = {
+	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 130
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1250
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 130
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 16257
+	}
+
+	soldiers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 983
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 6250
+	}
+}
+#Prince Edward Island Region : 32000
+#Ruled by Britain 1836
+#Prince Edward Island (32000/8000 POPS)
+70 = {
+	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 198
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1250
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 198
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 22354
+	}
+
+	soldiers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1000
+	}
+}
+#Canada - Nova Scotia Region : 147000
+#Ruled by Britain 1836
+#Halifax (83000/20750 POPS)
+71 = {
+ 	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1000
+	}
+
+	capitalists = { 
+		culture = vinlander
+		religion = placeholder
+		size = 500
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 18750
+	}
+
+	bureaucrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 995
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1000
+	}
+
+	clerks = { 
+		culture = vinlander
+		religion = placeholder
+		size = 200
+	}
+
+	officers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 995
+	}
+
+	craftsmen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 40110
+	}
+
+	soldiers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1450
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 6750
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1250
+	}
+}
+#Truro (44000/11000 POPS)
+72 = {
+	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 198
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 2250
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 198
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 41354
+	}
+
+	soldiers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1000
+	}
+}
+#Cape Breton Island (20000/5000 POPS)
+73 = {
+	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 59
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 449
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 59
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 8133
+	}
+
+	soldiers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 300
+	}
+
+	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 138
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 1050
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 138
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 18975
+	}
+
+	soldiers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 699
+	}
+}
+#Newfoundland Region - 84000
+#Ruled by Britain in 1836
+#Saint John's (52000/13000 POPS)
+74 = {
+	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 198
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 700
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 198
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 12904
+	}
+
+}
+#Millertown (24000/6000 POPS)
+75 = {
+ 	aristocrats = { 
+		culture = vinlander
+		religion = placeholder
+		size = 198
+	}
+
+	artisans = { 
+		culture = vinlander
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = { 
+		culture = vinlander
+		religion = placeholder
+		size = 198
+	}
+
+	farmers = { 
+		culture = vinlander
+		religion = placeholder
+		size = 9104
+	}
+}
+#Hopedale (2000/500 POPS)
+76 = {
+	aristocrats = {
+		culture = inuit
+		religion = placeholder
+		size = 5
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 10
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 5
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 450
+	}
+}
+#Cartwright (6000/1500 POPS)
+2625 = {
+	aristocrats = {
+		culture = vinlander
+		religion = placeholder
+		size = 35
+	}
+
+	artisans = {
+		culture = vinlander
+		religion = placeholder
+		size = 2240
+	}
+
+	soldiers = {
+		culture = vinlander
+		religion = placeholder
+		size = 600
+	}
+
+	farmers = {
+		culture = vinlander
+		religion = placeholder
+		size = 5250
+	}
+	
+	clergymen = {
+		culture = vinlander
+		religion = placeholder
+		size = 50
+	}
+	
+	aristocrats = {
+		culture = inuit
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = inuit
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = inuit
+		religion = placeholder
+		size = 75
+	}
+
+	soldiers = {
+		culture = inuit
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = inuit
+		religion = placeholder
+		size = 1350
+	}
+}
+#St Pierre & Miquelon (2000)
+#Ruled by France 1836
+

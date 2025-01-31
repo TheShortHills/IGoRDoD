@@ -1,0 +1,354 @@
+#Estonia Region (436000)
+#under the rule of Russia in 1836
+#Tallinn/Reval (160000/40000 POPS)
+349 = {
+    clergymen = {
+        culture = estonian
+        religion = placeholder
+        size = 1828
+    }
+
+    artisans = {
+        culture = estonian
+        religion = placeholder
+        size = 1566
+    }
+
+    soldiers = {
+        culture = estonian
+        religion = placeholder
+        size = 2299
+    }
+
+    farmers = {
+        culture = estonian
+        religion = placeholder
+        size = 73059
+    }
+
+    aristocrats = {
+        culture = pomeranian
+        religion = placeholder
+        size = 505
+    }
+
+    bureaucrats = {
+        culture = pomeranian
+        religion = placeholder
+        size = 505
+    }
+
+    officers = {
+        culture = pomeranian
+        religion = placeholder
+        size = 168
+    }
+
+    clergymen = {
+        culture = pomeranian
+        religion = placeholder
+        size = 180
+    }
+
+    artisans = {
+        culture = pomeranian
+        religion = placeholder
+        size = 1113
+    }
+
+    soldiers = {
+        culture = pomeranian
+        religion = placeholder
+        size = 68
+    }
+
+    clergymen = {
+        culture = scandinavian
+        religion = placeholder
+        size = 72
+    }
+
+    artisans = {
+        culture = scandinavian
+        religion = placeholder
+        size = 330
+    }
+
+    soldiers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 27
+    }
+
+    farmers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 440
+    }
+
+    aristocrats = {
+        culture = scandinavian
+        religion = placeholder
+        size = 467
+    }
+
+    bureaucrats = {
+        culture = scandinavian
+        religion = placeholder
+        size = 137
+    }
+
+    officers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 55
+    }
+
+    clergymen = {
+        culture = scandinavian
+        religion = placeholder
+        size = 72
+    }
+
+    artisans = {
+        culture = scandinavian
+        religion = placeholder
+        size = 192
+    }
+
+    soldiers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 57
+    }
+}
+#Narva (184000/46000 POPS)
+350 = {
+    clergymen = {
+        culture = estonian
+        religion = placeholder
+        size = 2394
+    }
+
+    artisans = {
+        culture = estonian
+        religion = placeholder
+        size = 4809
+    }
+
+    soldiers = {
+        culture = estonian
+        religion = placeholder
+        size = 939
+    }
+
+    farmers = {
+        culture = estonian
+        religion = placeholder
+        size = 85404
+    }
+
+    aristocrats = {
+        culture = scandinavian
+        religion = placeholder
+        size = 880
+    }
+
+    clergymen = {
+        culture = scandinavian
+        religion = placeholder
+        size = 148
+    }
+
+    artisans = {
+        culture = scandinavian
+        religion = placeholder
+        size = 110
+    }
+
+    soldiers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 57
+    }
+
+    farmers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 1210
+    }
+}
+#Parnu (92000/23000 POPS)
+351 = {
+    aristocrats = {
+        culture = pomeranian
+        religion = placeholder
+        size = 472
+    }
+
+    clergymen = {
+        culture = pomeranian
+        religion = placeholder
+        size = 180
+    }
+
+    artisans = {
+        culture = pomeranian
+        religion = placeholder
+        size = 742
+    }
+
+    soldiers = {
+        culture = pomeranian
+        religion = placeholder
+        size = 68
+    }
+
+    clergymen = {
+        culture = estonian
+        religion = placeholder
+        size = 2256
+    }
+
+    artisans = {
+        culture = estonian
+        religion = placeholder
+        size = 1252
+    }
+
+    soldiers = {
+        culture = estonian
+        religion = placeholder
+        size = 417
+    }
+
+    farmers = {
+        culture = estonian
+        religion = placeholder
+        size = 43512
+    }
+}
+#Tartu/Dorpat (156000/39000 POPS)
+352 = {
+    aristocrats = {
+        culture = pomeranian
+        religion = placeholder
+        size = 472
+    }
+
+    clergymen = {
+        culture = pomeranian
+        religion = placeholder
+        size = 180
+    }
+
+    artisans = {
+        culture = pomeranian
+        religion = placeholder
+        size = 742
+    }
+
+    soldiers = {
+        culture = pomeranian
+        religion = placeholder
+        size = 68
+    }
+
+    clergymen = {
+        culture = estonian
+        religion = placeholder
+        size = 1971
+    }
+
+    artisans = {
+        culture = estonian
+        religion = placeholder
+        size = 2718
+    }
+
+    soldiers = {
+        culture = estonian
+        religion = placeholder
+        size = 730
+    }
+
+    farmers = {
+        culture = estonian
+        religion = placeholder
+        size = 72172
+    }
+
+    clergymen = {
+        culture = scandinavian
+        religion = placeholder
+        size = 72
+    }
+
+    artisans = {
+        culture = scandinavian
+        religion = placeholder
+        size = 110
+    }
+
+    soldiers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 57
+    }
+
+    farmers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 1457
+    }
+}
+#Kuressaare (16000/4000 POPS)
+353 = {
+    aristocrats = {
+        culture = pomeranian
+        religion = placeholder
+        size = 108
+    }
+
+    clergymen = {
+        culture = pomeranian
+        religion = placeholder
+        size = 35
+    }
+
+    artisans = {
+        culture = pomeranian
+        religion = placeholder
+        size = 67
+    }
+
+    soldiers = {
+        culture = pomeranian
+        religion = placeholder
+        size = 11
+    }
+
+    clergymen = {
+        culture = estonian
+        religion = placeholder
+        size = 279
+    }
+
+    artisans = {
+        culture = estonian
+        religion = placeholder
+        size = 310
+    }
+
+    soldiers = {
+        culture = estonian
+        religion = placeholder
+        size = 49
+    }
+
+    farmers = {
+        culture = estonian
+        religion = placeholder
+        size = 7581
+    }
+}

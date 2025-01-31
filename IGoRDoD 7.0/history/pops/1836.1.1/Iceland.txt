@@ -1,0 +1,28 @@
+#Iceland (56000)
+#Ruled by Denmark in 1836
+#Reykjavik (56000/14000 POPS)
+252 = {
+    bureaucrats = {
+        culture = scandinavian
+        religion = placeholder
+        size = 27
+    }
+
+    clergymen = {
+        culture = scandinavian
+        religion = placeholder
+        size = 297
+    }
+
+    artisans = {
+        culture = scandinavian
+        religion = placeholder
+        size = 825
+    }
+
+    farmers = {
+        culture = scandinavian
+        religion = placeholder
+        size = 14437
+    }
+}

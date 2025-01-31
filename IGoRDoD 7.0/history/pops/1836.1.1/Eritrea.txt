@@ -1,0 +1,245 @@
+#Eritrea Region (180000)
+#under the rule of Egypt in 1836
+#Massawa (28000/7000 POPS)
+1849 = {
+    aristocrats = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 57
+    }
+
+    clergymen = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 86
+    }
+
+    artisans = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 172
+    }
+
+    soldiers = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 28
+    }
+
+    farmers = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 3105
+    }
+
+    bureaucrats = {
+        culture = misri
+        religion = placeholder
+        size = 5
+    }
+
+    soldiers = {
+        culture = misri
+        religion = placeholder
+        size = 23
+    }
+
+    aristocrats = {
+        culture = misri
+        religion = placeholder
+        size = 86
+    }
+
+    clergymen = {
+        culture = misri
+        religion = placeholder
+        size = 86
+    }
+
+    artisans = {
+        culture = misri
+        religion = placeholder
+        size = 230
+    }
+
+    soldiers = {
+        culture = misri
+        religion = placeholder
+        size = 28
+    }
+
+    farmers = {
+        culture = misri
+        religion = placeholder
+        size = 4140
+    }
+}
+#Assab (44000/11000 POPS)
+1851 = {
+    aristocrats = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 143
+    }
+
+    clergymen = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 86
+    }
+
+    artisans = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 402
+    }
+
+    soldiers = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 86
+    }
+
+    farmers = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 7331
+    }
+
+    aristocrats = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 86
+    }
+
+    clergymen = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 86
+    }
+
+    artisans = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 230
+    }
+
+    soldiers = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 57
+    }
+
+    farmers = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 4140
+    }
+}
+#under the rule of Ethiopia in 1836
+#Asmara (80000/20000 POPS)
+1848 = {
+    aristocrats = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 258
+    }
+
+    bureaucrats = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 17
+    }
+
+    officers = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 28
+    }
+
+    clergymen = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 143
+    }
+
+    artisans = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 690
+    }
+
+    soldiers = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 143
+    }
+
+    farmers = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 12448
+    }
+
+    aristocrats = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 172
+    }
+
+    clergymen = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 86
+    }
+
+    artisans = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 460
+    }
+
+    soldiers = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 86
+    }
+
+    farmers = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 8395
+    }
+}
+#Akordat (28000/7000 POPS)
+1850 = {
+    aristocrats = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 143
+    }
+
+    clergymen = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 86
+    }
+
+    artisans = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 402
+    }
+
+    soldiers = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 86
+    }
+
+    farmers = {
+        culture = afro_asiatic
+        religion = placeholder
+        size = 7331
+    }
+}

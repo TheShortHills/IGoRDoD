@@ -1,0 +1,850 @@
+#Pyongan Region (1596000)
+#under the rule of Korea in 1836
+#Pyongyang (800000/200000 POPS)
+1619 = {
+    aristocrats = {
+        culture = korean
+        religion = placeholder
+        size = 3897
+    }
+
+    bureaucrats = {
+        culture = korean
+        religion = placeholder
+        size = 311
+    }
+
+    officers = {
+        culture = korean
+        religion = placeholder
+        size = 415
+    }
+
+    clergymen = {
+        culture = korean
+        religion = placeholder
+        size = 2000
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 9875
+    }
+
+    soldiers = {
+        culture = korean
+        religion = placeholder
+        size = 2079
+    }
+
+    farmers = {
+        culture = korean
+        religion = placeholder
+        size = 178923
+    }
+
+    slaves = {
+        culture = korean
+        religion = placeholder
+        size = 10395
+    }
+}
+#Chonchon (796000/190000 POPS)
+1620 = {
+    aristocrats = {
+        culture = korean
+        religion = placeholder
+        size = 3689
+    }
+
+    clergymen = {
+        culture = korean
+        religion = placeholder
+        size = 1896
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 9355
+    }
+
+    soldiers = {
+        culture = korean
+        religion = placeholder
+        size = 2079
+    }
+
+    farmers = {
+        culture = korean
+        religion = placeholder
+        size = 170087
+    }
+
+    slaves = {
+        culture = korean
+        religion = placeholder
+        size = 10395
+    }
+}
+#Hamgyong Region (920000)
+#under the rule of Korea in 1836
+#Hamhung (300000/75000 POPS)
+1621 = {
+    aristocrats = {
+        culture = korean
+        religion = placeholder
+        size = 1455
+    }
+
+    bureaucrats = {
+        culture = korean
+        religion = placeholder
+        size = 155
+    }
+
+    officers = {
+        culture = korean
+        religion = placeholder
+        size = 207
+    }
+
+    clergymen = {
+        culture = korean
+        religion = placeholder
+        size = 779
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 3638
+    }
+
+    soldiers = {
+        culture = korean
+        religion = placeholder
+        size = 727
+    }
+
+    farmers = {
+        culture = korean
+        religion = placeholder
+        size = 65800
+    }
+
+    slaves = {
+        culture = korean
+        religion = placeholder
+        size = 5197
+    }
+}
+#Chongjin (360000/90000 POPS)
+1622 = {
+    aristocrats = {
+        culture = korean
+        religion = placeholder
+        size = 1559
+    }
+
+    clergymen = {
+        culture = korean
+        religion = placeholder
+        size = 831
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 4158
+    }
+
+    soldiers = {
+        culture = korean
+        religion = placeholder
+        size = 1143
+    }
+
+    farmers = {
+        culture = korean
+        religion = placeholder
+        size = 75467
+    }
+
+    slaves = {
+        culture = korean
+        religion = placeholder
+        size = 10395
+    }
+}
+#Kimchaek (260000/65000 POPS)
+1623 = {
+    aristocrats = {
+        culture = korean
+        religion = placeholder
+        size = 1194
+    }
+
+    clergymen = {
+        culture = korean
+        religion = placeholder
+        size = 649
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 3118
+    }
+
+    soldiers = {
+        culture = korean
+        religion = placeholder
+        size = 623
+    }
+
+    farmers = {
+        culture = korean
+        religion = placeholder
+        size = 56782
+    }
+
+    slaves = {
+        culture = korean
+        religion = placeholder
+        size = 5197
+    }
+}
+#Kyonggi Region (2620000)
+#under the rule of Korea in 1836
+#Seoul (1180000/295000 POPS)
+1624 = {
+    aristocrats = {
+        culture = korean
+        religion = placeholder
+        size = 5639
+    }
+
+    bureaucrats = {
+        culture = korean
+        religion = placeholder
+        size = 700
+    }
+
+    officers = {
+        culture = korean
+        religion = placeholder
+        size = 649
+    }
+
+    clergymen = {
+        culture = korean
+        religion = placeholder
+        size = 2910
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 10395
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 3897
+    }
+
+    soldiers = {
+        culture = korean
+        religion = placeholder
+        size = 3118
+    }
+
+    farmers = {
+        culture = korean
+        religion = placeholder
+        size = 258549
+    }
+
+    slaves = {
+        culture = korean
+        religion = placeholder
+        size = 20790
+    }
+}
+#Kaesong (280000/70000 POPS)
+1625 = {
+    aristocrats = {
+        culture = korean
+        religion = placeholder
+        size = 1298
+    }
+
+    clergymen = {
+        culture = korean
+        religion = placeholder
+        size = 700
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 3377
+    }
+
+    soldiers = {
+        culture = korean
+        religion = placeholder
+        size = 675
+    }
+
+    farmers = {
+        culture = korean
+        religion = placeholder
+        size = 61485
+    }
+
+    slaves = {
+        culture = korean
+        religion = placeholder
+        size = 5197
+    }
+}
+#Haeju (260000/65000 POPS)
+1626 = {
+    aristocrats = {
+        culture = korean
+        religion = placeholder
+        size = 1194
+    }
+
+    clergymen = {
+        culture = korean
+        religion = placeholder
+        size = 649
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 3118
+    }
+
+    soldiers = {
+        culture = korean
+        religion = placeholder
+        size = 623
+    }
+
+    farmers = {
+        culture = korean
+        religion = placeholder
+        size = 56782
+    }
+
+    slaves = {
+        culture = korean
+        religion = placeholder
+        size = 5197
+    }
+}
+#Sariwon (340000/85000 POPS)
+1627 = {
+    aristocrats = {
+        culture = korean
+        religion = placeholder
+        size = 1610
+    }
+
+    clergymen = {
+        culture = korean
+        religion = placeholder
+        size = 857
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 4158
+    }
+
+    soldiers = {
+        culture = korean
+        religion = placeholder
+        size = 1143
+    }
+
+    farmers = {
+        culture = korean
+        religion = placeholder
+        size = 75493
+    }
+
+    slaves = {
+        culture = korean
+        religion = placeholder
+        size = 5197
+    }
+}
+#Inchon (560000/140000 POPS)
+1628 = {
+    aristocrats = {
+        culture = korean
+        religion = placeholder
+        size = 2650
+    }
+
+    clergymen = {
+        culture = korean
+        religion = placeholder
+        size = 1377
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 6756
+    }
+
+    soldiers = {
+        culture = korean
+        religion = placeholder
+        size = 2079
+    }
+
+    farmers = {
+        culture = korean
+        religion = placeholder
+        size = 122270
+    }
+
+    slaves = {
+        culture = korean
+        religion = placeholder
+        size = 10395
+    }
+}
+#Gangwon Region (920000)
+#under the rule of Korea in 1836
+#Wonsan (380000/95000 POPS)
+1629 = {
+    aristocrats = {
+        culture = korean
+        religion = placeholder
+        size = 1767
+    }
+
+    bureaucrats = {
+        culture = korean
+        religion = placeholder
+        size = 181
+    }
+
+    officers = {
+        culture = korean
+        religion = placeholder
+        size = 233
+    }
+
+    clergymen = {
+        culture = korean
+        religion = placeholder
+        size = 883
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 4417
+    }
+
+    soldiers = {
+        culture = korean
+        religion = placeholder
+        size = 1143
+    }
+
+    farmers = {
+        culture = korean
+        religion = placeholder
+        size = 79833
+    }
+
+    slaves = {
+        culture = korean
+        religion = placeholder
+        size = 10395
+    }
+}
+#Kangnung (260000/65000 POPS)
+1630 = {
+    aristocrats = {
+        culture = korean
+        religion = placeholder
+        size = 1194
+    }
+
+    clergymen = {
+        culture = korean
+        religion = placeholder
+        size = 649
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 3118
+    }
+
+    soldiers = {
+        culture = korean
+        religion = placeholder
+        size = 623
+    }
+
+    farmers = {
+        culture = korean
+        religion = placeholder
+        size = 56782
+    }
+
+    slaves = {
+        culture = korean
+        religion = placeholder
+        size = 5197
+    }
+}
+#Wonju (280000/70000 POPS)
+1631 = {
+    aristocrats = {
+        culture = korean
+        religion = placeholder
+        size = 1298
+    }
+
+    clergymen = {
+        culture = korean
+        religion = placeholder
+        size = 700
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 3377
+    }
+
+    soldiers = {
+        culture = korean
+        religion = placeholder
+        size = 675
+    }
+
+    farmers = {
+        culture = korean
+        religion = placeholder
+        size = 61511
+    }
+
+    slaves = {
+        culture = korean
+        religion = placeholder
+        size = 5197
+    }
+}
+#Kyongsang Region (1800000)
+#under the rule of Korea in 1836
+#Pusan (740000/185000 POPS)
+1632 = {
+    aristocrats = {
+        culture = korean
+        religion = placeholder
+        size = 3534
+    }
+
+    bureaucrats = {
+        culture = korean
+        religion = placeholder
+        size = 389
+    }
+
+    officers = {
+        culture = korean
+        religion = placeholder
+        size = 441
+    }
+
+    clergymen = {
+        culture = korean
+        religion = placeholder
+        size = 1871
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 9095
+    }
+
+    soldiers = {
+        culture = korean
+        religion = placeholder
+        size = 2079
+    }
+
+    farmers = {
+        culture = korean
+        religion = placeholder
+        size = 164396
+    }
+
+    slaves = {
+        culture = korean
+        religion = placeholder
+        size = 10395
+    }
+}
+#Taejon (420000/105000 POPS)
+1633 = {
+    aristocrats = {
+        culture = korean
+        religion = placeholder
+        size = 1975
+    }
+
+    clergymen = {
+        culture = korean
+        religion = placeholder
+        size = 1090
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 5197
+    }
+
+    soldiers = {
+        culture = korean
+        religion = placeholder
+        size = 1143
+    }
+
+    farmers = {
+        culture = korean
+        religion = placeholder
+        size = 94645
+    }
+
+    slaves = {
+        culture = korean
+        religion = placeholder
+        size = 5197
+    }
+}
+#Pohang (640000/160000 POPS)
+1634 = {
+    aristocrats = {
+        culture = korean
+        religion = placeholder
+        size = 3014
+    }
+
+    clergymen = {
+        culture = korean
+        religion = placeholder
+        size = 1610
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 7796
+    }
+
+    soldiers = {
+        culture = korean
+        religion = placeholder
+        size = 2079
+    }
+
+    farmers = {
+        culture = korean
+        religion = placeholder
+        size = 141423
+    }
+
+    slaves = {
+        culture = korean
+        religion = placeholder
+        size = 10395
+    }
+}
+#Cholla Region (1504000)
+#under the rule of Korea in 1836
+#Kwangju (644000/161000 POPS)
+1635 = {
+    aristocrats = {
+        culture = korean
+        religion = placeholder
+        size = 3118
+    }
+
+    bureaucrats = {
+        culture = korean
+        religion = placeholder
+        size = 311
+    }
+
+    officers = {
+        culture = korean
+        religion = placeholder
+        size = 363
+    }
+
+    clergymen = {
+        culture = korean
+        religion = placeholder
+        size = 1559
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 7847
+    }
+
+    soldiers = {
+        culture = korean
+        religion = placeholder
+        size = 2079
+    }
+
+    farmers = {
+        culture = korean
+        religion = placeholder
+        size = 141683
+    }
+
+    slaves = {
+        culture = korean
+        religion = placeholder
+        size = 10395
+    }
+}
+#Taegu (560000/140000 POPS)
+1636 = {
+    aristocrats = {
+        culture = korean
+        religion = placeholder
+        size = 2650
+    }
+
+    clergymen = {
+        culture = korean
+        religion = placeholder
+        size = 1377
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 6756
+    }
+
+    soldiers = {
+        culture = korean
+        religion = placeholder
+        size = 2079
+    }
+
+    farmers = {
+        culture = korean
+        religion = placeholder
+        size = 122270
+    }
+
+    slaves = {
+        culture = korean
+        religion = placeholder
+        size = 10395
+    }
+}
+#Cheju (300000/75000 POPS)
+1637 = {
+    aristocrats = {
+        culture = korean
+        religion = placeholder
+        size = 1402
+    }
+
+    clergymen = {
+        culture = korean
+        religion = placeholder
+        size = 753
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 3638
+    }
+
+    soldiers = {
+        culture = korean
+        religion = placeholder
+        size = 727
+    }
+
+    farmers = {
+        culture = korean
+        religion = placeholder
+        size = 66241
+    }
+
+    slaves = {
+        culture = korean
+        religion = placeholder
+        size = 5197
+    }
+}
+#Tanchon
+3285 = {
+    aristocrats = {
+        culture = korean
+        religion = placeholder
+        size = 1559
+    }
+
+    clergymen = {
+        culture = korean
+        religion = placeholder
+        size = 831
+    }
+
+    artisans = {
+        culture = korean
+        religion = placeholder
+        size = 4158
+    }
+
+    soldiers = {
+        culture = korean
+        religion = placeholder
+        size = 1143
+    }
+
+    farmers = {
+        culture = korean
+        religion = placeholder
+        size = 75467
+    }
+
+    slaves = {
+        culture = korean
+        religion = placeholder
+        size = 10395
+    }
+}

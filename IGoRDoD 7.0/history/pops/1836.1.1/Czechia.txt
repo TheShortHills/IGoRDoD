@@ -1,0 +1,865 @@
+#Bohemia Region (4136000)
+#under the rule of Austria in 1836
+#Prague (1572000/393000 POPS)
+625 = {
+    bureaucrats = {
+        culture = czech
+        religion = placeholder
+        size = 3176
+    }
+
+    officers = {
+        culture = czech
+        religion = placeholder
+        size = 288
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 4186
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 11550
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 9240
+    }
+
+    clerks = {
+        culture = czech
+        religion = placeholder
+        size = 115
+    }
+
+    craftsmen = {
+        culture = czech
+        religion = placeholder
+        size = 88345
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 130559
+    }
+
+    aristocrats = {
+        culture = czech
+        religion = placeholder
+        size = 3465
+    }
+
+    bureaucrats = {
+        culture = czech
+        religion = placeholder
+        size = 8951
+    }
+
+    officers = {
+        culture = czech
+        religion = placeholder
+        size = 924
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 317
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 11550
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 2310
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 16650
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 5775
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 86
+    }
+
+    clerks = {
+        culture = czech
+        religion = placeholder
+        size = 57
+    }
+
+    craftsmen = {
+        culture = czech
+        religion = placeholder
+        size = 2264
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 5717
+    }
+}
+#Hradec Kralove (528000/132000 POPS)
+626 = {
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 924
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 4908
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 1270
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 91187
+    }
+
+    aristocrats = {
+        culture = czech
+        religion = placeholder
+        size = 1386
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 519
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 2541
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 12069
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 34303
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 57
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 2310
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 28
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 1067
+    }
+}
+#Karlsbad (600000/150000 POPS)
+627 = {
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 462
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 635
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 24024
+    }
+
+    aristocrats = {
+        culture = czech
+        religion = placeholder
+        size = 1501
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 1443
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 7218
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 4993
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 131217
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 57
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 2310
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 1067
+    }
+}
+#Aussig (276000/69000 POPS)
+628 = {
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 86
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 577
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 0
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 10769
+    }
+	craftsmen = {
+        culture = czech
+        religion = placeholder
+        size = 50000
+    }
+
+    aristocrats = {
+        culture = czech
+        religion = placeholder
+        size = 750
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 663
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 3407
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 2270
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 162167
+    }
+}
+#Pilsen (672000/168000 POPS)
+629 = {
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 1039
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 5775
+    }
+
+    clerks = {
+        culture = czech
+        religion = placeholder
+        size = 57
+    }
+
+    craftsmen = {
+        culture = czech
+        religion = placeholder
+        size = 3672
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 86682
+    }
+
+    aristocrats = {
+        culture = czech
+        religion = placeholder
+        size = 1848
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 750
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 3753
+    }
+
+    craftsmen = {
+        culture = czech
+        religion = placeholder
+        size = 3672
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 8075
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 77506
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 57
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 2310
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 28
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 1067
+    }
+}
+#Budejovice (488000/122000 POPS)
+630 = {
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 577
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 3234
+    }
+
+    clerks = {
+        culture = czech
+        religion = placeholder
+        size = 57
+    }
+
+    craftsmen = {
+        culture = czech
+        religion = placeholder
+        size = 2448
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 635
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 59020
+    }
+
+    aristocrats = {
+        culture = czech
+        religion = placeholder
+        size = 1386
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 721
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 3522
+    }
+
+    clerks = {
+        culture = czech
+        religion = placeholder
+        size = 57
+    }
+
+    craftsmen = {
+        culture = czech
+        religion = placeholder
+        size = 2448
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 1270
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 62456
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 57
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 2310
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 28
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 1067
+    }
+}
+#Moravia Region (1476000)
+#under the rule of Austria in 1836
+#Brno (1040000/260000 POPS)
+631 = {
+    bureaucrats = {
+        culture = czech
+        religion = placeholder
+        size = 1443
+    }
+
+    officers = {
+        culture = czech
+        religion = placeholder
+        size = 143
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 2107
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 10799
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 2194
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 190450
+    }
+
+    aristocrats = {
+        culture = czech
+        religion = placeholder
+        size = 2887
+    }
+
+    bureaucrats = {
+        culture = czech
+        religion = placeholder
+        size = 2598
+    }
+
+    officers = {
+        culture = czech
+        religion = placeholder
+        size = 288
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 779
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 7507
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 11550
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 55352
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 92
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 2887
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 57
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 1582
+    }
+}
+#Olomouc (436000/109000 POPS)
+632 = {
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 866
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 4389
+    }
+
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 71108
+    }
+
+    aristocrats = {
+        culture = czech
+        religion = placeholder
+        size = 1212
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 346
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 1732
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 8896
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 35011
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 57
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 2350
+    }
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 1067
+    }
+}
+#Silesia Region (220000) #see Poland.txt for balance of region
+#under the rule of Austria in 1836
+#Troppau (104000/26000 POPS)
+688 = {
+    bureaucrats = {
+        culture = czech
+        religion = placeholder
+        size = 231
+    }
+
+    officers = {
+        culture = czech
+        religion = placeholder
+        size = 28
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 57
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 519
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 57
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 6219
+    }
+
+    aristocrats = {
+        culture = czech
+        religion = placeholder
+        size = 288
+    }
+
+    officers = {
+        culture = czech
+        religion = placeholder
+        size = 57
+    }
+
+    bureaucrats = {
+        culture = czech
+        religion = placeholder
+        size = 808
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 231
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 1790
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 231
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 20339
+    }
+}
+#Tesin (116000/29000 POPS)
+689 = {
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 143
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 808
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 143
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 15072
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 23
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 115
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 28
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 1102
+    }
+
+    aristocrats = {
+        culture = czech
+        religion = placeholder
+        size = 404
+    }
+
+    clergymen = {
+        culture = czech
+        religion = placeholder
+        size = 173
+    }
+
+    artisans = {
+        culture = czech
+        religion = placeholder
+        size = 808
+    }
+
+    soldiers = {
+        culture = czech
+        religion = placeholder
+        size = 173
+    }
+
+    farmers = {
+        culture = czech
+        religion = placeholder
+        size = 14610
+    }
+}

@@ -1,0 +1,148 @@
+#French Guiana (20000)
+#Ruled by France 1836
+#Cayenne (17000/4250 POPS)
+2241 = {
+	aristocrats = {
+		culture = granadan
+		religion = placeholder
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = granadan
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = granadan
+		religion = placeholder
+		size = 10
+	}
+
+	artisans = {
+		culture = granadan
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = granadan
+		religion = placeholder
+		size= 50
+
+	}
+
+	farmers = {
+		culture = granadan
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = {
+		culture = granadan
+		religion = placeholder
+		size = 200
+	}
+
+	clergymen = {
+		culture = granadan
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = granadan
+		religion = placeholder
+		size= 50
+
+	}
+
+	farmers = {
+		culture = granadan
+		religion = placeholder
+		size = 425
+	}
+
+	farmers = {
+		culture = granadan
+		religion = placeholder
+		size = 6200
+	}
+
+	aristocrats = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 2
+	}
+
+	clergymen = {
+		culture = granadan
+		religion = placeholder
+		size = 3
+	}
+
+	artisans = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 10
+	}
+
+	soldiers = {
+		culture = granadan
+		religion = placeholder
+		size= 5
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 2800
+	}
+	
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 1800
+	}
+}
+#Maripasoula (3000/750 POPS)
+2246 = {
+	aristocrats = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 15
+	}
+
+	artisans = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 35
+	}
+
+	soldiers = {
+		culture = granadan
+		religion = placeholder
+		size= 10
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 1600
+	}
+	
+	farmers = {
+		culture = granadan
+		religion = placeholder
+		size = 600
+	}
+}

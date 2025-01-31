@@ -1,0 +1,8 @@
+owner = SUA
+controller = SUA
+add_core = SUA
+trade_goods = iron
+life_rating = 35
+
+
+

@@ -1,0 +1,160 @@
+#Mawarannahr Region (200000) #see turkichstan.txt, turkicistan.txt, Kirghizstan.txt and turkicistan.txt for balance of region
+#under the rule of Kokand in 1836
+#Khujand (200000/50000 POPS) #now part of turkicistan
+1201 = {
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 797
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 411
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 2059
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 187
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 37503
+    }
+
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 180
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 77
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 514
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 46
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 9420
+    }
+}
+#Badakhshan Region (212000)
+#under the rule of Kokand in 1836
+#Kulob (120000/30000 POPS)
+1207 = {
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 592
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 283
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 1492
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 117
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 28262
+    }
+}
+#Khorugh (92000/23000 POPS)
+1208 = {
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 562
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 280
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 1366
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 510
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 28071
+    }
+
+    aristocrats = {
+        culture = turkic
+        religion = placeholder
+        size = 120
+    }
+
+    clergymen = {
+        culture = turkic
+        religion = placeholder
+        size = 120
+    }
+
+    artisans = {
+        culture = turkic
+        religion = placeholder
+        size = 280
+    }
+
+    soldiers = {
+        culture = turkic
+        religion = placeholder
+        size = 71
+    }
+
+    farmers = {
+        culture = turkic
+        religion = placeholder
+        size = 5871
+    }
+}

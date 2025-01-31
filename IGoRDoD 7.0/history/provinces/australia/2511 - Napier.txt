@@ -1,0 +1,8 @@
+owner = AOT
+controller = AOT
+add_core = AOT
+trade_goods = fruit
+life_rating = 35
+
+
+

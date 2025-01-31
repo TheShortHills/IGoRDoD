@@ -1,0 +1,43 @@
+political_decisions = {	
+	begin_land_development_plan = {
+		potential = {
+			tag = INC
+			NOT = {has_country_flag = incan_bb}
+		}
+		allow = {
+			year = 1850
+		}
+		effect = {
+			set_global_flag = incan_bb_starts
+			set_country_flag = incan_bb
+			INC = {
+				all_core = {
+					limit = {
+						owned_by = INC
+					}
+					add_province_modifier = {
+						name = incan_breadbasket
+						duration = -1
+					}
+				}
+			}
+		}	
+	}
+	incan_dominance = {	
+		potential = {
+			tag = INC
+			NOT = {has_country_flag = incan_dominance}
+		}
+		allow = {
+			state_n_government = 1
+			INC = {all_core = {owned_by = THIS}}
+		}
+		effect = {
+			GRA_1 = {add_core = THIS}
+			GRA_11 = {add_core = THIS}
+			GRA_2 = {add_core = THIS}
+			GRA_3 = {add_core = THIS}
+			set_country_flag = incan_dominance
+		}
+	}
+}

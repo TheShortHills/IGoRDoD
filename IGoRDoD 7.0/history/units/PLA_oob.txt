@@ -1,0 +1,113 @@
+army = {
+	name = "First Plantagenian Army"
+	location = 140
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 139
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 139
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 139
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = infantry
+		home = 141
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 140
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 192
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 143
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 189
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = artillery
+		home = 187
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = cavalry
+		home = 146
+	}
+}
+army = {
+	name = "Second Plantagenian Army"
+	location = 204
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 191
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 191
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 190
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 195
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 201
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = cavalry
+		home = 196
+	}
+}
+
+army = {
+	name = "Plantagenian Border Guard"
+	location = 211
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 202
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 210
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 209
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 205
+	}
+}

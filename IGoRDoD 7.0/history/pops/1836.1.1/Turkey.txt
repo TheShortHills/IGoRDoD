@@ -1,0 +1,4686 @@
+#Thrace Region (364000) #see Greece.txt for balance of region
+#under the rule of Ottoman Empire in 1836
+#Edirne (172000/43000 POPS)
+828 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 1162
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = placeholder
+        size = 1452
+    }
+
+    officers = {
+        culture = turkish
+        religion = placeholder
+        size = 160
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 224
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 11369
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 1937
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 9979
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 224
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 10077
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 6103
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 42
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 1700
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 85
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 7522
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 15
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 580
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = placeholder
+        size = 85
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = placeholder
+        size = 1530
+    }
+
+    craftsmen = {
+        culture = sephardic
+        religion = placeholder
+        size = 74
+    }
+
+    craftsmen = {
+        culture = turkish
+        religion = placeholder
+        size = 225
+    }
+
+    craftsmen = {
+        culture = turkish
+        religion = placeholder
+        size = 225
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 6
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 248
+    }
+}
+#Kirklareli (112000/28000 POPS)
+858 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 710
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 160
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 968
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 258
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 14565
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 710
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 9044
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 63
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 85
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 85
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 4951
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = placeholder
+        size = 212
+    }
+
+    craftsmen = {
+        culture = turkish
+        religion = placeholder
+        size = 112
+    }
+
+    craftsmen = {
+        culture = turkish
+        religion = placeholder
+        size = 112
+    }
+}
+#Gelibolu (80000/20000 POPS)
+859 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 483
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 710
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 258
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 12628
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 95
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 580
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 10367
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = placeholder
+        size = 4
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = placeholder
+        size = 208
+    }
+
+    craftsmen = {
+        culture = turkish
+        religion = placeholder
+        size = 112
+    }
+
+    craftsmen = {
+        culture = turkish
+        religion = placeholder
+        size = 112
+    }
+}
+#Istanbul Region (1268000)
+#under the rule of Ottoman Empire in 1836
+#Istanbul (764000/191000 POPS)
+860 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 968
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = placeholder
+        size = 4521
+    }
+
+    officers = {
+        culture = turkish
+        religion = placeholder
+        size = 580
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 1452
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 12920
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 12920
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 12920
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 12920
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 12920
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 12920
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 6460
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 5813
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 28002
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 775
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 12920
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 12920
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 12920
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 12661
+    }
+
+    clerks = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 258
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 7493
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = placeholder
+        size = 21
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = placeholder
+        size = 2125
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = placeholder
+        size = 403
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 134
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 5950
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 5950
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 3272
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 2246
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = placeholder
+        size = 63
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = placeholder
+        size = 8011
+    }
+
+    clergymen = {
+        culture = north_italian
+        religion = placeholder
+        size = 21
+    }
+
+    artisans = {
+        culture = north_italian
+        religion = placeholder
+        size = 1678
+    }
+
+    craftsmen = {
+        culture = turkish
+        religion = placeholder
+        size = 2825
+    }
+
+    craftsmen = {
+        culture = turkish
+        religion = placeholder
+        size = 2825
+    }
+
+    craftsmen = {
+        culture = armenian
+        religion = placeholder
+        size = 260
+    }
+
+    craftsmen = {
+        culture = sephardic
+        religion = placeholder
+        size = 371
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 57
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 2550
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 2550
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 1403
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 962
+    }
+
+    craftsmen = {
+        culture = turkish
+        religion = placeholder
+        size = 111
+    }
+}
+#Uskudar (188000/47000 POPS)
+861 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 580
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 387
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 3617
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 2712
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 30038
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 160
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 4263
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 10689
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 29
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 1368
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 2052
+    }
+
+    craftsmen = {
+        culture = armenian
+        religion = placeholder
+        size = 104
+    }
+
+    craftsmen = {
+        culture = turkish
+        religion = placeholder
+        size = 225
+    }
+
+    craftsmen = {
+        culture = turkish
+        religion = placeholder
+        size = 225
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 13
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 587
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 880
+    }
+
+    craftsmen = {
+        culture = turkish
+        religion = placeholder
+        size = 44
+    }
+}
+#Izmit (316000/79000 POPS)
+862 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 1420
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 741
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 4359
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 2325
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 63630
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 95
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 580
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 10948
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 74
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 416
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 7958
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 32
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 179
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 3410
+    }
+}
+#Hudavendigar Region (736000)
+#under the rule of Ottoman Empire in 1836
+#Bursa (400000/100000 POPS)
+863 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 1485
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = placeholder
+        size = 2098
+    }
+
+    officers = {
+        culture = turkish
+        religion = placeholder
+        size = 258
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 968
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 7752
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 2584
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 83558
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 193
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 7105
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 12596
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 44
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 1487
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 3823
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = placeholder
+        size = 8
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = placeholder
+        size = 416
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 19
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 638
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 1638
+    }
+}
+#Balikesir (204000/51000 POPS)
+864 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 839
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 548
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 2712
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 2196
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 47964
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 95
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 580
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 10819
+    }
+}
+#Chanakkale (132000/33000 POPS)
+865 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 452
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 353
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 1937
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 418
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 35659
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 64
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 193
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 3617
+    }
+}
+#Karahisar Region (336000)
+#under the rule of Ottoman Empire in 1836
+#Afyon (84000/21000 POPS)
+866 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 353
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 224
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 1227
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 258
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 22480
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 64
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 1200
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 29
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 654
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 5
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 13
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 281
+    }
+}
+#Kutahya (112000/28000 POPS)
+867 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 483
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 353
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 1744
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 353
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 31943
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 64
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 1200
+    }
+}
+#Eskisehir (140000/35000 POPS)
+868 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 580
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = placeholder
+        size = 3390
+    }
+
+    officers = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 353
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 2131
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 2389
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 36240
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 25
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 64
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 1200
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 29
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 654
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 5
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 13
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 281
+    }
+}
+#Aydin Region (988000)
+#under the rule of Ottoman Empire in 1836
+#Izmir (340000/85000 POPS)
+869 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 741
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = placeholder
+        size = 2744
+    }
+
+    officers = {
+        culture = turkish
+        religion = placeholder
+        size = 322
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 710
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 12920
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 2550
+    }
+
+    clerks = {
+        culture = turkish
+        religion = placeholder
+        size = 31
+    }
+
+    craftsmen = {
+        culture = turkish
+        religion = placeholder
+        size = 1130
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 5168
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 46964
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 322
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 12920
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 11498
+    }
+
+    clerks = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    craftsmen = {
+        culture = turkish
+        religion = placeholder
+        size = 1130
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 645
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 6912
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 583
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = placeholder
+        size = 42
+    }
+
+    craftsmen = {
+        culture = sephardic
+        religion = placeholder
+        size = 74
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = placeholder
+        size = 2422
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 5
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 250
+    }
+}
+#Manisa (244000/61000 POPS)
+870 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 710
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 710
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 9689
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 2584
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 57364
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 4521
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 2971
+    }
+}
+#Denizli (308000/77000 POPS)
+871 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 1162
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 935
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 4715
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 2519
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 85013
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 258
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 4651
+    }
+}
+#Mugla (96000/24000 POPS)
+872 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 353
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 258
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 1420
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 322
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 26064
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 31
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 2420
+    }
+}
+#Karaman Region (820000)
+#under the rule of Ottoman Empire in 1836
+#Konya (416000/104000 POPS)
+873 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 1485
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = placeholder
+        size = 1937
+    }
+
+    officers = {
+        culture = turkish
+        religion = placeholder
+        size = 289
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 1227
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 4973
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 5232
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 110432
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 452
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 8945
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 29
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 553
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 5
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 13
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 237
+    }
+}
+#Burdur (200000/50000 POPS)
+874 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 839
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 612
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 3036
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 2196
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 54036
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 31
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 2420
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 12
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 29
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 553
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 5
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 13
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 237
+    }
+}
+#Antalya (204000/51000 POPS)
+875 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 741
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 612
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 3100
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 2227
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 55328
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 3488
+    }
+}
+#Central Anatolia Region (692000)
+#under the rule of Ottoman Empire in 1836
+#Ankara (240000/60000 POPS)
+876 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 904
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = placeholder
+        size = 1614
+    }
+
+    officers = {
+        culture = turkish
+        religion = placeholder
+        size = 258
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 676
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 2842
+    }
+
+    craftsmen = {
+        culture = turkish
+        religion = placeholder
+        size = 5206
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 2584
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 62176
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 31
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 64
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 1193
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 119
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 2737
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 51
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 1173
+    }
+}
+#Amasya (132000/33000 POPS)
+877 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 870
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 387
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 1937
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 418
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 35142
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 31
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 64
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 1193
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 15
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 1115
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 6
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 478
+    }
+}
+#Kayseri (96000/24000 POPS)
+878 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 387
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 160
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 775
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 4488
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 134368
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 64
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 322
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 5943
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 44
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 208
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 3852
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 19
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 89
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 1651
+    }
+}
+#Sivas (224000/56000 POPS)
+879 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 775
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 580
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 2906
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 2584
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 52584
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 31
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 2420
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 44
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 267
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 4983
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 19
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 115
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 2135
+    }
+}
+#Kastamonu Region (392000)
+#under the rule of Ottoman Empire in 1836
+#Kastamonu (296000/74000 POPS)
+880 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 1064
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = placeholder
+        size = 806
+    }
+
+    officers = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 935
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 4715
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 2260
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 85044
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 31
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 64
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 1193
+    }
+}
+#Bolu (96000/24000 POPS)
+881 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 322
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 289
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 1485
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 322
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 27292
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 31
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 64
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 1193
+    }
+}
+#Trebizonde Region (540000)
+#under the rule of Ottoman Empire in 1836
+#Trabzon (208000/52000 POPS)
+882 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 710
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = placeholder
+        size = 1128
+    }
+
+    officers = {
+        culture = turkish
+        religion = placeholder
+        size = 193
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 452
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 2260
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 2584
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 38791
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 160
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 839
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 15664
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 29
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 148
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 2737
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 13
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 64
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 1173
+    }
+}
+#Sinop (192000/48000 POPS)
+883 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 676
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 548
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 2777
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 2584
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 48837
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 64
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 322
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 6072
+    }
+}
+#Giresun (140000/35000 POPS)
+884 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 516
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 322
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 1614
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 516
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 29199
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 516
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 9689
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 15
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 1115
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 6
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 478
+    }
+}
+#Kars Region (856000) #see Georgia.txt for balance of region
+#under the rule of Ottoman Empire in 1836
+#Kars (408000/102000 POPS)
+885 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 775
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = placeholder
+        size = 1292
+    }
+
+    officers = {
+        culture = turkish
+        religion = placeholder
+        size = 193
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 645
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 3229
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 2584
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 56912
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 178
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 892
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 16779
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = placeholder
+        size = 267
+    }
+
+    bureaucrats = {
+        culture = armenian
+        religion = placeholder
+        size = 148
+    }
+
+    officers = {
+        culture = armenian
+        religion = placeholder
+        size = 44
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 119
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 654
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 163
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 11870
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 77
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 383
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 7191
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 115
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = placeholder
+        size = 64
+    }
+
+    officers = {
+        culture = turkish
+        religion = placeholder
+        size = 19
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 51
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 281
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 70
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 5087
+    }
+}
+#Ardahan (448000/112000 POPS)
+886 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 839
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 548
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 2777
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 2292
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 49096
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 178
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 892
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 119
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 16660
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = placeholder
+        size = 327
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 223
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 1160
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 223
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 21271
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 77
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 383
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 51
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 7140
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 140
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 95
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 497
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 95
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 9116
+    }
+}
+#Eastern Anatolia Region (676000)
+#under the rule of Ottoman Empire in 1836
+#Erzurum (168000/42000 POPS)
+887 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 258
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = placeholder
+        size = 968
+    }
+
+    officers = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 160
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 839
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 516
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 14953
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 267
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 5206
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = placeholder
+        size = 178
+    }
+
+    bureaucrats = {
+        culture = armenian
+        religion = placeholder
+        size = 148
+    }
+
+    officers = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 119
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 654
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 178
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 10799
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 115
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 2231
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 77
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = placeholder
+        size = 64
+    }
+
+    officers = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 51
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 281
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 77
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 4628
+    }
+}
+#Erzincan (312000/78000 POPS)
+888 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 580
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 289
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 1485
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 387
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 27098
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 208
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 1071
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 238
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 19902
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = placeholder
+        size = 238
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 119
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 565
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 178
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 10263
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 89
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 459
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 102
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 8530
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 102
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 51
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 242
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 77
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 4399
+    }
+}
+#Malatya (196000/49000 POPS) #mashriqi placeholder = Assyrians
+889 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 224
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 645
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 13113
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 357
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 6664
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 136
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 2532
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = placeholder
+        size = 223
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 134
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 684
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 208
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 12435
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 153
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 2856
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 95
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 57
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 293
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 89
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 5330
+    }
+}
+#Kurdistan Region (720000)
+#under the rule of Ottoman Empire in 1836
+#Van (288000/72000 POPS)
+890 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 224
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = placeholder
+        size = 806
+    }
+
+    officers = {
+        culture = turkish
+        religion = placeholder
+        size = 160
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 710
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 12790
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 104
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 565
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 104
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 10531
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 68
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 204
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 3808
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = placeholder
+        size = 327
+    }
+
+    bureaucrats = {
+        culture = armenian
+        religion = placeholder
+        size = 223
+    }
+
+    officers = {
+        culture = armenian
+        religion = placeholder
+        size = 44
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 208
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 1071
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 981
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 18742
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 44
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 242
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 44
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 4514
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 140
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = placeholder
+        size = 95
+    }
+
+    officers = {
+        culture = turkish
+        religion = placeholder
+        size = 19
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 89
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 459
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 421
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 8033
+    }
+}
+#Bitlis (76000/19000 POPS)
+891 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 258
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 4651
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 29
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 208
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 3867
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 16
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 68
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 1274
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 178
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 3213
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 13
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 89
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 1658
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 77
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 1377
+    }
+}
+#Hakkari (92000/23000 POPS)
+892 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 64
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 95
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 193
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 95
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 3423
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 178
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 3867
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 16
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 68
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 1274
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = placeholder
+        size = 89
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 327
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 104
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 5965
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 77
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 1658
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 38
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 140
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 44
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 2556
+    }
+}
+#Diyarbakir (264000/66000 POPS)
+893 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 31
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 258
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 258
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 2906
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 119
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 624
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 12286
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 50
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 272
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 5116
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = placeholder
+        size = 386
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 208
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 1041
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 981
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 18207
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 51
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 268
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 5266
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 166
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 89
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 446
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 421
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 7803
+    }
+}
+#Cilicia Region (540000)
+#under the rule of Ottoman Empire in 1836
+#Adana (252000/63000 POPS)
+894 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 839
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = placeholder
+        size = 968
+    }
+
+    officers = {
+        culture = turkish
+        religion = placeholder
+        size = 193
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 645
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 3294
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 2356
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 58235
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 64
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 193
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 3617
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 44
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 267
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 4983
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 19
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 115
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 2135
+    }
+}
+#Mersin (96000/24000 POPS)
+895 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 353
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 289
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 1420
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 160
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 26193
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 31
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 2420
+    }
+}
+#Marash (192000/48000 POPS)
+896 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 676
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 548
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 2712
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 1710
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 48480
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 29
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 178
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 3361
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 13
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 77
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 1441
+    }
+}
+#Halab Region (756000) #see Syria.txt for balance of region
+#under the rule of Egypt in 1836
+#Antep (248000/62000 POPS)
+898 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 580
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 452
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 2260
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 548
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 41375
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = placeholder
+        size = 148
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 104
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 505
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 119
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 9237
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 44
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 297
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 5608
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 64
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 44
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 217
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 51
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 3959
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 19
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 128
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 2403
+    }
+}
+#Urfa (348000/87000 POPS)
+899 = {
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 322
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 224
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 1162
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 95
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 21447
+    }
+
+    aristocrats = {
+        culture = armenian
+        religion = placeholder
+        size = 208
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 163
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 833
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = placeholder
+        size = 193
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 15261
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 272
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 186
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 1156
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 1070
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 21725
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 29
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 208
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 59
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 3867
+    }
+
+    aristocrats = {
+        culture = turkish
+        religion = placeholder
+        size = 89
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 70
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 357
+    }
+
+    soldiers = {
+        culture = turkish
+        religion = placeholder
+        size = 83
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 6541
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 13
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 89
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 26
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 1658
+    }
+}
+#Antioch (160000/40000 POPS)
+900 = {
+    aristocrats = {
+        culture = mashriqi
+        religion = placeholder
+        size = 816
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = placeholder
+        size = 407
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = placeholder
+        size = 2182
+    }
+
+    soldiers = {
+        culture = mashriqi
+        religion = placeholder
+        size = 610
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = placeholder
+        size = 19650
+    }
+
+    aristocrats = {
+        culture = mashriqi
+        religion = placeholder
+        size = 285
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = placeholder
+        size = 142
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = placeholder
+        size = 788
+    }
+
+    soldiers = {
+        culture = mashriqi
+        religion = placeholder
+        size = 249
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = placeholder
+        size = 14330
+    }
+
+    clergymen = {
+        culture = mashriqi
+        religion = placeholder
+        size = 105
+    }
+
+    artisans = {
+        culture = mashriqi
+        religion = placeholder
+        size = 644
+    }
+
+    farmers = {
+        culture = mashriqi
+        religion = placeholder
+        size = 12175
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = placeholder
+        size = 51
+    }
+
+    artisans = {
+        culture = armenian
+        religion = placeholder
+        size = 136
+    }
+
+    farmers = {
+        culture = armenian
+        religion = placeholder
+        size = 2548
+    }
+
+    clergymen = {
+        culture = turkish
+        religion = placeholder
+        size = 22
+    }
+
+    artisans = {
+        culture = turkish
+        religion = placeholder
+        size = 59
+    }
+
+    farmers = {
+        culture = turkish
+        religion = placeholder
+        size = 1092
+    }
+}

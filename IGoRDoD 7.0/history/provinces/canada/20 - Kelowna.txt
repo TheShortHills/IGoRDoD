@@ -1,0 +1,9 @@
+owner = KKN
+controller = KKN
+add_core = KKN
+
+
+trade_goods = grain
+life_rating = 35
+
+

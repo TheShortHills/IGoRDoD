@@ -1,0 +1,259 @@
+#Bechuanaland Region (76000) #see South Africa.txt for balance of region
+#uncolonized in 1836/dominated by the Tswana in 1836
+#Gaborone (28000/7000 POPS)
+2074 = {
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 191
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 222
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 541
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 200
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 62891
+    }
+}
+#Nokaneng (12000/3000 POPS)
+2076 = {
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 20
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 68
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 76
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 1394
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 36
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 148
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 154
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 62
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 2792
+    }
+}
+#Tshabong (12000/3000 POPS)
+2077 = {
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 36
+    }
+
+    bureaucrats = {
+        culture = bantu
+        religion = placeholder
+        size = 2746
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 148
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 154
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 62
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 55792
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 20
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 68
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 76
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 1394
+    }
+}
+#Mochidi (16000/4000 POPS)
+2574 = {
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 76
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 148
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 309
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 133
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 58662
+    }
+}
+#uncolonized in 1836/dominated by the Ndebele in 1836
+#Serowe (8000/2000 POPS)
+2075 = {
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 20
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 37
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 76
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 51
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 1394
+    }
+
+    aristocrats = {
+        culture = bantu
+        religion = placeholder
+        size = 20
+    }
+
+    clergymen = {
+        culture = bantu
+        religion = placeholder
+        size = 68
+    }
+
+    artisans = {
+        culture = bantu
+        religion = placeholder
+        size = 76
+    }
+
+    soldiers = {
+        culture = bantu
+        religion = placeholder
+        size = 25
+    }
+
+    farmers = {
+        culture = bantu
+        religion = placeholder
+        size = 1394
+    }
+}

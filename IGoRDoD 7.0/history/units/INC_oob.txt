@@ -1,0 +1,124 @@
+army = {
+	name = "First Incan Army"
+	location = 2307
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 2303
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 2302
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 2302
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = infantry
+		home = 2310
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = infantry
+		home = 2310
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = cavalry
+		home = 3329
+	}
+}
+
+army = {
+	name = "Second Incan Army"
+	location = 2325
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 2316
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 2307
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 2307
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = infantry
+		home = 2370
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = infantry
+		home = 2370
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 2387
+	}
+	regiment = {
+		name= "1.2nd Division"
+		type = artillery
+		home = 2326
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = cavalry
+		home = 2304
+	}
+}
+
+army = {
+	name = "Third Incan Army"
+	location = 2330
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 2312
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 3331
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 2311
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = infantry
+		home = 2313
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = infantry
+		home = 2368
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 2374
+	}
+	regiment = {
+		name= "1.2nd Division"
+		type = artillery
+		home = 2374
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = cavalry
+		home = 2373
+	}
+}

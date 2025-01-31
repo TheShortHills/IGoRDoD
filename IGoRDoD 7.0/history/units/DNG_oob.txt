@@ -1,0 +1,73 @@
+army = {
+	name = "First Army of Xifang"
+	location = 84
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 84
+	}
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 77
+	}
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 37
+	}
+	regiment = {
+		name= "4.1st Division"
+		type = infantry
+		home = 1131
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = infantry
+		home = 1126
+	}
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 1142
+	}
+	regiment = {
+		name= "5.1st Division"
+		type = cavalry
+		home = 1130
+	}
+}
+navy = {
+	name = "Xifang Navy"
+	location = 84
+	ship = {
+		name= "manowar"
+		type = manowar
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "frigate"
+		type = frigate
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+	ship = {
+		name= "transport"
+		type = clipper_transport
+	}	
+
+}

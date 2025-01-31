@@ -1,0 +1,298 @@
+#New Zealand : 85000
+#uncolonized in 1836
+#North Island Region (61000)
+#Auckland (17000/4250 POPS)
+2509 = {
+    aristocrats = {
+        culture = maori
+        religion = placeholder
+        size = 250
+    }
+
+    clergymen = {
+        culture = maori
+        religion = placeholder
+        size = 375
+    }
+
+    artisans = {
+        culture = maori
+        religion = placeholder
+        size = 1000
+    }
+
+    soldiers = {
+        culture = maori
+        religion = placeholder
+        size = 2000
+    }
+
+    farmers = {
+        culture = maori
+        religion = placeholder
+        size = 17875
+    }
+
+    farmers = {
+        culture = maori
+        religion = placeholder
+        size = 1250
+    }
+}
+#New Plymouth (8000/2000 POPS)
+2510 = {
+    aristocrats = {
+        culture = maori
+        religion = placeholder
+        size = 125
+    }
+
+    clergymen = {
+        culture = maori
+        religion = placeholder
+        size = 250
+    }
+
+    artisans = {
+        culture = maori
+        religion = placeholder
+        size = 500
+    }
+
+    soldiers = {
+        culture = maori
+        religion = placeholder
+        size = 1000
+    }
+
+    farmers = {
+        culture = maori
+        religion = placeholder
+        size = 8875
+    }
+}
+#Napier (12000/3000 POPS)
+2511 = {
+    aristocrats = {
+        culture = maori
+        religion = placeholder
+        size = 125
+    }
+
+    clergymen = {
+        culture = maori
+        religion = placeholder
+        size = 375
+    }
+
+    artisans = {
+        culture = maori
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = maori
+        religion = placeholder
+        size = 1500
+    }
+
+    farmers = {
+        culture = maori
+        religion = placeholder
+        size = 13375
+    }
+}
+#Wellington (12000/3000 POPS)
+2512 = {
+    aristocrats = {
+        culture = maori
+        religion = placeholder
+        size = 125
+    }
+
+    clergymen = {
+        culture = maori
+        religion = placeholder
+        size = 375
+    }
+
+    artisans = {
+        culture = maori
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = maori
+        religion = placeholder
+        size = 1500
+    }
+
+    farmers = {
+        culture = maori
+        religion = placeholder
+        size = 13375
+    }
+}
+#Tauranga (12000/3000 POPS)
+2571 = {
+    aristocrats = {
+        culture = maori
+        religion = placeholder
+        size = 125
+    }
+
+    clergymen = {
+        culture = maori
+        religion = placeholder
+        size = 375
+    }
+
+    artisans = {
+        culture = maori
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = maori
+        religion = placeholder
+        size = 1500
+    }
+
+    farmers = {
+        culture = maori
+        religion = placeholder
+        size = 13375
+    }
+}
+#South Island Region (24000)
+#Dunedin (4000/1000 POPS)
+2513 = {
+    aristocrats = {
+        culture = maori
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = maori
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = maori
+        religion = placeholder
+        size = 250
+    }
+
+    soldiers = {
+        culture = maori
+        religion = placeholder
+        size = 300
+    }
+
+    farmers = {
+        culture = maori
+        religion = placeholder
+        size = 4500
+    }
+}
+#Hokitikia (4000/1000 POPS)
+2514 = {
+    aristocrats = {
+        culture = maori
+        religion = placeholder
+        size = 50
+    }
+
+    clergymen = {
+        culture = maori
+        religion = placeholder
+        size = 125
+    }
+
+    artisans = {
+        culture = maori
+        religion = placeholder
+        size = 250
+    }
+
+    soldiers = {
+        culture = maori
+        religion = placeholder
+        size = 300
+    }
+
+    farmers = {
+        culture = maori
+        religion = placeholder
+        size = 4500
+    }
+}
+#Christchurch (4000/1000 POPS)
+2515 = {
+    aristocrats = {
+        culture = maori
+        religion = placeholder
+        size = 125
+    }
+
+    clergymen = {
+        culture = maori
+        religion = placeholder
+        size = 250
+    }
+
+    artisans = {
+        culture = maori
+        religion = placeholder
+        size = 500
+    }
+
+    soldiers = {
+        culture = maori
+        religion = placeholder
+        size = 1000
+    }
+
+    farmers = {
+        culture = maori
+        religion = placeholder
+        size = 8875
+    }
+}
+#Nelson (12000/3000 POPS)
+2516 = {
+    aristocrats = {
+        culture = maori
+        religion = placeholder
+        size = 125
+    }
+
+    clergymen = {
+        culture = maori
+        religion = placeholder
+        size = 375
+    }
+
+    artisans = {
+        culture = maori
+        religion = placeholder
+        size = 750
+    }
+
+    soldiers = {
+        culture = maori
+        religion = placeholder
+        size = 1500
+    }
+
+    farmers = {
+        culture = maori
+        religion = placeholder
+        size = 13375
+    }
+}
