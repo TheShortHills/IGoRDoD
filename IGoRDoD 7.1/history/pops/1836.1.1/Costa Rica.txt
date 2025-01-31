@@ -1,0 +1,302 @@
+#Costa Rica Region (84000)
+#Ruled by Central America 1836
+#San Jose (52000/13000 POPS)
+2201 = {
+	aristocrats = {
+		culture = central_american
+		religion = placeholder
+		size = 300
+	}
+
+	bureaucrats = {
+		culture = central_american
+		religion = placeholder
+		size = 50
+	}
+
+	officers = {
+		culture = central_american
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = central_american
+		religion = placeholder
+		size = 650
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = placeholder
+		size= 525
+	}
+
+	farmers = {
+		culture = central_american
+		religion = placeholder
+		size = 11725
+	}
+
+	farmers = {
+		culture = central_american
+		religion = placeholder
+		size = 3240
+	}
+}
+#Liberia (20000/5000 POPS)
+2202 = {
+	aristocrats = {
+		culture = central_american
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = central_american
+		religion = placeholder
+		size = 250
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = placeholder
+		size= 50
+	}
+
+	farmers = {
+		culture = central_american
+		religion = placeholder
+		size = 4500
+		militancy = 5
+	}
+
+	farmers = {
+		culture = central_american
+		religion = placeholder
+		size = 1200
+	}
+}
+#Limon (12000/3000 POPS)
+2203 = {
+	aristocrats = {
+		culture = central_american
+		religion = placeholder
+		size = 75
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = central_american
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = placeholder
+		size= 25
+	}
+
+	farmers = {
+		culture = central_american
+		religion = placeholder
+		size = 1200
+	}
+	
+	farmers = {
+		culture = salvadoran_native
+		religion = placeholder
+		size = 1100
+	}
+	
+	farmers = {
+		culture = salvadoran_native
+		religion = placeholder
+		size = 1100
+	}
+}
+3316 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = mexican
+		religion = placeholder
+		size = 175
+	}
+
+	officers = {
+		culture = central_american
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = placeholder
+		size = 275
+	}
+
+	artisans = {
+		culture = central_american
+		religion = placeholder
+		size = 1350
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = placeholder
+		size= 1200
+
+	}
+
+	farmers = {
+		culture = central_american
+		religion = placeholder
+		size = 23000
+	}
+
+	aristocrats = {
+		culture = mayan
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = placeholder
+		size = 225
+	}
+
+	artisans = {
+		culture = mayan
+		religion = placeholder
+		size = 2100
+	}
+
+	farmers = {
+		culture = mayan
+		religion = placeholder
+		size = 13600
+	}
+}
+3317 = {
+	aristocrats = {
+		culture = central_american
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = central_american
+		religion = placeholder
+		size = 250
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = placeholder
+		size= 2050
+	}
+
+	farmers = {
+		culture = central_american
+		religion = placeholder
+		size = 8600
+	}
+
+	farmers = {
+		culture = central_american
+		religion = placeholder
+		size = 20800
+	}
+}
+3318 = {
+	aristocrats = {
+		culture = central_american
+		religion = placeholder
+		size = 55
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = central_american
+		religion = placeholder
+		size = 1050
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = placeholder
+		size= 1100
+	}
+
+	farmers = {
+		culture = central_american
+		religion = placeholder
+		size = 18200
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = central_american
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = placeholder
+		size= 1250
+
+	}
+
+	farmers = {
+		culture = salvadoran_native
+		religion = placeholder
+		size = 8600
+	}
+	
+	farmers = {
+		culture = salvadoran_native
+		religion = placeholder
+		size = 9850
+	}
+}

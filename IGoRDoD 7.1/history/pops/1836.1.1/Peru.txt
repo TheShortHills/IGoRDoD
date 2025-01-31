@@ -1,0 +1,923 @@
+#Loreto Region (96000)
+#Ruled by Peru 1836
+#Iquitos (60000/15000 POPS)
+2286 = {
+	aristocrats = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = amazonian_native
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 2700
+	}
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 500
+	}
+}
+#"Ruled" by Ecuador 1836
+#Yurimagues (12000/3000 POPS)
+2287 = {
+	aristocrats = {
+		culture = granadan
+		religion = placeholder
+		size = 325
+	}
+
+	clergymen = {
+		culture = granadan
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = granadan
+		religion = placeholder
+		size = 450
+	}
+
+	soldiers = {
+		culture = granadan
+		religion = placeholder
+		size= 500
+
+	}
+
+	farmers = {
+		culture = granadan
+		religion = placeholder
+		size = 8600
+	}
+
+	clergymen = {
+		culture = granadan
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = granadan
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = granadan
+		religion = placeholder
+		size= 75
+
+	}
+
+	farmers = {
+		culture = granadan
+		religion = placeholder
+		size = 1600
+	}
+
+	farmers = {
+		culture = granadan
+		religion = placeholder
+		size = 5000
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 10000
+	}
+}
+#Yuncos (12000/3000 POPS)
+2288 = {
+	aristocrats = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = amazonian_native
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 2700
+	}
+}
+#Puca Urco (12000/3000 POPS)
+2289 = {
+	aristocrats = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = amazonian_native
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 2700
+	}
+}
+#Cajamarca Region (296000)
+#Ruled by Peru 1836
+#Cajamarca (144000/38000 POPS)
+2290 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 1500
+	}
+
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 500
+	}
+
+	officers = {
+		culture = quechua
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 20000
+	}
+	
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 14800
+	}
+
+	
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 8000
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 1300
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size= 250
+
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 4000
+	}
+	
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder 
+		size = 10 
+	}
+	
+	clergymen = {
+		culture = quechua
+		religion = placeholder 
+		size = 150 
+	}
+	
+	artisans = { 
+		culture = quechua
+		religion = placeholder
+		size = 2000
+	} 
+	
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 8000
+	}
+}
+#Piura (60000/15000 POPS)
+2291 = {
+	
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 1200
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 420
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 6000
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 26250
+	}
+}
+#Trujillo (68000/17000 POPS)
+2292 = {
+
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 100
+	}
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 2000
+	}
+
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 2875
+	}
+	
+	farmers = {
+		culture = quechua
+		religion = placeholder 
+		size = 6200
+	}
+
+	
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 800
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 420
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 4600
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 19510
+	}
+
+}
+#Moyobamba (24000/6000 POPS)
+2294 = {
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 28010
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 14000
+	}
+}
+#Junin Region (204000)
+#Ruled by Peru 1836
+#Huanuco (36000/9000 POPS)
+2293 = {
+
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size= 10
+
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 5000
+	}
+	
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 20000
+	}
+	
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 32000
+	}
+}
+#Jauja (60000/15000 POPS)
+2296 = {
+
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 1750
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 24325
+	}
+	
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 18400
+	}
+}
+#Ayacucho (108000/27000 POPS)
+2299 = {
+	aristocrats = { 
+		culture = quechua
+		religion = placeholder
+		size = 750
+	} 
+	
+	bureaucrats = { 
+		culture = quechua
+		religion = placeholder
+		size = 100
+	}
+	
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 1150
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size= 225
+
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 22525
+	}
+	
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 9200
+	}
+}
+#Lima Region (484000)
+#Ruled by Peru 1836
+#Lima (324000/81000 POPS)
+2295 = {
+
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 8000
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 500
+	}
+	
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 26000
+	}
+	
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 17010
+	}
+}
+#Ica (60000/15000 POPS)
+2297 = {
+
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 10000
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 500
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 8700
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 6000
+	}
+}
+#Huaraz (100000/25000 POPS)
+2298 = {
+
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 50
+	}
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 1000
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size= 420
+	}
+	
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 2000
+	}
+	
+	farmers = {
+		culture = quechua
+		religion = placeholder 
+		size = 8000
+	}
+
+
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 2500
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 800
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 4000
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size= 500
+
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 28000
+	}
+}
+#Ucayali Region (32000)
+#Ruled by Peru 1836
+#Pucallpa (20000/5000 POPS)
+2300 = {
+	aristocrats = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = amazonian_native
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 2700
+	}
+}
+#Puerto Maldonado (12000/3000 POPS)
+2301 = {
+		aristocrats = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 300
+	}
+
+	soldiers = {
+		culture = amazonian_native
+		religion = placeholder
+		size= 75
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 2475
+	}
+}
+#Cusco Region (404000)
+#Ruled by Peru 1836
+#Cusco (228000/57000 POPS)
+2302 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 1000
+	}
+
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 800
+	}
+
+	officers = {
+		culture = quechua
+		religion = placeholder
+		size = 400
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 1200
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 10000
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 2000
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 3000
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 68000
+	}
+}
+#Puno (104000/26000 POPS)
+2303 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 300
+	}
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 1200
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 8000
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size= 2000
+
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 22000
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 36000
+	}
+}
+#Arequipa (72000/18000 POPS)
+2304 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 375
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 200
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 15000
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 700
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size= 1200
+
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 14100
+	}
+}
+#Atacama Region (100000) #see Chile.txt for balance of Region
+#Ruled by Peru 1836
+#Tacna (100000/25000 POPS)
+2578 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 550
+	}
+
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 25
+	}
+
+	officers = {
+		culture = quechua
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 150
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 250
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size= 50
+
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 7825
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 1100
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size= 200
+
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 12000
+	}
+}

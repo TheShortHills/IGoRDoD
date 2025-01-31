@@ -1,0 +1,653 @@
+#La Paz Region (784000)
+#Ruled by Bolivia 1836
+#La Paz (392000/98000 POPS)
+2310 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 1000
+	}
+
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 1600
+	}
+
+	officers = {
+		culture = quechua
+		religion = placeholder
+		size = 500
+	}
+
+	capitalists = {
+		culture = quechua
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 1941
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 8000
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 1500
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 4000
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 31629
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 56443
+	}
+}
+#Cochabamba (352000/88000 POPS)
+2311 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder	
+		size = 200
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 941
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 5000
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 1250
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 1000
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 16680
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 5780
+	}
+}
+#Oruro (40000/10000 POPS)
+2312 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 225
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 4130
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 19317
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 992
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 6860
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 1200
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 32053
+	}
+}
+#Chuquisaca Region (288000)
+#Ruled by Bolivia 1836
+#Chuquisaca (116000/29000 POPS)
+2313 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 175
+	}
+
+	officers = {
+		culture = quechua
+		religion = placeholder
+		size = 75
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size= 1100
+
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 342
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 4200
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 12225
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 850
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder	
+		size = 1300
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 8000
+	}
+}
+#Potosi (120000/30000 POPS)
+2314 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size= 500
+
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 772
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 3350
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 15525
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 420
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 2400
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 12550
+	}
+}
+#Tarija (52000/13000 POPS)
+2315 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 275
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 600
+	}
+
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 2025
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 10230
+	}
+}
+#Santa Cruz Region (48000)
+#Ruled by Bolivia 1836
+#Santa Cruz (16000/4000 POPS)
+2316 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 340
+	}
+
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 550
+	}
+
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 4500
+	}
+
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 1000
+	}
+
+	farmers = {
+		culture = quechua
+		religion = placeholder	
+		size = 12350
+	}
+
+	aristocrats = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 300
+	}
+
+	soldiers = {
+		culture = amazonian_native
+		religion = placeholder
+		size= 75
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 5475
+	}
+}
+#San Ignacio (20000/5000 POPS)
+2317 = {
+	aristocrats = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = amazonian_native
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 1800
+	}
+
+	aristocrats = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = amazonian_native
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 1800
+	}
+}
+#Robore (12000/3000 POPS)
+2318 = {
+	aristocrats = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = amazonian_native
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 2700
+	}
+}
+#Beni Region (116000) #see Brazil.txt for balance of region
+#Ruled by Bolivia 1836
+#Santa Ana (76000/19000 POPS)
+2319 = {
+	aristocrats = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 75
+	}
+
+	clergymen = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 200
+	}
+
+	soldiers = {
+		culture = amazonian_native
+		religion = placeholder
+		size= 50
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 3625
+	}
+	aristocrats = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = amazonian_native
+		religion = placeholder
+		size= 50
+	}
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 2775
+	}
+}
+#Riberalta (12000/3000 POPS)
+2320 = {
+	aristocrats = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = amazonian_native
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 2700
+	}
+}
+#Cobija (28000/7000 POPS)
+2321 = {
+	aristocrats = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 425
+	}
+
+	artisans = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = amazonian_native
+		religion = placeholder
+		size= 250
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder	
+		size = 975
+	}
+
+	aristocrats = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = amazonian_native
+		religion = placeholder
+		size= 25
+
+	}
+
+	farmers = {
+		culture = amazonian_native
+		religion = placeholder
+		size = 4700
+	}
+}

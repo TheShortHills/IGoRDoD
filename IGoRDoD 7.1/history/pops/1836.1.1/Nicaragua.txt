@@ -1,0 +1,155 @@
+#Nicaragua Region (292000)
+#Ruled by Central America 1836
+#Managua (192000/48000 POPS)
+2197 = {
+	aristocrats = {
+		culture = central_american
+		religion = placeholder
+		size = 250
+	}
+
+	bureaucrats = {
+		culture = central_american
+		religion = placeholder
+		size = 100
+	}
+
+	officers = {
+		culture = central_american
+		religion = placeholder
+		size = 75
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = placeholder
+		size = 275
+	}
+
+	artisans = {
+		culture = central_american
+		religion = placeholder
+		size = 4875
+	}
+
+	farmers = {
+		culture = central_american
+		religion = placeholder
+		size = 16200
+	}
+}
+#Rivas (40000/10000 POPS)
+2198 = {
+	aristocrats = {
+		culture = central_american
+		religion = placeholder
+		size = 275
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = central_american
+		religion = placeholder
+		size = 500
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = placeholder
+		size= 100
+	}
+
+	farmers = {
+		culture = central_american
+		religion = placeholder
+		size = 11000
+	}
+}
+#Esteli (48000/12000 POPS)
+2199 = {
+	aristocrats = {
+		culture = central_american
+		religion = placeholder
+		size = 125
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = central_american
+		religion = placeholder
+		size = 1600
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = placeholder
+		size= 1125
+	}
+
+	farmers = {
+		culture = central_american
+		religion = placeholder
+		size = 28400
+	}
+
+}
+#Bluefields (12000/3000 POPS)
+2200 = {
+	aristocrats = {
+		culture = central_american
+		religion = placeholder
+		size = 55
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = central_american
+		religion = placeholder
+		size = 2550
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = placeholder
+		size= 1100
+	}
+
+	farmers = {
+		culture = central_american
+		religion = placeholder
+		size = 13800
+	}
+
+	farmers = {
+		culture = salvadoran_native
+		religion = placeholder
+		size = 11000
+	}
+	
+	farmers = {
+		culture = salvadoran_native
+		religion = placeholder
+		size = 6000
+	}
+	
+	farmers = {
+		culture = central_american
+		religion = placeholder
+		size = 800
+	}
+}

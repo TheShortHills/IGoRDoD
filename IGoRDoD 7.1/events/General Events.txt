@@ -1,0 +1,78 @@
+#If you create a country specific event make sure you add the tag to the list of tags to not get the broad event
+
+country_event = {
+	id = 600000
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	NOT = {
+		OR = {
+			#add tags of countries with specific events here
+			has_leader = "John Cena"
+		}
+		}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "Our prayers to RNGesus have been answered"
+	immediate = {
+		define_general = {
+			name = "John Cena"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_3.3
+			#+3 attack, +3 defence
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "It's about time..."		
+	}
+}
+
+#1865 country tag clear
+country_event = {
+	id = 79797979
+	trigger = {
+		year = 1865
+		has_country_flag = conquerable_1865
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "1865 Flag Protection"
+	desc = "Clearing the protection flag off of 1865 protected nations."
+	immediate = {
+		clr_country_flag = conquerable_1865
+	}
+	option = {
+		name = "You may now declare, and be declared on, with significant wargoals."		
+	}
+}
+
+country_event = {
+	id = 600001
+	trigger = {
+		ai = no
+		NOT = {
+		has_country_flag = teehee
+		}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "Corsted Cheated"
+	desc = "Bro cheated in Victoria 2, what a loser!"
+	immediate = {
+		define_general = {
+			name = "Corsted"
+			personality = attack_minus_5.1
+			background = defence_minus_5.1
+		}
+		set_country_flag = teehee
+	}
+	option = {
+		name = "Never forget."		
+	}
+}

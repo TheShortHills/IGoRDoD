@@ -1,0 +1,84 @@
+political_decisions = {	
+	integrate_caribbeans = {
+		potential = {
+			tag = CLM 
+			NOT = {has_country_flag = integrate_caribbeans}
+		}
+		allow = {
+			state_n_government = 1
+			OR = {
+				CUB = {all_core = {owned_by = THIS}}
+				HAI = {all_core = {owned_by = THIS}}
+			}
+		}
+		effect = {
+			set_country_flag = integrate_caribbeans
+			add_accepted_culture = afro_caribeno
+			add_accepted_culture = caribeno
+			add_accepted_culture = afro_caribbean
+		}
+	}
+	congress_clm = { 
+		potential = { 
+			tag = CLM
+	        war= no
+			NOT = { has_country_flag = fired_congress }
+		}
+		
+		allow = { 
+           ideological_thought = 1
+		}
+		
+		effect = { 
+			set_country_flag = fired_congress
+			any_pop = {
+			limit = {
+				OR = { 
+					NOT = { culture = mexican }
+					NOT = { culture = lusitanian }
+					NOT = { culture = central_american }
+					}
+			}
+			militancy = 2
+      		consciousness = 4
+		}
+		add_accepted_culture = mexican
+		add_accepted_culture = central_american
+		add_accepted_culture = granadan
+		add_accepted_culture = lusitanian
+		government = democracy
+		political_reform = state_equal_weight
+		political_reform = universal_weighted_voting
+		political_reform = yes_meeting
+		political_reform = free_press
+		political_reform = non_socialist
+		political_reform = first_past_the_post
+		political_reform = non_secret_ballots
+		prestige = 25
+		}
+		
+		ai_will_do =  {
+		factor = 1
+		}
+	}
+	universityMEX = { 
+		picture = universidad_mexico 
+		
+		potential = { 
+		tag = CLM 
+		NOT = { has_country_flag = university_MEX }
+		}
+		
+		allow = { 
+			biologism = 1 
+		}
+		
+		effect = { 
+			set_country_flag = university_MEX
+			add_country_modifier = { 
+				name = Mexican_Education
+				duration = 7300
+			}
+		}
+	}
+}

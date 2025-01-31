@@ -1,0 +1,244 @@
+#Guatemala Region (476000)
+#Ruled by Central America 1836
+#Guatemala City (276000/69000 POPS)
+2186 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = mexican
+		religion = placeholder
+		size = 175
+	}
+
+	officers = {
+		culture = central_american
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = placeholder
+		size = 275
+	}
+
+	artisans = {
+		culture = central_american
+		religion = placeholder
+		size = 1350
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = placeholder
+		size= 1225
+
+	}
+
+	farmers = {
+		culture = central_american
+		religion = placeholder
+		size = 21175
+	}
+
+	aristocrats = {
+		culture = mayan
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = placeholder
+		size = 225
+	}
+
+	artisans = {
+		culture = mayan
+		religion = placeholder
+		size = 2100
+	}
+
+
+	farmers = {
+		culture = mayan
+		religion = placeholder
+		size = 20600
+	}
+}
+#Quetzaltenango (112000/28000 POPS)
+2187 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 175
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = central_american
+		religion = placeholder
+		size = 350
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = placeholder
+		size= 200
+
+	}
+
+	farmers = {
+		culture = central_american
+		religion = placeholder
+		size = 12800
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = mayan
+		religion = placeholder
+		size = 1050
+	}
+
+	soldiers = {
+		culture = mayan
+		religion = placeholder
+		size= 225
+
+	}
+
+	farmers = {
+		culture = mayan
+		religion = placeholder
+		size = 18400
+	}
+}
+#Puerto Barrios (72000/18000 POPS)
+2188 = {
+	aristocrats = {
+		culture = central_american
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = central_american
+		religion = placeholder
+		size = 300
+	}
+
+	soldiers = {
+		culture = central_american
+		religion = placeholder
+		size= 475
+
+	}
+
+	farmers = {
+		culture = central_american
+		religion = placeholder
+		size = 3600
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = mayan
+		religion = placeholder
+		size = 600
+	}
+
+	soldiers = {
+		culture = mayan
+		religion = placeholder
+		size= 125
+
+	}
+
+	farmers = {
+		culture = mayan
+		religion = placeholder
+		size = 8225
+	}
+}
+#Sayaxche (16000/4000 POPS)
+2189 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = central_american
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = central_american
+		religion = placeholder
+		size = 800
+	}
+
+	farmers = {
+		culture = central_american
+		religion = placeholder
+		size = 2000
+	}
+
+	aristocrats = {
+		culture = mayan
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = placeholder
+		size = 150
+	}
+
+	artisans = {
+		culture = mayan
+		religion = placeholder
+		size = 1250
+	}
+
+	soldiers = {
+		culture = mayan
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = mayan
+		religion = placeholder
+		size = 5600
+	}
+}
