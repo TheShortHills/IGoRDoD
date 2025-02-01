@@ -86,7 +86,7 @@ army = {
 	regiment = {
 		name = "9. Kgl. Bayer. Infanteriebrigade"
 		type = artillery
-		home = 595
+		home = 600
 	}
 	regiment = {
 		name = "10. Kgl. Bayer. Infanteriebrigade"

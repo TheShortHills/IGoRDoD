@@ -3349,7 +3349,12 @@
         religion = placeholder
         size = 3000
     }
-
+	bureaucrats = {
+		culture = russian
+        religion = placeholder
+        size = 12500
+	
+	}
     artisans = {
         culture = russian
         religion = placeholder

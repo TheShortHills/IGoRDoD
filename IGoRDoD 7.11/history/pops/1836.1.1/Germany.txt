@@ -7392,12 +7392,6 @@
         size = 2756
     }
 
-    soldiers = {
-        culture = south_german
-        religion = placeholder
-        size = 992
-    }
-
     farmers = {
         culture = south_german
         religion = placeholder
@@ -7419,7 +7413,7 @@
     soldiers = {
         culture = south_german
         religion = placeholder
-        size = 1487
+        size = 2679
     }
 
     farmers = {
@@ -7483,7 +7477,7 @@
     soldiers = {
         culture = south_german
         religion = placeholder
-        size = 4961
+        size = 5208
     }
 
     farmers = {
@@ -7502,12 +7496,6 @@
         culture = south_german
         religion = placeholder
         size = 2205
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = placeholder
-        size = 247
     }
 
     farmers = {
@@ -7545,13 +7533,13 @@
     artisans = {
         culture = south_german
         religion = placeholder
-        size = 2205
+        size = 3205
     }
 
     soldiers = {
         culture = south_german
         religion = placeholder
-        size = 743
+        size = 1243
     }
 
     farmers = {
