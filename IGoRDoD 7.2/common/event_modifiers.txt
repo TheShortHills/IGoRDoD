@@ -1307,5 +1307,30 @@ best_arcadian_destiny = {
 ok_arcadian_destiny = {
 	immigrant_attract = 0.05
 	assimilation_rate = 0.05
-	icon =11
+	icon = 11
+}
+
+assim_tier_1 = {
+	assimilation_rate = 0.05
+	icon = 5
+}
+
+assim_tier_2 = {
+	assimilation_rate = 0.05
+	icon = 5
+}
+
+assim_tier_3 = {
+	assimilation_rate = 0.05
+	icon = 5
+}
+
+assim_tier_4 = {
+	assimilation_rate = 0.05
+	icon = 5
+}
+
+assim_tier_5 = {
+	assimilation_rate = 0.05
+	icon = 5
 }

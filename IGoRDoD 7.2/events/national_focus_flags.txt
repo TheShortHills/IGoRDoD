@@ -1,0 +1,139 @@
+country_event = {
+
+	id = 370032
+
+	trigger = {
+		invention = pop_shift_invention_2
+		NOT = {
+			has_country_modifier = assim_tier_1
+		}
+	}
+ 
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	title = "Assimilation Bonus 1"
+	desc = "We understand the mind better"
+	picture = "troy"
+
+	option = {
+		name = "Better assimilation!"
+		add_country_modifier = {
+				name = assim_tier_1
+				duration = -1
+		}
+	}
+}
+
+country_event = {
+
+	id = 370033
+
+	trigger = {
+		invention = pop_shift_invention_3
+		NOT = {
+			has_country_modifier = assim_tier_2
+		}
+	}
+ 
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	title = "Assimilation Bonus 2"
+	desc = "We understand the mind better"
+	picture = "troy"
+
+	option = {
+		name = "Better assimilation!"
+		add_country_modifier = {
+				name = assim_tier_2
+				duration = -1
+		}
+	}
+}
+
+country_event = {
+
+	id = 370034
+
+	trigger = {
+		invention = pop_shift_invention_4
+		NOT = {
+			has_country_modifier = assim_tier_3
+		}
+	}
+ 
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	title = "Assimilation Bonus 3"
+	desc = "We understand the mind better"
+	picture = "troy"
+
+	option = {
+		name = "Better assimilation!"
+		add_country_modifier = {
+				name = assim_tier_3
+				duration = -1
+		}
+	}
+}
+
+country_event = {
+
+	id = 370035
+
+	trigger = {
+		invention = pop_shift_invention_5
+		NOT = {
+			has_country_modifier = assim_tier_4
+		}
+	}
+ 
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	title = "Assimilation Bonus 4"
+	desc = "We understand the mind better"
+	picture = "troy"
+
+	option = {
+		name = "Better assimilation!"
+		add_country_modifier = {
+				name = assim_tier_4
+				duration = -1
+		}
+	}
+}
+
+country_event = {
+
+	id = 370036
+
+	trigger = {
+		invention = pop_shift_invention_6
+		NOT = {
+			has_country_modifier = assim_tier_5
+		}
+	}
+ 
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	title = "Assimilation Bonus 5"
+	desc = "We understand the mind better"
+	picture = "troy"
+
+	option = {
+		name = "Better assimilation!"
+		add_country_modifier = {
+				name = assim_tier_5
+				duration = -1
+		}
+	}
+}
