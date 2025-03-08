@@ -624,7 +624,7 @@ economic_reforms = {
 		}
 		land_reform_two = {
 			technology_cost = 4000
-			civilization_progress_modifier = 0.10
+			civilization_progress_modifier = 0.05
 			
 			allow = {
 				NOT = { has_country_flag = ghostland }
@@ -689,7 +689,7 @@ economic_reforms = {
 		}
 		admin_reform_two = { #new
 			technology_cost = 4000
-			civilization_progress_modifier = 0.10
+			civilization_progress_modifier = 0.05
 			
 			allow = {
 				NOT = { has_country_flag = ghostland }
@@ -755,7 +755,7 @@ economic_reforms = {
 		}
 		finance_reform_two = {
 			technology_cost = 4000
-			civilization_progress_modifier = 0.10 #was 0.35
+			civilization_progress_modifier = 0.05 #was 0.35
 			
 			max_loan_modifier = -0.2 # 80% loans
 			
@@ -825,7 +825,7 @@ economic_reforms = {
 		education_reform_two = { #new
 			technology_cost = 4000
 			education_efficiency_modifier = 0.10
-			civilization_progress_modifier = 0.10
+			civilization_progress_modifier = 0.05
 			
 			allow = {
 				NOT = { has_country_flag = ghostland }
@@ -906,7 +906,7 @@ economic_reforms = {
 			technology_cost = 4000
 			farm_rgo_eff = 0.40
 			mine_rgo_eff = 0.40
-			civilization_progress_modifier = 0.10
+			civilization_progress_modifier = 0.05
 			
 			allow = {
 				NOT = { has_country_flag = ghostland }
@@ -976,7 +976,7 @@ economic_reforms = {
 		}
 		yes_industrial_construction = { #was in own category
 			technology_cost = 4000
-			civilization_progress_modifier = 0.10
+			civilization_progress_modifier = 0.05
 			
 			allow = {
 				NOT = { has_country_flag = ghostland }
@@ -1044,7 +1044,7 @@ economic_reforms = {
 		}
 		western_science_two = {
 			technology_cost = 4000
-			civilization_progress_modifier = 0.10
+			civilization_progress_modifier = 0.05
 			
 			allow = {
 				NOT = { has_country_flag = ghostland }
@@ -1084,7 +1084,7 @@ military_reforms = {
 			technology_cost = 4000 #was 8000
 			#unit stats improve
 			land_organisation = 0.1
-			civilization_progress_modifier = 0.1
+			civilization_progress_modifier = 0.05
 			research_points_on_conquer = 0.05 #0.25
 
 			allow = {
@@ -1121,7 +1121,7 @@ military_reforms = {
 		yes_foreign_weapons = {
 			land_defense_modifier = 0.1
 			technology_cost = 4000 #was 10000
-			civilization_progress_modifier = 0.1 #was 0.10
+			civilization_progress_modifier = 0.05 #was 0.10
 			research_points_on_conquer = 0.05 #0.25
 
 			allow = {
@@ -1157,7 +1157,7 @@ military_reforms = {
 		}
 		yes_military_constructions = {
 			technology_cost = 4000 #10000
-			civilization_progress_modifier = 0.1
+			civilization_progress_modifier = 0.05
 			
 			allow = {
 				NOT = { has_country_flag = ghostland }
@@ -1194,7 +1194,7 @@ military_reforms = {
 		yes_foreign_officers = {
 			leadership_modifier = 0.10
 			technology_cost = 4000 #was 10000
-			civilization_progress_modifier = 0.1 #was 0.10
+			civilization_progress_modifier = 0.05 #was 0.10
 			research_points_on_conquer = 0.10 #was 0.25
 			
 			allow = {
@@ -1231,7 +1231,7 @@ military_reforms = {
 		yes_army_schools = {
 			land_unit_start_experience = 10
 			technology_cost = 4000 #was 10000
-			civilization_progress_modifier = 0.1 #was 0.10
+			civilization_progress_modifier = 0.05 #was 0.10
 		
 			allow = {
 				NOT = { has_country_flag = ghostland }
@@ -1267,7 +1267,7 @@ military_reforms = {
 		yes_foreign_naval_officers = {
 			tariff_efficiency_modifier = 0.10 #was 0.20
 			technology_cost = 4000 #was 10000
-			civilization_progress_modifier = 0.1 #was 0.10
+			civilization_progress_modifier = 0.05 #was 0.10
 			research_points_on_conquer = 0.05 #new
 			
 			allow = {
@@ -1306,7 +1306,7 @@ military_reforms = {
 			naval_attack_modifier = 0.2
 			naval_defense_modifier = 0.2
 			technology_cost = 4000 #10000
-			civilization_progress_modifier = 0.1 #was 0.10
+			civilization_progress_modifier = 0.05 #was 0.10
 			research_points_on_conquer = 0.05 #new
 			
 			allow = {
@@ -1344,7 +1344,7 @@ military_reforms = {
 		yes_naval_schools = {
 			naval_unit_start_experience = 10
 			technology_cost = 4000 #was 10000
-			civilization_progress_modifier = 0.1 #was 0.10
+			civilization_progress_modifier = 0.05 #was 0.10
 			
 			allow = {
 				NOT = { has_country_flag = ghostland }
